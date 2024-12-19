@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                919.2833251953124,
+                478.0
+            ],
+            [
+                1000.7166442871093,
+                506.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Our Work",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                878.13330078125,
+                514.0
+            ],
+            [
+                1041.8499755859375,
+                542.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Client Testimonials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                911.933349609375,
+                550.0
+            ],
+            [
+                1008.0500183105469,
+                578.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                400.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1620893749736-346f4a8fe866?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNjZ8&ixlib=rb-4.0.3&w=1600&h=400"
+    },
+    {
+        "position": [
+            [
+                911.88330078125,
+                608.0
+            ],
+            [
+                1008.1166381835938,
+                672.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1618329918461-51bb072e0ea5?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNjd8&ixlib=rb-4.0.3&w=200&h=200"
+    }
+]

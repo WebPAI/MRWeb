@@ -1,0 +1,136 @@
+[
+    {
+        "position": [
+            [
+                1457.0166015625,
+                20.0
+            ],
+            [
+                1563.7499389648438,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Better Leaders",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1584.25,
+                20.0
+            ],
+            [
+                1654.566665649414,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Decisions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1675.066650390625,
+                20.0
+            ],
+            [
+                1727.999984741211,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Results",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1236.0,
+                130.0
+            ],
+            [
+                1359.4666595458984,
+                150.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Learn About TEC",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1236.0,
+                154.0
+            ],
+            [
+                1340.6000061035156,
+                174.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "TEC Programs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1236.0,
+                178.0
+            ],
+            [
+                1328.2666625976562,
+                198.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Contact TEC",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1216.0,
+                268.0
+            ],
+            [
+                1280.0,
+                332.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/profile.jpg"
+    }
+]

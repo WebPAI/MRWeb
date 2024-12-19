@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                21.0
+            ],
+            [
+                495.4666748046875,
+                53.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "VolvoCarsPartsPeople.com",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                796.066650390625,
+                25.0
+            ],
+            [
+                839.1833190917969,
+                49.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                988.4166870117188,
+                25.0
+            ],
+            [
+                1049.1500091552734,
+                49.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Specials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1065.1500244140625,
+                25.0
+            ],
+            [
+                1135.7166900634766,
+                49.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Cart",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                170.0
+            ],
+            [
+                927.2666625976562,
+                462.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/ski_holder.jpg"
+    }
+]

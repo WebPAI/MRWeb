@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage Design</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .loading {
+            display: none; /* Initially hidden */
+            position: fixed;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            border: 16px solid #f3f3f3;
+            border-radius: 50%;
+            border-top: 16px solid #3498db;
+            width: 120px;
+            height: 120px;
+            animation: spin 2s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        #canvas-container {
+            position: relative;
+            width: 100%;
+            height: 100%;
+        }
+        #imageCanvas, #drawingCanvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+        #fileInput {
+            display: none;
+        }
+        /* #uploadButton {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        } */
+        .hidden-input {
+            display: none;
+        }
+        .hidden {
+            display: none;
+        }
+        .active-tab {
+            background-color: #E5E7EB;
+            border-color: transparent;
+        }
+        .inactive-tab {
+            background-color: #F3F4F6;
+            border-color: #E5E7EB;
+        }
+        .image-preview {
+            max-width: 100%;
+            max-height: 100%;
+        }
+
+        #input-container {
+            height: 85%;
+        }
+        #code-panel, #result-panel {
+            height: calc(100vh - 10rem);
+        }
+
+
+
+    </style>
+    <script>
+      let isDrawing = false;
+let startX, startY;
+let canvas, ctx, drawingCanvas, drawingCtx;
+let activeInput = null;
+let imageBase64 = '';
+let imageScale = 1; // Add this global variable
+
+function initializeCanvas() {
+    canvas = document.getElementById('imageCanvas');
+    ctx = canvas.getContext('2d');
+    drawingCanvas = document.getElementById('drawingCanvas');
+    drawingCtx = drawingCanvas.getContext('2d');
+
+    drawingCanvas.addEventListener('mousedown', startDrawing);
+    drawingCanvas.addEventListener('mousemove', draw);
+    drawingCanvas.addEventListener('mouseup', endDrawing);
+
+    window.addEventListener('resize', resizeCanvas); // Add event listener for window resize
+}
+
+function loadImage(event) {
+    const file = event.target.files[0];
+    const reader = new FileReader();
+    showPanel('image');
+
+    reader.onload = function (e) {
+        imageBase64 = e.target.result.split(',')[1]; // Save the base64 encoding of the image
+        resizeCanvas();
+    };
+
+    reader.readAsDataURL(file);
+    const container = document.getElementById('input-container');
+    const rows = container.getElementsByClassName('flex items-center space-x-2 mt-2');
+    setActiveInput(rows[rows.length - 1].querySelector('#boundingBoxInput'));
+}
+
+function resizeCanvas() {
+    const image = new Image();
+    image.src = 'data:image/png;base64,' + imageBase64; // Use the saved base64 image data
+
+    image.onload = function() {
+        const containerWidth = document.getElementById('canvas-container').offsetWidth;
+        const aspectRatio = image.width / image.height;
+
+        if (image.width > containerWidth) {
+            canvas.width = containerWidth;
+            canvas.height = containerWidth / aspectRatio;
+        } else {
+            canvas.width = image.width;
+            canvas.height = image.height;
+        }
+
+        drawingCanvas.width = canvas.width;
+        drawingCanvas.height = canvas.height;
+
+        imageScale = canvas.width / image.width; // Calculate the image scale
+
+        ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
+        redrawBoundingBoxes(); // Redraw bounding boxes after resizing
+    };
+}
+
+function startDrawing(event) {
+    if (!activeInput) {
+        alert("Please select an input field to save the bounding box coordinates.");
+        return;
+    }
+    isDrawing = true;
+    const rect = drawingCanvas.getBoundingClientRect();
+    startX = event.clientX - rect.left;
+    startY = event.clientY - rect.top;
+    drawingCtx.clearRect(0, 0, drawingCanvas.width, drawingCanvas.height);
+}
+
+function draw(event) {
+    if (!isDrawing) return;
+    const rect = drawingCanvas.getBoundingClientRect();
+    const x = event.clientX - rect.left;
+    const y = event.clientY - rect.top;
+
+    drawingCtx.clearRect(0, 0, drawingCanvas.width, drawingCanvas.height);
+    drawingCtx.strokeStyle = 'red';
+    drawingCtx.lineWidth = 2;
+    drawingCtx.strokeRect(startX, startY, x - startX, y - startY);
+}
+
+function endDrawing(event) {
+    if (!isDrawing) return;
+    isDrawing = false;
+    const rect = drawingCanvas.getBoundingClientRect();
+    const endX = event.clientX - rect.left;
+    const endY = event.clientY - rect.top;
+
+    const boundingBox = {
+        x1: startX.toFixed(1),
+        y1: startY.toFixed(1),
+        x2: endX.toFixed(1),
+        y2: endY.toFixed(1)
+    };
+
+    if (activeInput) {
+        activeInput.value = `(${boundingBox.x1}, ${boundingBox.y1}, ${boundingBox.x2}, ${boundingBox.y2})`;
+    }
+
+    redrawBoundingBoxes();
+}
+
+function redrawBoundingBoxes() {
+    drawingCtx.clearRect(0, 0, drawingCanvas.width, drawingCanvas.height);
+    const rows = document.getElementById('input-container').getElementsByClassName('flex items-center space-x-2 mt-2');
+    
+    for (let row of rows) {
+        const boundingBoxInput = row.querySelector('#boundingBoxInput');
+        var boundingBox = boundingBoxInput.value.match(/\d+(\.\d+)?/g);
+
+        // if bounding box is null, skip
+        if (boundingBox === null) {
+            continue;
+        }
+
+        boundingBox = boundingBox.map(Number);
+        
+        if (boundingBox.length === 4) {
+            drawingCtx.strokeStyle = 'red';
+            drawingCtx.lineWidth = 2;
+            drawingCtx.strokeRect(boundingBox[0], boundingBox[1], boundingBox[2] - boundingBox[0], boundingBox[3] - boundingBox[1]);
+        }
+    }
+}
+
+function addNewRow() {
+    const container = document.getElementById('input-container');
+    const newRow = document.createElement('div');
+    newRow.className = 'flex items-center space-x-2 mt-2';
+
+    newRow.innerHTML = `
+        <input type="text" id="boundingBoxInput" class="border-gray-300 rounded-md w-1/6" placeholder="Draw Bounding Box" onclick="setActiveInput(this)">
+        <select id="typeSelect" class="bg-gray-300 rounded focus:outline-none w-1/6 ">
+            <option>Link</option>
+            <option>Image</option>
+            <option>Action</option>
+        </select>
+        <input type="text" id="urlInput" class="border-gray-300 rounded-md flex-grow" placeholder="URL">
+    `;
+
+    container.appendChild(newRow);
+    redrawBoundingBoxes();
+    setActiveInput(newRow.querySelector('#boundingBoxInput'));
+}
+
+function removeLastRow() {
+    const container = document.getElementById('input-container');
+    const rows = container.getElementsByClassName('flex items-center space-x-2 mt-2');
+    if (rows.length > 1) {
+        container.removeChild(rows[rows.length - 1]);
+    }
+    redrawBoundingBoxes();
+    setActiveInput(rows[rows.length - 2].querySelector('#boundingBoxInput'));
+}
+
+function setActiveInput(input) {
+    activeInput = input;
+}
+
+function triggerFileInput() {
+    
+    document.getElementById('fileInput').click();
+}
+
+function showPanel(panel) {
+    const imageTab = document.getElementById('image-tab');
+    const codeTab = document.getElementById('code-tab');
+    const resultTab = document.getElementById('result-tab');
+    const imagePanel = document.getElementById('image-panel');
+    const codePanel = document.getElementById('code-panel');
+    const resultPanel = document.getElementById('result-panel');
+
+    if (panel === 'image') {
+        imageTab.classList.add('active-tab');
+        imageTab.classList.remove('inactive-tab');
+        codeTab.classList.add('inactive-tab');
+        codeTab.classList.remove('active-tab');
+        resultTab.classList.add('inactive-tab');
+        resultTab.classList.remove('active-tab');
+
+        imagePanel.classList.remove('hidden');
+        codePanel.classList.add('hidden');
+        resultPanel.classList.add('hidden');
+    } else if (panel === 'code') {
+        codeTab.classList.add('active-tab');
+        codeTab.classList.remove('inactive-tab');
+        imageTab.classList.add('inactive-tab');
+        imageTab.classList.remove('active-tab');
+        resultTab.classList.add('inactive-tab');
+        resultTab.classList.remove('active-tab');
+
+        codePanel.classList.remove('hidden');
+        imagePanel.classList.add('hidden');
+        resultPanel.classList.add('hidden');
+    } else if (panel === 'result') {
+        resultTab.classList.add('active-tab');
+        resultTab.classList.remove('inactive-tab');
+        codeTab.classList.add('inactive-tab');
+        codeTab.classList.remove('active-tab');
+        imageTab.classList.add('inactive-tab');
+        imageTab.classList.remove('active-tab');
+
+        resultPanel.classList.remove('hidden');
+        codePanel.classList.add('hidden');
+        imagePanel.classList.add('hidden');
+
+        const htmlCode = document.getElementById('html-code').value;
+        const iframe = document.getElementById('rendered-result');
+
+        // Render the HTML code in the iframe
+        iframe.srcdoc = htmlCode;
+    }
+}
+
+function collectData() {
+    const rows = document.getElementById('input-container').getElementsByClassName('flex items-center space-x-2 mt-2');
+    const actions = [];
+    const api_key = document.getElementById('apiKeyInput').value;
+    const model = document.getElementById('modelSelect').value;
+
+    for (let row of rows) {
+        const boundingBoxInput = row.querySelector('#boundingBoxInput');
+        const typeSelect = row.querySelector('#typeSelect');
+        const urlInput = row.querySelector('#urlInput');
+
+        const boundingBox = boundingBoxInput.value.match(/\d+(\.\d+)?/g).map(Number);
+        const urlType = typeSelect.value.toLowerCase();
+        const url = urlInput.value;
+
+        if (boundingBox.length === 4) {
+            if (urlType === 'link' || urlType === 'image') {
+                actions.push({
+                    position: [
+                        [boundingBox[0], boundingBox[1], boundingBox[2], boundingBox[3]] // x1, y1, x2, y2
+                    ],
+                    Type: urlType,
+                    url: url
+                });
+            } else if (urlType === 'action') {
+                actions.push({
+                    position: [
+                        [boundingBox[0], boundingBox[1], boundingBox[2], boundingBox[3]] // x1, y1, x2, y2
+                    ],
+                    Type: urlType,
+                    action: url
+                });
+            }
+        }
+    }
+
+    const data = {
+        key: api_key,
+        model: model,
+        image: imageBase64,
+        actionList: actions,
+        scale: imageScale,
+    };
+
+    return data;
+}
+
+async function generate() {
+    const data = collectData();
+    document.getElementById('loading').style.display = 'block';
+
+    const response = await fetch('/generate', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(data)
+    });
+    // show some loading animation while waiting for the response
+    const result = await response.json();
+    document.getElementById('loading').style.display = 'none';
+    // the reutrned result is of the format jsonify({"response": response})
+    document.getElementById('html-code').value = result.response;
+    showPanel('result');
+
+}
+
+function saveCode() {
+    const codeContent = document.getElementById('html-code').value;
+    const blob = new Blob([codeContent], { type: 'text/html' });
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = 'code.html';
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+}
+
+
+window.onload = function () {
+    initializeCanvas();
+}
+
+    </script>
+</head>
+<body class="bg-gray-100 font-sans">
+    <div class="container mx-auto mt-8 p-4">
+
+        <div class="flex border-b mb-4 justify-between items-center px-4">
+            <div class="flex">
+                <button id="image-tab" class="px-4 py-2 text-gray-700 border-b-4" onclick="showPanel('image')">Image</button>
+                <button id="code-tab" class="px-4 py-2 text-gray-700 border-b-4" onclick="showPanel('code')">Code</button>
+                <button id="result-tab" class="px-4 py-2 text-gray-700 border-b-4" onclick="showPanel('result')">Result Web</button>
+                <button id="uploadButton" onclick="triggerFileInput()" class="px-4 py-2  border-b-4">Upload Image</button>
+            </div>
+            <div class="flex items-center">
+                <select class="bg-gray-300 px-4 py-2 rounded focus:outline-none" id="modelSelect">
+                    <option>GPT-4o</option>
+                </select>
+                <input type="text" id="apiKeyInput" class="bg-gray-300 px-2 py-2 rounded focus:outline-none m-2" placeholder="API Key">
+
+                <button onclick="generate()" class="py-2 px-4 bg-blue-500 text-white rounded-md">Generate</button>
+            </div>
+        </div>
+        
+
+        <div class="flex flex-grow">
+            <div id="image-panel" class="w-2/3 bg-gray-400 overflow-auto flex-grow", style="height: 500px;" >
+                <div id="canvas-container">
+                    <canvas id="imageCanvas"></canvas>
+                    <canvas id="drawingCanvas"></canvas>
+                   
+                </div>
+                <input type="file" accept="image/*" id="fileInput" onchange="loadImage(event)">
+            </div>
+            <div id="code-panel" class="w-2/3 hidden bg-white border border-gray-400 rounded-md p-4 overflow-auto flex-grow">
+                <textarea id="html-code" class="w-full h-full p-4 bg-gray-100 border border-gray-300 rounded focus:outline-none" spellcheck="false">
+                    <!DOCTYPE html>
+                    <html lang="en">
+                        <head>
+                            <meta charset="UTF-8">
+                            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                            <title>Example Code</title>
+                        </head>
+                        <body>
+                            <h1>Hello, World!</h1>
+                            <p>This is an example HTML code snippet.</p>
+                        </body>
+                    </html>
+                </textarea>
+                <button onclick="saveCode()" class="mt-2 py-2 px-4 bg-green-500 text-white rounded-md">Save Code</button>
+            </div>
+            <div id="result-panel" class="w-2/3 hidden bg-white border border-gray-400 rounded-md p-4 overflow-auto flex-grow">
+                <iframe id="rendered-result" class="w-full h-full border-none"></iframe>
+            </div>
+            <div class="px-4 flex overflow-auto max-h-screen">
+                <div class="flex-row">
+                    <div id="input-container" class="space-y-4 border border-gray-300 flex-row flex-grow max-h-full overflow-auto">
+                        <div class="flex items-center space-x-2 mt-2" id="input-row">
+                            <input type="text" id="boundingBoxInput" class="border-gray-300 rounded-md w-1/6" placeholder="Draw Bounding Box" onclick="setActiveInput(this)">
+                            <select id="typeSelect" class="bg-gray-300 rounded focus:outline-none w-1/6">
+                                <option>Link</option>
+                                <option>Image</option>
+                                <option>Action</option>
+                            </select>
+                            <input type="text" id="urlInput" class="border-gray-300 rounded-md flex-grow" placeholder="URL">
+                        </div>
+                    </div>
+                    <div class="flex justify-center space-x-2 mt-2">
+                        <button onclick="addNewRow()" class="py-2 px-4 bg-white text-blue-500 rounded-md">Add Row</button>
+                        <button onclick="removeLastRow()" class="py-2 px-4 bg-white text-blue-500 rounded-md">Remove Row</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="loading" id="loading"></div>
+</body>
+</html>

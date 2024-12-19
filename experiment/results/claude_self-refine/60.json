@@ -1,0 +1,256 @@
+[
+    {
+        "position": [
+            [
+                1705.7333984375,
+                16.0
+            ],
+            [
+                1786.7333984375,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SIGN IN",
+        "on_click_jump_to": "https://www.langrealty.com/idx/login.html"
+    },
+    {
+        "position": [
+            [
+                1802.7333984375,
+                22.0
+            ],
+            [
+                1896.0000610351562,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "877.357.0618",
+        "on_click_jump_to": "tel:18773570618"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                84.5
+            ],
+            [
+                61.0,
+                103.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.langrealty.com/"
+    },
+    {
+        "position": [
+            [
+                74.0,
+                84.5
+            ],
+            [
+                199.0,
+                103.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "Palm Beach Gardens",
+        "on_click_jump_to": "https://www.langrealty.com/palm-beach-gardens.php"
+    },
+    {
+        "position": [
+            [
+                849.9666748046875,
+                344.0
+            ],
+            [
+                1070.0333557128906,
+                392.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FIND THE BEST DEALS",
+        "on_click_jump_to": "https://www.langrealty.com/palm-beach-gardens-rainwood.php?extraSort=best_buy"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                685.5
+            ],
+            [
+                604.7166748046875,
+                706.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "Customize your Palm Beach Gardens, Rainwood Townhouse MLS ® listings search",
+        "on_click_jump_to": "https://www.langrealty.com/idx/"
+    },
+    {
+        "position": [
+            [
+                344.0,
+                869.5
+            ],
+            [
+                440.23333740234375,
+                890.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BOCA RATON",
+        "on_click_jump_to": "file:///boca-raton-fl/"
+    },
+    {
+        "position": [
+            [
+                344.0,
+                905.5
+            ],
+            [
+                470.23333740234375,
+                926.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BOYNTON BEACH",
+        "on_click_jump_to": "file:///boynton-beach/"
+    },
+    {
+        "position": [
+            [
+                344.0,
+                941.5
+            ],
+            [
+                451.4166717529297,
+                962.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DELRAY BEACH",
+        "on_click_jump_to": "file:///delray-beach/"
+    },
+    {
+        "position": [
+            [
+                344.0,
+                977.5
+            ],
+            [
+                399.98333740234375,
+                998.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JUPITER",
+        "on_click_jump_to": "file:///jupiter/"
+    },
+    {
+        "position": [
+            [
+                344.0,
+                1013.5
+            ],
+            [
+                512.0333404541016,
+                1034.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PALM BEACH GARDENS",
+        "on_click_jump_to": "file:///palm-beach-gardens/"
+    },
+    {
+        "position": [
+            [
+                344.0,
+                1049.5
+            ],
+            [
+                448.3833312988281,
+                1070.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PORT ST LUCIE",
+        "on_click_jump_to": "file:///port-st-lucie/"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                20.0
+            ],
+            [
+                145.26666259765625,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/uploads/logo_content_page.44.webp"
+    }
+]

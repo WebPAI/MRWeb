@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                1643.1500244140625,
+                37.5
+            ],
+            [
+                1686.050033569336,
+                58.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.beverlyhillsmontessori.com.au/in-the-montessori-classroom-children-explore-the-diversity-of-culture-background-and-traditions-of-australia/"
+    },
+    {
+        "position": [
+            [
+                1702.050048828125,
+                37.5
+            ],
+            [
+                1745.616714477539,
+                58.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.wacactusucculent.com.au/products/succulents/kalanchoe-orange-bells/"
+    },
+    {
+        "position": [
+            [
+                1761.61669921875,
+                37.5
+            ],
+            [
+                1833.3166961669922,
+                58.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Properties",
+        "on_click_jump_to": "https://www.woodfordandco.com/news/archives/2019"
+    },
+    {
+        "position": [
+            [
+                1849.316650390625,
+                37.5
+            ],
+            [
+                1903.999984741211,
+                58.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/662135.html"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                111.51666259765624,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1627890297388-6711801d275c?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1MjN8&ixlib=rb-4.0.3&w=100&h=100"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?real-estate"
+    }
+]

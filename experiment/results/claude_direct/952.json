@@ -1,0 +1,250 @@
+[
+    {
+        "position": [
+            [
+                1173.86669921875,
+                36.0
+            ],
+            [
+                1273.0833587646484,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            119,
+            119,
+            119
+        ],
+        "text": "GET TICKETS",
+        "on_click_jump_to": "https://phlgeekawards.ticketleap.com/philly-geek-awards-2017/"
+    },
+    {
+        "position": [
+            [
+                1305.0833740234375,
+                36.0
+            ],
+            [
+                1386.2000427246094,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            119,
+            119,
+            119
+        ],
+        "text": "NOMINEES",
+        "on_click_jump_to": "https://www.phillygeekawards.com/nominations/2017-nominees/"
+    },
+    {
+        "position": [
+            [
+                1418.199951171875,
+                36.0
+            ],
+            [
+                1514.0499572753906,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            119,
+            119,
+            119
+        ],
+        "text": "CATEGORIES",
+        "on_click_jump_to": "https://www.phillygeekawards.com/categories/"
+    },
+    {
+        "position": [
+            [
+                1546.050048828125,
+                36.0
+            ],
+            [
+                1600.050048828125,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            119,
+            119,
+            119
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://www.phillygeekawards.com/about/"
+    },
+    {
+        "position": [
+            [
+                1632.050048828125,
+                36.0
+            ],
+            [
+                1717.3167114257812,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            119,
+            119,
+            119
+        ],
+        "text": "SPONSORS",
+        "on_click_jump_to": "https://www.phillygeekawards.com/sponsors/"
+    },
+    {
+        "position": [
+            [
+                1749.316650390625,
+                36.0
+            ],
+            [
+                1798.2833251953125,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            119,
+            119,
+            119
+        ],
+        "text": "PRESS",
+        "on_click_jump_to": "https://www.phillygeekawards.com/press/"
+    },
+    {
+        "position": [
+            [
+                1830.2833251953125,
+                36.0
+            ],
+            [
+                1903.999984741211,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            119,
+            119,
+            119
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://www.phillygeekawards.com/contact/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                461.0
+            ],
+            [
+                1637.933349609375,
+                505.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            196,
+            0,
+            0
+        ],
+        "text": "[email protected]",
+        "on_click_jump_to": "https://www.phillygeekawards.com/cdn-cgi/l/email-protection"
+    },
+    {
+        "position": [
+            [
+                693.7166748046875,
+                525.0
+            ],
+            [
+                818.8000183105469,
+                545.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            196,
+            0,
+            0
+        ],
+        "text": "[email protected]",
+        "on_click_jump_to": "https://www.phillygeekawards.com/cdn-cgi/l/email-protection"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                595.0
+            ],
+            [
+                345.8999938964844,
+                619.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Philly Geek Awards",
+        "on_click_jump_to": "https://www.phillygeekawards.com/"
+    },
+    {
+        "position": [
+            [
+                1668.4666748046875,
+                595.0
+            ],
+            [
+                1712.000015258789,
+                619.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Top ↑",
+        "on_click_jump_to": "#top"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                0.0
+            ],
+            [
+                112.0,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.phillygeekawards.com/wp-content/themes/geekawards/images/pga17_logo_t_1024.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                355.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.phillygeekawards.com/wp-content/uploads/2015/05/header-image6.jpg"
+    }
+]

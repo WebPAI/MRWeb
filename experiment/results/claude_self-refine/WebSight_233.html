@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto Dealer Website</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white">
+    <!-- Hero Section with Large Truck Image -->
+    <div class="relative h-screen">
+        <img src="https://images.unsplash.com/photo-1486326658981-ed68abe5868e?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczNDR8&ixlib=rb-4.0.3"
+             alt="Green lifted truck in snow"
+             class="w-full h-full object-cover">
+    </div>
+
+    <!-- Navigation Bar -->
+    <nav class="bg-red-500 py-2">
+        <div class="container mx-auto flex justify-center space-x-4">
+            <a href="/" class="text-white hover:text-gray-200 px-2">Home</a>
+            <a href="/about" class="text-white hover:text-gray-200 px-2">About</a>
+            <a href="/vehicles" class="text-white hover:text-gray-200 px-2">Vehicles</a>
+            <a href="/contact" class="text-white hover:text-gray-200 px-2">Contact</a>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mx-auto px-4 py-8">
+        <!-- Featured Vehicles Section -->
+        <section class="mb-8">
+            <h2 class="text-xl font-bold mb-2">Featured Vehicles</h2>
+            <p class="text-gray-700 mb-4">Discover our range of luxury vehicles, each designed to provide you with the ultimate driving experience. From sports cars to luxury SUVs, we have something for every taste and budget.</p>
+            <button class="bg-red-500 text-white px-4 py-1 text-sm rounded hover:bg-red-600">View Vehicles</button>
+        </section>
+
+        <!-- Two Column Layout -->
+        <div class="grid md:grid-cols-2 gap-8">
+            <!-- Vehicle Specifications -->
+            <section>
+                <h2 class="text-xl font-bold mb-2">Vehicle Specifications</h2>
+                <p class="text-gray-700">Explore our vehicles and find the one that best suits your needs. Our vehicles come with a range of features, from advanced safety technologies to cutting-edge technology.</p>
+            </section>
+
+            <!-- Financing Information -->
+            <section>
+                <h2 class="text-xl font-bold mb-2">Financing Information</h2>
+                <p class="text-gray-700">We offer flexible financing options to make owning our vehicles more affordable. We have competitive interest rates and flexible payment options to fit your budget.</p>
+            </section>
+        </div>
+
+        <!-- Contact and Form Section -->
+        <div class="grid md:grid-cols-2 gap-8 mt-8">
+            <!-- Contact Information -->
+            <section class="bg-red-500 text-white p-6">
+                <h2 class="text-xl font-bold mb-4">Contact Information</h2>
+                <p>123 Main St</p>
+                <p>Anytown, USA</p>
+                <p>123-456-7890</p>
+                <p>info@autocompany.com</p>
+            </section>
+
+            <!-- Service Appointment Form -->
+            <section>
+                <h2 class="text-xl font-bold mb-4">Service Appointment</h2>
+                <form class="space-y-3">
+                    <input type="text" placeholder="Name" class="w-full p-2 border border-gray-300 rounded">
+                    <input type="email" placeholder="Email" class="w-full p-2 border border-gray-300 rounded">
+                    <input type="tel" placeholder="Phone" class="w-full p-2 border border-gray-300 rounded">
+                    <textarea placeholder="Message" class="w-full p-2 border border-gray-300 rounded h-24"></textarea>
+                    <button type="submit" class="bg-red-500 text-white px-4 py-2 rounded hover:bg-red-600">Submit</button>
+                </form>
+            </section>
+        </div>
+    </div>
+</body>
+</html>

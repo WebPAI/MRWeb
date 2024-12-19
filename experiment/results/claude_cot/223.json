@@ -1,0 +1,618 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                586.0166625976562,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            119,
+            119,
+            119
+        ],
+        "text": "TransNewGuinea.org - database of the languages of New Guinea",
+        "on_click_jump_to": "http://transnewguinea.org/"
+    },
+    {
+        "position": [
+            [
+                1774.7166748046875,
+                18.0
+            ],
+            [
+                1904.000015258789,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "@transnewguinea",
+        "on_click_jump_to": "http://twitter.com/transnewguinea"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                78.0
+            ],
+            [
+                50.83332824707031,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Main",
+        "on_click_jump_to": "http://transnewguinea.org/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                110.0
+            ],
+            [
+                59.633331298828125,
+                130.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://transnewguinea.org/about"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                142.0
+            ],
+            [
+                74.30000305175781,
+                162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Families",
+        "on_click_jump_to": "http://transnewguinea.org/family/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                174.0
+            ],
+            [
+                95.58332824707031,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Languages",
+        "on_click_jump_to": "http://transnewguinea.org/language/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                206.0
+            ],
+            [
+                75.10000610351562,
+                226.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Sources",
+        "on_click_jump_to": "http://transnewguinea.org/source/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                238.0
+            ],
+            [
+                123.64999389648438,
+                258.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Language Map",
+        "on_click_jump_to": "http://transnewguinea.org/maps/language/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                270.0
+            ],
+            [
+                62.649993896484375,
+                290.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Words",
+        "on_click_jump_to": "http://transnewguinea.org/word/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                302.0
+            ],
+            [
+                85.5,
+                322.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Cognates",
+        "on_click_jump_to": "http://transnewguinea.org/cognacy/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                334.0
+            ],
+            [
+                84.78334045410156,
+                354.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Pronouns",
+        "on_click_jump_to": "http://transnewguinea.org/pronouns/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                366.0
+            ],
+            [
+                82.85000610351562,
+                386.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Statistics",
+        "on_click_jump_to": "http://transnewguinea.org/statistics/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                422.0
+            ],
+            [
+                62.83332824707031,
+                442.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Log-in",
+        "on_click_jump_to": "http://transnewguinea.org/accounts/login/"
+    },
+    {
+        "position": [
+            [
+                272.0,
+                77.5
+            ],
+            [
+                310.23333740234375,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                326.76666259765625,
+                77.5
+            ],
+            [
+                379.3666687011719,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Sources",
+        "on_click_jump_to": "file:///source/"
+    },
+    {
+        "position": [
+            [
+                395.8999938964844,
+                77.5
+            ],
+            [
+                492.0500030517578,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Franklin (1975)",
+        "on_click_jump_to": "file:///source/franklin1975"
+    },
+    {
+        "position": [
+            [
+                273.0,
+                131.0
+            ],
+            [
+                289.43333435058594,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "ID",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                345.6166687011719,
+                131.0
+            ],
+            [
+                421.81666564941406,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Language",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                653.683349609375,
+                131.0
+            ],
+            [
+                694.7333526611328,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Word",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                823.2833251953125,
+                131.0
+            ],
+            [
+                864.9499816894531,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Entry",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                995.2999877929688,
+                131.0
+            ],
+            [
+                1097.249984741211,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Source Gloss",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1404.816650390625,
+                131.0
+            ],
+            [
+                1490.5333251953125,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Annotation",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1750.38330078125,
+                131.0
+            ],
+            [
+                1787.63330078125,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Loan",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1048.88330078125,
+                201.0
+            ],
+            [
+                1082.2166290283203,
+                241.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1090.2166748046875,
+                201.0
+            ],
+            [
+                1123.933349609375,
+                241.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "3",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1131.933349609375,
+                201.0
+            ],
+            [
+                1166.2000122070312,
+                241.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "»",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                70.16667175292969,
+                884.2999877929688
+            ],
+            [
+                186.48333740234375,
+                901.2999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Simon J. Greenhill",
+        "on_click_jump_to": "http://simon.net.nz/"
+    },
+    {
+        "position": [
+            [
+                115.93333435058594,
+                915.9833374023438
+            ],
+            [
+                473.3333282470703,
+                932.9833374023438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            23,
+            98,
+            115
+        ],
+        "text": "Creative Commons Attribution 4.0 International License",
+        "on_click_jump_to": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                476.0
+            ],
+            [
+                208.0,
+                541.2833404541016
+            ]
+        ],
+        "type": "img",
+        "src": "https://assets.transnewguinea.org/tng/img/anu.png"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                573.2833251953125
+            ],
+            [
+                208.0,
+                692.316650390625
+            ]
+        ],
+        "type": "img",
+        "src": "https://assets.transnewguinea.org/tng/img/arc.png"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                724.316650390625
+            ],
+            [
+                112.0,
+                818.7999877929688
+            ]
+        ],
+        "type": "img",
+        "src": "https://assets.transnewguinea.org/tng/img/mpi.png"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                910.7999877929688
+            ],
+            [
+                104.0,
+                941.7999877929688
+            ]
+        ],
+        "type": "img",
+        "src": "https://i.creativecommons.org/l/by/4.0/88x31.png"
+    }
+]

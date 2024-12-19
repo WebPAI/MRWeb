@@ -1,0 +1,50 @@
+[
+    {
+        "position": [
+            [
+                896.8499755859375,
+                540.0
+            ],
+            [
+                1023.13330078125,
+                580.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Donate Now",
+        "on_click_jump_to": "http://paulloeb.org/faculty-flierhtml.html"
+    },
+    {
+        "position": [
+            [
+                946.7999877929688,
+                16.0
+            ],
+            [
+                973.1999816894531,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1617566347924-ad5ebdaa014e?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1MjR8&ixlib=rb-4.0.3&w=100&h=50"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                88.0
+            ],
+            [
+                1712.0,
+                344.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1502773860571-211a597d6e4b?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1MjR8&ixlib=rb-4.0.3&w=800&h=600"
+    }
+]

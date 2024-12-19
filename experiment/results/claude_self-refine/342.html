@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AbleKitchen.com</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-[#5D564A] px-3 py-1 text-sm;
+        }
+        .bg-burgundy {
+            background-color: #8B1E29;
+        }
+        .category-link {
+            @apply text-white px-4 py-2 text-sm hover:bg-[#9B2E39];
+        }
+        .filter-section {
+            @apply bg-[#E8E8E3] px-3 py-1.5 flex items-center mb-2;
+        }
+        .filter-option {
+            @apply text-[#5D564A] py-1 text-sm flex items-center gap-2;
+        }
+        .product-grid {
+            @apply grid gap-6;
+        }
+        .product-card {
+            @apply flex gap-6 p-4 border-b border-[#E8E8E3];
+        }
+        .more-info-btn {
+            @apply bg-[#F5DEB3] text-xs px-3 py-1 rounded;
+        }
+        .add-to-cart-btn {
+            @apply bg-[#8B1E29] text-white px-4 py-1.5 rounded text-sm;
+        }
+    </style>
+</head>
+<body>
+    <!-- Top Banner -->
+    <div class="bg-[#8B1E29] text-white text-center py-1.5 text-sm">
+        Get Free Shipping over $50! Excludes freight
+    </div>
+
+    <!-- Header -->
+    <header class="max-w-7xl mx-auto px-4">
+        <div class="flex justify-between items-center py-4">
+            <!-- Logo -->
+            <img src="https://www.ablekitchen.com/images/ablekitchen-logo.png" alt="AbleKitchen" class="h-16">
+            
+            <!-- Top Navigation -->
+            <nav class="flex gap-4">
+                <a href="/" class="nav-link">Home</a>
+                <a href="/blog" class="nav-link">Blog</a>
+                <a href="/account" class="nav-link">View Account</a>
+                <a href="/help" class="nav-link">Help</a>
+                <a href="/quote" class="nav-link">Request a Quote</a>
+                <a href="/contact" class="nav-link">Contact</a>
+                <a href="/shipping" class="nav-link">International Shipping</a>
+            </nav>
+        </div>
+
+        <!-- Search Bar -->
+        <div class="flex justify-between items-center py-3">
+            <div class="flex-1 max-w-xl">
+                <input type="text" placeholder="Search" class="w-full px-3 py-1.5 border border-gray-300 rounded">
+            </div>
+            <div class="flex items-center gap-2 ml-4">
+                <a href="/cart" class="flex items-center gap-2 text-sm text-[#5D564A]">
+                    Shopping Cart / $0.00
+                    <span class="bg-gray-100 px-2 py-0.5 rounded">0</span>
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Navigation -->
+    <nav class="bg-burgundy">
+        <div class="max-w-7xl mx-auto">
+            <div class="flex">
+                <a href="/bar" class="category-link">Bar and Beverage</a>
+                <a href="/buffet" class="category-link">Buffets, Displays and Serverware</a>
+                <a href="/dining" class="category-link">Dining and Tabletop</a>
+                <a href="/kitchen" class="category-link">Kitchen and Bakeware</a>
+                <a href="/janitorial" class="category-link">Janitorial Supplies</a>
+                <a href="/brands" class="category-link">Shop by Brand</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 py-6">
+        <div class="flex gap-8">
+            <!-- Filters Sidebar -->
+            <aside class="w-1/4">
+                <!-- Brand Filter -->
+                <div class="filter-section">
+                    <img src="https://www.ablekitchen.com/images/mines.png" class="w-4 h-4 mr-2">
+                    <h3 class="text-sm font-medium">Brand</h3>
+                </div>
+                <div class="mb-4">
+                    <label class="filter-option">
+                        <input type="checkbox" class="mr-2">
+                        WINCO (10)
+                    </label>
+                </div>
+
+                <!-- Product Type Filter -->
+                <div class="filter-section">
+                    <img src="https://www.ablekitchen.com/images/mines.png" class="w-4 h-4 mr-2">
+                    <h3 class="text-sm font-medium">Product Type</h3>
+                </div>
+                <!-- Add more filters as needed -->
+            </aside>
+
+            <!-- Product Grid -->
+            <div class="w-3/4">
+                <div class="product-grid">
+                    <!-- Product cards would go here -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-[#2A2A2A] text-gray-300 py-8 mt-12">
+        <div class="max-w-7xl mx-auto px-4">
+            <div class="grid grid-cols-3 gap-8">
+                <!-- Footer content -->
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

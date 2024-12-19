@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .side-nav {
+            background-image: url('https://www.bluehorsekona.com/f/design/t_index_background.jpg');
+            background-repeat: repeat-y;
+            width: 110px;
+            min-height: 2219px;
+        }
+
+        .nav-link {
+            @apply text-[#101830] text-sm hover:text-red-800 px-4 py-2 block;
+            font-size: 13px;
+        }
+
+        .bottom-link {
+            @apply text-[#800000] hover:text-red-700;
+        }
+
+        .product-title {
+            @apply text-sm mt-2;
+        }
+
+        .price {
+            @apply text-sm;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <div class="relative max-w-[929px]">
+        <!-- Header Image -->
+        <img src="https://www.bluehorsekona.com/f/design/t_header_left.jpg?_=1631309878" class="w-full h-[254px]">
+
+        <!-- Side Navigation -->
+        <div class="side-nav fixed left-0 top-[254px]">
+            <div class="space-y-1">
+                <a href="https://www.bluehorsekona.com/home.html" class="nav-link">HOME</a>
+                <a href="https://www.bluehorsekona.com/KonaPictures.html" class="nav-link">Kona in Pictures</a>
+                <a href="https://www.bluehorsekona.com/healthykonacoffee.html" class="nav-link">Healthy Kona Coffee</a>
+                <a href="https://www.bluehorsekona.com/KonaCoffeeEconomics.html" class="nav-link">Kona Coffee Economics</a>
+                <a href="https://www.bluehorsekona.com/KonaOldNews.html" class="nav-link">Kona Old News</a>
+                <a href="https://www.bluehorsekona.com/coffeetastes.html" class="nav-link">Defining Coffee Tastes</a>
+                <a href="https://www.bluehorsekona.com/KonaCoffeeHandling.html" class="nav-link">Kona Coffee Handling</a>
+                <a href="https://www.bluehorsekona.com/HappyCustomers.html" class="nav-link">Happy Customers</a>
+                <a href="https://www.bluehorsekona.com/newsletters.html" class="nav-link">Our Newsletters</a>
+                <a href="https://www.bluehorsekona.com/contact.html" class="nav-link">Contact</a>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="ml-[130px] p-4">
+            <!-- 10 Reasons Section -->
+            <div class="mb-8">
+                <h2 class="text-lg font-bold">10 reasons why you may find that this 100% Kona coffee tastes better:</h2>
+                <!-- Add the 10 reasons list here -->
+            </div>
+
+            <!-- Coffee Products Grid -->
+            <div class="grid grid-cols-3 gap-8">
+                <!-- First Row -->
+                <div>
+                    <img src="https://www.bluehorsekona.com/i/Dark_no.jpg" class="w-[184px]">
+                    <p class="product-title">Dark Roast, 1lbs</p>
+                    <p class="price">$54.95</p>
+                </div>
+                <div>
+                    <img src="https://www.bluehorsekona.com/i/Med_no.jpg" class="w-[184px]">
+                    <p class="product-title">Medium Roast, 1lbs</p>
+                    <p class="price">$54.95</p>
+                </div>
+                <div>
+                    <img src="https://www.bluehorsekona.com/i/Light_no_1.jpg" class="w-[184px]">
+                    <p class="product-title">Light Roast, 1lbs</p>
+                    <p class="price">$54.95</p>
+                </div>
+
+                <!-- Second Row -->
+                <div>
+                    <img src="https://www.bluehorsekona.com/i/Pea_1.jpg" class="w-[184px]">
+                    <p class="product-title">Peaberry, 1lbs</p>
+                    <p class="price">$69.95</p>
+                </div>
+                <!-- Add other products similarly -->
+            </div>
+
+            <!-- Contact Information -->
+            <div class="mt-8">
+                <p>To place an order, please send us an email to</p>
+                <a href="mailto:aloha@bluehorsekona.com" class="bottom-link">aloha@bluehorsekona.com</a>
+                <p>or give us a call at (808) 328-1561</p>
+            </div>
+
+            <!-- Amazon Store Link -->
+            <div class="mt-4">
+                <a href="https://www.amazon.com/stores/BlueHorseKonaCoffee/page/379CD50E-80C1-4361-BFC1-094FF67C592A" class="bottom-link">Shop at our Blue Horse Kona Coffee Farm Store on AMAZON!</a>
+            </div>
+
+            <!-- Footer Navigation -->
+            <div class="mt-8 space-x-4 text-sm">
+                <a href="http://www.bluehorsekona.com/home.html" class="bottom-link">Home</a>
+                <a href="http://www.bluehorsekona.com/healthykonacoffee.html" class="bottom-link">Healthy Kona Coffee</a>
+                <a href="http://www.bluehorsekona.com/KonaCoffeeEconomics.html" class="bottom-link">Economics</a>
+                <a href="http://www.bluehorsekona.com/KonaPictures.html" class="bottom-link">Pictures</a>
+                <a href="http://www.bluehorsekona.com/KonaOldNews.html" class="bottom-link">History</a>
+                <a href="http://www.bluehorsekona.com/coffeetastes.html" class="bottom-link">Taste</a>
+                <a href="http://www.bluehorsekona.com/KonaCoffeeHandling.html" class="bottom-link">Coffee Handling</a>
+                <a href="http://www.bluehorsekona.com/HappyCustomers.html" class="bottom-link">Comments</a>
+                <a href="http://www.bluehorsekona.com/newsletters.html" class="bottom-link">Newsletters</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

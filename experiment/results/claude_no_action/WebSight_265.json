@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1490.6500244140625,
+                16.0
+            ],
+            [
+                1527.7500305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Team",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1559.75,
+                16.0
+            ],
+            [
+                1616.2666625976562,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1648.2666015625,
+                16.0
+            ],
+            [
+                1703.9999389648438,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Reviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                16.0
+            ],
+            [
+                280.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.jpg"
+    }
+]

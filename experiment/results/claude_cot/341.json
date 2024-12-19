@@ -1,0 +1,146 @@
+[
+    {
+        "position": [
+            [
+                1221.0,
+                166.0
+            ],
+            [
+                1629.0,
+                190.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            74,
+            148
+        ],
+        "text": "SHOWATCH",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1221.0,
+                198.0
+            ],
+            [
+                1629.0,
+                222.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            74,
+            148
+        ],
+        "text": "DEVWATCH",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1221.0,
+                230.0
+            ],
+            [
+                1629.0,
+                254.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            74,
+            148
+        ],
+        "text": "MOVIEWATCH",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                29.0
+            ],
+            [
+                351.0833282470703,
+                53.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/global/logo.gif"
+    },
+    {
+        "position": [
+            [
+                1170.566650390625,
+                28.0
+            ],
+            [
+                1209.2666473388672,
+                52.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/myfuton-email.gif"
+    },
+    {
+        "position": [
+            [
+                1305.2666015625,
+                28.0
+            ],
+            [
+                1374.9999389648438,
+                52.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/password.gif"
+    },
+    {
+        "position": [
+            [
+                275.0,
+                0.0
+            ],
+            [
+                1645.0,
+                82.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/bg-header.jpg"
+    },
+    {
+        "position": [
+            [
+                275.0,
+                82.0
+            ],
+            [
+                1645.0,
+                118.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/bg-nav-bar.gif"
+    },
+    {
+        "position": [
+            [
+                275.0,
+                302.0
+            ],
+            [
+                1645.0,
+                330.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/bg-footer.jpg"
+    }
+]

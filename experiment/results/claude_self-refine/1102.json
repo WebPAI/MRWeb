@@ -1,0 +1,244 @@
+[
+    {
+        "position": [
+            [
+                0.0,
+                24.0
+            ],
+            [
+                78.21665954589844,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Homepage",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                78.21665954589844,
+                24.0
+            ],
+            [
+                170.38333129882812,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Current issue",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/current-issue"
+    },
+    {
+        "position": [
+            [
+                170.38333129882812,
+                24.0
+            ],
+            [
+                222.61666870117188,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Archive",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/magarchive"
+    },
+    {
+        "position": [
+            [
+                222.61666870117188,
+                24.0
+            ],
+            [
+                303.1499938964844,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "For authors",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/rules-for-authors"
+    },
+    {
+        "position": [
+            [
+                303.1499938964844,
+                24.0
+            ],
+            [
+                406.8666687011719,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Editorial Board",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/editorial"
+    },
+    {
+        "position": [
+            [
+                406.8666687011719,
+                24.0
+            ],
+            [
+                468.3333282470703,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contacts",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/contacts"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                149.5
+            ],
+            [
+                868.0499877929688,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Blood coagulation parameters in rats with acute radiation syndrome receiving activated carbon as a preventive remedy",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2019/04/blood-coagulation-parameters-in-rats-with-acute-radiation-syndrome-receiving-activated-carbon-as-a-preventive-remedy.html"
+    },
+    {
+        "position": [
+            [
+                1310.9166259765625,
+                225.5
+            ],
+            [
+                1387.9999542236328,
+                246.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Read More",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1436.0,
+                249.5
+            ],
+            [
+                1880.6666870117188,
+                294.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "The Gerty Cori phenomenon: the first woman Nobel laureate in Physiology and Medicine",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2024/07/the-gerty-cori-phenomenon-the-first-woman-nobel-laureate-in-physiology-and-medicine.html"
+    },
+    {
+        "position": [
+            [
+                849.0,
+                357.5
+            ],
+            [
+                1071.0,
+                373.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "© 2024 The Ukrainian Biochemical Journal",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                12.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Ukrbiochem2400.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                12.0
+            ],
+            [
+                1920.0,
+                24.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Biochem_banner2.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                48.0
+            ],
+            [
+                1920.0,
+                72.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/icons/ua.png"
+    }
+]

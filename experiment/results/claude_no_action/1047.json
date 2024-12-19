@@ -1,0 +1,416 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                73.5
+            ],
+            [
+                250.89999389648438,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                274.8999938964844,
+                73.5
+            ],
+            [
+                318.46665954589844,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                342.4666748046875,
+                73.5
+            ],
+            [
+                393.3000183105469,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Browse",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                417.2999877929687,
+                73.5
+            ],
+            [
+                525.3166503906249,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Jurnal UNIKOM",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                549.316650390625,
+                73.5
+            ],
+            [
+                614.0833129882812,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Thesis S2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                638.0833129882812,
+                73.5
+            ],
+            [
+                705.566650390625,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Skripsi S1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                729.566650390625,
+                73.5
+            ],
+            [
+                836.7166442871094,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Tugas Akhir D3",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                860.7166748046875,
+                73.5
+            ],
+            [
+                1004.8000183105469,
+                94.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Materi Kuliah Online",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                114.5
+            ],
+            [
+                247.26666259765625,
+                135.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Login",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                275.8666687011719,
+                114.5
+            ],
+            [
+                383.98333740234375,
+                135.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Create Account",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                219.0
+            ],
+            [
+                289.3999938964844,
+                243.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "↑ Up a level",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                603.816650390625,
+                219.0
+            ],
+            [
+                642.7166442871094,
+                243.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            88,
+            12
+        ],
+        "text": "Atom",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                650.7166748046875,
+                219.0
+            ],
+            [
+                702.4000091552734,
+                243.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            88,
+            12
+        ],
+        "text": "RSS 1.0",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                710.4000244140625,
+                219.0
+            ],
+            [
+                762.0833587646484,
+                243.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            88,
+            12
+        ],
+        "text": "RSS 2.0",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                379.5833129882813,
+                280.5
+            ],
+            [
+                472.0499877929688,
+                301.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "No Grouping",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                272.98333740234375,
+                336.5
+            ],
+            [
+                317.8000030517578,
+                357.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Article",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                415.1000061035156,
+                448.5
+            ],
+            [
+                737.9666442871094,
+                469.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "GIS Asia Pacific '95: Conference and Exhibition.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                571.0,
+                596.5
+            ],
+            [
+                625.0,
+                615.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "EPrints 3",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                791.0,
+                596.5
+            ],
+            [
+                1056.0,
+                615.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "School of Electronics and Computer Science",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                596.5
+            ],
+            [
+                1507.0,
+                615.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "More information and software credits",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                0.0
+            ],
+            [
+                1712.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/unikom-logo.png"
+    }
+]

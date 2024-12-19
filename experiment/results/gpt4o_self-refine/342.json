@@ -1,0 +1,390 @@
+[
+    {
+        "position": [
+            [
+                1176.2166748046875,
+                8.0
+            ],
+            [
+                1219.3333435058594,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.ablekitchen.com/"
+    },
+    {
+        "position": [
+            [
+                1235.3333740234375,
+                8.0
+            ],
+            [
+                1334.7500457763672,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Account",
+        "on_click_jump_to": "https://www.ablekitchen.com/account.php"
+    },
+    {
+        "position": [
+            [
+                1350.75,
+                8.0
+            ],
+            [
+                1472.1166687011719,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Request a Quote",
+        "on_click_jump_to": "https://www.ablekitchen.com/request-quote.php"
+    },
+    {
+        "position": [
+            [
+                1488.11669921875,
+                8.0
+            ],
+            [
+                1545.7166900634766,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.ablekitchen.com/contact_us.php"
+    },
+    {
+        "position": [
+            [
+                1561.7166748046875,
+                8.0
+            ],
+            [
+                1720.000015258789,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "International Shipping",
+        "on_click_jump_to": "https://www.ablekitchen.com/shipping-information.html"
+    },
+    {
+        "position": [
+            [
+                455.5333251953125,
+                76.0
+            ],
+            [
+                584.3666534423828,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Bar and Beverage",
+        "on_click_jump_to": "https://www.ablekitchen.com/Bar-and-Beverage-Supplies.html"
+    },
+    {
+        "position": [
+            [
+                600.36669921875,
+                76.0
+            ],
+            [
+                840.11669921875,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Buffets, Displays and Serverware",
+        "on_click_jump_to": "https://www.ablekitchen.com/Buffet-Display-and-Serverware.html"
+    },
+    {
+        "position": [
+            [
+                856.11669921875,
+                76.0
+            ],
+            [
+                1000.9500274658203,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Dining and Tabletop",
+        "on_click_jump_to": "https://www.ablekitchen.com/Dining-and-Tabletop.html"
+    },
+    {
+        "position": [
+            [
+                1016.9500122070312,
+                76.0
+            ],
+            [
+                1178.0333557128906,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Kitchen and Bakeware",
+        "on_click_jump_to": "https://www.ablekitchen.com/Kitchenware-Bakeware-and-Cookware.html"
+    },
+    {
+        "position": [
+            [
+                1194.0333251953125,
+                76.0
+            ],
+            [
+                1326.2333221435547,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Janitorial Supplies",
+        "on_click_jump_to": "https://www.ablekitchen.com/Janitorial-and-Maintenance.html"
+    },
+    {
+        "position": [
+            [
+                1342.2333984375,
+                76.0
+            ],
+            [
+                1449.4000549316406,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Shop by Brand",
+        "on_click_jump_to": "https://www.ablekitchen.com/Brand-B1/"
+    },
+    {
+        "position": [
+            [
+                1551.5,
+                76.0
+            ],
+            [
+                1712.0,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Shopping Cart / $0.00",
+        "on_click_jump_to": "https://www.ablekitchen.com/cart.php"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                254.0
+            ],
+            [
+                294.8333282470703,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "WINCO (10)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                251.0
+            ],
+            [
+                1087.5499877929688,
+                273.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Winco WP-14 Stainless Steel Pitcher, 14 oz.",
+        "on_click_jump_to": "https://www.ablekitchen.com/pitcher-14-ounce-stainless-steel1-each-unit.html"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                426.0
+            ],
+            [
+                259.68333435058594,
+                446.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://www.ablekitchen.com/about.html"
+    },
+    {
+        "position": [
+            [
+                280.183349609375,
+                426.0
+            ],
+            [
+                361.8333435058594,
+                446.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://www.ablekitchen.com/contact_us.php"
+    },
+    {
+        "position": [
+            [
+                382.3333129882813,
+                426.0
+            ],
+            [
+                412.5833129882813,
+                446.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://www.ablekitchen.com/help.html"
+    },
+    {
+        "position": [
+            [
+                433.0833129882813,
+                426.0
+            ],
+            [
+                565.6166534423828,
+                446.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Privacy & Security",
+        "on_click_jump_to": "https://www.ablekitchen.com/privacy-policy.html"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                56.0
+            ],
+            [
+                353.4499969482422,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/images/ablekitchen-logo.png"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                248.0
+            ],
+            [
+                704.0,
+                344.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/itempics/Pitcher--14-ounce--stainless-steel-1-Each-Unit--95983_thumb.jpg"
+    }
+]

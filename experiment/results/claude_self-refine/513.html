@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leo & Bella</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-black hover:text-gray-600 px-6 py-4;
+        }
+        .breadcrumb-link {
+            @apply text-[#393939] hover:text-gray-700 text-sm;
+        }
+        .footer-link {
+            @apply text-gray-400 hover:text-gray-600;
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+    <!-- Top Bar -->
+    <div class="bg-white py-2 flex justify-end space-x-4 px-8">
+        <a href="/my-account" class="text-sm text-black">Log In / Register</a>
+        <a href="/my-account" class="text-sm text-black">My Account</a>
+        <a href="/wishlist" class="text-sm text-black">Wishlist</a>
+    </div>
+
+    <!-- Main Navigation -->
+    <nav class="bg-white border-b border-gray-200">
+        <div class="container mx-auto">
+            <div class="flex justify-center">
+                <a href="/new-arrival" class="nav-link">NEW</a>
+                <a href="/wear" class="nav-link">WEAR</a>
+                <a href="/kids-interior" class="nav-link">KIDS INTERIOR</a>
+                <a href="/toys" class="nav-link">TOYS</a>
+                <a href="/party" class="nav-link">PARTY</a>
+                <a href="/homeware" class="nav-link">HOME</a>
+                <a href="/sale" class="nav-link">SALE</a>
+                <a href="/brands" class="nav-link">BRANDS</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mx-auto px-4 py-8">
+        <!-- Breadcrumb -->
+        <div class="flex items-center space-x-2 text-sm text-[#393939] mb-8">
+            <a href="/" class="breadcrumb-link">LEO & BELLA</a>
+            <span>/</span>
+            <a href="/shop" class="breadcrumb-link">SHOP</a>
+            <span>/</span>
+            <a href="/toys/games" class="breadcrumb-link">BLOCK PUZZLES & GAMES</a>
+            <span>/</span>
+            <a href="/brands" class="breadcrumb-link">BRANDS</a>
+            <span>/</span>
+            <a href="/kids-interior" class="breadcrumb-link">KIDS INTERIOR</a>
+            <span>/</span>
+            <a href="/brands/kiko" class="breadcrumb-link">KIKO+</a>
+        </div>
+
+        <!-- Product Grid -->
+        <div class="grid grid-cols-2 gap-12">
+            <!-- Product Images -->
+            <div class="space-y-4">
+                <div class="aspect-square">
+                    <img src="https://leoandbella.com.au/wp-content/uploads/2014/12/kiko-gatcha-gatcha-gumball.jpg" 
+                         alt="Product" class="w-full h-full object-cover">
+                </div>
+                <div class="grid grid-cols-4 gap-4">
+                    <img src="https://leoandbella.com.au/wp-content/uploads/2014/12/kiko-gatcha-gatcha-gumball.jpg" 
+                         class="aspect-square object-cover">
+                    <img src="https://leoandbella.com.au/wp-content/uploads/2014/12/Screen-Shot-2014-12-29-at-7.27.28-pm.png" 
+                         class="aspect-square object-cover">
+                    <!-- Add remaining thumbnail images -->
+                </div>
+            </div>
+
+            <!-- Product Info -->
+            <div class="space-y-6">
+                <h1 class="text-2xl">KIKO+ GATCHA GATCHA GUMBALL VENDING MACHINE</h1>
+                <div class="text-xl">$80.00</div>
+                <button class="bg-black text-white px-8 py-3 w-full mb-4">ADD TO CART</button>
+                <button class="border border-gray-300 px-8 py-3 w-full">ADD TO WISHLIST</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Related Products -->
+    <section class="bg-gray-50 py-12">
+        <div class="container mx-auto px-4">
+            <h2 class="text-xl font-medium mb-8">RELATED PRODUCTS</h2>
+            <div class="grid grid-cols-4 gap-8">
+                <!-- Related product cards -->
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200 mt-12">
+        <div class="container mx-auto px-4 py-8">
+            <div class="grid grid-cols-3 gap-8">
+                <div>
+                    <h3 class="font-medium mb-4">CUSTOMER SERVICE</h3>
+                    <div class="space-y-4">
+                        <a href="/contact-us" class="footer-link block">Contact Us</a>
+                        <a href="/gift-cards" class="footer-link block">Gift Cards</a>
+                        <a href="/ordering" class="footer-link block">Ordering</a>
+                        <a href="/shipping" class="footer-link block">Shipping Information</a>
+                        <a href="/returns" class="footer-link block">Returns</a>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="font-medium mb-4">ABOUT US</h3>
+                    <div class="space-y-4">
+                        <a href="/who-we-are" class="footer-link block">Who we are</a>
+                        <a href="/terms" class="footer-link block">Terms & Conditions</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

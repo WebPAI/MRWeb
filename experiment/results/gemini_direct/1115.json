@@ -1,0 +1,650 @@
+[
+    {
+        "position": [
+            [
+                1245.86669921875,
+                31.5
+            ],
+            [
+                1356.800033569336,
+                48.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Current Students",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/"
+    },
+    {
+        "position": [
+            [
+                1376.7333984375,
+                31.5
+            ],
+            [
+                1438.3667297363281,
+                48.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "myUNSW",
+        "on_click_jump_to": "https://my.unsw.edu.au/portal/home.html?utm_source=csw&utm_medium=website&utm_campaign=header&utm_id=myunsw"
+    },
+    {
+        "position": [
+            [
+                1458.300048828125,
+                31.5
+            ],
+            [
+                1506.300048828125,
+                48.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Moodle",
+        "on_click_jump_to": "https://moodle.telt.unsw.edu.au/?utm_source=csw&utm_medium=website&utm_campaign=header&utm_id=moodle"
+    },
+    {
+        "position": [
+            [
+                1526.2333984375,
+                31.5
+            ],
+            [
+                1592.6333923339844,
+                48.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Handbook",
+        "on_click_jump_to": "https://www.handbook.unsw.edu.au/?utm_source=csw&utm_medium=website&utm_campaign=header&utm_id=handbook"
+    },
+    {
+        "position": [
+            [
+                1612.566650390625,
+                31.5
+            ],
+            [
+                1657.5833129882812,
+                48.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Library",
+        "on_click_jump_to": "https://www.library.unsw.edu.au/?utm_source=csw&utm_medium=website&utm_campaign=header&utm_id=library"
+    },
+    {
+        "position": [
+            [
+                1677.5166015625,
+                31.5
+            ],
+            [
+                1711.9999389648438,
+                48.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Email",
+        "on_click_jump_to": "https://student.unsw.edu.au/email?utm_source=csw&utm_medium=website&utm_campaign=header&utm_id=email"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                111.5
+            ],
+            [
+                409.3000030517578,
+                148.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Student Home",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/"
+    },
+    {
+        "position": [
+            [
+                447.23333740234375,
+                111.5
+            ],
+            [
+                663.1999969482422,
+                148.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Getting Started",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/welcome"
+    },
+    {
+        "position": [
+            [
+                701.13330078125,
+                111.5
+            ],
+            [
+                1035.2333068847656,
+                148.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Managing Your Program",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/program"
+    },
+    {
+        "position": [
+            [
+                1073.1666259765625,
+                111.5
+            ],
+            [
+                1406.6166381835938,
+                148.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Support & Development",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/support"
+    },
+    {
+        "position": [
+            [
+                1444.550048828125,
+                111.5
+            ],
+            [
+                1618.3500518798828,
+                148.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Campus Life",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/life"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                111.5
+            ],
+            [
+                1687.11669921875,
+                184.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Sign On",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/login"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                321.5
+            ],
+            [
+                258.96665954589844,
+                338.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Student",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/"
+    },
+    {
+        "position": [
+            [
+                275.5,
+                321.5
+            ],
+            [
+                417.98333740234375,
+                338.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "International Students",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/international"
+    },
+    {
+        "position": [
+            [
+                295.7166748046875,
+                454.0
+            ],
+            [
+                584.8000183105469,
+                474.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "International Student Concierge Service",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/student-travel-concierge-service"
+    },
+    {
+        "position": [
+            [
+                267.79998779296875,
+                502.0
+            ],
+            [
+                450.566650390625,
+                522.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "International Student Life",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/international"
+    },
+    {
+        "position": [
+            [
+                384.316650390625,
+                550.0
+            ],
+            [
+                635.9499816894531,
+                570.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "support and development services",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/supporting-your-studies"
+    },
+    {
+        "position": [
+            [
+                338.6166687011719,
+                598.0
+            ],
+            [
+                653.0,
+                618.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Parents and Caregivers information session",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/new-unsw"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                646.0
+            ],
+            [
+                419.0,
+                666.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Student Support Advisors",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/consult"
+    },
+    {
+        "position": [
+            [
+                723.7999877929688,
+                670.0
+            ],
+            [
+                890.6999816894531,
+                690.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Mental Health Connect",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/mhc"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                888.6666870117188
+            ],
+            [
+                343.0833282470703,
+                924.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BACK TO TOP",
+        "on_click_jump_to": "#main-content"
+    },
+    {
+        "position": [
+            [
+                733.1500244140625,
+                982.6666870117188
+            ],
+            [
+                852.4500274658203,
+                1002.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Website Feedback",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/web-feedback-form"
+    },
+    {
+        "position": [
+            [
+                868.4500122070312,
+                982.6666870117188
+            ],
+            [
+                926.7500152587891,
+                1002.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contacts",
+        "on_click_jump_to": "https://student.unsw.edu.au/contacts"
+    },
+    {
+        "position": [
+            [
+                942.75,
+                982.6666870117188
+            ],
+            [
+                995.5166625976562,
+                1002.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/sitemap"
+    },
+    {
+        "position": [
+            [
+                1011.5166625976562,
+                982.6666870117188
+            ],
+            [
+                1077.6999969482422,
+                1002.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "A-Z Guide",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/guide"
+    },
+    {
+        "position": [
+            [
+                1093.699951171875,
+                982.6666870117188
+            ],
+            [
+                1186.8332824707031,
+                1002.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Student Home",
+        "on_click_jump_to": "https://student.unsw.edu.au/"
+    },
+    {
+        "position": [
+            [
+                690.0166625976562,
+                1018.6666870117188
+            ],
+            [
+                779.5500030517578,
+                1038.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "http://www.unsw.edu.au/privacy"
+    },
+    {
+        "position": [
+            [
+                795.5499877929688,
+                1018.6666870117188
+            ],
+            [
+                944.2166442871094,
+                1038.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Copyright & Disclaimer",
+        "on_click_jump_to": "http://www.unsw.edu.au/copyright-disclaimer"
+    },
+    {
+        "position": [
+            [
+                960.2166748046876,
+                1018.6666870117188
+            ],
+            [
+                1040.683349609375,
+                1038.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Accessibility",
+        "on_click_jump_to": "http://www.unsw.edu.au/accessibility"
+    },
+    {
+        "position": [
+            [
+                1056.683349609375,
+                1018.6666870117188
+            ],
+            [
+                1129.366683959961,
+                1038.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Complaints",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/complaints"
+    },
+    {
+        "position": [
+            [
+                1145.36669921875,
+                1018.6666870117188
+            ],
+            [
+                1229.9666900634766,
+                1038.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "UNSW Home",
+        "on_click_jump_to": "https://www.unsw.edu.au/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                356.93333435058594,
+                72.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.student.unsw.edu.au/themes/custom/unsw_student/logo.svg"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                340.0
+            ],
+            [
+                1712.0,
+                830.6666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.student.unsw.edu.au/sites/default/files/styles/inline_image/public/page_image/Parenting%20guide_front%20cover_resize%202.jpg?itok=s0Wypbds"
+    }
+]

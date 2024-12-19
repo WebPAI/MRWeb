@@ -1,0 +1,84 @@
+[
+    {
+        "position": [
+            [
+                607.2833251953125,
+                637.5
+            ],
+            [
+                638.6333160400391,
+                658.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "here",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                813.5999755859375,
+                677.5
+            ],
+            [
+                890.13330078125,
+                698.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "PLDC 2017",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                116.0
+            ],
+            [
+                1920.0,
+                140.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-hero-image.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                512.0
+            ],
+            [
+                944.0,
+                536.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-image1.jpg"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                512.0
+            ],
+            [
+                1712.0,
+                536.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-image2.jpg"
+    }
+]

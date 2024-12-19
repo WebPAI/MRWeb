@@ -1,0 +1,276 @@
+[
+    {
+        "position": [
+            [
+                488.8500061035156,
+                24.0
+            ],
+            [
+                563.9666595458984,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://rookief1.com/"
+    },
+    {
+        "position": [
+            [
+                579.9666748046875,
+                24.0
+            ],
+            [
+                655.6000213623047,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://rookief1.com/about/"
+    },
+    {
+        "position": [
+            [
+                671.5999755859375,
+                24.0
+            ],
+            [
+                756.5333099365234,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Results",
+        "on_click_jump_to": "https://rookief1.com/results/"
+    },
+    {
+        "position": [
+            [
+                772.5333251953125,
+                24.0
+            ],
+            [
+                923.1499786376953,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Teams & Drivers",
+        "on_click_jump_to": "https://rookief1.com/teams/"
+    },
+    {
+        "position": [
+            [
+                939.1500244140624,
+                24.0
+            ],
+            [
+                1036.183364868164,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "https://rookief1.com/calendar/"
+    },
+    {
+        "position": [
+            [
+                1052.183349609375,
+                24.0
+            ],
+            [
+                1163.9833526611328,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Rules 2012",
+        "on_click_jump_to": "https://rookief1.com/rules/"
+    },
+    {
+        "position": [
+            [
+                1179.9833984375,
+                24.0
+            ],
+            [
+                1319.9333953857422,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Race Weekend",
+        "on_click_jump_to": "https://rookief1.com/race-weekend/"
+    },
+    {
+        "position": [
+            [
+                1335.933349609375,
+                24.0
+            ],
+            [
+                1431.1333465576172,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Glossary",
+        "on_click_jump_to": "https://rookief1.com/glossary/"
+    },
+    {
+        "position": [
+            [
+                260.3999938964844,
+                174.5
+            ],
+            [
+                311.5,
+                191.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "rookief1",
+        "on_click_jump_to": "https://rookief1.com/author/rookief1/"
+    },
+    {
+        "position": [
+            [
+                322.83331298828125,
+                174.5
+            ],
+            [
+                438.74998474121094,
+                191.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Leave a Comment",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                283.0
+            ],
+            [
+                1308.5833282470703,
+                303.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "F1 Hooked",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                315.0
+            ],
+            [
+                1306.8000030517578,
+                335.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "F1 Rogues",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                347.0
+            ],
+            [
+                1303.7833404541016,
+                367.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Fanalistas",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                464.0,
+                301.0
+            ],
+            [
+                912.0,
+                569.7999877929688
+            ]
+        ],
+        "type": "img",
+        "src": "https://rookief1.com/wp-content/uploads/2012/07/germany-gp.png"
+    }
+]

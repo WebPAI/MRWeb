@@ -1,0 +1,102 @@
+[
+    {
+        "position": [
+            [
+                8.0,
+                9.600006103515623
+            ],
+            [
+                39.100006103515625,
+                25.600006103515625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Help",
+        "on_click_jump_to": "https://www.ebsqart.com/FAQ/"
+    },
+    {
+        "position": [
+            [
+                43.100006103515625,
+                9.600006103515623
+            ],
+            [
+                81.31666564941406,
+                25.600006103515625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Login",
+        "on_click_jump_to": "https://www.ebsqart.com/Login.asp?CMD=INITIATELOGIN&SUCCESSREDIRECT=https%3A//www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Stop/99094/"
+    },
+    {
+        "position": [
+            [
+                85.31666564941406,
+                9.600006103515623
+            ],
+            [
+                112.0,
+                25.600006103515625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Join",
+        "on_click_jump_to": "https://www.ebsqart.com/Information/Step-1-Register/85/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                28.800003051757812
+            ],
+            [
+                65.76666259765625,
+                44.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Galleries",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-Galleries/1/"
+    },
+    {
+        "position": [
+            [
+                69.76666259765625,
+                28.800003051757812
+            ],
+            [
+                123.11666870117188,
+                44.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Exhibits",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-Shows/Exhibits/1/"
+    }
+]

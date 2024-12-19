@@ -1,0 +1,298 @@
+[
+    {
+        "position": [
+            [
+                458.7166748046875,
+                85.5
+            ],
+            [
+                528.933349609375,
+                106.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Australian",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                533.316650390625,
+                85.5
+            ],
+            [
+                599.316650390625,
+                106.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Lebanese",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1096.9833984375,
+                133.5
+            ],
+            [
+                1158.0334014892578,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "acronym",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1021.9833374023438,
+                157.5
+            ],
+            [
+                1040.2833404541016,
+                178.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "[1]",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1422.7666015625,
+                294.5
+            ],
+            [
+                1553.0332794189453,
+                315.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Private company",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1422.7666015625,
+                326.5
+            ],
+            [
+                1505.4332733154297,
+                347.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Automotive",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1422.7666015625,
+                355.5
+            ],
+            [
+                1477.449935913086,
+                376.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Kepong",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1422.7666015625,
+                355.5
+            ],
+            [
+                1523.7832794189453,
+                400.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Kuala Lumpur",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1485.0,
+                379.5
+            ],
+            [
+                1546.066665649414,
+                400.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Malaysia",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1422.7666015625,
+                408.5
+            ],
+            [
+                1512.4166107177734,
+                429.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Automobiles",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1422.7666015625,
+                440.5
+            ],
+            [
+                1550.2332763671875,
+                461.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            204
+        ],
+        "text": "www.bufori.com",
+        "on_click_jump_to": "http://www.bufori.com/"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                313.5
+            ],
+            [
+                936.933349609375,
+                358.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Geneva Motor Show",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1517.8499755859375,
+                32.0
+            ],
+            [
+                1599.9999694824219,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/BuforiLOGO-BIG.gif"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                312.0
+            ],
+            [
+                1284.0,
+                336.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/Bufori_Geneva_(26).JPG"
+    },
+    {
+        "position": [
+            [
+                1422.7666015625,
+                294.5
+            ],
+            [
+                1553.0332794189453,
+                315.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%20standalone%3D%22no%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%2212%22%3E%3Cpath%20fill%3D%22%23fff%22%20stroke%3D%22%2306c%22%20d%3D%22M1.5%204.518h5.982V10.5H1.5z%22%2F%3E%3Cpath%20d%3D%22M5.765%201H11v5.39L9.427%207.937l-1.31-1.31L5.393%209.35l-2.69-2.688%202.81-2.808L4.2%202.544z%22%20fill%3D%22%2306f%22%2F%3E%3Cpath%20d%3D%22M9.995%202.004l.022%204.885L8.2%205.07%205.32%207.95%204.09%206.723l2.882-2.88-1.85-1.852z%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fsvg%3E"
+    },
+    {
+        "position": [
+            [
+                1422.7666015625,
+                440.5
+            ],
+            [
+                1550.2332763671875,
+                461.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%20standalone%3D%22no%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%2212%22%3E%3Cpath%20fill%3D%22%23fff%22%20stroke%3D%22%2306c%22%20d%3D%22M1.5%204.518h5.982V10.5H1.5z%22%2F%3E%3Cpath%20d%3D%22M5.765%201H11v5.39L9.427%207.937l-1.31-1.31L5.393%209.35l-2.69-2.688%202.81-2.808L4.2%202.544z%22%20fill%3D%22%2306f%22%2F%3E%3Cpath%20d%3D%22M9.995%202.004l.022%204.885L8.2%205.07%205.32%207.95%204.09%206.723l2.882-2.88-1.85-1.852z%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fsvg%3E"
+    }
+]

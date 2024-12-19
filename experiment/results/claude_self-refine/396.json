@@ -1,0 +1,410 @@
+[
+    {
+        "position": [
+            [
+                278.0,
+                168.0
+            ],
+            [
+                388.0,
+                187.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "non-profit groups",
+        "on_click_jump_to": "#np"
+    },
+    {
+        "position": [
+            [
+                395.0,
+                168.0
+            ],
+            [
+                597.0,
+                187.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "smaller commercial organizations",
+        "on_click_jump_to": "#comm"
+    },
+    {
+        "position": [
+            [
+                631.0,
+                168.0
+            ],
+            [
+                708.0,
+                187.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "corporations",
+        "on_click_jump_to": "#corp"
+    },
+    {
+        "position": [
+            [
+                328.0,
+                223.5
+            ],
+            [
+                407.0,
+                242.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "A1 Financing",
+        "on_click_jump_to": "javascript:OpenNewWindow('http://www.a1-financing.ca/');"
+    },
+    {
+        "position": [
+            [
+                641.5,
+                451.25
+            ],
+            [
+                676.5,
+                468.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://webfoundations.com/index.html"
+    },
+    {
+        "position": [
+            [
+                696.5,
+                451.25
+            ],
+            [
+                773.5,
+                468.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Web Services",
+        "on_click_jump_to": "http://webfoundations.com/webservices.html"
+    },
+    {
+        "position": [
+            [
+                793.5,
+                451.25
+            ],
+            [
+                854.5,
+                468.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Consulting",
+        "on_click_jump_to": "http://webfoundations.com/consulting.html"
+    },
+    {
+        "position": [
+            [
+                874.5,
+                451.25
+            ],
+            [
+                920.5,
+                468.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Training",
+        "on_click_jump_to": "http://webfoundations.com/training.html"
+    },
+    {
+        "position": [
+            [
+                940.5,
+                451.25
+            ],
+            [
+                997.5,
+                468.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Showcase",
+        "on_click_jump_to": "http://webfoundations.com/showcase.html"
+    },
+    {
+        "position": [
+            [
+                1017.5,
+                451.25
+            ],
+            [
+                1093.5,
+                468.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Costs & Fees",
+        "on_click_jump_to": "http://webfoundations.com/costs.html"
+    },
+    {
+        "position": [
+            [
+                1113.5,
+                451.25
+            ],
+            [
+                1195.5,
+                468.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Getting Ready",
+        "on_click_jump_to": "http://webfoundations.com/preparation.html"
+    },
+    {
+        "position": [
+            [
+                1215.5,
+                451.25
+            ],
+            [
+                1278.5,
+                468.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "http://webfoundations.com/contact.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                600.0,
+                93.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/banner.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                96.0
+            ],
+            [
+                102.68333435058594,
+                116.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/webservices.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                116.0
+            ],
+            [
+                102.68333435058594,
+                136.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/consulting.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                136.0
+            ],
+            [
+                102.68333435058594,
+                156.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/training.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                156.0
+            ],
+            [
+                102.68333435058594,
+                176.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/showcase.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                176.0
+            ],
+            [
+                102.68333435058594,
+                196.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/costs.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                196.0
+            ],
+            [
+                102.68333435058594,
+                216.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/getting_ready.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                216.0
+            ],
+            [
+                102.68333435058594,
+                236.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/contact.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                236.0
+            ],
+            [
+                102.68333435058594,
+                256.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/home.gif"
+    },
+    {
+        "position": [
+            [
+                112.0,
+                220.0
+            ],
+            [
+                312.0,
+                370.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show25.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                418.0
+            ],
+            [
+                1920.0,
+                442.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/hbar.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                485.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://webfoundations.com/gfx/bkg.jpg"
+    }
+]

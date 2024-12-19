@@ -1,0 +1,170 @@
+[
+    {
+        "position": [
+            [
+                804.2166748046875,
+                276.0
+            ],
+            [
+                874.1500091552734,
+                300.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Programs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                890.1500244140625,
+                276.0
+            ],
+            [
+                958.4833679199219,
+                300.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Initiatives",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                974.4833374023438,
+                276.0
+            ],
+            [
+                1042.1666717529297,
+                300.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1058.1666259765625,
+                276.0
+            ],
+            [
+                1115.766616821289,
+                300.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                692.0
+            ],
+            [
+                573.7833404541016,
+                716.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            165,
+            180,
+            252
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                724.0
+            ],
+            [
+                573.7833404541016,
+                748.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            165,
+            180,
+            252
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                756.0
+            ],
+            [
+                573.7833404541016,
+                780.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            165,
+            180,
+            252
+        ],
+        "text": "Instagram",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://source.unsplash.com/random/1600x900/?community"
+    },
+    {
+        "position": [
+            [
+                912.0,
+                96.0
+            ],
+            [
+                1008.0,
+                160.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1646742998845-3a5c24a4c422?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NDd8&ixlib=rb-4.0.3&w=300&h=300"
+    }
+]

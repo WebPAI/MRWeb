@@ -1,0 +1,390 @@
+[
+    {
+        "position": [
+            [
+                1297.3499755859375,
+                12.0
+            ],
+            [
+                1340.4666290283203,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.radarsync.com/"
+    },
+    {
+        "position": [
+            [
+                1356.4666748046875,
+                12.0
+            ],
+            [
+                1384.0500183105469,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Buy",
+        "on_click_jump_to": "https://safecart.com/radarsync/.pc-updater/purchase"
+    },
+    {
+        "position": [
+            [
+                1400.050048828125,
+                12.0
+            ],
+            [
+                1451.3333740234375,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Drivers",
+        "on_click_jump_to": "http://www.radarsync.com/drivers"
+    },
+    {
+        "position": [
+            [
+                1467.3333740234375,
+                12.0
+            ],
+            [
+                1602.5833740234375,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Windows Software",
+        "on_click_jump_to": "http://www.radarsync.com/software"
+    },
+    {
+        "position": [
+            [
+                1618.5833740234375,
+                12.0
+            ],
+            [
+                1678.4333801269531,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Vendors",
+        "on_click_jump_to": "http://www.radarsync.com/vendor/s"
+    },
+    {
+        "position": [
+            [
+                1694.433349609375,
+                12.0
+            ],
+            [
+                1728.000015258789,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Help",
+        "on_click_jump_to": "http://www.radarsync.com/help"
+    },
+    {
+        "position": [
+            [
+                229.0,
+                231.0
+            ],
+            [
+                420.43333435058594,
+                251.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Report this technical issue",
+        "on_click_jump_to": "http://www.radarsync.com/contact"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                319.0
+            ],
+            [
+                235.63333129882812,
+                343.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://www.radarsync.com/about"
+    },
+    {
+        "position": [
+            [
+                251.63333129882812,
+                319.0
+            ],
+            [
+                333.28334045410156,
+                343.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "http://www.radarsync.com/contact"
+    },
+    {
+        "position": [
+            [
+                349.2833251953125,
+                319.0
+            ],
+            [
+                435.7333221435547,
+                343.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Press Room",
+        "on_click_jump_to": "http://www.radarsync.com/news"
+    },
+    {
+        "position": [
+            [
+                451.73333740234375,
+                319.0
+            ],
+            [
+                541.6333312988281,
+                343.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "http://www.radarsync.com/testimonials"
+    },
+    {
+        "position": [
+            [
+                557.63330078125,
+                319.0
+            ],
+            [
+                648.88330078125,
+                343.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Partnerships",
+        "on_click_jump_to": "http://www.radarsync.com/affiliates"
+    },
+    {
+        "position": [
+            [
+                664.88330078125,
+                319.0
+            ],
+            [
+                717.7166290283203,
+                343.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Privacy",
+        "on_click_jump_to": "http://www.radarsync.com/privacy"
+    },
+    {
+        "position": [
+            [
+                733.7166748046875,
+                319.0
+            ],
+            [
+                763.9666748046875,
+                343.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "http://www.radarsync.com/faq"
+    },
+    {
+        "position": [
+            [
+                779.9666748046875,
+                319.0
+            ],
+            [
+                843.8166809082031,
+                343.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Site Map",
+        "on_click_jump_to": "http://www.radarsync.com/sitemap"
+    },
+    {
+        "position": [
+            [
+                859.816650390625,
+                319.0
+            ],
+            [
+                946.1333160400391,
+                343.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Email Policy",
+        "on_click_jump_to": "http://www.radarsync.com/emailpolicy"
+    },
+    {
+        "position": [
+            [
+                1647.4666748046875,
+                319.0
+            ],
+            [
+                1728.000015258789,
+                343.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Remove ad",
+        "on_click_jump_to": "https://www.plimus.com/jsp/buynow.jsp?contractId=2037866"
+    },
+    {
+        "position": [
+            [
+                896.183349609375,
+                396.5
+            ],
+            [
+                1023.8000183105469,
+                413.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Follow @RadarSync",
+        "on_click_jump_to": "https://twitter.com/RadarSync"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                8.0
+            ],
+            [
+                310.9499969482422,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.radarsync.com/assets/images/radarsync_header.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                415.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.radarsync.com/assets/images/bg_img.png"
+    }
+]

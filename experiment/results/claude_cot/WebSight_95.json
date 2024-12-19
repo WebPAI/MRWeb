@@ -1,0 +1,118 @@
+[
+    {
+        "position": [
+            [
+                1710.9166259765625,
+                16.0
+            ],
+            [
+                1754.5499572753906,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1770.550048828125,
+                16.0
+            ],
+            [
+                1830.4000396728516,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Courses",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1846.4000244140625,
+                16.0
+            ],
+            [
+                1904.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                69.0,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1622964318124-d87cb88d24e2?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NTN8&ixlib=rb-4.0.3&w=100&h=50"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                208.0
+            ],
+            [
+                1584.0,
+                464.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1628887591063-c69fce98101f?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NTR8&ixlib=rb-4.0.3&w=600&h=400"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                648.0
+            ],
+            [
+                1584.0,
+                904.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1708432331136-4b121bf5111c?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NTR8&ixlib=rb-4.0.3&w=600&h=400"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                1064.0
+            ],
+            [
+                1584.0,
+                1320.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1514533212735-5df27d970db0?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NTV8&ixlib=rb-4.0.3&w=600&h=400"
+    }
+]

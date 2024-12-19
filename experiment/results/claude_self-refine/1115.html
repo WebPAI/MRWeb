@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UNSW - Support for Families of International Students</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .wave-pattern {
+            background-color: #FFE000;
+            position: relative;
+            overflow: hidden;
+        }
+        .wave-pattern::after {
+            content: '';
+            position: absolute;
+            right: 0;
+            top: 50%;
+            width: 50%;
+            height: 100%;
+            background: repeating-radial-gradient(circle at right, #FFD700 0, transparent 10%);
+            transform: translateY(-50%);
+        }
+        .link-blue {
+            color: rgb(0, 86, 142);
+        }
+        .footer-bg {
+            background-color: #333333;
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+    <!-- Header -->
+    <header class="px-6 py-4 flex justify-between items-center">
+        <div class="flex items-center space-x-4">
+            <img src="https://www.student.unsw.edu.au/themes/custom/unsw_student/logo.svg" alt="UNSW Logo" class="h-16">
+            <a href="https://www.student.unsw.edu.au/" class="text-black text-xl">Current Students</a>
+        </div>
+        <nav class="flex items-center space-x-6 text-[#333333]">
+            <a href="#" class="hover:underline">myUNSW</a>
+            <a href="#" class="hover:underline">Moodle</a>
+            <a href="#" class="hover:underline">Handbook</a>
+            <a href="#" class="hover:underline">Library</a>
+            <a href="#" class="hover:underline">Email</a>
+        </nav>
+    </header>
+
+    <!-- Main Navigation -->
+    <nav class="flex justify-between px-8 py-4 border-t border-b">
+        <div class="flex space-x-8">
+            <a href="#" class="text-black py-2">Student Home</a>
+            <a href="#" class="text-black py-2">Getting Started</a>
+            <a href="#" class="text-black py-2">Managing Your Program</a>
+            <a href="#" class="text-black py-2">Support & Development</a>
+            <a href="#" class="text-black py-2">Campus Life</a>
+        </div>
+        <a href="#" class="text-black py-2">Sign On</a>
+    </nav>
+
+    <!-- Title Banner -->
+    <div class="wave-pattern py-8">
+        <h1 class="text-3xl font-bold px-8">Support for Families of International Students</h1>
+    </div>
+
+    <!-- Breadcrumb -->
+    <div class="px-8 py-4 text-gray-600">
+        <a href="#" class="hover:text-blue-600">Student</a> &gt;
+        <a href="#" class="hover:text-blue-600">International Students</a>
+    </div>
+
+    <!-- Main Content -->
+    <main class="px-8 py-6 flex gap-12">
+        <div class="w-1/2">
+            <p class="mb-8 text-gray-800 leading-relaxed">
+                There is a lot to organise – and with so much information needing to be taken in – we've put together a list of resources to help you understand the support services available to students, what it means to be a successful student at UNSW and how international students can get the most out of their time at UNSW.
+            </p>
+            
+            <ul class="space-y-6">
+                <li>Visit the <a href="#" class="link-blue hover:underline">International Student Concierge Service</a> where you will find all the information you need to help support your student's journey to Australia</li>
+                <li>Visit <a href="#" class="link-blue hover:underline">International Student Life</a> for advice and information on all aspects of university life at UNSW and in Sydney</li>
+                <li>Explore the different <a href="#" class="link-blue hover:underline">support and development services</a> available at UNSW in Australia to help support your student</li>
+                <li>Check out the <a href="#" class="link-blue hover:underline">Parents and Caregivers information session</a> to hear from Student Support Advisors and Cultural Mentors on all the services available and tips for new students.</li>
+                <li><a href="#" class="link-blue hover:underline">Student Support Advisors</a> are available for 1:1 consultations with enrolled UNSW students</li>
+                <li>If your student requires Mental Health support whilst studying, visit <a href="#" class="link-blue hover:underline">Mental Health Connect</a> for more information on how and where to seek support.</li>
+            </ul>
+        </div>
+        <div class="w-1/2">
+            <img src="https://www.student.unsw.edu.au/sites/default/files/styles/inline_image/public/page_image/Parenting%20guide_front%20cover_resize%202.jpg" 
+                 alt="Family photo" class="w-full rounded-lg">
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer-bg text-white px-8 py-12 mt-16">
+        <div class="flex gap-8 mb-8">
+            <a href="#" class="hover:underline">Website Feedback</a>
+            <a href="#" class="hover:underline">Contacts</a>
+            <a href="#" class="hover:underline">Sitemap</a>
+            <a href="#" class="hover:underline">A-Z Guide</a>
+            <a href="#" class="hover:underline">Student Home</a>
+        </div>
+        <div class="flex gap-8">
+            <a href="#" class="hover:underline">Privacy Policy</a>
+            <a href="#" class="hover:underline">Copyright & Disclaimer</a>
+            <a href="#" class="hover:underline">Accessibility</a>
+            <a href="#" class="hover:underline">Complaints</a>
+            <a href="#" class="hover:underline">UNSW Home</a>
+        </div>
+    </footer>
+</body>
+</html>

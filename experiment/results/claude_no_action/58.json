@@ -1,0 +1,56 @@
+[
+    {
+        "position": [
+            [
+                464.0,
+                743.5
+            ],
+            [
+                530.5,
+                764.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Back Pain",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                743.5
+            ],
+            [
+                1111.3333282470703,
+                764.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Bone Densitometry",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                488.0,
+                120.0
+            ],
+            [
+                584.0,
+                216.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/doctor-avatar.jpg"
+    }
+]

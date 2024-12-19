@@ -1,0 +1,156 @@
+[
+    {
+        "position": [
+            [
+                424.51666259765625,
+                19.5
+            ],
+            [
+                469.51666259765625,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1259.5,
+                18.0
+            ],
+            [
+                1305.5,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LOG IN",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1321.5,
+                18.0
+            ],
+            [
+                1384.5,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JOIN FREE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1400.5,
+                18.0
+            ],
+            [
+                1484.5,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ENGLISH (EN)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1500.5,
+                16.0
+            ],
+            [
+                1600.0,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "shopping_cart",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                88.5
+            ],
+            [
+                424.0,
+                107.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Personal blogs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                437.0,
+                88.5
+            ],
+            [
+                493.0,
+                107.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Wiki Post",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                140.0
+            ],
+            [
+                608.0,
+                164.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/profile-image.jpg"
+    }
+]

@@ -1,0 +1,256 @@
+[
+    {
+        "position": [
+            [
+                516.5,
+                0.0
+            ],
+            [
+                755.3833312988281,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About SALTO\nWhy? What? Where? When? Who?",
+        "on_click_jump_to": "https://www.salto-youth.net/about/"
+    },
+    {
+        "position": [
+            [
+                771.38330078125,
+                0.0
+            ],
+            [
+                1017.3332977294922,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Resource Centres\nOur activities and resources for you",
+        "on_click_jump_to": "https://www.salto-youth.net/rc/"
+    },
+    {
+        "position": [
+            [
+                1033.3333740234375,
+                0.0
+            ],
+            [
+                1290.4000244140625,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Tools\nFor European youth work and training",
+        "on_click_jump_to": "https://www.salto-youth.net/tools/"
+    },
+    {
+        "position": [
+            [
+                1306.4000244140625,
+                0.0
+            ],
+            [
+                1584.0000305175781,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "MySALTO\nLogin to your personal SALTO dashboard",
+        "on_click_jump_to": "https://www.salto-youth.net/mysalto/"
+    },
+    {
+        "position": [
+            [
+                592.4500122070312,
+                112.0
+            ],
+            [
+                777.2000122070312,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Find training offers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                793.2000122070312,
+                112.0
+            ],
+            [
+                965.7500152587891,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Your applications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                981.75,
+                112.0
+            ],
+            [
+                1229.9666595458984,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Manage your training offers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1245.9666748046875,
+                112.0
+            ],
+            [
+                1327.5333557128906,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Help",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1521.3333740234375,
+                170.0
+            ],
+            [
+                1600.0000457763672,
+                190.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "Login now!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                225.5
+            ],
+            [
+                367.51666259765625,
+                242.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "Start",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1012.63330078125,
+                279.0
+            ],
+            [
+                1151.5499725341797,
+                299.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "e-mail notifications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                918.7333374023438,
+                472.0
+            ],
+            [
+                1001.25,
+                492.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "back to top",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                8.0
+            ],
+            [
+                516.5,
+                72.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_direct/path_to_salto_logo.png"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                259.7166748046875,
+                21.5
+            ],
+            [
+                302.61668395996094,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                331.0,
+                21.5
+            ],
+            [
+                374.56666564941406,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                402.9500122070313,
+                21.5
+            ],
+            [
+                470.55001831054693,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Programs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                498.933349609375,
+                21.5
+            ],
+            [
+                553.6166839599609,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                227.71665954589844,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-logo.png"
+    }
+]

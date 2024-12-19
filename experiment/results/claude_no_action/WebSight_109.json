@@ -1,0 +1,62 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                17.5
+            ],
+            [
+                264.51666259765625,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#services"
+    },
+    {
+        "position": [
+            [
+                288.51666259765625,
+                17.5
+            ],
+            [
+                343.6499938964844,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Doctors",
+        "on_click_jump_to": "#doctors"
+    },
+    {
+        "position": [
+            [
+                367.6499938964844,
+                17.5
+            ],
+            [
+                453.81666564941406,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "#testimonials"
+    }
+]

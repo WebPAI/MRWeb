@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                19.0
+            ],
+            [
+                65.96665954589844,
+                41.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                55.0
+            ],
+            [
+                67.10000610351562,
+                77.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                91.0
+            ],
+            [
+                88.58332824707031,
+                113.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                127.0
+            ],
+            [
+                83.06666564941406,
+                149.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://example.com/your-image.jpg"
+    }
+]

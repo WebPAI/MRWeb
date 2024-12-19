@@ -1,0 +1,276 @@
+[
+    {
+        "position": [
+            [
+                1132.199951171875,
+                16.0
+            ],
+            [
+                1197.699951171875,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Surgeries",
+        "on_click_jump_to": "https://www.marham.pk/surgeries"
+    },
+    {
+        "position": [
+            [
+                1245.699951171875,
+                16.0
+            ],
+            [
+                1317.199951171875,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Medicines",
+        "on_click_jump_to": "https://www.marham.pk/medicine"
+    },
+    {
+        "position": [
+            [
+                1365.199951171875,
+                16.0
+            ],
+            [
+                1428.8166198730469,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Lab Tests",
+        "on_click_jump_to": "https://www.marham.pk/radiology-pathology-labs/pakistan"
+    },
+    {
+        "position": [
+            [
+                1476.816650390625,
+                16.0
+            ],
+            [
+                1508.6666564941406,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://www.marham.pk/healthblog"
+    },
+    {
+        "position": [
+            [
+                1556.6666259765625,
+                16.0
+            ],
+            [
+                1656.7332916259766,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Join as Doctor",
+        "on_click_jump_to": "https://www.marham.pk/register/doctor"
+    },
+    {
+        "position": [
+            [
+                1688.7333984375,
+                16.0
+            ],
+            [
+                1728.0000610351562,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Login",
+        "on_click_jump_to": "https://www.marham.pk/login"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                89.0
+            ],
+            [
+                234.89999389648438,
+                113.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.marham.pk/"
+    },
+    {
+        "position": [
+            [
+                273.1333312988281,
+                89.0
+            ],
+            [
+                448.0,
+                113.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Find a Doctor by Disease",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases"
+    },
+    {
+        "position": [
+            [
+                393.0,
+                242.5
+            ],
+            [
+                549.2666625976562,
+                269.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dr. Saba Samreen",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                393.0,
+                378.0
+            ],
+            [
+                488.71665954589844,
+                402.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Osteoarthritis",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                504.7166748046875,
+                378.0
+            ],
+            [
+                651.0333557128906,
+                402.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Rheumatoid Arthritis",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                667.0333251953125,
+                378.0
+            ],
+            [
+                882.5999908447266,
+                402.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Systemic Lupus Erythematosus",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                898.5999755859375,
+                378.0
+            ],
+            [
+                991.7999725341797,
+                402.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Osteoporosis",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                217.0,
+                242.0
+            ],
+            [
+                361.0,
+                386.0
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "position": [
+            [
+                588.75,
+                126.0
+            ],
+            [
+                631.8666687011719,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                647.86669921875,
+                126.0
+            ],
+            [
+                717.6500244140625,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Literature",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                733.6500244140625,
+                126.0
+            ],
+            [
+                801.0833587646484,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Grammar",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                817.0833129882812,
+                126.0
+            ],
+            [
+                901.2833251953125,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Study Skills",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                917.2833251953124,
+                126.0
+            ],
+            [
+                976.4666442871093,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                992.4666748046876,
+                126.0
+            ],
+            [
+                1140.9166870117188,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Current Student Info",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1156.9166259765625,
+                126.0
+            ],
+            [
+                1257.633285522461,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Useful Videos",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1273.63330078125,
+                126.0
+            ],
+            [
+                1331.2333068847656,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                782.2833251953125,
+                642.0
+            ],
+            [
+                1227.1833190917969,
+                662.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Create your own unique website with customizable templates",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                92.0
+            ],
+            [
+                1408.0,
+                116.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/clouds.jpg"
+    },
+    {
+        "position": [
+            [
+                544.0,
+                432.0
+            ],
+            [
+                1376.0,
+                456.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/church.jpg"
+    }
+]

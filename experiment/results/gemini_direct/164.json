@@ -1,0 +1,248 @@
+[
+    {
+        "position": [
+            [
+                1381.1666259765625,
+                46.5
+            ],
+            [
+                1466.5499572753906,
+                65.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Registration",
+        "on_click_jump_to": "http://www.eehealthbook.com/member_registration.php"
+    },
+    {
+        "position": [
+            [
+                1487.0,
+                46.5
+            ],
+            [
+                1533.25,
+                65.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "sign in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1562.5999755859375,
+                46.5
+            ],
+            [
+                1647.9999694824219,
+                65.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "sign up now",
+        "on_click_jump_to": "http://www.eehealthbook.com/member_registration.php"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                120.0
+            ],
+            [
+                266.68333435058594,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.eehealthbook.com/"
+    },
+    {
+        "position": [
+            [
+                298.683349609375,
+                120.0
+            ],
+            [
+                344.0333557128906,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Profile",
+        "on_click_jump_to": "http://www.eehealthbook.com/profile.php"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                220.0
+            ],
+            [
+                440.78334045410156,
+                244.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Abdominal Pain",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czE="
+    },
+    {
+        "position": [
+            [
+                272.0,
+                44.0
+            ],
+            [
+                307.6000061035156,
+                68.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/logo.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                0.0
+            ],
+            [
+                1712.0,
+                112.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/headerbg.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                112.0
+            ],
+            [
+                1712.0,
+                152.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/navbg.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                152.0
+            ],
+            [
+                1712.0,
+                156.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top.gif"
+    },
+    {
+        "position": [
+            [
+                96.0,
+                160.0
+            ],
+            [
+                100.0,
+                1155.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                1820.0,
+                160.0
+            ],
+            [
+                1824.0,
+                1155.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                96.0,
+                975.0
+            ],
+            [
+                1824.0,
+                979.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                172.0
+            ],
+            [
+                456.78334045410156,
+                264.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top.gif"
+    },
+    {
+        "position": [
+            [
+                488.7833251953125,
+                172.0
+            ],
+            [
+                1463.2166748046875,
+                380.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top.gif"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                24.0,
+                92.0
+            ],
+            [
+                86.05000305175781,
+                116.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "https://www.scottishahlulbaytsociety.org/first-aid-training-session/"
+    },
+    {
+        "position": [
+            [
+                102.0500030517578,
+                92.0
+            ],
+            [
+                191.9499969482422,
+                116.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "https://list.uvm.edu/cgi-bin/wa?A2=ind9506d&L=MEDLIB-L&P=106878"
+    },
+    {
+        "position": [
+            [
+                207.9499969482422,
+                92.0
+            ],
+            [
+                351.5,
+                116.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Insurance Providers",
+        "on_click_jump_to": "https://www.pcworld.com/article/135814/article.html"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                428.0
+            ],
+            [
+                124.4499969482422,
+                452.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "http://news.urbrainy.com/2019/04/15/10512/"
+    },
+    {
+        "position": [
+            [
+                140.4499969482422,
+                428.0
+            ],
+            [
+                262.71665954589844,
+                452.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "http://profile.nashikonline.in/one-touch-solution_2835154"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                560.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://source.unsplash.com/random/1600x900/?healthcare"
+    }
+]

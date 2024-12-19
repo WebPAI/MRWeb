@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All American Christmas Co.</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body class="bg-white">
+    <!-- Top Banner -->
+    <div class="bg-white text-red-600 text-sm py-2 px-4 text-right">
+        <span>Due to product and shipping price increases, all prices are subject to change through the 2021 season.</span>
+        <span class="font-bold">Minimum online order $25 | All orders must be placed online.</span>
+    </div>
+
+    <!-- Header -->
+    <header class="container mx-auto px-4">
+        <div class="flex justify-between items-center py-4">
+            <div class="text-2xl font-bold">
+                <span class="text-red-600">All American</span>
+                <span class="text-gray-600">Christmas Co.</span>
+            </div>
+            <div class="flex items-center space-x-4">
+                <div class="relative">
+                    <input type="text" placeholder="Search for a product, category and brand" 
+                           class="w-96 px-4 py-2 border rounded">
+                    <button class="absolute right-2 top-2">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div>
+                <div class="flex items-center space-x-4">
+                    <div class="relative">
+                        <i class="fas fa-shopping-cart"></i>
+                        <span class="bg-red-600 text-white text-xs rounded-full px-1 absolute -top-2 -right-2">0</span>
+                    </div>
+                    <div>
+                        <a href="#" class="text-sm">Login / Register</a>
+                    </div>
+                    <div>
+                        <a href="#" class="text-sm">My Account</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Navigation -->
+    <nav class="bg-black text-white">
+        <div class="container mx-auto">
+            <button class="px-4 py-2">SHOP BY CATEGORIES</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-8">
+        <div class="flex">
+            <!-- Sidebar Filters -->
+            <div class="w-1/4">
+                <div class="mb-8">
+                    <h3 class="font-bold mb-4">Sort Products</h3>
+                    <div class="space-y-4">
+                        <div>
+                            <h4 class="font-bold mb-2">BULB COLOR</h4>
+                            <div class="grid grid-cols-4 gap-2">
+                                <!-- Color squares here -->
+                            </div>
+                        </div>
+                        <div>
+                            <h4 class="font-bold mb-2">WIRE COLOR</h4>
+                            <div class="space-y-2">
+                                <label class="flex items-center">
+                                    <input type="checkbox" class="mr-2">
+                                    Green Wire
+                                </label>
+                                <!-- More wire options -->
+                            </div>
+                        </div>
+                        <!-- More filter options -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Product Grid -->
+            <div class="w-3/4 pl-8">
+                <div class="flex justify-between mb-8">
+                    <div class="flex items-center space-x-4">
+                        <span>SHOW</span>
+                        <select class="border px-2 py-1">
+                            <option>100 items per page</option>
+                        </select>
+                    </div>
+                    <div class="flex items-center space-x-4">
+                        <span>SORT BY</span>
+                        <select class="border px-2 py-1">
+                            <option>Featured</option>
+                        </select>
+                    </div>
+                </div>
+                
+                <div class="text-center py-8">
+                    <p>Sorry, there are no products in this collection.</p>
+                    <p class="mt-4">Get ready to take the plunge in LED for all your craft projects. LED craft lights are 20 count light strings made with a single, stackable, male plug...</p>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 py-8">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-4 gap-8">
+                <!-- Footer columns -->
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

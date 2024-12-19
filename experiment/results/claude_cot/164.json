@@ -1,0 +1,304 @@
+[
+    {
+        "position": [
+            [
+                1721.8499755859375,
+                40.0
+            ],
+            [
+                1769.1499633789062,
+                64.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "sign in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1785.1500244140625,
+                32.0
+            ],
+            [
+                1904.0000305175781,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Registration",
+        "on_click_jump_to": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/member_registration.php"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                120.0
+            ],
+            [
+                395.1166687011719,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                411.1166687011719,
+                120.0
+            ],
+            [
+                489.3000030517578,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Profile",
+        "on_click_jump_to": "file:///profile.php"
+    },
+    {
+        "position": [
+            [
+                505.2999877929687,
+                120.0
+            ],
+            [
+                614.7833251953125,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Symptoms",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                630.7833251953125,
+                120.0
+            ],
+            [
+                727.2499847412109,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Wellness",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                743.25,
+                120.0
+            ],
+            [
+                834.2833404541016,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "My Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                850.2833251953125,
+                120.0
+            ],
+            [
+                913.6499786376953,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GPS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                929.6500244140624,
+                120.0
+            ],
+            [
+                1080.1667022705078,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Medical Tourism",
+        "on_click_jump_to": "file:///medical_tourism.php"
+    },
+    {
+        "position": [
+            [
+                1096.1666259765625,
+                120.0
+            ],
+            [
+                1209.8166198730469,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contactus.php"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                258.0
+            ],
+            [
+                448.3333282470703,
+                278.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Abdominal Pain",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                290.0
+            ],
+            [
+                413.73333740234375,
+                310.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Chest Pain",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                322.0
+            ],
+            [
+                399.31666564941406,
+                342.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Dyspnea",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                0.0
+            ],
+            [
+                1600.0,
+                112.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/templates/images/logo.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                112.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/templates/images/headerbg.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                112.0
+            ],
+            [
+                1920.0,
+                168.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/templates/images/navbg.jpg"
+    }
+]

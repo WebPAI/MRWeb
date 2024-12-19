@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                1452.0999755859375,
+                63.5
+            ],
+            [
+                1511.0166320800781,
+                83.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Booking",
+        "on_click_jump_to": "https://aidanstoytrove.com/sorry-website-shipping-glitch/"
+    },
+    {
+        "position": [
+            [
+                1531.5166015625,
+                63.5
+            ],
+            [
+                1571.9665985107422,
+                83.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Deals",
+        "on_click_jump_to": "https://restaurantguru.com/Almond-Bar-Sydney"
+    },
+    {
+        "position": [
+            [
+                1592.4666748046875,
+                63.5
+            ],
+            [
+                1727.366683959961,
+                83.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Recommendations",
+        "on_click_jump_to": "https://www.novo-studio.com/novostudio-blog-arkansas-editorial-commercial-lifestyle-photography/?category=Antique+Cameras"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                48.0
+            ],
+            [
+                240.1666717529297,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1591117573987-3a481519705f?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1MjZ8&ixlib=rb-4.0.3&w=100&h=100"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?travel"
+    }
+]

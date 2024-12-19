@@ -1,0 +1,82 @@
+[
+    {
+        "position": [
+            [
+                1804.0,
+                16.0
+            ],
+            [
+                1840.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "#menu"
+    },
+    {
+        "position": [
+            [
+                1856.0,
+                16.0
+            ],
+            [
+                1904.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#contact"
+    },
+    {
+        "position": [
+            [
+                717.0,
+                552.5
+            ],
+            [
+                753.0,
+                571.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            209,
+            213,
+            219
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "#menu"
+    },
+    {
+        "position": [
+            [
+                773.0,
+                552.5
+            ],
+            [
+                821.0,
+                571.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            209,
+            213,
+            219
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#contact"
+    }
+]

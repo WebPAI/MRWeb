@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+    <!-- Header -->
+    <header class="bg-red-800 text-white p-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <h1 class="text-xl font-bold">digitallyOBSESSED.com</h1>
+            <span class="text-sm">the review site with a difference since 1999</span>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="bg-yellow-500">
+        <div class="container mx-auto flex justify-around text-white">
+            <a href="#" class="p-2 hover:bg-yellow-600">Reviews</a>
+            <a href="#" class="p-2 hover:bg-yellow-600">Interviews</a>
+            <a href="#" class="p-2 hover:bg-yellow-600">Articles</a>
+            <a href="#" class="p-2 hover:bg-yellow-600">Apps</a>
+            <a href="#" class="p-2 hover:bg-yellow-600">About</a>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container mx-auto p-4">
+        <section class="bg-white p-4 shadow-md">
+            <h2 class="text-lg font-bold mb-2">Visit</h2>
+            <ul class="list-disc pl-5">
+                <li><a href="#" class="text-blue-500 hover:underline">Zarban.com</a></li>
+                <li><a href="#" class="text-blue-500 hover:underline">Susi Heaven</a></li>
+                <li><a href="#" class="text-blue-500 hover:underline">Brand Perfect</a></li>
+                <li><a href="#" class="text-blue-500 hover:underline">Timor Nomad</a></li>
+            </ul>
+            <pre class="mt-4 p-2 bg-gray-100 overflow-auto">
+                // Sample code block
+                $query = "SELECT * FROM table";
+                $result = mysqli_query($conn, $query);
+                while($row = mysqli_fetch_assoc($result)) {
+                    echo $row['column'];
+                }
+            </pre>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white p-4 mt-4">
+        <div class="container mx-auto text-center">
+            <p>&copy; 1999-2023</p>
+        </div>
+    </footer>
+
+</body>
+</html>

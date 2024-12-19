@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Equipment Supplier</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .bg-overlay {
+            position: relative;
+        }
+        .bg-overlay::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.5);
+            z-index: 1;
+        }
+        .content {
+            position: relative;
+            z-index: 2;
+        }
+    </style>
+</head>
+<body>
+    <div class="relative h-[528px] w-full bg-overlay">
+        <!-- Background Image -->
+        <div class="absolute inset-0">
+            <img src="https://source.unsplash.com/random/1600x900/?medical" 
+                 class="w-full h-full object-cover"
+                 alt="Medical Equipment Background">
+        </div>
+        
+        <!-- Content -->
+        <div class="content relative h-full flex flex-col items-center justify-center px-4">
+            <h1 class="text-4xl font-bold text-white mb-6 text-center">
+                Medical Equipment Supplier
+            </h1>
+            <p class="text-white text-center max-w-3xl mx-auto leading-relaxed">
+                At our Medical Equipment Supplier, we are committed to providing the highest quality medical equipment to our customers. Our team of experts is dedicated to ensuring that our products are safe, reliable, and of the highest quality. We offer a wide range of medical equipment, from the latest surgical tools to advanced diagnostic equipment. Our products are designed to meet the needs of both basic and complex surgeries, and our team of experts is always available to provide you with the best advice and guidance.
+            </p>
+        </div>
+    </div>
+</body>
+</html>

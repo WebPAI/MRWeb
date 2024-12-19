@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                167.4166717529297,
+                28.0
+            ],
+            [
+                243.4166717529297,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Destinations",
+        "on_click_jump_to": "http://sunshinebeachhouse.blogspot.com/2011/09/white-beach-peregian-beach.html"
+    },
+    {
+        "position": [
+            [
+                263.41668701171875,
+                28.0
+            ],
+            [
+                321.41668701171875,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://forums.dansdeals.com/index.php?topic=28145.30"
+    },
+    {
+        "position": [
+            [
+                341.41668701171875,
+                28.0
+            ],
+            [
+                389.41668701171875,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://comicsstation.be/gangster-disciple-720-creed.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?travel"
+    }
+]

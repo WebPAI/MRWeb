@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-black flex items-center justify-center min-h-screen">
+    <div class="absolute top-4 left-4 flex items-center">
+        <div class="text-white text-3xl font-bold">t</div>
+        <input type="text" placeholder="Search Tumblr" class="ml-2 p-2 bg-gray-800 text-white rounded">
+    </div>
+    <button class="absolute top-4 right-4 bg-blue-500 text-white px-4 py-2 rounded">Sign up</button>
+    <div class="text-center text-white">
+        <h1 class="text-5xl font-bold mb-8">tumblr</h1>
+        <form class="space-y-4">
+            <input type="email" placeholder="Email" class="w-full p-3 rounded bg-white text-black">
+            <input type="password" placeholder="Password" class="w-full p-3 rounded bg-white text-black">
+            <button class="w-full bg-blue-500 text-white py-3 rounded">Log in</button>
+        </form>
+        <p class="text-sm mt-4">By clicking log in, or continuing with the other options below, you agree to Tumblr's <a href="#" class="underline">Terms of Service</a> and have read the <a href="#" class="underline">Privacy Policy</a>.</p>
+        <p class="mt-4">Forgot your password?</p>
+        <div class="flex items-center my-4">
+            <hr class="flex-grow border-gray-600">
+            <span class="mx-2">or</span>
+            <hr class="flex-grow border-gray-600">
+        </div>
+        <button class="w-full bg-white text-black py-3 rounded flex items-center justify-center">
+            <img src="google-icon.png" alt="Google" class="w-5 h-5 mr-2"> Continue with Google
+        </button>
+        <button class="w-full bg-white text-black py-3 rounded flex items-center justify-center mt-2">
+            <img src="apple-icon.png" alt="Apple" class="w-5 h-5 mr-2"> Continue with Apple
+        </button>
+        <p class="mt-4">New to Tumblr? <a href="#" class="underline">Sign up!</a></p>
+    </div>
+    <div class="absolute bottom-4 left-4 text-white text-sm">
+        <a href="#" class="mr-4">Terms</a>
+        <a href="#" class="mr-4">Privacy</a>
+        <a href="#" class="mr-4">Jobs</a>
+        <a href="#">Support</a>
+    </div>
+</body>
+</html>

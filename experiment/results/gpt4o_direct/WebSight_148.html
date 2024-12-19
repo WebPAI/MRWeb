@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art Gallery</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .background-image {
+            background-image: url('https://source.unsplash.com/random/1600x900/?art');
+            background-size: cover;
+            background-position: center;
+            height: 100vh;
+        }
+    </style>
+</head>
+<body class="background-image flex flex-col justify-between">
+
+    <div class="flex flex-col items-center justify-center text-center mt-32">
+        <h1 class="text-4xl font-bold text-white mb-4">WELCOME TO OUR ART GALLERY</h1>
+        <p class="text-lg text-white mb-8">Explore the world of art with us</p>
+        <button class="bg-white text-black font-semibold py-2 px-4 rounded-full shadow-lg">
+            BOOK NOW
+        </button>
+    </div>
+
+    <footer class="bg-gray-800 text-white py-4">
+        <div class="text-center">
+            <h2 class="text-xl font-bold mb-2">Featured Artists</h2>
+            <p class="text-sm">© 2022 Art Gallery. All rights reserved.</p>
+        </div>
+    </footer>
+
+</body>
+</html>

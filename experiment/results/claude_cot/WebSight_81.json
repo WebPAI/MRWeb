@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                50.0
+            ],
+            [
+                251.11666870117188,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                267.1166687011719,
+                50.0
+            ],
+            [
+                332.3833312988281,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Products",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                348.3833312988281,
+                50.0
+            ],
+            [
+                416.06666564941406,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                432.066650390625,
+                50.0
+            ],
+            [
+                489.6666564941406,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                120.0
+            ],
+            [
+                1408.0,
+                1464.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1612452830710-97cd38a7b6e8?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NDZ8&ixlib=rb-4.0.3&w=800&h=600"
+    }
+]

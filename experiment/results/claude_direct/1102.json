@@ -1,0 +1,264 @@
+[
+    {
+        "position": [
+            [
+                0.0,
+                130.0
+            ],
+            [
+                111.33332824707033,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Homepage",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                111.33332824707033,
+                130.0
+            ],
+            [
+                240.23333740234375,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Current issue",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/current-issue"
+    },
+    {
+        "position": [
+            [
+                240.23333740234375,
+                130.0
+            ],
+            [
+                326.48333740234375,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Archive",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/magarchive"
+    },
+    {
+        "position": [
+            [
+                326.48333740234375,
+                130.0
+            ],
+            [
+                441.68333435058594,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "For authors",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/rules-for-authors"
+    },
+    {
+        "position": [
+            [
+                441.683349609375,
+                130.0
+            ],
+            [
+                579.6500091552734,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Editorial Board",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/editorial"
+    },
+    {
+        "position": [
+            [
+                579.6500244140625,
+                130.0
+            ],
+            [
+                677.1500244140625,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contacts",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/contacts"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                203.5
+            ],
+            [
+                1069.1666259765625,
+                228.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Blood coagulation parameters in rats with acute radiation syndrome receiving activated carbon as a preventive remedy",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2019/04/blood-coagulation-parameters-in-rats-with-acute-radiation-syndrome-receiving-activated-carbon-as-a-preventive-remedy.html"
+    },
+    {
+        "position": [
+            [
+                1169.5833740234375,
+                248.0
+            ],
+            [
+                1248.0000457763672,
+                268.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            41,
+            128,
+            185
+        ],
+        "text": "Read More",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2019/04/blood-coagulation-parameters-in-rats-with-acute-radiation-syndrome-receiving-activated-carbon-as-a-preventive-remedy.html"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                246.0
+            ],
+            [
+                1904.0,
+                294.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "The Gerty Cori phenomenon: the first woman Nobel laureate in Physiology and Medicine",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                310.0
+            ],
+            [
+                1904.0,
+                358.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "NET-inducing diamond nanoparticles with adsorbed hydrophobic SARS-CoV-2 antigens serving as vaccine candidate",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                848.5333251953125,
+                410.0
+            ],
+            [
+                1071.4666442871094,
+                427.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "The Ukrainian Biochemical Journal",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                10.0
+            ],
+            [
+                215.0,
+                23.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Ukrbiochem2400.png"
+    },
+    {
+        "position": [
+            [
+                1731.0,
+                20.0
+            ],
+            [
+                1904.0,
+                33.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Biochem_banner2.jpg"
+    },
+    {
+        "position": [
+            [
+                1880.0,
+                138.0
+            ],
+            [
+                1904.0,
+                162.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/icons/ua.png"
+    }
+]

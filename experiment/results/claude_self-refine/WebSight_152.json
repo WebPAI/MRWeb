@@ -1,0 +1,36 @@
+[
+    {
+        "position": [
+            [
+                1484.433349609375,
+                16.0
+            ],
+            [
+                1584.000015258789,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Donate",
+        "on_click_jump_to": "https://www.the-american-catholic.com/2019/04/16/82551/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+AmericanCatholic+%28The+American+Catholic%29"
+    },
+    {
+        "position": [
+            [
+                810.0,
+                120.0
+            ],
+            [
+                1110.0,
+                314.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1706645740937-7b3a00e5a5d8?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NDF8&ixlib=rb-4.0.3&w=300&h=200"
+    }
+]

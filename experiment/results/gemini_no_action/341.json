@@ -1,0 +1,70 @@
+[
+    {
+        "position": [
+            [
+                1582.61669921875,
+                8.0
+            ],
+            [
+                1628.9833679199219,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "sign in!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1658.2833251953125,
+                8.0
+            ],
+            [
+                1711.999984741211,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "register!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                10.0
+            ],
+            [
+                224.0,
+                26.0
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                10.0
+            ],
+            [
+                248.0,
+                26.0
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+    }
+]

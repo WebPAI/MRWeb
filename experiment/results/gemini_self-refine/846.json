@@ -1,0 +1,372 @@
+[
+    {
+        "position": [
+            [
+                1563.38330078125,
+                8.0
+            ],
+            [
+                1623.4666290283203,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://aachristmas.com/pages/about-us"
+    },
+    {
+        "position": [
+            [
+                1639.4666748046875,
+                8.0
+            ],
+            [
+                1712.000015258789,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://aachristmas.com/pages/contact-us"
+    },
+    {
+        "position": [
+            [
+                1382.38330078125,
+                64.0
+            ],
+            [
+                1551.066635131836,
+                104.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "0\nShopping Cart",
+        "on_click_jump_to": "javascript:void(0)"
+    },
+    {
+        "position": [
+            [
+                1567.066650390625,
+                52.0
+            ],
+            [
+                1711.999984741211,
+                116.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Login / Register\nMy Account",
+        "on_click_jump_to": "https://aachristmas.com/account/login"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                134.0
+            ],
+            [
+                408.23333740234375,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SHOP BY CATEGORIES",
+        "on_click_jump_to": "javascript:void(0)"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                182.0
+            ],
+            [
+                251.11666870117188,
+                202.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://aachristmas.com/"
+    },
+    {
+        "position": [
+            [
+                269.8833312988281,
+                182.0
+            ],
+            [
+                388.9166717529297,
+                202.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "LED Craft Lights",
+        "on_click_jump_to": "https://aachristmas.com/collections/led-craft-lights?page=2"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                530.0
+            ],
+            [
+                668.3833312988281,
+                550.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            38,
+            22
+        ],
+        "text": "Trustpilot",
+        "on_click_jump_to": "https://www.trustpilot.com/review/aachristmas.com"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                52.0
+            ],
+            [
+                418.1000061035156,
+                116.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/logo.png?v=69452869812910067071632465252"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                416.0
+            ],
+            [
+                248.0,
+                440.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/color-1.png?v=141402373377547665121632465211"
+    },
+    {
+        "position": [
+            [
+                256.0,
+                416.0
+            ],
+            [
+                280.0,
+                440.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/color-7.png?v=26131787851120591111632465221"
+    },
+    {
+        "position": [
+            [
+                288.0,
+                416.0
+            ],
+            [
+                312.0,
+                440.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/color-8.png?v=135165919008317900391632465222"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                416.0
+            ],
+            [
+                344.0,
+                440.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/color-12.png?v=30812424262388906281632465213"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                416.0
+            ],
+            [
+                376.0,
+                440.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/color-15.png?v=81442529641090496491632465215"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                416.0
+            ],
+            [
+                408.0,
+                440.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/color-16.png?v=167816324597267738971632465215"
+    },
+    {
+        "position": [
+            [
+                416.0,
+                416.0
+            ],
+            [
+                440.0,
+                440.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/color-17.png?v=15455412677251641961632465216"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                416.0
+            ],
+            [
+                472.0,
+                440.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/color-18.png?v=59709109903547386661632465217"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                416.0
+            ],
+            [
+                504.0,
+                440.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/color-19.png?v=18660416617256264001632465217"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                416.0
+            ],
+            [
+                536.0,
+                440.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/color-20.png?v=48425070933182224911632465218"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1144.0
+            ],
+            [
+                240.0,
+                1176.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/social.png?v=148254472376652611131632465264"
+    },
+    {
+        "position": [
+            [
+                256.0,
+                1144.0
+            ],
+            [
+                288.0,
+                1176.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/social.png?v=148254472376652611131632465264"
+    },
+    {
+        "position": [
+            [
+                304.0,
+                1144.0
+            ],
+            [
+                336.0,
+                1176.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/social.png?v=148254472376652611131632465264"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                1144.0
+            ],
+            [
+                384.0,
+                1176.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/social.png?v=148254472376652611131632465264"
+    }
+]

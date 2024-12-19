@@ -1,0 +1,992 @@
+[
+    {
+        "position": [
+            [
+                32.0,
+                18.0
+            ],
+            [
+                164.6666717529297,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "LIVEJOURNAL",
+        "on_click_jump_to": "https://www.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                180.6666717529297,
+                20.0
+            ],
+            [
+                242.96665954589844,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET PRO",
+        "on_click_jump_to": "https://www.livejournal.com/shop/profaccount.bml?ila_campaign=ex_shop_pro&ila_location=site_menu&ila_context=pro"
+    },
+    {
+        "position": [
+            [
+                258.9666748046875,
+                20.0
+            ],
+            [
+                294.933349609375,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HELP",
+        "on_click_jump_to": "https://www.livejournal.com/support/"
+    },
+    {
+        "position": [
+            [
+                1555.63330078125,
+                20.0
+            ],
+            [
+                1606.2666320800781,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LOG IN",
+        "on_click_jump_to": "https://www.livejournal.com/login.bml?returnto=https%3A%2F%2Fbobby1933.livejournal.com%2F662135.html&ret=1"
+    },
+    {
+        "position": [
+            [
+                1622.2666015625,
+                16.0
+            ],
+            [
+                1726.2332763671875,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JOIN FREE",
+        "on_click_jump_to": "https://www.livejournal.com/create"
+    },
+    {
+        "position": [
+            [
+                1742.2333984375,
+                20.0
+            ],
+            [
+                1839.050064086914,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ENGLISH (EN)",
+        "on_click_jump_to": "https://www.livejournal.com/manage/settings/?cat=display"
+    },
+    {
+        "position": [
+            [
+                323.0,
+                127.0
+            ],
+            [
+                407.9499969482422,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "bobby1933",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                323.0,
+                153.0
+            ],
+            [
+                375.0,
+                172.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "PROFILE",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/profile/"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                228.5
+            ],
+            [
+                311.1000061035156,
+                249.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "June 2020",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/2020/06/"
+    },
+    {
+        "position": [
+            [
+                258.0,
+                267.0
+            ],
+            [
+                264.0,
+                283.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "3",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/2020/06/03/"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                350.5
+            ],
+            [
+                343.0,
+                369.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "View All Archives",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/calendar/"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                411.0
+            ],
+            [
+                325.0,
+                427.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "\"the gift of fear\"",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/tag/%22the%20gift%20of%20fear%22"
+    },
+    {
+        "position": [
+            [
+                328.0,
+                411.0
+            ],
+            [
+                366.0,
+                427.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": ".sufism",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/tag/.sufism"
+    },
+    {
+        "position": [
+            [
+                369.0,
+                411.0
+            ],
+            [
+                460.0,
+                427.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "12 step programs",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/tag/12%20step%20programs"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                411.0
+            ],
+            [
+                546.0,
+                443.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "View my Tags page",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/tag/"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                499.0
+            ],
+            [
+                303.0,
+                515.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "ext_5906067",
+        "on_click_jump_to": "https://ext-5906067.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                531.0
+            ],
+            [
+                283.0,
+                547.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Al Anon",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/881675.html?thread=3235595"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                612.0
+            ],
+            [
+                314.0,
+                628.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Not There Yet.",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/877629.html?thread=3235389"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                644.0
+            ],
+            [
+                424.0,
+                660.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "http://israelxxxporn.amandahot.cc",
+        "on_click_jump_to": "http://israelxxxporn.amandahot.cc/"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                741.0
+            ],
+            [
+                314.0,
+                757.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Not There Yet.",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/877629.html?thread=3235133"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                773.0
+            ],
+            [
+                424.0,
+                789.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "http://hot.potnstars.relayblog.com",
+        "on_click_jump_to": "http://hot.potnstars.relayblog.com/"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                870.0
+            ],
+            [
+                314.0,
+                886.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Not There Yet.",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/877629.html?thread=3234877"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                902.0
+            ],
+            [
+                420.0,
+                918.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "http://taylorcrossporn.soccerbabe",
+        "on_click_jump_to": "http://taylorcrossporn.soccerbabe/"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                999.0
+            ],
+            [
+                314.0,
+                1015.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Not There Yet.",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/877629.html?thread=3234621"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                1031.0
+            ],
+            [
+                464.0,
+                1047.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "http://avatar.porn.bloglag.com/?madyson",
+        "on_click_jump_to": "http://avatar.porn.bloglag.com/?madyson"
+    },
+    {
+        "position": [
+            [
+                393.48333740234375,
+                1095.0
+            ],
+            [
+                479.48333740234375,
+                1111.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "LiveJournal.com",
+        "on_click_jump_to": "https://www.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                403.0,
+                1111.0
+            ],
+            [
+                473.0,
+                1127.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Tiffany Chow",
+        "on_click_jump_to": "http://tiffany.vox.com/"
+    },
+    {
+        "position": [
+            [
+                632.0,
+                112.0
+            ],
+            [
+                732.1333312988281,
+                140.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "BOBBY1933",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                1614.11669921875,
+                114.0
+            ],
+            [
+                1658.2166900634766,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "MORE",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                489.5
+            ],
+            [
+                799.8666687011719,
+                510.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "bobby1933",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                632.0,
+                552.5
+            ],
+            [
+                748.0,
+                571.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "gnosis and agnosis",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/tag/gnosis%20and%20agnosis"
+    },
+    {
+        "position": [
+            [
+                755.0,
+                552.5
+            ],
+            [
+                818.0,
+                571.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "singularity",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/tag/singularity"
+    },
+    {
+        "position": [
+            [
+                632.0,
+                572.5
+            ],
+            [
+                740.0,
+                591.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Leave a comment",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/662135.html?mode=reply"
+    },
+    {
+        "position": [
+            [
+                744.0,
+                572.5
+            ],
+            [
+                778.0,
+                591.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Share",
+        "on_click_jump_to": "https://www.livejournal.com/update.bml?repost_type=c&repost=https://bobby1933.livejournal.com/662135.html&nodraft=1"
+    },
+    {
+        "position": [
+            [
+                782.0,
+                572.5
+            ],
+            [
+                807.0,
+                591.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Flag",
+        "on_click_jump_to": "https://www.livejournal.com/tools/content_flag.bml?user=bobby1933&itemid=662135"
+    },
+    {
+        "position": [
+            [
+                811.0,
+                572.5
+            ],
+            [
+                836.0,
+                591.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Link",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/662135.html"
+    },
+    {
+        "position": [
+            [
+                632.0,
+                936.0
+            ],
+            [
+                720.0,
+                956.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Previous Entry",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/661799.html"
+    },
+    {
+        "position": [
+            [
+                1616.0,
+                936.0
+            ],
+            [
+                1680.0,
+                956.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Next Entry",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/662486.html"
+    },
+    {
+        "position": [
+            [
+                632.0,
+                974.0
+            ],
+            [
+                1058.4500122070312,
+                998.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            147,
+            183
+        ],
+        "text": "Walter M. Miller, Jr. - Wikipedia, the free encyclopedia",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/662135.html"
+    },
+    {
+        "position": [
+            [
+                632.0,
+                1000.5
+            ],
+            [
+                958.0,
+                1019.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Walter M. Miller, Jr. - Wikipedia, the free encyclopedia",
+        "on_click_jump_to": "http://en.wikipedia.org/wiki/Walter_M._Miller,_Jr."
+    },
+    {
+        "position": [
+            [
+                632.0,
+                1020.5
+            ],
+            [
+                748.0,
+                1039.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "gnosis and agnosis",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/tag/gnosis%20and%20agnosis"
+    },
+    {
+        "position": [
+            [
+                752.0,
+                1020.5
+            ],
+            [
+                815.0,
+                1039.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "singularity",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/tag/singularity"
+    },
+    {
+        "position": [
+            [
+                632.0,
+                1040.5
+            ],
+            [
+                740.0,
+                1059.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Leave a comment",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/662135.html?mode=reply"
+    },
+    {
+        "position": [
+            [
+                744.0,
+                1040.5
+            ],
+            [
+                778.0,
+                1059.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Share",
+        "on_click_jump_to": "https://www.livejournal.com/update.bml?repost_type=c&repost=https://bobby1933.livejournal.com/662135.html&nodraft=1"
+    },
+    {
+        "position": [
+            [
+                782.0,
+                1040.5
+            ],
+            [
+                807.0,
+                1059.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Flag",
+        "on_click_jump_to": "https://www.livejournal.com/tools/content_flag.bml?user=bobby1933&itemid=662135"
+    },
+    {
+        "position": [
+            [
+                811.0,
+                1040.5
+            ],
+            [
+                836.0,
+                1059.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Link",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/662135.html"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                112.0
+            ],
+            [
+                315.0,
+                187.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://l-userpic.livejournal.com/94332107/16777035"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                483.0
+            ],
+            [
+                256.0,
+                499.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://l-stat.livejournal.net/img/userinfo_v8.svg?v=17080&v=777"
+    },
+    {
+        "position": [
+            [
+                1590.11669921875,
+                118.0
+            ],
+            [
+                1606.11669921875,
+                134.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://l-stat.livejournal.net/img/userinfo_v8.svg?v=17080&v=777"
+    },
+    {
+        "position": [
+            [
+                632.0,
+                156.0
+            ],
+            [
+                1572.0,
+                416.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://l-stat.livejournal.net/voxhtml/bookworm-white/header.png?v=1"
+    },
+    {
+        "position": [
+            [
+                632.0,
+                480.0
+            ],
+            [
+                712.0,
+                544.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://l-userpic.livejournal.com/94332107/16777035"
+    }
+]

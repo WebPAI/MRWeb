@@ -1,0 +1,296 @@
+[
+    {
+        "position": [
+            [
+                11.0,
+                185.46665954589844
+            ],
+            [
+                76.30000305175781,
+                201.46665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Date view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/date.php"
+    },
+    {
+        "position": [
+            [
+                136.48333740234375,
+                185.46665954589844
+            ],
+            [
+                216.88333129882812,
+                201.46665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Thread view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/index.php"
+    },
+    {
+        "position": [
+            [
+                289.683349609375,
+                185.46665954589844
+            ],
+            [
+                372.7833557128906,
+                201.46665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Subject view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/subject.php"
+    },
+    {
+        "position": [
+            [
+                447.8333129882813,
+                185.46665954589844
+            ],
+            [
+                528.2666473388672,
+                201.46665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Author view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/author.php"
+    },
+    {
+        "position": [
+            [
+                51.0,
+                249.86666870117188
+            ],
+            [
+                144.76666259765625,
+                265.8666687011719
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Next message:",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5721.php"
+    },
+    {
+        "position": [
+            [
+                51.0,
+                271.066650390625
+            ],
+            [
+                169.68333435058594,
+                287.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Previous message:",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5719.php"
+    },
+    {
+        "position": [
+            [
+                51.0,
+                292.26666259765625
+            ],
+            [
+                146.98333740234375,
+                308.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Next in thread:",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5726.php"
+    },
+    {
+        "position": [
+            [
+                51.0,
+                313.4666748046875
+            ],
+            [
+                93.66667175292969,
+                329.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Reply:",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5726.php"
+    },
+    {
+        "position": [
+            [
+                91.43333435058594,
+                423.066650390625
+            ],
+            [
+                209.38333129882812,
+                439.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "http://gcc.gnu.org/",
+        "on_click_jump_to": "http://gcc.gnu.org/"
+    },
+    {
+        "position": [
+            [
+                11.0,
+                573.066650390625
+            ],
+            [
+                76.30000305175781,
+                589.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Date view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/date.php"
+    },
+    {
+        "position": [
+            [
+                160.10000610351562,
+                573.066650390625
+            ],
+            [
+                240.5,
+                589.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Thread view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/index.php"
+    },
+    {
+        "position": [
+            [
+                342.2166748046875,
+                573.066650390625
+            ],
+            [
+                425.3166809082031,
+                589.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Subject view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/subject.php"
+    },
+    {
+        "position": [
+            [
+                530.2166748046875,
+                573.066650390625
+            ],
+            [
+                610.6500091552734,
+                589.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Author view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/author.php"
+    },
+    {
+        "position": [
+            [
+                121.26666259765624,
+                596.2666625976562
+            ],
+            [
+                708.3999633789062,
+                612.2666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "bdawes at acm.org, gregod at cs.rpi.edu, cpdaniel at pacbell.net, john at johnmaddock.co.uk",
+        "on_click_jump_to": "mailto:boost-owner@lists.boost.org"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                8.0
+            ],
+            [
+                285.0,
+                94.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://lists.boost.org/boost/images/boost.png"
+    }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "position": [
+            [
+                1328.13330078125,
+                20.0
+            ],
+            [
+                1425.2833099365234,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About SALTO",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1441.2833251953125,
+                20.0
+            ],
+            [
+                1570.6166534423828,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resource Centres",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1586.61669921875,
+                20.0
+            ],
+            [
+                1624.9500274658203,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Tools",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1640.949951171875,
+                20.0
+            ],
+            [
+                1711.9999542236328,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MySALTO",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                353.3500061035156,
+                206.0
+            ],
+            [
+                432.01666259765625,
+                226.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Login now!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                296.9666748046875,
+                261.5
+            ],
+            [
+                328.4833526611328,
+                278.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Start",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                883.63330078125,
+                314.0
+            ],
+            [
+                1034.1166381835938,
+                334.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "e-mail notifications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1200.7166748046875,
+                686.0
+            ],
+            [
+                1448.7666778564453,
+                706.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "http://www.salto-youth.net/TicTac/",
+        "on_click_jump_to": "http://www.salto-youth.net/TicTac/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                770.0
+            ],
+            [
+                545.4666748046875,
+                790.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "TICTACInfoPACKforParticipants2009-2010.pdf",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                228.0,
+                1010.0
+            ],
+            [
+                487.5333251953125,
+                1030.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "http://trainings.salto-youth.net/1772",
+        "on_click_jump_to": "http://trainings.salto-youth.net/1772"
+    },
+    {
+        "position": [
+            [
+                918.7333374023438,
+                1614.0
+            ],
+            [
+                1001.25,
+                1634.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "back to top",
+        "on_click_jump_to": "#top"
+    }
+]

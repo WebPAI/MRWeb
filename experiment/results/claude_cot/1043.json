@@ -1,0 +1,310 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                2.0
+            ],
+            [
+                56.28334045410156,
+                26.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://www.vcstar.com/news/"
+    },
+    {
+        "position": [
+            [
+                72.28334045410156,
+                2.0
+            ],
+            [
+                120.08332824707031,
+                26.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sports",
+        "on_click_jump_to": "https://www.vcstar.com/sports/"
+    },
+    {
+        "position": [
+            [
+                136.0833282470703,
+                2.0
+            ],
+            [
+                192.0,
+                26.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Opinion",
+        "on_click_jump_to": "https://www.vcstar.com/opinion/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2.0
+            ],
+            [
+                309.96665954589844,
+                26.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Entertainment",
+        "on_click_jump_to": "https://www.vcstar.com/entertainment/"
+    },
+    {
+        "position": [
+            [
+                325.9666748046875,
+                2.0
+            ],
+            [
+                398.15000915527344,
+                26.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Education",
+        "on_click_jump_to": "https://www.vcstar.com/news/schoolwatch/"
+    },
+    {
+        "position": [
+            [
+                414.1499938964844,
+                2.0
+            ],
+            [
+                482.48333740234375,
+                26.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Advertise",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                498.48333740234375,
+                2.0
+            ],
+            [
+                573.0,
+                26.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Obituaries",
+        "on_click_jump_to": "https://www.vcstar.com/obituaries"
+    },
+    {
+        "position": [
+            [
+                589.0,
+                2.0
+            ],
+            [
+                680.1166687011719,
+                26.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "eNewspaper",
+        "on_click_jump_to": "https://user.vcstar.com/user/enewspaper"
+    },
+    {
+        "position": [
+            [
+                696.11669921875,
+                2.0
+            ],
+            [
+                743.0666961669922,
+                26.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Legals",
+        "on_click_jump_to": "https://www.vcstar.com/public-notices"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                62.0
+            ],
+            [
+                463.6666717529297,
+                82.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "SPORTS",
+        "on_click_jump_to": "https://www.vcstar.com/sports/"
+    },
+    {
+        "position": [
+            [
+                460.0,
+                112.0
+            ],
+            [
+                539.2333374023438,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "Joe Curley",
+        "on_click_jump_to": "https://www.vcstar.com/staff/4406685002/joe-curley/"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                956.7999877929688
+            ],
+            [
+                656.0,
+                980.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                988.7999877929688
+            ],
+            [
+                656.0,
+                1012.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Staff Directory",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                1020.7999877929688
+            ],
+            [
+                656.0,
+                1044.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                100.0
+            ],
+            [
+                448.0,
+                148.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.vcstar.com/gcdn/presto/2019/05/08/PVCS/41b2551a-fdbb-42a6-bd7e-dec0571482c1-Joe_Curley.JPG"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                172.0
+            ],
+            [
+                1520.0,
+                804.7999877929688
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.vcstar.com/gcdn/-mm-/be136a0966053d026512148c6177cbcde4d8e977/c=0-158-3000-1853/local/-/media/2017/09/12/Camarillo/Camarillo/636408457297776586-Kobe24.jpg"
+    }
+]

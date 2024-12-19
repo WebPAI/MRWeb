@@ -1,0 +1,1270 @@
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><!-- 
+ single html processed by https://github.com/zTrix/webpage2html
+ title: Terms | DWSE
+ url: https://dwse.org/index.php/terms
+ date: Thu Aug 22 22:38:03 2024
+--><head>
+
+
+
+
+
+
+
+
+
+
+<style data-href="https://dwse.org/tmp/cache/stylesheet_51_1527292466.css" media="all" rel="stylesheet" type="text/css">/* littlepig css for DWSE */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+/* ------- @Nuno Costa [criacaoweb.net] Utils CSS. ---------- */
+* {
+	font-weight: inherit;
+	font-style: inherit;
+	font-family: inherit;
+}
+dfn {
+	display: none;
+	overflow: hidden;
+}
+/* ----------- Clear Floated Elements ----------- */
+html body .util-clearb {
+	background: none;
+	border: 0;
+	clear: both;
+	display: block;
+	float: none;
+	font-size: 0;
+	margin: 0;
+	padding: 0;
+	position: static;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+}
+/* ----------- Fix to Clear Floated Elements ----------- */
+.util-clearfix:after {
+	clear: both;
+	content: '.';
+	display: block;
+	visibility: hidden;
+	height: 0;
+}
+.util-clearfix {
+	display: inline-block;
+}
+* html .util-clearfix {
+	height: 1%;
+}
+.util-clearfix {
+	display: block;
+}
+
+.core-wrap-100 {
+	width: 100%;
+}
+.core-wrap-960 {
+	width: 960px;
+}
+.core-wrap-780 {
+	width: 780px;
+}
+.core-wrap-100,
+.core-wrap-960,
+.core-wrap-780,
+.custom-wrap-x {
+	margin-left: auto;
+	margin-right: auto;
+}
+/*----------- Global Float ----------- */
+.core-wrap-100  .core-float-left,
+.core-wrap-960  .core-float-left,
+.core-wrap-780  .core-float-left,
+.custom-wrap-x  .core-float-left {
+	float: left;
+	display: inline;
+}
+.core-wrap-100  .core-float-right,
+.core-wrap-960  .core-float-right,
+.core-wrap-780  .core-float-right,
+.custom-wrap-x  .core-float-right {
+	float: right;
+	display: inline;
+}
+/*----------- Global Center ----------- */
+.core-wrap-100   .core-center,
+.core-wrap-960   .core-center,
+.core-wrap-780   .core-center,
+.custom-wrap-x   .core-center {
+	margin-left: auto;
+	margin-right: auto;
+}
+/*  
+main ncleanblue layout
+*/
+body {
+/* default text for entire site */
+	font: normal 0.8em  Verdana, Tahoma, Arial, Helvetica, sans-serif;
+  letter-spacing:normal;
+/* default text color for entire site */
+	color:#1b1b1b;
+	background-color: #1A1A1A;
+/* you can set your own image and background color here */
+background: url(http://dwse.org/images/black_denim.gif) repeat scroll left top; 
+}
+
+/* Mask helper  for browsers ZOOM, Rezise and Decrease */
+#ncleanblue {
+/* set to width of viewport */
+	width: auto;
+
+/* you can set your own image and background color here */
+/*	background: #fff url(http://dwse.org/uploads/images/bg.png) repeat-x scroll left top;*/
+}
+/* wiki style external links */
+/* external links will have "(external link)" text added, lets hide it */
+a.external span {
+	position: absolute;
+	left: -5000px;
+	width: 4000px;
+}
+a.external {
+/* make some room for the image, css shorthand rules, read: first top padding 0 then right padding 12px then bottom then right */
+	padding: 0 12px 0 0;
+border-bottom:none;
+
+}
+/* colors for external links */
+a.external:link {
+	color: #6b0002;
+border-bottom:none;
+/* background image for the link to show wiki style arrow */
+	background: url(http://dwse.org/images/cms/external.gif) no-repeat 100% -100px;
+}
+a.external:visited {
+	color: #6b0002;
+border-bottom:none;
+/* a different color can be used for visited external links */
+/* Set the last 0 to -100px to use that part of the external.gif image for different color for active links external.gif is actually 300px tall, we can use different positions of the image to simulate rollover image changes.*/
+	background: url(http://dwse.org/images/cms/external.gif) no-repeat 100% -100px;
+}
+a.external:hover {
+	color: #18507C;
+border-bottom:none;
+/* Set the last 0 to -200px to use that part of the external.gif image for different color on hover */
+	background: url(http://dwse.org/images/cms/external.gif) no-repeat 100% 0;
+	background-color: inherit;
+}
+/* end wiki style external links */
+/* hr and anything with the class of accessibility is hidden with CSS from visual browsers */
+.accessibility, hr {
+/* absolute lets us put it outside the viewport with the indents, the rest is to clear all defaults */
+	position: absolute;
+	top: -9999em;
+	left: -9999em;
+	background: none;
+	border: 0;
+	clear: both;
+	display: block;
+	float: none;
+	font-size: 0;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	visibility: hidden;
+	width: 0;
+	height: 0;
+	border: none;
+}
+/* ------------ Standard  HTML elements and their default settings ------------ */
+b, strong{font-weight: bold;color:#1A1A1A;}i, em{	font-style: italic;}
+p {
+   padding: 0;
+   margin-top: 0.5em;
+   margin-bottom: 1em;
+   text-align:left;
+   font-family: Verdana,Geneva,Helvetica,Sans-Serif;
+   font-size:12px;
+   line-height:16px;
+
+}
+h1, h2, h3, h4, h5 {
+	line-height: 1.6em;
+	font-weight: normal;
+	width: auto;
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+.facebook {
+
+margin-top:-145px;
+font-size:0px;
+line-height:0px;
+
+}
+/*default link styles*/
+a {
+	color: #1b1b1b;
+	text-decoration: none;
+	text-align: left;
+border-bottom:dotted 1px #6b0002;
+}
+
+a:active {
+	color: #6A0002;
+border-bottom:dotted 1px #6b0002;
+}
+a:visited {
+	color: #1b1b1b;
+border-bottom:dotted 1px #6b0002;
+}
+a:hover {
+	color: #6A0002;
+border-bottom:dotted 1px #6b0002;
+}
+.right49 a {
+border-bottom:none;
+}
+input, textarea, select {
+	font-size: 0.95em;
+}
+/* ------------ Wrapper ------------ */
+div#pagewrapper {
+
+	position: relative;
+	z-index: 1;
+	background-color: #fff;
+}
+/* ------------ Header ------------ */
+#header {
+	height: 110px;
+	width: 960px;
+	background-color: #9f1118;
+	margin-top:1px;
+	-webkit-border-bottom-left-radius: 15px;
+-webkit-border-bottom-right-radius: 15px;
+-moz-border-radius-bottomleft: 15px;
+-moz-border-radius-bottomright: 15px;
+	-webkit-border-top-left-radius: 15px;
+-webkit-border-top-right-radius: 15px;
+-moz-border-radius-topleft: 15px;
+-moz-border-radius-topright: 15px;
+border-radius: 15px 15px 15px 15px;
+behavior: url(data:image/png;base64,);}
+
+#logo a {
+/* adjust according your image size */
+height:115px;
+	width: 960px;
+/* forces full link size */
+	display: block;
+/* this hides the text */
+	text-indent: -9999em;
+	margin-top: 0;
+	margin-left: 0;
+/* you can set your own image here, note size adjustments */
+	background: url(http://dwse.org/uploads/images/bannerblue2.png) no-repeat left top;
+border-bottom:none;
+}
+/* ------------ Header - Search ------------ */
+div#search {
+	width: auto;
+	height: 28px;
+	margin-bottom: 10px;
+}
+div#search label {
+	text-indent: -9999em;
+	height: 0pt;
+	width: 0pt;
+	display: none;
+}
+
+
+
+div#search input {
+/* specific size for image, your image may need these adjusted */
+	width: 300px;
+	height: 17px;
+	border-style: solid;
+	border-color: #170D07;
+	border-width: 1px;
+	color: #1A1A1A;
+	padding: 7px 0px 4px 10px;
+	float: left;
+	font: bold 1.2em Arial, Helvetica, sans-serif;
+
+}
+div#search input.search-button {
+/* specific size for image, your image may need these adjusted */
+	width: 78px;
+	height: 30px;
+/* removes default borders, allows use of image */
+	border-style: solid;
+	border-color: #FFF;
+	border-width: 1px;
+padding: 0px;
+font-size: 1.3em;
+	
+/* hides text, image has text 
+	text-indent: -9999em;*/
+	float: left;
+	margin: 0;
+/* provides positive hover effect */
+	cursor: pointer;
+/* removes default size/height */
+	font-size: 10px;
+
+/* submit button image, set your own here 
+	background: transparent url(http://dwse.org/uploads/NCleanBlue/search.png) no-repeat right top;*/
+}
+/* ------------ Content ------------ */
+#content {
+	width: auto;
+/* all text in #content will default align left, changed in other calls */
+	text-align: left;
+margin-bottom:5px;
+}
+#bar {
+	width: auto;
+	height: 24px;
+	padding-right: 1em;
+	padding-left: 1em;
+background-color:#000;
+}
+.print {
+	margin-right: 75px;
+	margin-top: 10px;
+}
+#version {
+	width: 50px;
+	height: 31px;
+	position: absolute;
+	z-index: 5;
+	top: 130px;
+	right: -16px;
+	font-size: 1.6em;
+	font-weight: bold;
+	padding: 28px 15px;
+	color: #FFF;
+	text-align: center;
+	vertical-align: middle;
+	background:  url(http://dwse.org/uploads/NCleanBlue/version.png) no-repeat left top;
+}
+/* IE6 fixes */
+* html div#version {
+	top: 150px;
+}
+/* End IE6 fixes */
+/* Site Title */
+h1.title {
+	font-size: 1.8em;
+	color: #666666;
+	margin-bottom: 0.5em;
+}
+/* Breadcrumbs */
+div.breadcrumbs {
+	padding: 0.5em 0;
+	font-size: 80%;
+	margin: 0 1em;
+	color:yellow;
+}
+div.breadcrumbs span.lastitem {
+	font-weight: bold;
+	color:#fff;
+}
+/* ------------ Side Bar (Left) ------------ */
+#left {
+	width: 200px;
+	margin-top:0px;
+
+}
+/* Image that Represents the new CMS design */
+#left .screen {
+	margin: 10px 50px;
+}
+/* End  */
+.sbar-title {
+	font-size: 1.8em;
+	color: #666666;
+	margin-bottom: 0.5em;
+	padding-left:10px;
+}
+.sbar-top {
+	height: 15px;
+	width: auto;
+background-color:#FDFDFD;
+	-webkit-border-top-left-radius: 15px;
+-webkit-border-top-right-radius: 15px;
+-moz-border-radius-topleft: 15px;
+-moz-border-radius-topright: 15px;
+border-radius: 15px 15px 0px 0px;
+behavior: url(data:image/png;base64,);
+}
+.sbar-main {
+	width: auto;
+/*	border-right: 1px solid #E2E2E2;
+	border-left: 1px solid #E2E2E2; */
+	background: #FDFDFD;
+}
+span.sbar-bottom {
+	width: auto;
+	display: block;
+	height: 10px;
+}
+/* ------------ Main (Right) ------------ */
+#main {
+	width: 750px;
+
+}
+.main-top {
+	height: 15px;
+	width: auto;
+background-color:#FDFDFD;
+	-webkit-border-top-left-radius: 15px;
+-webkit-border-top-right-radius: 15px;
+-moz-border-radius-topleft: 15px;
+-moz-border-radius-topright: 15px;
+border-radius: 15px 15px 0px 0px;
+behavior: url(data:image/png;base64,);}
+
+.main-main {
+	width: auto;
+	border-right: 1px solid #E2E2E2;
+	border-left: 1px solid #E2E2E2;
+	background-color:#FDFDFD;
+	padding: 20px;
+	padding-top: 0px;
+	background: #FDFDFD;
+}
+.main-bottom {
+	width: auto;
+	height: 41px;
+	background: url(http://dwse.org/uploads/NCleanBlue/bg__content.png) no-repeat right bottom;
+}
+.right49, .left49 {
+	font-size: 0.85em;
+	margin: 7px 5px 5px 10px;
+	font-weight: bold;
+}
+.left49 span {
+	display: block;
+	padding-top: 1px;
+}
+.left49 a {
+	font-weight: normal;
+}
+.right49 {
+	height: 28px;
+	width: 50px;
+	padding-right: 10px;
+
+}
+.right49 a, .right49 a:visited {
+	padding: 7px 4px;
+	display: block;
+	color: #1A1A1A;
+	height: 15px;
+
+}
+#main h2,
+#main h3,
+#main h4,
+#main h5,
+#main h6 {
+	font-size: 1.4em;
+	color: #301E12;
+}
+div#main ul,
+div#main ol,
+div#main dl,
+#footer ul,
+#footer ol {
+	line-height: 16px;
+	margin: 0 0 3px 0;
+}
+
+div#main ul,
+#footer ul {
+	list-style: disc;
+}
+div#main ul li,
+div#main ol li,
+#footer ul li,
+#footer ol li {
+	padding: 2px 2px 2px 5px;
+	margin-left: 20px;
+}
+div#main ul.nested {
+margin-top:3px;
+list-style:square;
+}
+
+}
+/* definition lists topics on bold */
+div#main dl dt {
+	font-weight: bold;
+	margin: 0 0 0 1em;
+}
+div#main dl dd {
+	margin: 0 0 1em 1em;
+}
+div#main dl {
+	margin-bottom: 2em;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #c0c0c0;
+}
+/* ------------ Footer ------------ */
+#footer-wrapper {
+ 
+	min-height: 175px;
+	height: auto!important;
+	height: 175px;
+	width: auto;
+	margin-top: -65px;
+	text-align: center;
+	margin-right: 0px;
+	margin-left: 0px;
+clear:both;
+background: #9F1118 url(http://dwse.org/uploads/images/footblue.png) repeat scroll left top; 
+}
+#footer {
+	color: #FFF;
+	font-size: 0.8em;
+	min-height: 175px;
+	height: auto!important;
+	height: 175px;
+
+}
+#footer .block {
+	width: 460px;
+        margin-top:20px;
+}
+#footer .cms {
+	text-align: right;
+}
+#translator {
+padding:3px;
+width: 382px;
+border-color: #170D07;
+border:1px;
+border-style:solid;
+background-color: #362F2A;
+}
+/* ------------ Footer Links ------------ */
+#footer ul {
+	width: auto;
+	text-align: left;
+	margin-left: 50px;
+}
+#footer ul ul {
+	margin-left: 0px;
+}
+#footer ul li a {
+	color: #FFF;
+	display: block;
+	font-weight: normal;
+	margin-bottom: 0.5em;
+	text-decoration: none;
+}
+#footer a {
+	color: #DCEDF1;
+	font-weight: bold;
+}
+/* ------------ END LAYOUT ---------------*/
+/* ------------  Menu  ROOT  ------------ */
+.page-menu {
+	width: 960px;
+	height: 25px;
+margin:0px auto;
+text-align:center;
+}
+.menuwrapper { }
+
+ul#primary-nav li hr.menu_separator{
+        position: relative;
+        visibility: hidden;
+        display:block;
+        width:5px;
+       	height: 32px;
+       	margin: 0px 5px 0px;
+}
+.page-menu ul#primary-nav {
+	height: 1%;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+text-align:center;
+}
+
+
+.page-menu ul#primary-nav li a span {
+	display: block;
+	padding-left: 18px;
+	padding-right:18px;
+	background-color: #fff;
+	margin:1px;
+border-bottom:none;
+font-size:12px;
+font-family:verdana;
+font-weight:normal;
+
+}
+
+
+/* font sizes */
+.page-menu ul#primary-nav li a {
+
+	color: #1A1A1A;
+	font-weight: bold;
+	line-height: 2.0em;
+	text-decoration: none;
+	font-size: 12px;
+border-bottom:none;
+	
+}
+.page-menu ul#primary-nav li a span[lang='es']{
+line-height:12px;
+font-size:12px;
+padding: 3px;
+}
+.page-menu ul#primary-nav li a span[lang='pl']{
+line-height:12px;
+font-size:12px;
+padding: 2px;
+}
+.page-menu ul#primary-nav li a span[lang='bg']{
+line-height:12px;
+font-size:12px;
+padding: 2px;
+}
+.page-menu ul#primary-nav li a span[lang='da']{
+line-height:12px;
+font-size:12px;
+padding: 2px;
+}
+.page-menu ul#primary-nav li a span[lang='nl']{
+line-height:12px;
+font-size:12px;
+padding: 2px;
+}
+.page-menu ul#primary-nav li a span[lang='de']{
+line-height:12px;
+font-size:12px;
+padding: 2px;
+}
+
+.page-menu ul#primary-nav li a span[lang='lv']{
+line-height:12px;
+font-size:12px;
+padding: 2px;
+}
+
+.page-menu ul#primary-nav li a span[lang='ru']{
+line-height:12px;
+font-size:12px;
+padding: 2px;
+}
+
+.page-menu ul#primary-nav li a span[lang='tr']{
+line-height:12px;
+font-size:12px;
+padding: 3px;
+}
+.page-menu ul#primary-nav li a:hover,
+.page-menu ul#primary-nav li a:active,
+.page-menu ul#primary-nav li a.menuactive
+ {
+	color: #fff;
+	background-color: #1A1A1A;
+   border-bottom:none;
+}
+.page-menu ul#primary-nav li a.menuactive span,
+.page-menu ul#primary-nav li a:hover span {
+	color: #fff;
+		background-color: #1A1A1A;
+border-bottom:none;
+}
+.page-menu ul#primary-nav li a span {
+	padding-top: 1px;
+	padding-bottom: 1px;
+border-bottom:none;
+}
+
+.page-menu ul#primary-nav .sectionheader,
+.page-menu ul#primary-nav li a:link.menuactive,
+.page-menu ul#primary-nav li a:visited.menuactive {
+/* @ Opera, use pseudo classes otherwise it confuses cursor... */
+	cursor: text;
+}
+.page-menu ul#primary-nav li span,
+.page-menu ul#primary-nav li a,
+.page-menu ul#primary-nav li a:hover,
+.page-menu ul#primary-nav li a:focus,
+.page-menu ul#primary-nav li a:active {
+/* @ Opera, we need to be explicit again here now... */
+	cursor: pointer;
+}
+/* Additional IE specific bug fixes... */
+* html .page-menu ul#primary-nav {
+	display: inline-block;
+}
+*:first-child+html .page-menu ul#primary-nav {
+	display: inline-block;
+}
+/* --------------------  menu dropdow  -------------------------
+/* Unless you know what you do, do not touch this */
+/* Reset all ROOT menu styles. */
+ul#primary-nav ul.unli li li a span,
+ul#primary-nav ul.unli li a span,
+ul#primary-nav .menuparent .unli .menuparent .unli li a span {
+	font-weight: normal;
+	background-image: none;
+	display: block;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+border-bottom:none;
+}
+#primary-nav {
+position: absolute;
+	top: 77px;
+	padding: 0px;
+left:8px;
+}
+#primary-nav ul {
+	list-style: none;
+	padding: 0px;
+/* Set the width of the menu elements at second level. Leaving first level flexible. */
+
+margin:0px;
+	position: absolute;
+	z-index: 1001;
+	top: auto;
+	display: inline;
+	padding-top: 9px;
+/*	background: url(http://dwse.org/uploads/NCleanBlue/ultop.png) no-repeat left top; */
+}
+* html #primary-nav ul.unli {
+	padding-top: 12px;
+/*	background: url(http://dwse.org/uploads/NCleanBlue/ultop.gif) no-repeat left top; */
+}
+
+#primary-nav li {
+	margin: 0px;
+	float: left;
+padding:0px;
+}
+
+.menuactive ul{
+	background-color: black;
+text-align:center;
+}
+
+#primary-nav ul.unli li a {
+	padding: 0px 10px;
+	width: 165px;
+	margin: 5px;
+	background-image: none;
+border-bottom:none;
+}
+* html #primary-nav ul.unli li a {
+	padding: 0px 10px 0px 5px;
+	width: 165px;
+	margin: 5px 0px;
+border-bottom:none;
+}
+.menuactive li {
+	background-color: black;
+}
+
+
+
+/*************** End Menu *****************/
+/* ------------ News Module ------------ */
+#news {
+	padding-left: 10px;
+	padding-right:1px;
+	font-size: 13px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+
+}
+.NewsSummary {
+}
+.NewsSummaryPostdate,
+.NewsSummaryCategory,
+.NewsSummaryAuthor {
+	font-style: italic;
+	font-size: 0.8em;
+}
+.NewsSummaryLink {
+	margin: 2px 0;
+	color: #9F1118;
+}
+.NewsSummaryLink a {
+	color: #9F1118;
+}
+.NewsSummaryContent {
+	margin: 10px 0;
+}
+.NewsSummaryMorelink {
+	margin: 5px 0 15px;
+}
+.list1 {
+	list-style: circle;
+	padding-left:15px;
+	padding-bottom:10px;
+}
+.screen {
+	visibility: hidden;
+	width:1px;
+	height: 14px;
+}
+/* ------------ End News Module ------------ */
+/* Sample FormBuilder CSS base */
+form {margin-top:0}
+form, td, th, li { font-size: 100%}
+form div {margin-bottom:0}
+form div {
+	margin-bottom:0.5em;
+	margin-left:0em;
+}
+fieldset div div {
+	margin-top:0.5em;
+	margin-left:1em;
+}
+.contactform{
+padding:6px;
+	border:1px solid #840002;
+
+}
+.contactform label {
+width:200px;
+}
+
+.iam div {
+width:auto;
+}
+.iam div input[type="radio"]{
+border:none;
+}
+.contactform .iam label {
+margin-left:30px;
+color:#666;
+
+}
+.contactform .iam label:first-child {
+float:none;
+display:block;
+color:#1A1A1A;
+margin-left:2px;
+}
+.contactform .ContactSex{
+margin-bottom:30px;
+}
+.contactform .ContactSex label {
+margin-left:30px;
+color:#666;
+}
+.contactform .ContactSex label:first-child {
+float:none;
+display:block;
+color:#1A1A1A;
+margin-left:2px;
+}
+.contactform .Accommodation label {
+margin-left:30px;
+color:#666;
+
+}
+.contactform .Accommodation label:first-child {
+float:none;
+display:block;
+color:#1A1A1A;
+margin-left:2px;
+width:auto;
+}
+.contactform .Airport label {
+margin-left:30px;
+color:#666;
+
+}
+.contactform .Airport label:first-child {
+float:none;
+display:block;
+color:#1A1A1A;
+margin-left:2px;
+width:auto;
+}
+.contactform .Elevel label {
+margin-left:30px;
+color:#666;
+
+}
+
+.contactform .Hear label {
+margin-left:30px;
+color:#666;
+
+}
+.contactform .Hear label:first-child {
+float:none;
+display:block;
+color:#1A1A1A;
+margin-left:2px;
+width:auto;
+}
+.contactform .Fee label {
+margin-left:30px;
+color:#666;
+
+}
+.contactform .Fee label:first-child {
+float:none;
+display:block;
+color:#1A1A1A;
+margin-left:2px;
+width:auto;
+}
+.contactform .Elevel label:first-child {
+float:none;
+display:block;
+color:#1A1A1A;
+margin-left:2px;
+width:auto;
+}
+.contactform .ContactMessage label {
+margin-left:30px;
+color:#666;
+
+}
+.contactform .ContactMessage label:first-child {
+float:none;
+display:block;
+color:#1A1A1A;
+margin-left:2px;
+width:auto;
+}
+.contactform .Emergency label {
+width:auto;
+}
+
+.contactform input[type="radio"] {
+width:20px;
+border: none;
+}
+.contactform input[type="checkbox"] {
+width:20px;
+border:none;
+}
+.contactform label[for="fbrp__42_2"] {
+padding:none;
+margin-top:-5px;
+}
+form label {
+	width:auto;
+        font-weight:bold;
+float:none;
+}
+legend {
+	color:#FFF;
+	background:#F60;
+	font-style:italic;
+	font-size:1.2em;
+	margin-bottom:0.5em;
+	padding:0.2em;
+	width:auto;
+	border:1px solid #CCC;
+}
+textarea {
+	margin: 0.5em 0;
+	width:90%;
+	height: 6em;
+}
+
+/* Apply this class to text/select input fields with shorter labels
+	to help alignment */
+.short-label label {float:left; width:10em;}
+.short-label div input,
+.short-label div select {width:16em;}
+
+/* Pretty up your Captcha image output */
+.captcha {
+	margin:0.5em 0;
+	width:200px;
+	text-align:center;
+}
+.captcha img {border:1px solid #F60; margin-bottom:0.5em}
+.captcha input {width:196px; margin-top:0.5em}
+
+/* Just a bit more room for the Submit button */
+.submit {margin-top:0.5em}
+
+/* Apply this class to text/select input fields with shorter labels
+	to help alignment */
+.short-label label {float:left; width:10em}
+.short-label div input,
+.short-label div select {width:16em}
+
+/* Pretty up your Captcha image output */
+.captcha {
+	margin:0.5em 0;
+	width:200px;
+	text-align:center
+}
+.captcha img {border:1px solid #F60; margin-bottom:0.5em}
+.captcha input {width:196px; margin-top:0.5em}
+
+/* Just a bit more room for the Submit button */
+.submit {margin-top:0.5em}
+
+.contactform input {border: 1px solid #840002;width:210px;}
+.contactform input.checkbox {border: none;}
+.contactform label {
+	display: block;
+	float: left;
+	width: 160px;
+padding:3px;
+}
+.contactform label.label {
+	display: inline;
+	float: none;
+	width: 50px;
+	font-size: 10px;
+}
+.contactform textarea {
+	background-color: #E0E0DD;
+	border: 1px solid #840002;
+}
+.formbuilderform .message {
+	line-height: 16px;
+	padding: 0 0 8px 0;
+}
+.cms_dropdown {
+border:1px solid #840002
+}
+#payment ul {
+list-style:none;
+}
+
+
+</style>
+
+
+<!--[if IE 6]>
+<script type="text/javascript" src="modules/MenuManager/CSSMenu.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+<script type="text/javascript"  src="uploads/NCleanBlue/js/ie6fix.js"></script>
+<script type="text/javascript">
+ // argument is a CSS selector
+ DD_belatedPNG.fix('.sbar-top,.sbar-bottom,.main-top,.main-bottom,#version');
+</script>
+<style type="text/css">
+/* enable background image caching in IE6 */
+html {filter:expression(document.execCommand("BackgroundImageCache", false, true));} 
+</style>
+<![endif]-->
+
+</head><body>
+<div id="ncleanblue">
+<div class="core-wrap-960 core-center" id="pagewrapper">
+
+
+<div class="util-clearfix" id="header">
+<div class="core-float-left" id="logo">
+
+</div>
+<span class="util-clearb">&nbsp;</span>
+<h2 class="accessibility util-clearb">Navigation</h2>
+<div class="page-menu" style="text-align:center">
+<div id="menuwrapper">
+<ul id="primary-nav">
+<li>
+<a data-href="https://dwse.org/" href="https://dwse.org/"><span>Home</span></a>
+</li>
+<li>
+<a data-href="https://dwse.org/index.php/news-from-maynooth" href="https://dwse.org/index.php/news-from-maynooth"><span>News</span></a>
+</li>
+<li>
+<a data-href="https://dwse.org/index.php/courses" href="https://dwse.org/index.php/courses"><span>Courses</span></a>
+</li>
+<li>
+<a data-href="https://dwse.org/index.php/examinations" href="https://dwse.org/index.php/examinations"><span>Examinations</span></a>
+</li>
+<li>
+<a data-href="https://dwse.org/index.php/activities" href="https://dwse.org/index.php/activities"><span>Activities</span></a>
+</li>
+<li>
+<a data-href="https://dwse.org/index.php/accommodation" href="https://dwse.org/index.php/accommodation"><span>Accommodation</span></a>
+</li>
+<li>
+<a data-href="https://dwse.org/index.php/dates-and-fees" href="https://dwse.org/index.php/dates-and-fees"><span>Dates and Fees</span></a>
+</li>
+<li>
+<a data-href="https://dwse.org/index.php/registration" href="https://dwse.org/index.php/registration"><span>Registration</span></a>
+</li>
+<li>
+<a data-href="https://dwse.org/index.php/contact-us" href="https://dwse.org/index.php/contact-us"><span>Contact Us</span></a>
+</li>
+</ul>
+<div class="clearb"></div>
+</div>
+</div>
+<hr class="accessibility util-clearb">
+</div>
+<div class="util-clearfix" id="content">
+<div class="core-float-left" id="left">
+<div class="sbar-main">
+<div id="news">
+<p style="font-size: 12px; line-height: 16px;"><strong>Address:</strong><br> Divine Word School of English<br> Moyglare Road<br> Maynooth W23 H2Y6<br> Co. Kildare<br> Ireland</p>
+<p style="font-size: 12px; line-height: 16px;"><strong>Web:</strong><br> www.dwse.org</p>
+<p style="font-size: 12px;"><strong>Email:</strong><br> office@dwse.org</p>
+<p>&nbsp;</p>
+<p style="font-size: 12px; line-height: 16px;"><strong>Telephone:</strong><br> +353 1 628 9512</p>
+<p style="font-size: 12px; line-height: 16px;"><strong>Fax:</strong><br> +353 1 628 9748</p>
+</div>
+</div>
+<span class="sbar-bottom">&nbsp;</span>
+</div>
+<div class="core-float-right" id="main">
+<div class="main-main util-clearfix">
+<h1 class="title">Terms</h1>
+<p><strong><span style="text-decoration: underline;">Terms and conditions for students attending the school’s general&nbsp; courses.</span></strong></p>
+<ol>
+<li>All fees (less €70 registration fee) will be returned to a student who cancels, provided that the school is notified in writing at least two weeks prior to commencement of his/her course.&nbsp; After this period, fees will be returned only in exceptional circumstances and at the discretion of the school management.</li>
+<li>Students attending the school and those accommodated in the residence of the Divine Word Missionaries are asked to be respectful of the rules and ethos of the religious community.</li>
+<li>The school management reserves the right, in the event of unsatisfactory conduct, to request a student to leave his/her course and, where accommodation has been arranged by the school, to vacate the relevant premises.</li>
+<li>The school shall not be liable in the event of any service which it has contracted to supply, becoming impossible to provide by reason of industrial dispute or other cause outside its control.</li>
+<li>The school will be liable for loss, damage or injury to persons only when such liability is expressly imposed by statute.&nbsp; Students are recommended to obtain travel insurance before leaving their home country.&nbsp; Students from countries in the EU or EEA should obtain a European Health Insurance Card (EHIC) in their own country prior to their departure.</li>
+</ol>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>--------------------------------------------------------------------------------------------------------------</p>
+<p><span style="text-decoration: underline;">Courses of 25 weeks or longer for non-EU or EEA students with permission to work.</span></p>
+<ol> </ol>
+<p style="text-align: justify;">Additional terms and obligations apply to both the school and course participants in cases where a student has enrolled in one of the courses at the school which is on the Interim List compiled by the Irish National Immigration Service (INIS).&nbsp; Students on these programmes are from non-EU and non-EEA countries and are entitled to work while attending the school.</p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">1.Refunds:</span><span style="font-size: 12.8px;"> All fees (less €100 administration charge) will be returned to a student who cancels, provided that the school is notified in writing at least two weeks prior to commencement of his/her course.&nbsp; Once a programme has commenced, a refund will be made which is proportionate to the time remaining on the course (less €100 administration charge).&nbsp; A refund will be made within two weeks of a request being received.&nbsp; Where a non-EEA student who has a visa with permission to work requests a refund after a course has commenced, it will be necessary for the school to notify the local Garda National Immigration Bureau Unit (GNIB).&nbsp; The School Co-ordinator, Michael Fitzgerald, is responsible for making payment of refunds.&nbsp; He can be contacted in person at the school or at details listed above.</span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">2. Attendance and Punctuality:</span><span style="font-size: 12.8px;"> The student is to attend 15 hours of class each week between 08.45 and 13.00, Monday to Friday.&nbsp; Attendance is monitored on an ongoing basis and students are required to be present for a minimum of 85% of their programme.&nbsp; In particular, students should ensure that they have a high level of attendance on commencement of their stay at the school.&nbsp; Students who arrive ten minutes or later after a lesson has commenced, should not join their group until the next class; they will be registered as absent from the period for which they arrived late.&nbsp; Any student who leaves before a class has concluded will also be marked as absent.&nbsp; The school is required to bring concerns regarding poor attendance to the attention of a student.&nbsp; This is initially done with a verbal warning and, if there is no improvement, it is followed by a letter or email.&nbsp; Where tuition fees are paid by a sponsor / benefactor, those who have made the payment to the school are informed about a student’s poor attendance record.</span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">3. Expulsion:</span><span style="font-size: 12.8px;"> If it is considered by members of staff that a student’s behaviour is unacceptable or if his/her attendance record falls below the minimum required, he/she will be given a verbal warning and will be asked to nominate a classmate who will accompany him/her when the warning is given.&nbsp; There will also be two members of staff present.&nbsp; If there is no improvement in the student’s behaviour or attendance he/she will be requested in writing to leave the school immediately.&nbsp; Fees will be refunded in relation to the remaining course period (less a €100 administration charge).&nbsp; Where accommodation payments have been made in advance, these will also be refunded (less a payment of one week).&nbsp; The local GNIB Unit will be notified that the student is no longer permitted to attend the school.</span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">4. Sick Leave:</span><span style="font-size: 12.8px;"> Non-EEA students who have visas with permission to work are required to notify the school if they are absent due to illness.&nbsp; They should indicate if they require any assistance from the school.&nbsp; Notification should be sent to the School Co-ordinator by text to the school’s emergency number (087 2523467) or email address ( </span><a data-href="mailto:office@dwse.org" href="mailto:office@dwse.org" style="font-size: 12.8px;">office@dwse.org</a><span style="font-size: 12.8px;"> ).&nbsp; A doctor’s certificate will be required for an absence of more than two consecutive days or four days in any month.&nbsp; If the school does not receive a letter from a state registered doctor, the student will be marked as absent.&nbsp; The local INIS officer will be notified if there is an extended period of absence due to illness and a medical certificate has not been provided.</span></p>
+<p>&nbsp;</p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">5. Holidays:</span><span style="font-size: 12.8px;"> The school is closed for up to three weeks over Christmas and New Year, two weeks at Easter, a week in June and a week in September.&nbsp; Non-EEA students who have a visa with permission to work should take holidays only during the periods allowed by INIS regulations.&nbsp; The letter from the school to the local GNIB Unit will, most usually, be for a period of 33 weeks (including 8 weeks of holidays); this increases to 35 weeks (including 10 weeks of holidays) if it incorporates the Christmas and New Year holiday.&nbsp; This agreement and the letter for the local Immigration Unit set out the periods during which holidays should be taken.&nbsp; Prior to signing, both the student and School Co-ordinator should agree and confirm that the timing and duration of holidays are correct.&nbsp; At no time should holidays exceed 1/3 of the total weeks elapsed of the student’s stay at the school.&nbsp; Most usually, outside of times when the school is closed, holidays are taken at the end of a course.</span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">6. School Tests and End-of-course External Examinations:</span><span style="font-size: 12.8px;"> The school arranges reviews at various times during a term and at the end of each semester.&nbsp; These are corrected by the school staff and returned to the students for evaluation.&nbsp; The results of these periodic tests are recorded by the school.&nbsp; It is necessary for students who have enrolled on ILEP courses to take an external examination on completion of their programme.&nbsp; These are: TIE A2;&nbsp; Cambridge B1Preliminary; &nbsp;Cambridge B2 First; Cambridge C2 Advanced and Cambridge IELTS.</span></p>
+<p style="text-align: justify;">The school is required to advise the student on the most appropriate examination which should be taken and ensure that he/she is registered accordingly.&nbsp; Please note that external examination&nbsp;&nbsp;<span style="font-family: Verdana, Geneva, Helvetica, sans-serif;">charges are included in the course fee.&nbsp; It is the particular responsibility of the School’s Administrative Assistant, Matthew Doyle, </span><a data-href="mailto:office@dwse.org" href="mailto:office@dwse.org" style="font-family: Verdana, Geneva, Helvetica, sans-serif;">office@dwse.org</a><span style="font-family: Verdana, Geneva, Helvetica, sans-serif;"> to provide details of examinations and enrolment requirements (registration closing dates, location of examination centres, etc.).&nbsp; The name of the examination chosen and the dates at which it will be taken are to be included in the letter to the local GNIB Unit.</span></p>
+<p style="text-align: justify;">Please note that, when signing this agreement, you are giving permission for the school to include your final examination grade in a compilation of results that may be made available to students and INIS.</p>
+<p style="text-align: justify;">7.&nbsp; &nbsp; <span style="text-decoration: underline;">Complaints: </span> If a student is dissatisfied with any aspect of the course provided by the Divine Word School of English or has a difficulty with the behaviour of fellow students, he/she should raise the matter with the School Co-ordinator, Michael Fitzgerald.&nbsp; This can be done by means of discussion during school hours, by phoning either of the following numbers (01) 6289512/ 087 2523467 or by forwarding an email to <a data-href="mailto:office@dwse.org" href="mailto:office@dwse.org">office@dwse.org</a> Complaints will be dealt with on the same day in the case of an emergency and within three working days in other situations.</p>
+<p style="text-align: justify;">If a student feels that his/her complaint has not been dealt with satisfactorily, he/she may request a meeting with the Rector of the House of the Divine Word Missionaries (01) 6286391. If a student is still dissatisfied he/she may bring the matter to the attention of the relevant section of Quality and Qualifications Ireland (QQI)&nbsp; Accreditation and Co-ordination of English Language Services (ACELS) <a data-href="http://www.acels.ie/" href="http://www.acels.ie/">www.acels.ie</a> or the Irish National Immigration Service (INIS) at <a data-href="mailto:internationaleducationproviders@justice.ie" href="mailto:internationaleducationproviders@justice.ie">internationaleducationproviders@justice.ie</a></p>
+<p style="text-align: justify;"><span style="font-family: Verdana, Geneva, Helvetica, sans-serif;">Please note:&nbsp; All complaints are dealt with in complete confidentiality by the School Co-ordinator.&nbsp; Matters are raised with others only when this has been requested by the student.</span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline;">8 Activities:</span><span style="font-size: 12.8px;"> Social and cultural activities are not included in the tuition fee.&nbsp; Students on an ILEP programme may, where numbers allow, attend such activities on payment of a participation charge.&nbsp; These vary and a student will be made aware of the cost by the school, prior to registering for the event.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12.8px;"> </span><span style="text-decoration: underline;">9 Medical Insurance:</span><span style="font-size: 12.8px;"> Students on ILEP programmes are required to have medical insurance covering the duration of their stay.&nbsp; The cost of such insurance for a period of eight months is included in the school fee.&nbsp; Proof of insurance is required by INIS and students should ensure that they have received certification of medical cover from the school prior to registering with the local GNIB Unit.</span></p>
+<p style="text-align: justify;"><span style="font-family: Verdana, Geneva, Helvetica, sans-serif;">10. </span><span style="text-decoration: underline;">Learner Fee Protection/Bonding</span><span style="font-family: Verdana, Geneva, Helvetica, sans-serif;">:&nbsp; The Divine Word School of English has a learner fee protection insurance arrangement. Students on ILEP programmes are provided with documentation which confirms that payments which they have made for their course and accommodation will be refunded in the case that a programme ceases.&nbsp; A full refund is made if the relevant ILEP programme is terminated prior to the commencement of a student’s course.&nbsp; If a course is not delivered in its entirety, the portion which remains is repaid by the relevant insurer.</span></p>
+<p style="text-align: justify;"><span style="font-family: Verdana, Geneva, Helvetica, sans-serif;">11. </span><span style="text-decoration: underline;">Course Payment:</span><span style="font-family: Verdana, Geneva, Helvetica, sans-serif;"> Please note that fees and accommodation charges may not be paid in cash; only electronic payment to the school client account is accepted and a receipt for this will be issued.&nbsp; If a student has made a payment to a different account or by other means, the sums paid will be returned to the student who should follow the appropriate procedure.&nbsp; &nbsp;The fee for a course of 25 weeks (15 hours of tuition per week), commenced during 2018, is €2,900.&nbsp; This includes the registration fee for an end-of-course external examination and medical insurance. For residential accommodation charges, please check the Accommodation Section above.</span></p>
+<p style="text-align: justify;"><span style="font-family: Verdana, Geneva, Helvetica, sans-serif; text-align: left;">12. </span><span style="text-decoration: underline;">Agreed holiday dates</span><span style="font-family: Verdana, Geneva, Helvetica, sans-serif; text-align: left;">.&nbsp; As indicated in Point 5 above, most usually, outside of times when the school is closed, holidays are taken at the end of a 25 week period. </span></p>
+<p><span style="text-decoration: underline;"> </span></p>
+<p>13.&nbsp; <span style="text-decoration: underline;">Emergency Telephone Number</span>:&nbsp; In the event of an emergency you should phone 353-(0)1-6289512 (office hours 9.00am to 5.00pm).&nbsp; Outside office hours, you should phone 353-(0)87-2523467.</p>
+<p>&nbsp;</p>
+<ol> </ol> <!-- Add code here that should appear in the content block of all new pages -->
+</div>
+<div class="right49 core-float-right">
+<a data-href="/index.php/terms#ncleanblue" href="https://dwse.org/index.php/terms">^&nbsp;&nbsp;Top</a>
+</div>
+<div class="main-bottom">
+<div class="right49 core-float-right noborder">
+<a class="noprint" data-href="http://dwse.org/index.php?page=66&amp;print=true&amp;goback=1&amp;js=1" href="http://dwse.org/index.php?page=66&amp;print=true&amp;goback=1&amp;js=1" title="Print This Page"><img alt="Print This Page" data-src="http://dwse.org/images/cms/printbutton.gif" src="http://dwse.org/images/cms/printbutton.gif" title="Print This Page"></a>
+</div>
+<div class="left49 core-float-left">
+<span>
+                  Previous page:  <a data-href="https://dwse.org/index.php/contact-us" href="https://dwse.org/index.php/contact-us" title="Contact Us">Contact Us</a>&nbsp;
+                </span>
+<span>
+                  &nbsp;
+                </span>
+</div>
+<hr class="accessibility">
+</div>
+</div>
+</div>
+</div>
+<span class="util-clearb">&nbsp;</span>
+<div class="util-clearfix" id="bar">&nbsp;</div>
+<div style="clear:both">&nbsp;</div>
+<div id="footer-wrapper">
+<span class="util-clearb">&nbsp;</span>
+<div class="util-clearfix" id="bar">&nbsp;</div>
+<div class="core-wrap-960" id="footer">
+<div class="block cms core-float-left">
+<div id="translator">
+<p>You can use the box below to translate this web page. The translation is provided by Microsoft services. </p>
+<div id="MicrosoftTranslatorWidget" style="width: 380px; min-height: 57px; border-color: #170D07; background-color: #362F2A;"><noscript><a data-href="http://www.microsofttranslator.com/bv.aspx?a=http%3a%2f%2fwww.dwse.org%2f" href="http://www.microsofttranslator.com/bv.aspx?a=http%3a%2f%2fwww.dwse.org%2f">Translate this page</a><br/>Powered by <a data-href="http://www.microsofttranslator.com" href="http://www.microsofttranslator.com">Microsoft® Translator</a></noscript></div> 
+</div>
+</div>
+<div class="block cms core-float-right">
+<div id="search">
+<form action="https://dwse.org/index.php/terms" class="cms_form" id="cntnt01moduleform_1" method="post">
+<div class="hidden">
+<input name="mact" type="hidden" value="Search,cntnt01,dosearch,0">
+<input name="cntnt01returnid" type="hidden" value="66">
+</div>
+<label for="cntnt01searchinput">Search:&nbsp;</label><input class="search-input" id="cntnt01searchinput" maxlength="50" name="cntnt01searchinput" onblur="if(this.value=='') this.value=this.defaultValue;" onfocus="if(this.value==this.defaultValue) this.value='';" size="20" type="text" value="Enter Search...">
+<input class="search-button" name="submit" type="submit" value="Submit">
+</form>
+</div>
+<div style="float:right"><a data-href="http://www.facebook.com/dwse.org" href="http://www.facebook.com/dwse.org"> <img alt="like us on facebook" data-src="uploads/images/facebook.png" src="https://dwse.org/index.php/uploads/images/facebook.png"> </a> </div>
+<div style="float:left; font-size:14px;">
+<a data-href="http://dwse.org/index.php/terms" href="http://dwse.org/index.php/terms">Terms and Conditions</a><br>
+</div>
+<br><br>
+<p>© Copyright 2004-2024 - Divine Word School of English<br>
+Website Design by <a data-href="http://www.littlepig.ie" href="http://www.littlepig.ie">littlepig.ie</a></p>
+<a href="#" id="termly-consent-preferences" onclick="window.displayPreferenceModal();return false;"><b>Consent Preferences</b></a>
+</div>
+</div>
+</div>
+
+</div>
+</body></html>

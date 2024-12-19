@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                838.5,
+                33.0
+            ],
+            [
+                1081.5,
+                63.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "JE PARLE AMÉRICAIN",
+        "on_click_jump_to": "https://jeparleamericain.com/"
+    },
+    {
+        "position": [
+            [
+                951.2333374023438,
+                1227.183349609375
+            ],
+            [
+                1063.4499969482422,
+                1247.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Haute-Garonne",
+        "on_click_jump_to": "http://en.wikipedia.org/wiki/Haute-Garonne"
+    },
+    {
+        "position": [
+            [
+                951.2333374023438,
+                2100.36669921875
+            ],
+            [
+                1056.5333404541016,
+                2120.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Midi-Pyrénées",
+        "on_click_jump_to": "http://en.wikipedia.org/wiki/Midi-Pyr%C3%A9n%C3%A9es"
+    },
+    {
+        "position": [
+            [
+                915.2000122070312,
+                2148.36669921875
+            ],
+            [
+                1004.8000183105469,
+                2184.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "mailto:michael@jeparleamericain.com?Subject=Hello"
+    },
+    {
+        "position": [
+            [
+                544.0,
+                96.0
+            ],
+            [
+                1376.0,
+                1209.183349609375
+            ]
+        ],
+        "type": "img",
+        "src": "https://jeparleamericain.com/wp-content/uploads/2013/03/img_1449.jpg?w=648"
+    },
+    {
+        "position": [
+            [
+                544.0,
+                1281.183349609375
+            ],
+            [
+                1376.0,
+                2082.36669921875
+            ]
+        ],
+        "type": "img",
+        "src": "https://jeparleamericain.com/wp-content/uploads/2013/03/screen-shot-2013-03-02-at-9-46-19-pm.png?w=648"
+    }
+]

@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Agency</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <!-- Background image container -->
+    <div class="min-h-screen relative">
+        <div class="absolute inset-0 z-0">
+            <img src="https://source.unsplash.com/random/1600x900/?real-estate" 
+                 class="w-full h-full object-cover" alt="Background">
+        </div>
+
+        <!-- Content container -->
+        <div class="relative z-10">
+            <!-- Navigation -->
+            <nav class="flex items-center justify-between p-4">
+                <div class="text-gray-900 font-medium text-xl">Real Estate Agency</div>
+                <div class="flex space-x-5">
+                    <a href="#" class="text-gray-900">Home</a>
+                    <a href="#" class="text-gray-900">About</a>
+                    <a href="#" class="text-gray-900">Contact</a>
+                </div>
+                <div class="flex">
+                    <input type="text" placeholder="Search" class="px-4 py-2 rounded-l">
+                    <button class="bg-blue-600 text-white px-4 py-2 rounded-r">Search</button>
+                </div>
+            </nav>
+
+            <!-- Main content -->
+            <main class="container mx-auto px-4 mt-16">
+                <h1 class="text-4xl font-bold text-center text-gray-900 mb-4">
+                    Welcome to our Real Estate Agency
+                </h1>
+                <p class="text-center text-gray-800 max-w-3xl mx-auto mb-12">
+                    We are a team of dedicated real estate professionals committed to providing you with the best possible service. Whether you're looking for a new home, a rental property, or a commercial space, we're here to help.
+                </p>
+
+                <!-- Property section -->
+                <div class="flex gap-8 mt-8">
+                    <div class="w-1/2">
+                        <img src="https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczMzl8&ixlib=rb-4.0.3&w=600&h=400"
+                             class="w-full h-auto rounded-lg shadow-lg" alt="Luxury house">
+                    </div>
+                    <div class="w-1/2">
+                        <h2 class="text-3xl font-bold text-gray-900 mb-4">Property Listings</h2>
+                    </div>
+                </div>
+            </main>
+
+            <!-- Footer -->
+            <footer class="mt-24 p-8">
+                <div class="container mx-auto flex justify-between">
+                    <a href="#" class="text-gray-900 text-2xl font-bold">Real Estate Agency</a>
+                    <div class="space-y-2">
+                        <h3 class="text-gray-900 font-medium mb-2">COMPANY</h3>
+                        <div class="flex flex-col text-gray-800">
+                            <a href="#" class="hover:text-gray-600">About</a>
+                            <a href="#" class="hover:text-gray-600">Contact</a>
+                        </div>
+                    </div>
+                    <div>
+                        <h3 class="text-gray-900 font-medium mb-2">TESTIMONIALS</h3>
+                    </div>
+                    <div>
+                        <h3 class="text-gray-900 font-medium mb-2">CONTACT</h3>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>

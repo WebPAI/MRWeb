@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                822.0999755859375,
+                568.5
+            ],
+            [
+                897.6666412353516,
+                608.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.venturi-group.com/podcast/bootstrapping-your-big-idea-rebecca-kelly/"
+    },
+    {
+        "position": [
+            [
+                897.6666870117188,
+                568.5
+            ],
+            [
+                1018.5000152587891,
+                608.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Get Involved",
+        "on_click_jump_to": "https://blog.copify.com/post/new-freelancing-heres-get-writing-jobs"
+    },
+    {
+        "position": [
+            [
+                1018.5,
+                568.5
+            ],
+            [
+                1097.8833312988281,
+                608.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Stories",
+        "on_click_jump_to": "http://sell-my-house-fast.co.uk/stop-repossession-elland/"
+    },
+    {
+        "position": [
+            [
+                860.0,
+                386.5
+            ],
+            [
+                1060.0,
+                536.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1612222869049-d8ec83637a3c?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjU3MTJ8&ixlib=rb-4.0.3&w=200&h=200"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?nature"
+    }
+]

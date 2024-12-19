@@ -1,0 +1,278 @@
+[
+    {
+        "position": [
+            [
+                614.433349609375,
+                140.13333129882812
+            ],
+            [
+                657.5500183105469,
+                164.13333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://rethinkthenight.com/"
+    },
+    {
+        "position": [
+            [
+                673.5499877929688,
+                140.13333129882812
+            ],
+            [
+                746.6666564941406,
+                164.13333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Workshop",
+        "on_click_jump_to": "https://rethinkthenight.com/workshop.html"
+    },
+    {
+        "position": [
+            [
+                762.6666870117188,
+                140.13333129882812
+            ],
+            [
+                849.5166778564453,
+                164.13333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Registration",
+        "on_click_jump_to": "https://rethinkthenight.com/registration.html"
+    },
+    {
+        "position": [
+            [
+                865.5166625976562,
+                140.13333129882812
+            ],
+            [
+                965.6499938964844,
+                164.13333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Getting There",
+        "on_click_jump_to": "https://rethinkthenight.com/getting-there.html"
+    },
+    {
+        "position": [
+            [
+                981.6500244140624,
+                140.13333129882812
+            ],
+            [
+                1050.0166931152344,
+                164.13333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sponsors",
+        "on_click_jump_to": "https://rethinkthenight.com/sponsors.html"
+    },
+    {
+        "position": [
+            [
+                1066.0166015625,
+                140.13333129882812
+            ],
+            [
+                1175.6666107177734,
+                164.13333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Media Partners",
+        "on_click_jump_to": "https://rethinkthenight.com/media-partners.html"
+    },
+    {
+        "position": [
+            [
+                1191.6666259765625,
+                140.13333129882812
+            ],
+            [
+                1231.949951171875,
+                164.13333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://rethinkthenight.com/news.html"
+    },
+    {
+        "position": [
+            [
+                1247.949951171875,
+                140.13333129882812
+            ],
+            [
+                1305.5499572753906,
+                164.13333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://rethinkthenight.com/contact.html"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                645.0999755859375
+            ],
+            [
+                1392.0,
+                669.0999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "Our Participants are evolving to Stars",
+        "on_click_jump_to": "https://rethinkthenight.com/news/88-our-participants-are-evolving-to-stars.html"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                972.11669921875
+            ],
+            [
+                560.4166717529297,
+                996.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "Prev",
+        "on_click_jump_to": "https://rethinkthenight.com/news/90-5th-ld-workshop-before-us.html"
+    },
+    {
+        "position": [
+            [
+                1358.3499755859375,
+                972.11669921875
+            ],
+            [
+                1391.9999694824219,
+                996.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "Next",
+        "on_click_jump_to": "https://rethinkthenight.com/news/87-darc-awards-2017-shortlisted.html"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                16.0
+            ],
+            [
+                1408.0,
+                116.13333129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://rethinkthenight.com/images/RTN_2024_header_23-27_09.png"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                204.13333129882812
+            ],
+            [
+                1408.0,
+                577.1000061035156
+            ]
+        ],
+        "type": "img",
+        "src": "https://rethinkthenight.com/images/news_image_2020.png"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                685.0999755859375
+            ],
+            [
+                1392.0,
+                956.1166381835938
+            ]
+        ],
+        "type": "img",
+        "src": "https://rethinkthenight.com/images/news/AG_TIM_2.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                1100.11669921875
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://rethinkthenight.com/templates/st_business/backgrounds/blue.jpg"
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "position": [
+            [
+                1373.9000244140625,
+                32.0
+            ],
+            [
+                1416.800033569336,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://sylphyconstruction.com/"
+    },
+    {
+        "position": [
+            [
+                1432.800048828125,
+                32.0
+            ],
+            [
+                1498.5333862304688,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "http://www.sylphyconstruction.com/?page_id=7"
+    },
+    {
+        "position": [
+            [
+                1514.5333251953125,
+                32.0
+            ],
+            [
+                1650.9499816894531,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Residential Projects",
+        "on_click_jump_to": "http://www.sylphyconstruction.com/?page_id=30"
+    },
+    {
+        "position": [
+            [
+                1666.949951171875,
+                32.0
+            ],
+            [
+                1811.1499481201172,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Commercial Projects",
+        "on_click_jump_to": "http://www.sylphyconstruction.com/?page_id=33"
+    },
+    {
+        "position": [
+            [
+                1827.1500244140625,
+                32.0
+            ],
+            [
+                1904.0000305175781,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "http://www.sylphyconstruction.com/?page_id=39"
+    },
+    {
+        "position": [
+            [
+                368.0,
+                360.5
+            ],
+            [
+                467.43333435058594,
+                387.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "ABOUT US",
+        "on_click_jump_to": "http://www.sylphyconstruction.com/?page_id=7"
+    },
+    {
+        "position": [
+            [
+                794.6666870117188,
+                360.5
+            ],
+            [
+                1027.5500183105469,
+                387.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "COMMERCIAL PROJECTS",
+        "on_click_jump_to": "http://www.sylphyconstruction.com/?page_id=33"
+    },
+    {
+        "position": [
+            [
+                1221.3333740234375,
+                360.5
+            ],
+            [
+                1446.7167053222656,
+                387.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "RESIDENTIAL PROJECTS",
+        "on_click_jump_to": "http://www.sylphyconstruction.com/?page_id=30"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                828.0
+            ],
+            [
+                477.0833282470703,
+                884.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Read More",
+        "on_click_jump_to": "http://www.sylphyconstruction.com/?page_id=219"
+    },
+    {
+        "position": [
+            [
+                390.0,
+                120.0
+            ],
+            [
+                1920.0,
+                184.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.sylphyconstruction.com/wp-content/uploads/2016/09/logo_300.png"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                1028.0
+            ],
+            [
+                400.0,
+                1092.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.sylphyconstruction.com/wp-content/themes/biography/assets/img/sayer-no-image.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                408.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.sylphyconstruction.com/wp-content/uploads/2016/09/cropped-banner.jpg"
+    }
+]

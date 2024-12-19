@@ -1,0 +1,344 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                128.0
+            ],
+            [
+                288.0,
+                200.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            149,
+            172,
+            188
+        ],
+        "text": "6",
+        "on_click_jump_to": "file:///football"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                208.0
+            ],
+            [
+                288.0,
+                280.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            149,
+            172,
+            188
+        ],
+        "text": "4",
+        "on_click_jump_to": "file:///tennis"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                288.0
+            ],
+            [
+                288.0,
+                360.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            149,
+            172,
+            188
+        ],
+        "text": "2",
+        "on_click_jump_to": "file:///e-sport"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                368.0
+            ],
+            [
+                288.0,
+                440.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            149,
+            172,
+            188
+        ],
+        "text": "1",
+        "on_click_jump_to": "file:///basketball"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                448.0
+            ],
+            [
+                288.0,
+                520.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            149,
+            172,
+            188
+        ],
+        "text": "1",
+        "on_click_jump_to": "file:///baseball"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                528.0
+            ],
+            [
+                288.0,
+                600.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            149,
+            172,
+            188
+        ],
+        "text": "0",
+        "on_click_jump_to": "file:///ice-hockey"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                608.0
+            ],
+            [
+                288.0,
+                680.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            149,
+            172,
+            188
+        ],
+        "text": "0",
+        "on_click_jump_to": "file:///auto-moto"
+    },
+    {
+        "position": [
+            [
+                328.0,
+                168.0
+            ],
+            [
+                399.3999938964844,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BETBLOG",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                415.3999938964844,
+                168.0
+            ],
+            [
+                542.75,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "American football",
+        "on_click_jump_to": "file:///american-football"
+    },
+    {
+        "position": [
+            [
+                558.75,
+                168.0
+            ],
+            [
+                587.9166717529297,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "NFL",
+        "on_click_jump_to": "file:///nfl"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                776.0
+            ],
+            [
+                682.6666870117188,
+                800.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            108,
+            151,
+            198
+        ],
+        "text": "FOOTBALL BETTING PICKS",
+        "on_click_jump_to": "file:///football"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                816.0
+            ],
+            [
+                682.6666870117188,
+                840.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            108,
+            151,
+            198
+        ],
+        "text": "BASKETBALL BETTING PICKS",
+        "on_click_jump_to": "file:///basketball"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                856.0
+            ],
+            [
+                682.6666870117188,
+                880.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            108,
+            151,
+            198
+        ],
+        "text": "TENNIS BETTING PICKS",
+        "on_click_jump_to": "file:///tennis"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                896.0
+            ],
+            [
+                682.6666870117188,
+                920.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            108,
+            151,
+            198
+        ],
+        "text": "ICE HOCKEY BETTING PICKS",
+        "on_click_jump_to": "file:///ice-hockey"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                936.0
+            ],
+            [
+                682.6666870117188,
+                960.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            108,
+            151,
+            198
+        ],
+        "text": "ESPORTS BETTING PICKS",
+        "on_click_jump_to": "file:///e-sport"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                520.4166870117188,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.betblog.com/sites/2/betblog.svg?0"
+    },
+    {
+        "position": [
+            [
+                312.0,
+                296.0
+            ],
+            [
+                462.5833282470703,
+                328.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.betblog.com/bookmakers/6/pinnacle.png"
+    },
+    {
+        "position": [
+            [
+                1488.0,
+                144.0
+            ],
+            [
+                1552.0,
+                208.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.betblog.com/avatars/84784.jpg"
+    }
+]

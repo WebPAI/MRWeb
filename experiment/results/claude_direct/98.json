@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                311.0,
+                16.0
+            ],
+            [
+                640.8999938964844,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Film Intuition: Review Database",
+        "on_click_jump_to": "https://reviews.filmintuition.com/"
+    },
+    {
+        "position": [
+            [
+                319.0,
+                88.5
+            ],
+            [
+                554.1333312988281,
+                115.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Fly Me to the Moon (2008)",
+        "on_click_jump_to": "https://reviews.filmintuition.com/2008/08/fly-me-to-moon-2008.html"
+    },
+    {
+        "position": [
+            [
+                1246.9833984375,
+                120.0
+            ],
+            [
+                1609.0000610351562,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            34,
+            85,
+            136
+        ],
+        "text": "@FilmIntuition",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1246.9833984375,
+                152.0
+            ],
+            [
+                1609.0000610351562,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            34,
+            85,
+            136
+        ],
+        "text": "Subscribe in a reader",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                319.0,
+                132.0
+            ],
+            [
+                553.0,
+                156.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_direct/path-to-movie-poster"
+    },
+    {
+        "position": [
+            [
+                1246.9833984375,
+                80.0
+            ],
+            [
+                1609.0000610351562,
+                104.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_direct/path-to-profile-image"
+    }
+]

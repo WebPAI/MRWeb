@@ -1,0 +1,276 @@
+[
+    {
+        "position": [
+            [
+                1086.1500244140625,
+                84.0
+            ],
+            [
+                1129.2666931152344,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                1145.2666015625,
+                84.0
+            ],
+            [
+                1177.7666015625,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "file:///blog"
+    },
+    {
+        "position": [
+            [
+                1193.7666015625,
+                84.0
+            ],
+            [
+                1293.1832733154297,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "View Account",
+        "on_click_jump_to": "file:///account"
+    },
+    {
+        "position": [
+            [
+                1309.183349609375,
+                84.0
+            ],
+            [
+                1342.750015258789,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Help",
+        "on_click_jump_to": "file:///help"
+    },
+    {
+        "position": [
+            [
+                1358.75,
+                84.0
+            ],
+            [
+                1480.1166687011719,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Request a Quote",
+        "on_click_jump_to": "file:///quote"
+    },
+    {
+        "position": [
+            [
+                1496.11669921875,
+                84.0
+            ],
+            [
+                1553.7166900634766,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                1569.7166748046875,
+                84.0
+            ],
+            [
+                1728.000015258789,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "International Shipping",
+        "on_click_jump_to": "file:///shipping"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                152.0
+            ],
+            [
+                320.8333282470703,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Bar and Beverage",
+        "on_click_jump_to": "file:///bar"
+    },
+    {
+        "position": [
+            [
+                336.83331298828125,
+                152.0
+            ],
+            [
+                576.5833129882812,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Buffets, Displays and Serverware",
+        "on_click_jump_to": "file:///buffet"
+    },
+    {
+        "position": [
+            [
+                592.5833129882812,
+                152.0
+            ],
+            [
+                737.4166564941406,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Dining and Tabletop",
+        "on_click_jump_to": "file:///dining"
+    },
+    {
+        "position": [
+            [
+                753.4166870117188,
+                152.0
+            ],
+            [
+                914.5000152587891,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Kitchen and Bakeware",
+        "on_click_jump_to": "file:///kitchen"
+    },
+    {
+        "position": [
+            [
+                930.5,
+                152.0
+            ],
+            [
+                1062.6999969482422,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Janitorial Supplies",
+        "on_click_jump_to": "file:///janitorial"
+    },
+    {
+        "position": [
+            [
+                1078.699951171875,
+                152.0
+            ],
+            [
+                1185.8666229248047,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Shop by Brand",
+        "on_click_jump_to": "file:///brands"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                56.0
+            ],
+            [
+                373.81666564941406,
+                136.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/images/ablekitchen-logo.png"
+    }
+]

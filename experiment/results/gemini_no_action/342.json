@@ -1,0 +1,632 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                139.5
+            ],
+            [
+                230.23333740234375,
+                156.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                246.23333740234375,
+                139.5
+            ],
+            [
+                275.1666717529297,
+                156.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                291.16668701171875,
+                139.5
+            ],
+            [
+                379.5666809082031,
+                156.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "View Account",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                395.566650390625,
+                139.5
+            ],
+            [
+                425.4333190917969,
+                156.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Help",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                441.433349609375,
+                139.5
+            ],
+            [
+                549.2666778564453,
+                156.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Request a Quote",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                565.2666625976562,
+                139.5
+            ],
+            [
+                616.5166625976562,
+                156.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                632.5166625976562,
+                139.5
+            ],
+            [
+                773.6666717529297,
+                156.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "International Shipping",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                199.5
+            ],
+            [
+                269.81666564941406,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "AbleKitchen",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                294.48333740234375,
+                199.5
+            ],
+            [
+                423.3333282470703,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Dining and Tabletop",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                199.5
+            ],
+            [
+                503.8833312988281,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Tabletop",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.5499877929688,
+                199.5
+            ],
+            [
+                641.3999786376953,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Beverage Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                666.066650390625,
+                199.5
+            ],
+            [
+                718.816650390625,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Pitchers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                714.6666870117188,
+                3206.5
+            ],
+            [
+                787.2000122070312,
+                3223.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                714.6666870117188,
+                3234.5
+            ],
+            [
+                741.5000152587891,
+                3251.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                714.6666870117188,
+                3262.5
+            ],
+            [
+                832.6666870117188,
+                3279.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy & Security",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                3206.5
+            ],
+            [
+                1032.683334350586,
+                3223.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Shipping",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                3234.5
+            ],
+            [
+                1052.7833404541016,
+                3251.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "My Account",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                3262.5
+            ],
+            [
+                1004.9333343505859,
+                3279.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                809.4666748046875,
+                3367.5
+            ],
+            [
+                936.2166748046875,
+                3384.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms & Conditions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                952.2166748046876,
+                3367.5
+            ],
+            [
+                1041.750015258789,
+                3384.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1057.75,
+                3367.5
+            ],
+            [
+                1110.5166625976562,
+                3384.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                66.0
+            ],
+            [
+                1728.0,
+                114.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/templates/default-responsive/images/logo.png"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                429.0
+            ],
+            [
+                728.0,
+                557.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/photos/WINCO-WP-14-2T.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                697.0
+            ],
+            [
+                728.0,
+                825.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/photos/WINCO-WP-20-2T.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                965.0
+            ],
+            [
+                726.7833404541016,
+                1093.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/photos/WINCO-WP-33-2T.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                1253.0
+            ],
+            [
+                728.0,
+                1381.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/photos/WINCO-WP-50-2T.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                1521.0
+            ],
+            [
+                728.0,
+                1649.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/photos/WINCO-WPB-2-2T.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                1789.0
+            ],
+            [
+                728.0,
+                1917.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/photos/WINCO-WPB-2C-2T.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                2057.0
+            ],
+            [
+                728.0,
+                2185.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/photos/WINCO-WP-66-2T.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                2325.0
+            ],
+            [
+                728.0,
+                2453.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/photos/WINCO-WPB-3-2T.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                2593.0
+            ],
+            [
+                728.0,
+                2721.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/photos/WINCO-WPB-3C-2T.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                2861.0
+            ],
+            [
+                718.9833374023438,
+                2989.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/photos/WINCO-WPG-64-2T.jpg"
+    },
+    {
+        "position": [
+            [
+                1237.3333740234375,
+                3165.0
+            ],
+            [
+                1466.6667175292969,
+                3189.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/templates/default-responsive/images/payment-options.png"
+    },
+    {
+        "position": [
+            [
+                1498.6666259765625,
+                3205.0
+            ],
+            [
+                1569.0832824707031,
+                3229.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/templates/default-responsive/images/facebook-icon.png"
+    },
+    {
+        "position": [
+            [
+                1585.0833740234375,
+                3205.0
+            ],
+            [
+                1635.0833740234375,
+                3229.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/templates/default-responsive/images/twitter-icon.png"
+    },
+    {
+        "position": [
+            [
+                1651.0833740234375,
+                3205.0
+            ],
+            [
+                1715.6333770751953,
+                3229.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/v/vspfiles/templates/default-responsive/images/pinterest-icon.png"
+    }
+]

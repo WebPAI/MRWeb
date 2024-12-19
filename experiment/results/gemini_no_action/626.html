@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digitally Obsessed</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white font-mono text-xs">
+    <div class="container mx-auto px-4">
+        <div class="flex justify-between items-center py-2 border-b border-black border-t bg-red-700">
+            <span class="text-white font-bold text-lg">digitally OBSESSED/com</span>
+            <span class="text-white">the review site with a difference since 1999</span>
+        </div>
+        <div class="flex justify-between py-2 border-b border-black">
+            <a href="#" class="text-white bg-red-700 px-4 py-1">Reviews</a>
+            <a href="#" class="text-white bg-red-700 px-4 py-1">Interviews</a>
+            <a href="#" class="text-white bg-red-700 px-4 py-1">Articles</a>
+            <a href="#" class="text-white bg-darker-olive px-4 py-1">Apps</a>
+            <a href="#" class="text-white bg-teal-800 px-4 py-1">About</a>
+        </div>
+
+        <div class="mt-4">
+            <p>Visit:</p>
+            <ul class="list-disc ml-6">
+                <li>Zarabesque.com</li>
+                <li>Susti Heaven</li>
+                <li>Brand Perfect</li>
+                <li>Closet Nomad</li>
+                <li>Tiendaholics.com</li>
+            </ul>
+        </div>
+
+        <pre class="mt-4">
+//r-
+showreview.php
+$query =
+"SELECT * FROM
+bigblog where
+ID=$ID";
+$result =
+$connection-
+>query($query);
+if (!$result)
+die($connection-
+>error); $rows =
+$result-
+>num_rows; for
+($i = 0; $i <
+$rows; ++$i) {
+$result-
+>data_seek($i);
+$row = $result-
+>fetch_array(MYSQLI_ASSOC);
+$ID =
+$row["ID"];
+$title =
+$row["title"];
+$secondtitle=
+$row["secondtitle"];
+$status =
+$row["status"];
+$studio =
+$row["studio"];
+$subhead =
+substr($title,0,15);
+$year =
+$row["year"];
+$quote =
+$row["quote"];
+$quoted =
+$row["quoted"];
+$recommendation =
+$row["recommendation"];
+$whatdate =
+$row["publishdate"];
+$whatdate =
+strtotime($whatdate);
+$whatdate =
+date("F j, Y, g:i
+a",$whatdate);
+$cast =
+$row["cast"];
+$director =
+$row["director"];
+$mpaa =
+$row["mpaa"];
+$ratingfor =
+$row["ratingfor"];
+$runtime =
+$row["runtime"];
+$thissrc =
+$row["source"];
+$type =
+$row["type"];
+$thisurl =
+$row["url"];
+$releasedate =
+$row["releasedate"];
+$genres =
+$row["genres"];
+$genres =
+explode(",",
+$genres);
+$moviegrade =
+$row["moviegrade"];
+$dvdgrade =
+$row["dvdgrade"];
+$blurb =
+$row["blurb"];
+$blurb =
+nl2br($blurb);
+$body =
+$row["body"];
+$techinfo =
+$row["techinfo"];
+$buyinfo =
+$row["buyinfo"];
+$byline =
+$row["byline"];
+$keywords=
+$row["keywords"];
+$coverart =
+$row["coverart"];
+$still =
+$row["still"];
+$amazon =
+$row["amazon"];
+$amazon =
+trim($amazon);
+$upc =
+$row["upc"]; }
+// get author
+info $aquery =
+"SELECT
+first_name, last_name, ID
+FROM authors
+where
+ID=$byline";
+$aresult =
+$connection-
+>query($aquery);
+$arows =
+$aresult-
+>num_rows; for
+($k = 0; $k <
+$arows; ++$k)
+{ $aresult-
+>data_seek($k);
+$arow =
+$aresult-
+>fetch_array(MYSQLI_ASSOC);
+$revlink =
+$arow["ID"];
+$firstname =
+$arow["first_name"];
+$lastname =
+$arow["last_name"];
+$itemline =
+"$firstname
+$lastname
+$whatdate"; }
+echo
+"; echo "
+$type: $title
+"; echo "
+$secondtitle
+"; echo "Studio:
+$studio
+"; echo "Year:
+$year
+"; echo "Cast:
+$cast
+"; echo
+"Director:
+$director
+"; echo "Release
+Date: $whatdate
+"; echo "Rating:
+$mpaa for
+$ratingfor
+"; echo "Run
+Time: $runtime
+"; echo "
+"; if($quote!=
+=""){ echo
+"$quote
+$quoted"; }
+echo
+";
+if($status=="complete")
+{ if($coverart!=
+= "") { echo "
+"; if($amazon !=
+="") { echo ""; }
+echo
+" \"$title\" ";
+if($amazon!=
+="") { echo ""; }
+if($amazon!=
+=""){ echo "
+Buy Now @
+Amazon
+"; } echo ""; } }
+else{ if($still !=
+"") { echo "
+"; } if($amazon
+!=""){ echo "";
+} echo
+"\"$title\" ";
+if($amazon!=
+=""){ echo ""; }
+if($amazon!=
+=""){ echo "
+Buy Now @
+Amazon
+"; } }
+if($recommendation
+== "1") { echo
+"; } if($status!=
+"new"){
+if($techinfo){
+$eachtech =
+explode('[,]",
+$techinfo ); $t =
+count($eachtech);
+$n = 0; while
+($n < $t){
+if($eachtech[$n]
+== "A"){ echo
+"; }
+elseif ($eachtech[$n]
+== "W"){ echo
+"; }
+elseif ($eachtech[$n]
+== "K") { echo
+"; }
+elseif ($eachtech[$n]
+== "5.1"){ echo
+"; }
+elseif ($eachtech[$n]
+== "DTS"){
+echo ""; }
+elseif ($eachtech[$n]
+== "E"){ echo
+"; }
+elseif ($eachtech[$n]
+== "HD"){ echo
+"; }
+elseif ($eachtech[$n]
+== "BR"){ echo
+""; }else{
+echo ""; } $n++;
+} } if($blurb
+!= "") { echo
+"$blurb
+Movie Grade:
+$moviegrade
+DVD Grade:
+$dvdgrade
+$body"; }
+if($thissrc !=
+"") { echo "
+$source
+"; } echo"
+"; echo
+$itemline; echo
+"; echo "
+"; } ?>
+        </pre>
+
+        <div class="mt-8 text-right">
+            <p>Home |<br>
+            Review Vault<br>
+            | Interviews<br>
+            | Articles |<br>
+            Apps | About<br>
+            | Contact</p>
+            <p>© Copyright<br>
+            1999-2019</p>
+        </div>
+    </div>
+</body>
+</html>

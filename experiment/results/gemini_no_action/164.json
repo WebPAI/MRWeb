@@ -1,0 +1,62 @@
+[
+    {
+        "position": [
+            [
+                431.6166687011719,
+                1475.5
+            ],
+            [
+                585.7166595458984,
+                1492.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "www.eehealthbook.com",
+        "on_click_jump_to": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/www.eehealthbook.com"
+    },
+    {
+        "position": [
+            [
+                304.98333740234375,
+                1511.5
+            ],
+            [
+                484.4166717529297,
+                1528.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "eehealthbook@hotmail.com",
+        "on_click_jump_to": "mailto:eehealthbook@hotmail.com"
+    },
+    {
+        "position": [
+            [
+                392.1166687011719,
+                1995.5
+            ],
+            [
+                566.0333404541016,
+                2012.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "http://www.medixfora.com/",
+        "on_click_jump_to": "http://www.medixfora.com/"
+    }
+]

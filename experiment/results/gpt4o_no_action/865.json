@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                1425.449951171875,
+                20.0
+            ],
+            [
+                1482.0666198730469,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Insights",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1502.566650390625,
+                20.0
+            ],
+            [
+                1560.1666564941406,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1580.6666259765625,
+                20.0
+            ],
+            [
+                1653.5332946777344,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1674.0333251953125,
+                20.0
+            ],
+            [
+                1727.999984741211,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Explore",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                576.0,
+                176.0
+            ],
+            [
+                1728.0,
+                200.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/image-placeholder.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                804.0
+            ],
+            [
+                1728.0,
+                828.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/omfif-logo.png"
+    }
+]

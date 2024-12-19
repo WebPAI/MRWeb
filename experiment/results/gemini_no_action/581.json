@@ -1,0 +1,230 @@
+[
+    {
+        "position": [
+            [
+                1218.566650390625,
+                18.0
+            ],
+            [
+                1261.6833190917969,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1277.683349609375,
+                18.0
+            ],
+            [
+                1321.3166809082031,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1337.316650390625,
+                18.0
+            ],
+            [
+                1430.9499816894531,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Press Center",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1446.949951171875,
+                18.0
+            ],
+            [
+                1554.0666198730469,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "How to Submit",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1570.066650390625,
+                18.0
+            ],
+            [
+                1638.3999786376953,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Advertise",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1654.4000244140625,
+                18.0
+            ],
+            [
+                1712.0000305175781,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                58.0
+            ],
+            [
+                276.8000030517578,
+                78.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Ask a Pro",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                292.79998779296875,
+                58.0
+            ],
+            [
+                412.5166473388672,
+                78.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Aging Gracefully",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                428.51666259765625,
+                58.0
+            ],
+            [
+                523.1166687011719,
+                78.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Get Fit Quick",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                539.11669921875,
+                58.0
+            ],
+            [
+                664.5833587646484,
+                78.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Kids/Teen Corner",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                400.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/healthyourway_logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                268.0
+            ],
+            [
+                1328.0,
+                292.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/kid_lifting.jpg"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                780.2166748046875,
+                120.0
+            ],
+            [
+                850.1500091552734,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Programs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                882.1500244140625,
+                120.0
+            ],
+            [
+                950.4833679199219,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Initiatives",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                982.4833374023438,
+                120.0
+            ],
+            [
+                1050.1666717529297,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1082.1666259765625,
+                120.0
+            ],
+            [
+                1139.766616821289,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                941.9500122070312,
+                16.0
+            ],
+            [
+                978.0333557128906,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    }
+]

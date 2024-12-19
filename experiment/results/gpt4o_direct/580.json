@@ -1,0 +1,36 @@
+[
+    {
+        "position": [
+            [
+                1028.1666259765625,
+                499.5
+            ],
+            [
+                1137.7832946777344,
+                539.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Learn How",
+        "on_click_jump_to": "https://kit.home-designing.com/dream-home"
+    },
+    {
+        "position": [
+            [
+                10.0,
+                1037.5
+            ],
+            [
+                46.08332824707031,
+                1061.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.home-designing.com/wp-content/themes/homedesigning-theme-last-12/images/hd-logo-small.png"
+    }
+]

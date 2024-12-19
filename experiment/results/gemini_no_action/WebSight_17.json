@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                831.5333251953125,
+                112.0
+            ],
+            [
+                874.6499786376953,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                890.6500244140625,
+                112.0
+            ],
+            [
+                931.1667022705078,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                947.1666870117188,
+                112.0
+            ],
+            [
+                1014.8500213623047,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1030.8499755859375,
+                112.0
+            ],
+            [
+                1088.449966430664,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                747.566650390625,
+                48.0
+            ],
+            [
+                795.566650390625,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/cupcakes.jpg"
+    }
+]

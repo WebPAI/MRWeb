@@ -1,0 +1,456 @@
+[
+    {
+        "position": [
+            [
+                1706.38330078125,
+                36.0
+            ],
+            [
+                1747.8499755859375,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Apply",
+        "on_click_jump_to": "https://www.jscc.edu/gotime"
+    },
+    {
+        "position": [
+            [
+                1763.8499755859375,
+                36.0
+            ],
+            [
+                1855.8666381835938,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Get Answers",
+        "on_click_jump_to": "https://www.jscc.edu/academics/registration-help/reg-contact.html"
+    },
+    {
+        "position": [
+            [
+                1871.86669921875,
+                36.0
+            ],
+            [
+                1904.0000305175781,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Give",
+        "on_click_jump_to": "https://www.jscc.edu/development/foundation/donate/"
+    },
+    {
+        "position": [
+            [
+                575.88330078125,
+                112.0
+            ],
+            [
+                658.4499664306641,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Admissions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                690.4500122070312,
+                112.0
+            ],
+            [
+                782.1000213623047,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Financial Aid",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                814.0999755859375,
+                112.0
+            ],
+            [
+                893.5166320800781,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Academics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                925.5166625976562,
+                112.0
+            ],
+            [
+                1000.4333343505859,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Workforce",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1032.433349609375,
+                112.0
+            ],
+            [
+                1095.4166870117188,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Athletics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1127.4166259765625,
+                112.0
+            ],
+            [
+                1215.9999542236328,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About JSCC",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                112.0
+            ],
+            [
+                1344.1000061035156,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Development",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                170.0
+            ],
+            [
+                59.116668701171875,
+                190.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.jscc.edu/"
+    },
+    {
+        "position": [
+            [
+                77.88333129882812,
+                170.0
+            ],
+            [
+                157.3000030517578,
+                190.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Academics",
+        "on_click_jump_to": "https://www.jscc.edu/academics/"
+    },
+    {
+        "position": [
+            [
+                176.06666564941406,
+                170.0
+            ],
+            [
+                316.76666259765625,
+                190.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Academic Divisions",
+        "on_click_jump_to": "https://www.jscc.edu/academics/divisions/"
+    },
+    {
+        "position": [
+            [
+                335.5333251953125,
+                170.0
+            ],
+            [
+                530.9999847412109,
+                190.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Math and Natural Sciences",
+        "on_click_jump_to": "https://www.jscc.edu/academics/divisions/math-sciences/"
+    },
+    {
+        "position": [
+            [
+                549.7666625976562,
+                170.0
+            ],
+            [
+                623.75,
+                190.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Chemistry",
+        "on_click_jump_to": "https://www.jscc.edu/academics/divisions/math-sciences/chemistry/"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                322.0
+            ],
+            [
+                158.53334045410156,
+                342.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "jkappel@jscc.edu",
+        "on_click_jump_to": "mailto:jkappel@jscc.edu"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                430.0
+            ],
+            [
+                534.2833251953125,
+                450.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Learn how to transfer to a 4-year school with your degree from JSCC",
+        "on_click_jump_to": "http://www.tntransferpathway.org/majors/chemistry"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                500.0
+            ],
+            [
+                89.46665954589844,
+                524.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Directions",
+        "on_click_jump_to": "https://www.jscc.edu/about-jackson-state/locations/"
+    },
+    {
+        "position": [
+            [
+                464.8833312988281,
+                500.0
+            ],
+            [
+                499.8999938964844,
+                524.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Jobs",
+        "on_click_jump_to": "https://www.jscc.edu/about-jackson-state/administration/human-resources/open-positions.html"
+    },
+    {
+        "position": [
+            [
+                875.316650390625,
+                500.0
+            ],
+            [
+                940.3499908447266,
+                524.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "https://www.jscc.edu/calendar/"
+    },
+    {
+        "position": [
+            [
+                1315.7833251953125,
+                500.0
+            ],
+            [
+                1397.4333190917969,
+                524.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://www.jscc.edu/contact-us/index.html"
+    },
+    {
+        "position": [
+            [
+                1772.86669921875,
+                500.0
+            ],
+            [
+                1904.0000305175781,
+                524.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Campus Directory",
+        "on_click_jump_to": "https://www.jscc.edu/directory/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                52.08332824707031,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.jscc.edu/_resources/images/rwd/logo/logo-j2.webp"
+    }
+]

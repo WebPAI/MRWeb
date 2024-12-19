@@ -1,0 +1,384 @@
+[
+    {
+        "position": [
+            [
+                0.0,
+                64.0
+            ],
+            [
+                43.56666564941406,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                59.56666564941406,
+                64.0
+            ],
+            [
+                88.83332824707031,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "file:///faq"
+    },
+    {
+        "position": [
+            [
+                104.83332824707033,
+                64.0
+            ],
+            [
+                158.85000610351562,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Reports",
+        "on_click_jump_to": "file:///reports"
+    },
+    {
+        "position": [
+            [
+                174.85000610351562,
+                64.0
+            ],
+            [
+                251.6999969482422,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                702.9833374023438,
+                96.0
+            ],
+            [
+                746.9833374023438,
+                120.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Works",
+        "on_click_jump_to": "file:///works"
+    },
+    {
+        "position": [
+            [
+                778.9833374023438,
+                96.0
+            ],
+            [
+                830.1499938964844,
+                120.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Groups",
+        "on_click_jump_to": "file:///groups"
+    },
+    {
+        "position": [
+            [
+                862.1500244140625,
+                96.0
+            ],
+            [
+                909.9167022705078,
+                120.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "People",
+        "on_click_jump_to": "file:///people"
+    },
+    {
+        "position": [
+            [
+                941.9166870117188,
+                96.0
+            ],
+            [
+                1027.1333465576172,
+                120.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publications",
+        "on_click_jump_to": "file:///publications"
+    },
+    {
+        "position": [
+            [
+                1059.13330078125,
+                96.0
+            ],
+            [
+                1130.8666381835938,
+                120.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publishers",
+        "on_click_jump_to": "file:///publishers"
+    },
+    {
+        "position": [
+            [
+                1162.86669921875,
+                96.0
+            ],
+            [
+                1217.0166931152344,
+                120.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "In Press",
+        "on_click_jump_to": "file:///inpress"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                210.0
+            ],
+            [
+                544.066650390625,
+                234.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Surgical innovation and outcome measures for male urethral surgery",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                245.5
+            ],
+            [
+                86.58332824707031,
+                266.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Sandhu, J. S.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                115.18333435058594,
+                245.5
+            ],
+            [
+                245.5,
+                266.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                273.5
+            ],
+            [
+                98.61666870117188,
+                294.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                127.21665954589844,
+                273.5
+            ],
+            [
+                159.88333129882812,
+                294.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Save",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                297.5
+            ],
+            [
+                475.4666748046875,
+                318.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Memorial Sloan Kettering Cancer Center",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                504.066650390625,
+                297.5
+            ],
+            [
+                673.9666442871094,
+                318.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sloan Kettering Institute",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                57.51666259765625,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/synapse_tag.png"
+    },
+    {
+        "position": [
+            [
+                1887.8499755859375,
+                0.0
+            ],
+            [
+                1919.9999694824219,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/mskflatbar.png"
+    },
+    {
+        "position": [
+            [
+                1696.0,
+                296.0
+            ],
+            [
+                1728.0,
+                320.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/twitter-icon.png"
+    }
+]

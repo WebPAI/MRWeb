@@ -1,0 +1,252 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                127.0
+            ],
+            [
+                251.11666870117188,
+                147.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                271.6166687011719,
+                127.0
+            ],
+            [
+                360.26666259765625,
+                147.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Trip Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                380.76666259765625,
+                127.0
+            ],
+            [
+                472.25,
+                147.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Site Reviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                492.75,
+                127.0
+            ],
+            [
+                547.8333282470703,
+                147.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Lifelists",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                568.3333129882812,
+                127.0
+            ],
+            [
+                611.9666442871094,
+                147.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                632.4666748046875,
+                127.0
+            ],
+            [
+                721.8000183105469,
+                147.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Contact Info",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                813.0499877929688,
+                1328.0
+            ],
+            [
+                872.3333129882812,
+                1348.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                892.8333129882812,
+                1328.0
+            ],
+            [
+                1028.8333129882812,
+                1348.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Hackers Challenge",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1049.3333740234375,
+                1328.0
+            ],
+            [
+                1106.9333801269531,
+                1348.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                821.7999877929688,
+                8.0
+            ],
+            [
+                869.7999877929688,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/globe.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                218.0
+            ],
+            [
+                1712.0,
+                242.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/coot.jpg"
+    },
+    {
+        "position": [
+            [
+                856.0,
+                258.0
+            ],
+            [
+                920.0,
+                322.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/coot_small_1.jpg"
+    },
+    {
+        "position": [
+            [
+                928.0,
+                258.0
+            ],
+            [
+                992.0,
+                322.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/coot_small_2.jpg"
+    },
+    {
+        "position": [
+            [
+                1000.0,
+                258.0
+            ],
+            [
+                1064.0,
+                322.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/coot_small_3.jpg"
+    }
+]

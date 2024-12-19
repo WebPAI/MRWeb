@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                234.01666259765625,
+                28.0
+            ],
+            [
+                271.01666259765625,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.conservationindia.org/"
+    },
+    {
+        "position": [
+            [
+                291.01666259765625,
+                28.0
+            ],
+            [
+                327.01666259765625,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "http://www.repairzipx.com/error-opening-file.html"
+    },
+    {
+        "position": [
+            [
+                347.01666259765625,
+                28.0
+            ],
+            [
+                395.01666259765625,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.wearefireflymedia.com/services/"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                292.0
+            ],
+            [
+                682.6666870117188,
+                981.7166748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1617025293771-4df5a04c0d10?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjU3NDl8&ixlib=rb-4.0.3&w=300&h=200"
+    }
+]

@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body class="bg-gray-200 flex flex-col items-center py-10">
+    <!-- Navbar -->
+    <nav class="absolute top-4 right-10 space-x-8">
+        <a href="home.html" class="text-black font-bold">Home</a>
+        <a href="project.html" class="text-black font-bold">Projects</a>
+    </nav>
+
+    <!-- Title -->
+    <h1 class="text-black text-6xl font-serif mb-20">Contact Me</h1>
+
+    <!-- Form -->
+    <div class="space-y-8">
+        <!-- Name Input -->
+        <div class="flex items-center">
+            <span class="bg-white rounded-full px-4 py-2 text-black font-bold">Name</span>
+            <input type="text" placeholder="Your Name" class="ml-4 py-2 px-4 rounded-full bg-white shadow-md w-96">
+        </div>
+
+        <!-- Email Input -->
+        <div class="flex items-center">
+            <span class="bg-white rounded-full px-4 py-2 text-black font-bold">Email</span>
+            <input type="email" placeholder="Your Email" class="ml-4 py-2 px-4 rounded-full bg-white shadow-md w-96">
+        </div>
+
+        <!-- Phone Input and Send Button -->
+        <div class="flex items-center">
+            <span class="bg-white rounded-full px-4 py-2 text-black font-bold">Phone</span>
+            <input type="text" placeholder="Your Phone" class="ml-4 py-2 px-4 rounded-full bg-white shadow-md w-48">
+            <button onclick="sendData()" class="ml-4 px-6 py-2 bg-blue-400 text-white rounded-full shadow-md">Send</button>
+        </div>
+    </div>
+
+    <!-- Images and Links -->
+    <div class="flex mt-20 space-x-16">
+        <a href="https://github.com">
+            <img src="assets/github_button.png" alt="GitHub" class="w-24 h-24 mx-auto">
+            <p class="text-center mt-2 font-bold">Github</p>
+        </a>
+        <a href="mailto:example@email.com">
+            <img src="assets/email_button.png" alt="Email" class="w-24 h-24 mx-auto">
+            <p class="text-center mt-2 font-bold">Email</p>
+        </a>
+        <a href="https://scholar.google.com">
+            <img src="assets/scholar_button.png" alt="Scholar" class="w-24 h-24 mx-auto">
+            <p class="text-center mt-2 font-bold">Scholar</p>
+        </a>
+    </div>
+
+    <script>
+        function sendData() {
+            const name = document.querySelector('input[placeholder="Your Name"]').value;
+            const email = document.querySelector('input[placeholder="Your Email"]').value;
+            const phone = document.querySelector('input[placeholder="Your Phone"]').value;
+
+            fetch('http://127.0.0.1:5001/backend', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ name, email, phone }),
+            })
+                .then(response => response.json())
+                .then(data => console.log(data))
+                .catch(error => console.error('Error:', error));
+        }
+    </script>
+</body>
+
+</html>

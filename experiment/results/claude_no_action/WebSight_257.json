@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                17.5
+            ],
+            [
+                46.56666564941406,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Prev",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                868.3499755859375,
+                17.5
+            ],
+            [
+                911.9166412353516,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                940.2999877929688,
+                17.5
+            ],
+            [
+                988.8666534423828,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Gallery",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1017.25,
+                17.5
+            ],
+            [
+                1049.1000061035156,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1870.9000244140625,
+                17.5
+            ],
+            [
+                1904.0000305175781,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Next",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                328.0
+            ],
+            [
+                880.0,
+                352.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/paint-brushes.jpg"
+    }
+]

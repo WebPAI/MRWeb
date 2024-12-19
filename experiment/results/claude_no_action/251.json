@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                559.0,
+                446.5
+            ],
+            [
+                692.0,
+                465.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Official Bufori Website",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                559.36669921875,
+                547.5
+            ],
+            [
+                713.2000274658203,
+                568.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Official Bufori website",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                559.36669921875,
+                572.0
+            ],
+            [
+                792.4833679199219,
+                593.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "List of automobile manufacturers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1222.7333984375,
+                101.0
+            ],
+            [
+                1359.0000610351562,
+                125.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/bufori-logo.png"
+    },
+    {
+        "position": [
+            [
+                1203.9666748046875,
+                318.0
+            ],
+            [
+                1376.000015258789,
+                366.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/geneva.jpg"
+    }
+]

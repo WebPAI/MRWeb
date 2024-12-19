@@ -1,0 +1,176 @@
+[
+    {
+        "position": [
+            [
+                766.8499755859375,
+                22.0
+            ],
+            [
+                813.3332977294922,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://keyes.ie/"
+    },
+    {
+        "position": [
+            [
+                849.8333129882812,
+                22.0
+            ],
+            [
+                914.5166473388672,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "PYTHON",
+        "on_click_jump_to": "https://keyes.ie/python/"
+    },
+    {
+        "position": [
+            [
+                951.0166625976562,
+                22.0
+            ],
+            [
+                1009.4499969482422,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "THINGS",
+        "on_click_jump_to": "https://keyes.ie/things/"
+    },
+    {
+        "position": [
+            [
+                1045.949951171875,
+                22.0
+            ],
+            [
+                1112.8999481201172,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "ARCHIVE",
+        "on_click_jump_to": "https://keyes.ie/archive/"
+    },
+    {
+        "position": [
+            [
+                1149.4000244140625,
+                22.0
+            ],
+            [
+                1203.4000244140625,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://keyes.ie/about/"
+    },
+    {
+        "position": [
+            [
+                313.6499938964844,
+                182.0
+            ],
+            [
+                405.03334045410156,
+                202.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Baseliner 1.0",
+        "on_click_jump_to": "https://keyes.ie/things/baseliner"
+    },
+    {
+        "position": [
+            [
+                527.2833251953125,
+                182.0
+            ],
+            [
+                857.6999816894531,
+                202.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "does not want to be a target of mouse events",
+        "on_click_jump_to": "https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events"
+    },
+    {
+        "position": [
+            [
+                240.23333740234375,
+                222.0
+            ],
+            [
+                330.6999969482422,
+                242.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "bookmarklet",
+        "on_click_jump_to": "https://keyes.ie/things/baseliner"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                301.6666717529297,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://keyes.ie/images/logo.png"
+    }
+]

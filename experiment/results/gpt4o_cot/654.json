@@ -1,0 +1,176 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                18.0
+            ],
+            [
+                235.11666870117188,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.amreading.com/"
+    },
+    {
+        "position": [
+            [
+                251.11666870117188,
+                18.0
+            ],
+            [
+                403.3666687011719,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Gifts for Book Lovers",
+        "on_click_jump_to": "https://www.amreading.com/category/book-lovers/gifts/"
+    },
+    {
+        "position": [
+            [
+                419.3666687011719,
+                18.0
+            ],
+            [
+                510.5500030517578,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Bookshelves",
+        "on_click_jump_to": "https://www.amreading.com/category/bookshelf/"
+    },
+    {
+        "position": [
+            [
+                526.5499877929688,
+                18.0
+            ],
+            [
+                638.6166534423828,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Literary Quotes",
+        "on_click_jump_to": "https://www.amreading.com/category/quotes/"
+    },
+    {
+        "position": [
+            [
+                654.61669921875,
+                18.0
+            ],
+            [
+                729.7333679199219,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Book Lists",
+        "on_click_jump_to": "https://www.amreading.com/category/lists/"
+    },
+    {
+        "position": [
+            [
+                1625.050048828125,
+                16.0
+            ],
+            [
+                1728.0000457763672,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "AMREADING",
+        "on_click_jump_to": "https://www.amreading.com/"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                164.0
+            ],
+            [
+                259.71665954589844,
+                188.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Tweet",
+        "on_click_jump_to": "https://twitter.com/share"
+    },
+    {
+        "position": [
+            [
+                275.7166748046875,
+                164.0
+            ],
+            [
+                312.183349609375,
+                188.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Pin It",
+        "on_click_jump_to": "https://www.pinterest.com/pin/create/button/?url=https://www.amreading.com/2017/01/07/10-disadvantages-of-being-a-bookworm-and-how-to-fix-them/&media=https://www.amreading.com/wp-content/uploads/maxresdefault4-e1483821732916.jpg&description=10%20Disadvantages%20Of%20Being%20A%20Bookworm%20And%20How%20To%20%E2%80%9CFix%E2%80%9D%20Them"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                244.0
+            ],
+            [
+                1704.0,
+                1734.4833984375
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.amreading.com/wp-content/uploads/stacks-of-books-messy-shelves.jpg"
+    }
+]

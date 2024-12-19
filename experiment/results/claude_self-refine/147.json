@@ -1,0 +1,250 @@
+[
+    {
+        "position": [
+            [
+                216.0,
+                256.0
+            ],
+            [
+                335.1333312988281,
+                280.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "storiesbywilliams",
+        "on_click_jump_to": "file:///author/storiesbywilliams"
+    },
+    {
+        "position": [
+            [
+                351.1333312988281,
+                256.0
+            ],
+            [
+                393.8000030517578,
+                280.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Books",
+        "on_click_jump_to": "file:///category/books-2"
+    },
+    {
+        "position": [
+            [
+                409.7999877929687,
+                256.0
+            ],
+            [
+                465.53332519531244,
+                280.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reviews",
+        "on_click_jump_to": "file:///tag/reviews"
+    },
+    {
+        "position": [
+            [
+                1340.0,
+                628.0
+            ],
+            [
+                1704.0,
+                652.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            87,
+            173,
+            104
+        ],
+        "text": "About Me",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                1340.0,
+                660.0
+            ],
+            [
+                1704.0,
+                684.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            87,
+            173,
+            104
+        ],
+        "text": "Advice for Aspiring Writers",
+        "on_click_jump_to": "file:///advise-for-aspiring-writers"
+    },
+    {
+        "position": [
+            [
+                1340.0,
+                692.0
+            ],
+            [
+                1704.0,
+                716.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            87,
+            173,
+            104
+        ],
+        "text": "Articles by Matt Williams",
+        "on_click_jump_to": "file:///articles"
+    },
+    {
+        "position": [
+            [
+                1340.0,
+                724.0
+            ],
+            [
+                1704.0,
+                748.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            87,
+            173,
+            104
+        ],
+        "text": "Published Works",
+        "on_click_jump_to": "file:///published-works"
+    },
+    {
+        "position": [
+            [
+                1340.0,
+                756.0
+            ],
+            [
+                1704.0,
+                780.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            87,
+            173,
+            104
+        ],
+        "text": "Stories from Space Podcast!",
+        "on_click_jump_to": "file:///podcast-series"
+    },
+    {
+        "position": [
+            [
+                1340.0,
+                788.0
+            ],
+            [
+                1704.0,
+                812.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            87,
+            173,
+            104
+        ],
+        "text": "The Reviews Are In!",
+        "on_click_jump_to": "file:///reviews"
+    },
+    {
+        "position": [
+            [
+                1340.0,
+                820.0
+            ],
+            [
+                1704.0,
+                844.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            87,
+            173,
+            104
+        ],
+        "text": "Where to Buy My Books",
+        "on_click_jump_to": "file:///where-to-buy"
+    },
+    {
+        "position": [
+            [
+                1392.0,
+                920.0
+            ],
+            [
+                1456.2666625976562,
+                960.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            87,
+            173,
+            104
+        ],
+        "text": "Post Title",
+        "on_click_jump_to": "file:///post-link"
+    },
+    {
+        "position": [
+            [
+                1340.0,
+                920.0
+            ],
+            [
+                1380.0,
+                960.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/post-thumbnail.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                596.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/dune_misc1.jpg"
+    }
+]

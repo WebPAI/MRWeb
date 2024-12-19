@@ -1,0 +1,102 @@
+[
+    {
+        "position": [
+            [
+                24.0,
+                18.0
+            ],
+            [
+                160.35000610351562,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Architecture Firm",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                1627.0999755859375,
+                18.0
+            ],
+            [
+                1669.9999694824219,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                1694.0,
+                18.0
+            ],
+            [
+                1737.566665649414,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                1761.566650390625,
+                18.0
+            ],
+            [
+                1817.316650390625,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "file:///projects"
+    },
+    {
+        "position": [
+            [
+                1841.316650390625,
+                18.0
+            ],
+            [
+                1895.999984741211,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "file:///contact"
+    }
+]

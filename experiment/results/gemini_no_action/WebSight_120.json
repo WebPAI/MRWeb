@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                32.0,
+                272.0
+            ],
+            [
+                75.11666870117188,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                91.11666870117188,
+                272.0
+            ],
+            [
+                196.56666564941406,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Practice Areas",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                212.5666656494141,
+                272.0
+            ],
+            [
+                280.25,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                296.25,
+                272.0
+            ],
+            [
+                353.8500061035156,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/lawfirm_image.jpg"
+    }
+]

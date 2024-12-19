@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                688.0,
+                648.5
+            ],
+            [
+                842.0,
+                667.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "View my complete profile",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                745.0
+            ],
+            [
+                686.0,
+                765.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Short Stories",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                694.0,
+                745.0
+            ],
+            [
+                733.0,
+                765.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Poetry",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                842.5
+            ],
+            [
+                683.3833312988281,
+                863.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "► 2012 (8)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                264.0
+            ],
+            [
+                1312.0,
+                288.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-kung-fu-panda-image.jpg"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                603.0
+            ],
+            [
+                672.0,
+                667.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/profile-image.jpg"
+    }
+]

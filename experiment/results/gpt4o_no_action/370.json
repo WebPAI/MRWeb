@@ -1,0 +1,224 @@
+[
+    {
+        "position": [
+            [
+                1353.1500244140625,
+                26.0
+            ],
+            [
+                1468.86669921875,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Blog Categories",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1489.36669921875,
+                26.0
+            ],
+            [
+                1549.2500305175781,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Fan Mail",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1569.75,
+                26.0
+            ],
+            [
+                1683.0333404541016,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Store Locations",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1703.5333251953125,
+                26.0
+            ],
+            [
+                1771.5333251953125,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Media Kit",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1792.0333251953125,
+                26.0
+            ],
+            [
+                1903.999984741211,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About Our Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                759.0
+            ],
+            [
+                787.7333374023438,
+                779.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Color Change Nail Art Tutorials (56)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                791.0
+            ],
+            [
+                689.3166656494141,
+                811.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Customer Photos (26)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                823.0
+            ],
+            [
+                688.6333312988281,
+                843.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Cruises & Travel (183)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1555.25,
+                935.0
+            ],
+            [
+                1704.1000061035156,
+                955.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "email@example.com",
+        "on_click_jump_to": "mailto:email@example.com"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                107.6999969482422,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                177.0
+            ],
+            [
+                568.0,
+                217.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/author.png"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                233.0
+            ],
+            [
+                1392.0,
+                257.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/surf-event.jpg"
+    }
+]

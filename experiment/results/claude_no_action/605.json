@@ -1,0 +1,190 @@
+[
+    {
+        "position": [
+            [
+                640.0,
+                288.5
+            ],
+            [
+                677.0,
+                307.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                693.0,
+                288.5
+            ],
+            [
+                752.0,
+                307.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Literature",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                768.0,
+                288.5
+            ],
+            [
+                826.0,
+                307.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Grammar",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                842.0,
+                288.5
+            ],
+            [
+                910.0,
+                307.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Study Skills",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                926.0,
+                288.5
+            ],
+            [
+                974.0,
+                307.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                990.0,
+                288.5
+            ],
+            [
+                1117.0,
+                307.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Current Student Info",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1133.0,
+                288.5
+            ],
+            [
+                1216.0,
+                307.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Useful Videos",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                288.5
+            ],
+            [
+                1280.0,
+                307.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                536.0,
+                72.0
+            ],
+            [
+                1384.0,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/sky-clouds.jpg"
+    },
+    {
+        "position": [
+            [
+                736.0,
+                524.0
+            ],
+            [
+                1184.0,
+                548.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/church.jpg"
+    }
+]

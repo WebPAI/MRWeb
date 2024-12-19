@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                382.0,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "KiaPartsPeople.com",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                791.7000122070312,
+                8.0
+            ],
+            [
+                834.8166809082031,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                984.0499877929688,
+                8.0
+            ],
+            [
+                1054.6166534423828,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "View Cart",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                140.0
+            ],
+            [
+                1728.0,
+                164.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/kia_sportage.jpg"
+    }
+]

@@ -1,0 +1,1030 @@
+[
+    {
+        "position": [
+            [
+                1287.5333251953125,
+                30.0
+            ],
+            [
+                1330.6499786376953,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://ptsail.org/"
+    },
+    {
+        "position": [
+            [
+                1351.1500244140625,
+                30.0
+            ],
+            [
+                1400.5166931152344,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Racing",
+        "on_click_jump_to": "https://ptsail.org/racing-2/"
+    },
+    {
+        "position": [
+            [
+                1421.0166015625,
+                30.0
+            ],
+            [
+                1486.0499420166016,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "https://ptsail.org/calendar/"
+    },
+    {
+        "position": [
+            [
+                1506.550048828125,
+                30.0
+            ],
+            [
+                1589.8167114257812,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Join/Renew",
+        "on_click_jump_to": "https://ptsail.org/join-renew/"
+    },
+    {
+        "position": [
+            [
+                1610.316650390625,
+                30.0
+            ],
+            [
+                1653.9499816894531,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1674.449951171875,
+                30.0
+            ],
+            [
+                1711.9999542236328,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Links",
+        "on_click_jump_to": "https://ptsail.org/links/"
+    },
+    {
+        "position": [
+            [
+                256.433349609375,
+                325.5
+            ],
+            [
+                272.8833465576172,
+                342.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "JK",
+        "on_click_jump_to": "https://ptsail.org/author/jonk/"
+    },
+    {
+        "position": [
+            [
+                436.2999877929687,
+                325.5
+            ],
+            [
+                513.7499847412109,
+                342.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Wood boats",
+        "on_click_jump_to": "https://ptsail.org/category/wood-boats/"
+    },
+    {
+        "position": [
+            [
+                1590.61669921875,
+                325.5
+            ],
+            [
+                1646.1333618164062,
+                342.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Previous",
+        "on_click_jump_to": "https://ptsail.org/2011/09/11/americas-cup-world-series-plymouth-race-2/"
+    },
+    {
+        "position": [
+            [
+                1658.066650390625,
+                325.5
+            ],
+            [
+                1687.999984741211,
+                342.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Next",
+        "on_click_jump_to": "https://ptsail.org/2011/09/15/fall-nightcap-series-starts-sunday-september-18th/"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                476.0
+            ],
+            [
+                1075.6166687011719,
+                504.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "race results",
+        "on_click_jump_to": "https://ptsail.org/tag/race-results/"
+    },
+    {
+        "position": [
+            [
+                1083.61669921875,
+                476.0
+            ],
+            [
+                1279.4167022705078,
+                504.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "around our neighborhood",
+        "on_click_jump_to": "https://ptsail.org/tag/around-our-neighborhood/"
+    },
+    {
+        "position": [
+            [
+                1287.4166259765625,
+                476.0
+            ],
+            [
+                1429.2832946777344,
+                504.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "yet another video",
+        "on_click_jump_to": "https://ptsail.org/tag/yet-another-video/"
+    },
+    {
+        "position": [
+            [
+                1437.2833251953125,
+                476.0
+            ],
+            [
+                1553.749984741211,
+                504.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "building skills",
+        "on_click_jump_to": "https://ptsail.org/tag/building-skills/"
+    },
+    {
+        "position": [
+            [
+                1561.75,
+                476.0
+            ],
+            [
+                1661.0500030517578,
+                504.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "race report",
+        "on_click_jump_to": "https://ptsail.org/tag/race-report/"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                512.0
+            ],
+            [
+                1085.9499969482422,
+                540.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Wooden Boat",
+        "on_click_jump_to": "https://ptsail.org/tag/wooden-boat/"
+    },
+    {
+        "position": [
+            [
+                1093.949951171875,
+                512.0
+            ],
+            [
+                1219.6166229248047,
+                540.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Race Reminder",
+        "on_click_jump_to": "https://ptsail.org/tag/race-reminder/"
+    },
+    {
+        "position": [
+            [
+                1227.61669921875,
+                512.0
+            ],
+            [
+                1392.1500244140625,
+                540.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "technology of sailing",
+        "on_click_jump_to": "https://ptsail.org/tag/technology-of-sailing/"
+    },
+    {
+        "position": [
+            [
+                1400.1500244140625,
+                512.0
+            ],
+            [
+                1492.4167022705078,
+                540.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Cup News",
+        "on_click_jump_to": "https://ptsail.org/tag/cup-news/"
+    },
+    {
+        "position": [
+            [
+                1500.4166259765625,
+                512.0
+            ],
+            [
+                1561.449951171875,
+                540.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "PTSA",
+        "on_click_jump_to": "https://ptsail.org/tag/ptsa/"
+    },
+    {
+        "position": [
+            [
+                1569.449951171875,
+                512.0
+            ],
+            [
+                1674.9832916259766,
+                540.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "sailing team",
+        "on_click_jump_to": "https://ptsail.org/tag/sailing-team/"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                548.0
+            ],
+            [
+                1076.5833282470703,
+                576.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Shipwrights",
+        "on_click_jump_to": "https://ptsail.org/tag/shipwrights/"
+    },
+    {
+        "position": [
+            [
+                1084.5833740234375,
+                548.0
+            ],
+            [
+                1205.8167114257812,
+                576.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "fun on the Bay",
+        "on_click_jump_to": "https://ptsail.org/tag/fun-on-the-bay/"
+    },
+    {
+        "position": [
+            [
+                1213.816650390625,
+                548.0
+            ],
+            [
+                1330.3333129882812,
+                576.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "boat handling",
+        "on_click_jump_to": "https://ptsail.org/tag/boat-handling/"
+    },
+    {
+        "position": [
+            [
+                1338.3333740234375,
+                548.0
+            ],
+            [
+                1431.3500518798828,
+                576.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "race entry",
+        "on_click_jump_to": "https://ptsail.org/tag/race-entry/"
+    },
+    {
+        "position": [
+            [
+                1439.3499755859375,
+                548.0
+            ],
+            [
+                1647.9833068847656,
+                576.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "PTSA members in the news",
+        "on_click_jump_to": "https://ptsail.org/tag/ptsa-members-in-the-news/"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                584.0
+            ],
+            [
+                1076.2333374023438,
+                612.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "race photos",
+        "on_click_jump_to": "https://ptsail.org/tag/race-photos/"
+    },
+    {
+        "position": [
+            [
+                1084.2333984375,
+                584.0
+            ],
+            [
+                1195.2167205810547,
+                612.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "maintenance",
+        "on_click_jump_to": "https://ptsail.org/tag/maintenance/"
+    },
+    {
+        "position": [
+            [
+                1203.2166748046875,
+                584.0
+            ],
+            [
+                1319.9833526611328,
+                612.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "club business",
+        "on_click_jump_to": "https://ptsail.org/tag/club-business/"
+    },
+    {
+        "position": [
+            [
+                1327.9833984375,
+                584.0
+            ],
+            [
+                1473.0667266845703,
+                612.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Racing on the Bay",
+        "on_click_jump_to": "https://ptsail.org/tag/racing-on-the-bay/"
+    },
+    {
+        "position": [
+            [
+                1481.066650390625,
+                584.0
+            ],
+            [
+                1638.9166564941406,
+                612.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Wooden boat series",
+        "on_click_jump_to": "https://ptsail.org/tag/wooden-boat-series/"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                620.0
+            ],
+            [
+                1146.433334350586,
+                648.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Port of Port Townsend",
+        "on_click_jump_to": "https://ptsail.org/tag/port-of-port-townsend/"
+    },
+    {
+        "position": [
+            [
+                1154.433349609375,
+                620.0
+            ],
+            [
+                1321.4833526611328,
+                648.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "department of quirky",
+        "on_click_jump_to": "https://ptsail.org/tag/department-of-quirky/"
+    },
+    {
+        "position": [
+            [
+                1329.4833984375,
+                620.0
+            ],
+            [
+                1446.2167205810547,
+                648.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "notice of race",
+        "on_click_jump_to": "https://ptsail.org/tag/notice-of-race/"
+    },
+    {
+        "position": [
+            [
+                1454.2166748046875,
+                620.0
+            ],
+            [
+                1527.866683959961,
+                648.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "T-Birds",
+        "on_click_jump_to": "https://ptsail.org/tag/t-birds/"
+    },
+    {
+        "position": [
+            [
+                1535.86669921875,
+                620.0
+            ],
+            [
+                1705.6500244140625,
+                648.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Wooden Boat Festival",
+        "on_click_jump_to": "https://ptsail.org/tag/wooden-boat-festival/"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                656.0
+            ],
+            [
+                1080.6999969482422,
+                684.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "environment",
+        "on_click_jump_to": "https://ptsail.org/tag/environment/"
+    },
+    {
+        "position": [
+            [
+                1088.699951171875,
+                656.0
+            ],
+            [
+                1155.016616821289,
+                684.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "racing",
+        "on_click_jump_to": "https://ptsail.org/tag/racing/"
+    },
+    {
+        "position": [
+            [
+                1163.0166015625,
+                656.0
+            ],
+            [
+                1220.6166076660156,
+                684.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "rules",
+        "on_click_jump_to": "https://ptsail.org/tag/rules/"
+    },
+    {
+        "position": [
+            [
+                1228.61669921875,
+                656.0
+            ],
+            [
+                1306.6667022705078,
+                684.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "seminar",
+        "on_click_jump_to": "https://ptsail.org/tag/seminar/"
+    },
+    {
+        "position": [
+            [
+                1314.6666259765625,
+                656.0
+            ],
+            [
+                1408.3999481201172,
+                684.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "local color",
+        "on_click_jump_to": "https://ptsail.org/tag/local-color/"
+    },
+    {
+        "position": [
+            [
+                1416.4000244140625,
+                656.0
+            ],
+            [
+                1608.36669921875,
+                684.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Classic Mariners Regatta",
+        "on_click_jump_to": "https://ptsail.org/tag/classic-mariners-regatta-2/"
+    },
+    {
+        "position": [
+            [
+                1616.36669921875,
+                656.0
+            ],
+            [
+                1708.0000305175781,
+                684.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "going fast",
+        "on_click_jump_to": "https://ptsail.org/tag/going-fast/"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                692.0
+            ],
+            [
+                1050.816665649414,
+                720.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "weather",
+        "on_click_jump_to": "https://ptsail.org/tag/weather-2/"
+    },
+    {
+        "position": [
+            [
+                1058.816650390625,
+                692.0
+            ],
+            [
+                1148.999984741211,
+                720.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "spinnaker",
+        "on_click_jump_to": "https://ptsail.org/tag/spinnaker/"
+    },
+    {
+        "position": [
+            [
+                1157.0,
+                692.0
+            ],
+            [
+                1208.0500030517578,
+                720.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "505",
+        "on_click_jump_to": "https://ptsail.org/tag/505/"
+    },
+    {
+        "position": [
+            [
+                1216.050048828125,
+                692.0
+            ],
+            [
+                1353.483383178711,
+                720.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "volvo ocean race",
+        "on_click_jump_to": "https://ptsail.org/tag/volvo-ocean-race/"
+    },
+    {
+        "position": [
+            [
+                1361.4833984375,
+                692.0
+            ],
+            [
+                1459.4667205810547,
+                720.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "one design",
+        "on_click_jump_to": "https://ptsail.org/tag/one-design/"
+    },
+    {
+        "position": [
+            [
+                1467.4666748046875,
+                692.0
+            ],
+            [
+                1517.7166748046875,
+                720.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "5o5",
+        "on_click_jump_to": "https://ptsail.org/tag/5o5/"
+    },
+    {
+        "position": [
+            [
+                1525.7166748046875,
+                692.0
+            ],
+            [
+                1596.9000091552734,
+                720.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "history",
+        "on_click_jump_to": "https://ptsail.org/tag/history/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                298.23333740234375,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/uploads/2019/02/LogoCutout3-75px.png"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                188.0
+            ],
+            [
+                1688.0,
+                212.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/https://ptsail.org/wp-content/gallery/r-boats-2011-wbf/r-boats-in-a-row-aloha-ace-and-lady-van-port-townsend-2011.jpg"
+    }
+]

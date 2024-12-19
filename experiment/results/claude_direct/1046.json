@@ -1,0 +1,312 @@
+[
+    {
+        "position": [
+            [
+                1175.2333984375,
+                28.0
+            ],
+            [
+                1261.1000671386719,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Who we are",
+        "on_click_jump_to": "file:///who-we-are"
+    },
+    {
+        "position": [
+            [
+                1285.0999755859375,
+                28.0
+            ],
+            [
+                1371.6166381835938,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "What we do",
+        "on_click_jump_to": "file:///what-we-do"
+    },
+    {
+        "position": [
+            [
+                1395.61669921875,
+                28.0
+            ],
+            [
+                1462.0000305175781,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Our work",
+        "on_click_jump_to": "file:///our-work"
+    },
+    {
+        "position": [
+            [
+                1486.0,
+                28.0
+            ],
+            [
+                1582.0166625976562,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Our thoughts",
+        "on_click_jump_to": "file:///our-thoughts"
+    },
+    {
+        "position": [
+            [
+                1606.0166015625,
+                28.0
+            ],
+            [
+                1685.199935913086,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact us",
+        "on_click_jump_to": "file:///contact-us"
+    },
+    {
+        "position": [
+            [
+                1709.199951171875,
+                28.0
+            ],
+            [
+                1765.7166137695312,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "file:///careers"
+    },
+    {
+        "position": [
+            [
+                1789.7166748046875,
+                28.0
+            ],
+            [
+                1904.000015258789,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "0800 138 4308",
+        "on_click_jump_to": "tel:08001384308"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                1160.6666259765625
+            ],
+            [
+                395.28334045410156,
+                1184.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "file:///sitemap"
+    },
+    {
+        "position": [
+            [
+                419.2833251953125,
+                1160.6666259765625
+            ],
+            [
+                521.3499908447266,
+                1184.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy notice",
+        "on_click_jump_to": "file:///privacy-notice"
+    },
+    {
+        "position": [
+            [
+                545.3499755859375,
+                1160.6666259765625
+            ],
+            [
+                643.0166320800781,
+                1184.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Cookie policy",
+        "on_click_jump_to": "file:///cookie-policy"
+    },
+    {
+        "position": [
+            [
+                667.0166625976562,
+                1160.6666259765625
+            ],
+            [
+                828.8166656494141,
+                1184.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Carbon reduction plan",
+        "on_click_jump_to": "file:///carbon-reduction"
+    },
+    {
+        "position": [
+            [
+                852.816650390625,
+                1160.6666259765625
+            ],
+            [
+                964.4833221435547,
+                1184.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Modern slavery",
+        "on_click_jump_to": "file:///modern-slavery"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                135.76666259765625,
+                72.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hubfs/cds-logo-teal.svg"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                280.0
+            ],
+            [
+                944.0,
+                584.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hs-fs/hubfs/Riverside.png"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                280.0
+            ],
+            [
+                1584.0,
+                634.6666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hs-fs/hubfs/Police-Industry-Charter-Signatory.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                1232.6666259765625
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://info.cds.co.uk/hubfs/CDS_Website_Files_Jan_2020/arrows-pattern-black.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                1048.6666259765625
+            ],
+            [
+                1920.0,
+                1232.6666259765625
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://info.cds.co.uk/hubfs/CDS_Website_Files_Jan_2020/dots-pattern-white.png"
+    }
+]

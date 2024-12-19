@@ -1,0 +1,230 @@
+[
+    {
+        "position": [
+            [
+                1683.2333984375,
+                5.5
+            ],
+            [
+                1712.0000610351562,
+                22.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "here",
+        "on_click_jump_to": "https://mcrw.org/ccr1"
+    },
+    {
+        "position": [
+            [
+                1549.0333251953125,
+                92.93333435058594
+            ],
+            [
+                1630.6833190917969,
+                112.93333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://mcrw.org/contact-us"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                153.88333129882812
+            ],
+            [
+                299.1166687011719,
+                209.88333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://mcrw.org/"
+    },
+    {
+        "position": [
+            [
+                299.1166687011719,
+                153.88333129882812
+            ],
+            [
+                465.8000030517578,
+                209.88333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Member Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                465.7999877929687,
+                153.88333129882812
+            ],
+            [
+                636.066650390625,
+                209.88333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Forms & Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                636.066650390625,
+                153.88333129882812
+            ],
+            [
+                799.7666473388672,
+                209.88333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News & Notices",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                799.7666625976562,
+                153.88333129882812
+            ],
+            [
+                923.7666625976562,
+                209.88333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1344.3499755859375,
+                241.88333129882812
+            ],
+            [
+                1711.9999694824219,
+                297.8833312988281
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BILL PAYMENT",
+        "on_click_jump_to": "https://mcrw.org/bill-payment"
+    },
+    {
+        "position": [
+            [
+                1344.3499755859375,
+                313.8833312988281
+            ],
+            [
+                1711.9999694824219,
+                369.8833312988281
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "New Service Request",
+        "on_click_jump_to": "https://mcrw.org/new-service-request-1"
+    },
+    {
+        "position": [
+            [
+                1344.3499755859375,
+                385.8833312988281
+            ],
+            [
+                1711.9999694824219,
+                441.8833312988281
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Water Quality Report",
+        "on_click_jump_to": "https://mcrw.org/water-quality-report"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                44.0
+            ],
+            [
+                400.0,
+                137.88333129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://mcrw.org/images/logos_rwi/rwi_699_MCRW_Logo_smaller_size_1352756831_3644.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://mcrw.org/images/backgrounds/RWI_WV_barn_mill_with_waterfall_1400_x_900.jpg"
+    }
+]

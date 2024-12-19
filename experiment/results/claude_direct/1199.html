@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chemistry Pathway - JSCC</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .top-banner {
+            background-image: url('data:image/png;base64,');
+            height: 81px;
+        }
+        .nav-link {
+            @apply px-4 py-2 text-[#504A3D] hover:text-[#1C7C3E];
+        }
+        .green-link {
+            @apply text-[#1C7C3E] hover:underline;
+        }
+        .side-menu-link {
+            @apply block py-4 px-6 text-[#504A3D] hover:bg-gray-100;
+        }
+    </style>
+</head>
+<body>
+    <!-- Top Banner -->
+    <div class="top-banner relative">
+        <div class="absolute right-0 top-7 space-x-4 pr-8">
+            <a href="https://www.jscc.edu/gotime" class="green-link">Apply</a>
+            <a href="https://www.jscc.edu/academics/registration-help/reg-contact.html" class="green-link">Get Answers</a>
+            <a href="https://www.jscc.edu/development/foundation/donate/" class="green-link">Give</a>
+        </div>
+    </div>
+
+    <!-- Logo and Navigation -->
+    <header class="container mx-auto">
+        <div class="flex items-center">
+            <img src="https://www.jscc.edu/_resources/images/rwd/logo/logo-j2.webp" alt="JSCC Logo" class="w-24">
+            <nav class="flex ml-auto">
+                <a href="#" class="nav-link">Admissions</a>
+                <a href="#" class="nav-link">Financial Aid</a>
+                <a href="#" class="nav-link">Academics</a>
+                <a href="#" class="nav-link">Workforce</a>
+                <a href="#" class="nav-link">Athletics</a>
+                <a href="#" class="nav-link">About JSCC</a>
+                <a href="#" class="nav-link">Development</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto mt-8 flex">
+        <!-- Left Sidebar -->
+        <aside class="w-64">
+            <div class="border-r">
+                <h2 class="text-xl mb-4">Chemistry Menu</h2>
+                <a href="https://www.jscc.edu/academics/divisions/math-sciences/chemistry/" class="side-menu-link">About Chemistry</a>
+                <a href="https://www.jscc.edu/academics/divisions/math-sciences/chemistry/chemistry-pathway.html" class="side-menu-link">Chemistry Pathway</a>
+                <a href="https://www.jscc.edu/academics/divisions/math-sciences/chemistry/chemistry-courses.html" class="side-menu-link">Courses</a>
+                <a href="https://www.jscc.edu/academics/divisions/math-sciences/chemistry/chemistry-faculty.html" class="side-menu-link">Faculty</a>
+            </div>
+        </aside>
+
+        <!-- Main Content Area -->
+        <div class="flex-1 pl-8">
+            <div class="breadcrumb text-sm mb-4">
+                <a href="/" class="green-link">Home</a> &gt;
+                <a href="/academics" class="green-link">Academics</a> &gt;
+                <a href="/academics/divisions" class="green-link">Academic Divisions</a> &gt;
+                <a href="/academics/divisions/math-sciences" class="green-link">Math and Natural Sciences</a> &gt;
+                <a href="/academics/divisions/math-sciences/chemistry" class="green-link">Chemistry</a>
+            </div>
+
+            <h1 class="text-3xl mb-4">Chemistry Pathway</h1>
+            <p class="text-gray-700">The Associate of Science</p>
+            
+            <!-- Additional content would go here -->
+        </div>
+    </main>
+</body>
+</html>

@@ -1,0 +1,210 @@
+[
+    {
+        "position": [
+            [
+                244.0833282470703,
+                20.0
+            ],
+            [
+                290.56666564941406,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                306.566650390625,
+                20.0
+            ],
+            [
+                416.13331604003906,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "OUR LIFEBOAT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                432.1333312988281,
+                20.0
+            ],
+            [
+                556.8166656494141,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MEET THE TEAM",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                572.816650390625,
+                20.0
+            ],
+            [
+                684.2999877929688,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET INVOLVED",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                700.2999877929688,
+                20.0
+            ],
+            [
+                746.1333160400391,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "NEWS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                762.13330078125,
+                20.0
+            ],
+            [
+                805.4666290283203,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SHOP",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                821.4666748046875,
+                20.0
+            ],
+            [
+                895.183349609375,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                911.183349609375,
+                20.0
+            ],
+            [
+                974.2666778564453,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DONATE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                296.1000061035156,
+                554.0
+            ],
+            [
+                397.4499969482422,
+                574.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Press Release",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                228.0833282470703,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                64.0
+            ],
+            [
+                1920.0,
+                320.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/header-image.jpg"
+    }
+]

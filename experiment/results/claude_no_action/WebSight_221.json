@@ -1,0 +1,136 @@
+[
+    {
+        "position": [
+            [
+                24.0,
+                19.0
+            ],
+            [
+                194.93333435058594,
+                47.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Real Estate Agency",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                801.5499877929688,
+                21.0
+            ],
+            [
+                844.4499816894531,
+                45.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                868.4500122070312,
+                21.0
+            ],
+            [
+                912.0166778564453,
+                45.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                936.0166625976562,
+                21.0
+            ],
+            [
+                990.6999969482422,
+                45.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                680.0,
+                509.5
+            ],
+            [
+                723.5666656494141,
+                530.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                680.0,
+                541.5
+            ],
+            [
+                734.6833343505859,
+                562.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                408.0,
+                323.0
+            ],
+            [
+                960.0,
+                347.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/modern-house.jpg"
+    }
+]

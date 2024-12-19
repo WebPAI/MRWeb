@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KiaPartsPeople.com</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-white px-4 py-2 hover:text-gray-200;
+        }
+        .banner-container {
+            position: relative;
+            width: 100%;
+            overflow: hidden;
+        }
+        .search-button {
+            background-image: url('http://kiapartspeople.com/images/search.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 47px;
+            height: 29px;
+            position: absolute;
+            top: 17px;
+            right: 8px;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <div class="relative max-w-[1920px] mx-auto">
+        <!-- Header -->
+        <header class="flex justify-between items-center p-2">
+            <img 
+                src="http://kiapartspeople.com/images/Kia/Kia_logo.jpg" 
+                alt="Kia Logo"
+                class="w-[346px] h-[53.75px]"
+            >
+            <div class="search-button"></div>
+        </header>
+
+        <!-- Navigation -->
+        <nav class="bg-gray-700 h-[29px] flex items-center">
+            <a href="http://kiapartspeople.com/" class="nav-link">Home</a>
+            <a href="#" class="nav-link">Contact</a>
+            <a href="#" class="nav-link">About</a>
+            <a href="http://kiapartspeople.com/cartshow" class="nav-link">View Cart</a>
+        </nav>
+
+        <!-- Banner Section -->
+        <div class="banner-container h-[172px] flex">
+            <img 
+                src="http://kiapartspeople.com/images/Kia/Kia-Sportage_splash_banner_left.jpg" 
+                alt="Kia Sportage Banner Left"
+                class="w-[1470.87px] h-full"
+            >
+            <img 
+                src="http://kiapartspeople.com/images/Kia/Kia-Sportage_splash_banner_right.jpg" 
+                alt="Kia Sportage Banner Right"
+                class="w-[356px] h-full"
+            >
+            <img 
+                src="http://kiapartspeople.com/images/Kia/spacer.jpg" 
+                alt="Spacer"
+                class="w-[20px] h-full"
+            >
+        </div>
+    </div>
+</body>
+</html>

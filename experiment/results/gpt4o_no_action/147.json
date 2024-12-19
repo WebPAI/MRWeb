@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                620.4000244140625,
+                297.5
+            ],
+            [
+                702.8000335693359,
+                314.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            5,
+            150,
+            105
+        ],
+        "text": "Erin A. Doyle",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                832.0,
+                466.0
+            ],
+            [
+                902.6166687011719,
+                486.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            5,
+            150,
+            105
+        ],
+        "text": "About Me",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                832.0,
+                490.0
+            ],
+            [
+                889.6000061035156,
+                510.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            5,
+            150,
+            105
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/header-image-url.jpg"
+    }
+]

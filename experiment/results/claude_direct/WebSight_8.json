@@ -1,0 +1,130 @@
+[
+    {
+        "position": [
+            [
+                1382.4166259765625,
+                16.0
+            ],
+            [
+                1425.5332946777344,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.weat.org/water-news/2018/waternews-10-12-18"
+    },
+    {
+        "position": [
+            [
+                1441.5333251953125,
+                16.0
+            ],
+            [
+                1485.1666564941406,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://www.spicerorchards.com/plan-a-party.html"
+    },
+    {
+        "position": [
+            [
+                1501.1666259765625,
+                16.0
+            ],
+            [
+                1563.2166137695312,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Services",
+        "on_click_jump_to": "http://qie.com/barber+colman/5719-XX2XX"
+    },
+    {
+        "position": [
+            [
+                1579.2166748046875,
+                16.0
+            ],
+            [
+                1638.4000091552734,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "https://www.gadarchitecture.com/en/agoras"
+    },
+    {
+        "position": [
+            [
+                1654.4000244140625,
+                16.0
+            ],
+            [
+                1712.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://www.pastpages.org/screenshot/3368337/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                8.0
+            ],
+            [
+                990.0,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1444808190483-152526f5a268?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjU3MTR8&ixlib=rb-4.0.3&w=300&h=100"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                56.0
+            ],
+            [
+                1920.0,
+                440.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?construction"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1602.2666015625,
+                17.5
+            ],
+            [
+                1708.2832794189453,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Success Stories",
+        "on_click_jump_to": "#success-stories"
+    },
+    {
+        "position": [
+            [
+                1736.6666259765625,
+                17.5
+            ],
+            [
+                1782.0499572753906,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Events",
+        "on_click_jump_to": "#events"
+    },
+    {
+        "position": [
+            [
+                1810.433349609375,
+                17.5
+            ],
+            [
+                1904.000015258789,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Ways to Help",
+        "on_click_jump_to": "#ways-to-help"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                56.0
+            ],
+            [
+                1920.0,
+                312.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/road-image.jpg"
+    }
+]

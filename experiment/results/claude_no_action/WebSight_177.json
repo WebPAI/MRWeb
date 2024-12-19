@@ -1,0 +1,44 @@
+[
+    {
+        "position": [
+            [
+                384.0,
+                388.0
+            ],
+            [
+                746.6666870117188,
+                580.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-doctor-image.jpg"
+    },
+    {
+        "position": [
+            [
+                778.6666870117188,
+                388.0
+            ],
+            [
+                1141.3333435058594,
+                580.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-care-image.jpg"
+    },
+    {
+        "position": [
+            [
+                1173.3333740234375,
+                388.0
+            ],
+            [
+                1536.0000610351562,
+                580.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-comprehensive-care.jpg"
+    }
+]

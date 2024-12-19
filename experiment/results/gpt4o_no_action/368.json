@@ -1,0 +1,170 @@
+[
+    {
+        "position": [
+            [
+                1068.066650390625,
+                505.0
+            ],
+            [
+                1176.8499908447266,
+                522.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1300.6666259765625,
+                505.0
+            ],
+            [
+                1389.1832885742188,
+                522.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                989.6666870117188,
+                741.5
+            ],
+            [
+                1049.2666778564453,
+                761.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sign up!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                960.5
+            ],
+            [
+                55.73333740234375,
+                977.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                75.66667175292969,
+                960.5
+            ],
+            [
+                122.78334045410156,
+                977.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                142.71665954589844,
+                960.5
+            ],
+            [
+                173.85000610351562,
+                977.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Jobs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                193.78334045410156,
+                960.5
+            ],
+            [
+                245.73333740234375,
+                977.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Support",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                867.7666625976562,
+                633.5
+            ],
+            [
+                887.7666625976562,
+                653.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/google-icon.png"
+    },
+    {
+        "position": [
+            [
+                872.75,
+                689.5
+            ],
+            [
+                892.75,
+                709.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/apple-icon.png"
+    }
+]

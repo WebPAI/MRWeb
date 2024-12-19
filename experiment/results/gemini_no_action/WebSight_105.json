@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1492.63330078125,
+                78.0
+            ],
+            [
+                1557.8999633789062,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Products",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1578.4000244140625,
+                78.0
+            ],
+            [
+                1641.5166931152344,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Features",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1662.0166015625,
+                78.0
+            ],
+            [
+                1711.9999389648438,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Pricing",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                64.0
+            ],
+            [
+                256.0,
+                112.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/logo.png"
+    }
+]

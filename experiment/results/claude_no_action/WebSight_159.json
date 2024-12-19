@@ -1,0 +1,156 @@
+[
+    {
+        "position": [
+            [
+                796.61669921875,
+                77.5
+            ],
+            [
+                864.2166900634766,
+                98.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Programs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                888.2166748046875,
+                77.5
+            ],
+            [
+                954.9500122070312,
+                98.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Initiatives",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                978.9500122070312,
+                77.5
+            ],
+            [
+                1044.683349609375,
+                98.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1068.683349609375,
+                77.5
+            ],
+            [
+                1123.366683959961,
+                98.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                892.5
+            ],
+            [
+                275.26666259765625,
+                913.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            209,
+            213,
+            219
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                920.5
+            ],
+            [
+                255.71665954589844,
+                941.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            209,
+            213,
+            219
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                948.5
+            ],
+            [
+                278.53334045410156,
+                969.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            209,
+            213,
+            219
+        ],
+        "text": "Instagram",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                936.0,
+                16.0
+            ],
+            [
+                984.0,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    }
+]

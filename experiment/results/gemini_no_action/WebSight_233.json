@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                802.8333129882812,
+                106.0
+            ],
+            [
+                845.9499816894531,
+                126.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                882.4500122070312,
+                106.0
+            ],
+            [
+                926.0833435058594,
+                126.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                962.5833129882812,
+                106.0
+            ],
+            [
+                1023.066650390625,
+                126.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Vehicles",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1059.566650390625,
+                106.0
+            ],
+            [
+                1117.1666564941406,
+                126.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                24.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/truck.jpg"
+    }
+]

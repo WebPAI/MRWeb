@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAA Proceedings</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            color: rgb(186, 187, 191);
+        }
+        .pink-link {
+            color: rgb(242, 103, 144);
+        }
+        .year-link {
+            font-size: 0.875rem;
+            color: black;
+            text-decoration: none;
+            padding: 2px 4px;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Top Navigation -->
+    <nav class="flex justify-end px-8 py-4 text-sm space-x-5">
+        <a href="http://caa-international.org/" class="nav-link">CAA International</a>
+        <a href="http://caaconference.org/" class="nav-link">CAA Conference</a>
+        <a href="http://journal.caa-international.org/" class="nav-link">CAA Journal</a>
+        <a href="https://members.caa-international.org/" class="nav-link">Members</a>
+    </nav>
+
+    <!-- Header Image -->
+    <div class="mx-auto">
+        <img src="https://proceedings.caaconference.org/wp-content/themes/caa-pink/images/header-int.png" 
+             alt="CAA Header" 
+             class="w-full">
+    </div>
+
+    <!-- Main Content -->
+    <div class="max-w-7xl mx-auto flex">
+        <!-- Left Content -->
+        <div class="w-3/4 p-8">
+            <div class="bg-gray-700 text-white p-4 mb-6 w-24">
+                <a href="https://proceedings.caaconference.org/" class="text-white">Home</a>
+            </div>
+
+            <h1 class="text-2xl mb-4">Hypermedia and Archaeological Publication: The Wadi Ziqlab Project</h1>
+            
+            <p class="mb-4">Author(s): Banning, E.B.</p>
+            
+            <p class="mb-4">Full reference:</p>
+            
+            <p class="mb-6">Banning, E.B. 1993. Hypermedia and Archaeological Publication: The Wadi Ziqlab Project, In: Andresen, J., T. Madsen and I. Scollar (eds.), Computing the Past: Computer Applications and Quantitative Methods in Archaeology, CAA92. Aarhus University Press, Aarhus, pp. 441-448.</p>
+
+            <!-- Pink Box -->
+            <div class="border border-pink-300 p-4 mb-6">
+                <p class="mb-2">By downloading this paper, you agree to the following conditions of use:</p>
+                <ul class="list-disc pl-8">
+                    <li class="mb-2">Personal use: Users are only allowed to download the paper for personal use. He or she is not allowed to copy the paper, or substantial parts thereof, for other purposes. Users are not allowed to make any commercial use of the paper, for instance by selling it. Copyrights of third parties must always be respected.</li>
+                    <li>Bibliographic reference of the paper: When papers are cited in publications, this must be indicated by the correct bibliographic reference.</li>
+                </ul>
+            </div>
+
+            <p class="mb-4">Downloadable file: <a href="http://proceedings.caaconference.org/files/1992/48_Banning_CAA_1992.pdf" class="pink-link">48_Banning_CAA_1992.pdf</a></p>
+            
+            <p class="mb-4">Year of publication: 1993</p>
+            
+            <p class="mb-4">Year of CAA: <a href="https://proceedings.caaconference.org/year/1992/" class="pink-link">1992</a></p>
+            
+            <p>Theme: <a href="https://proceedings.caaconference.org/theme/visualisation-hypermedia-education/" class="pink-link">Visualisation, Hypermedia & Education</a></p>
+        </div>
+
+        <!-- Right Sidebar -->
+        <div class="w-1/4 p-8">
+            <h2 class="text-green-600 mb-4">Search proceedings</h2>
+            <div class="flex">
+                <input type="search" class="border p-2 flex-grow">
+                <button class="px-4 py-2 bg-gray-200">Search</button>
+            </div>
+            
+            <h2 class="text-green-600 mt-8 mb-4">Year of CAA</h2>
+            <div class="grid grid-cols-4 gap-x-2 gap-y-1 text-sm">
+                <a href="/year/1973" class="year-link">1973</a>
+                <a href="/year/1974" class="year-link">1974</a>
+                <a href="/year/1975" class="year-link">1975</a>
+                <a href="/year/1976" class="year-link">1976</a>
+                <a href="/year/1977" class="year-link">1977</a>
+                <!-- Add all other years following the same pattern -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>

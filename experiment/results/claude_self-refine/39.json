@@ -1,0 +1,390 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                20.0
+            ],
+            [
+                250.89999389648438,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.eweek.com/"
+    },
+    {
+        "position": [
+            [
+                266.8999938964844,
+                16.0
+            ],
+            [
+                373.46665954589844,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Networking",
+        "on_click_jump_to": "https://www.eweek.com/networking/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                124.0
+            ],
+            [
+                377.6666717529297,
+                220.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Jeff Burt",
+        "on_click_jump_to": "https://www.eweek.com/author/jeff-burt/"
+    },
+    {
+        "position": [
+            [
+                1392.0,
+                140.0
+            ],
+            [
+                1688.0,
+                188.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            17,
+            17
+        ],
+        "text": "9 Best Artificial Intelligence (AI) 3D Generators...",
+        "on_click_jump_to": "https://www.eweek.com/artificial-intelligence/best-ai-3d-generators/"
+    },
+    {
+        "position": [
+            [
+                1392.0,
+                212.0
+            ],
+            [
+                1688.0,
+                260.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            17,
+            17
+        ],
+        "text": "RingCentral Expands Its Collaboration Platform",
+        "on_click_jump_to": "https://www.eweek.com/cloud/ringcentral-expands-its-collaboration-platform/"
+    },
+    {
+        "position": [
+            [
+                1392.0,
+                284.0
+            ],
+            [
+                1688.0,
+                308.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            17,
+            17
+        ],
+        "text": "8 Best AI Data Analytics Software &...",
+        "on_click_jump_to": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/"
+    },
+    {
+        "position": [
+            [
+                1392.0,
+                332.0
+            ],
+            [
+                1688.0,
+                380.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            17,
+            17
+        ],
+        "text": "Zeus Kerravala on Networking: Multicloud, 5G, and...",
+        "on_click_jump_to": "https://www.eweek.com/networking/zeus-kerravala-on-networking/"
+    },
+    {
+        "position": [
+            [
+                1392.0,
+                404.0
+            ],
+            [
+                1688.0,
+                452.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            17,
+            17
+        ],
+        "text": "Datadog President Amit Agarwal on Trends in...",
+        "on_click_jump_to": "https://www.eweek.com/enterprise-apps/datadog-infrastructure-observability-trends/"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                617.5
+            ],
+            [
+                815.3166656494141,
+                638.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About eWeek",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                649.5
+            ],
+            [
+                915.9833374023438,
+                670.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Subscribe to our Newsletter",
+        "on_click_jump_to": "file:///newsletter"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                681.5
+            ],
+            [
+                804.7166595458984,
+                702.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Latest News",
+        "on_click_jump_to": "file:///news"
+    },
+    {
+        "position": [
+            [
+                575.0,
+                736.0
+            ],
+            [
+                680.0,
+                756.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PRIVACY POLICY",
+        "on_click_jump_to": "file:///privacy"
+    },
+    {
+        "position": [
+            [
+                696.0,
+                736.0
+            ],
+            [
+                738.0,
+                756.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "TERMS",
+        "on_click_jump_to": "file:///terms"
+    },
+    {
+        "position": [
+            [
+                754.0,
+                736.0
+            ],
+            [
+                799.0,
+                756.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                815.0,
+                736.0
+            ],
+            [
+                876.0,
+                756.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                892.0,
+                736.0
+            ],
+            [
+                959.0,
+                756.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ADVERTISE",
+        "on_click_jump_to": "file:///advertise"
+    },
+    {
+        "position": [
+            [
+                975.0,
+                736.0
+            ],
+            [
+                1030.0,
+                756.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SITEMAP",
+        "on_click_jump_to": "file:///sitemap"
+    },
+    {
+        "position": [
+            [
+                1046.0,
+                736.0
+            ],
+            [
+                1345.0,
+                756.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CALIFORNIA – DO NOT SELL MY INFORMATION",
+        "on_click_jump_to": "file:///ccpa"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                124.0
+            ],
+            [
+                304.0,
+                220.0
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                572.0
+            ],
+            [
+                507.04998779296875,
+                652.0
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20157%2042'%3E%3C/svg%3E"
+    }
+]

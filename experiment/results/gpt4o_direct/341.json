@@ -1,0 +1,208 @@
+[
+    {
+        "position": [
+            [
+                256.0,
+                164.0
+            ],
+            [
+                450.28334045410156,
+                188.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "1",
+        "on_click_jump_to": "http://www.thefutoncritic.com/news/2014/07/01/"
+    },
+    {
+        "position": [
+            [
+                458.2833251953125,
+                164.0
+            ],
+            [
+                652.566650390625,
+                188.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "2",
+        "on_click_jump_to": "http://www.thefutoncritic.com/news/2014/07/02/"
+    },
+    {
+        "position": [
+            [
+                660.566650390625,
+                164.0
+            ],
+            [
+                854.8499908447266,
+                188.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "3",
+        "on_click_jump_to": "http://www.thefutoncritic.com/news/2014/07/03/"
+    },
+    {
+        "position": [
+            [
+                256.0,
+                204.0
+            ],
+            [
+                1664.0,
+                228.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "Hulu Announces October 18th Release Date for Highly Anticipated Original Series \"Rivals\"",
+        "on_click_jump_to": "http://www.thefutoncritic.com/news/2024/08/21/hulu-announces-october-18th-release-date-for-highly-anticipated-original-series-rivals-979114/20240821hulu03/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                24.0
+            ],
+            [
+                52.08332824707031,
+                72.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/global/logo.gif"
+    },
+    {
+        "position": [
+            [
+                1779.566650390625,
+                36.0
+            ],
+            [
+                1818.2666473388672,
+                60.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/myfuton-email.gif"
+    },
+    {
+        "position": [
+            [
+                1834.2666015625,
+                36.0
+            ],
+            [
+                1903.9999389648438,
+                60.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/password.gif"
+    },
+    {
+        "position": [
+            [
+                876.2833251953125,
+                96.0
+            ],
+            [
+                919.3999786376953,
+                132.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/global/nav-home.gif"
+    },
+    {
+        "position": [
+            [
+                935.4000244140624,
+                96.0
+            ],
+            [
+                1043.7166900634766,
+                132.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/global/nav-breaking-news.gif"
+    },
+    {
+        "position": [
+            [
+                925.8333129882812,
+                266.0
+            ],
+            [
+                994.1666564941406,
+                290.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/global/advertise-on-futon.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                96.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/bg-header.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                96.0
+            ],
+            [
+                1920.0,
+                132.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/bg-nav-bar.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                260.0
+            ],
+            [
+                1920.0,
+                296.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/bg-footer.jpg"
+    }
+]

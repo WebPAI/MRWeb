@@ -1,0 +1,132 @@
+[
+    {
+        "position": [
+            [
+                77.39999389648438,
+                49.5
+            ],
+            [
+                162.75,
+                66.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            238
+        ],
+        "text": "Jim Steinhart",
+        "on_click_jump_to": "http://travelphotobase.com/js.htm"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                124.0
+            ],
+            [
+                1904.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            238
+        ],
+        "text": "Shelburne Museum Folk Arts",
+        "on_click_jump_to": "http://travelphotobase.com/u/VT/VTSMF.HTM"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                148.0
+            ],
+            [
+                1904.0,
+                172.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            238
+        ],
+        "text": "Captions List for Vermont",
+        "on_click_jump_to": "http://travelphotobase.com/s/VTIX.HTM"
+    },
+    {
+        "position": [
+            [
+                1864.566650390625,
+                48.0
+            ],
+            [
+                1903.999984741211,
+                68.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://travelphotobase.com/i/USVT/VTSMD613.JPG"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                188.0
+            ],
+            [
+                27.48333740234375,
+                208.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://travelphotobase.com/b/u.gif"
+    },
+    {
+        "position": [
+            [
+                35.48333740234375,
+                188.0
+            ],
+            [
+                45.649993896484375,
+                208.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://travelphotobase.com/b/y.gif"
+    },
+    {
+        "position": [
+            [
+                53.649993896484375,
+                188.0
+            ],
+            [
+                63.53334045410156,
+                208.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://travelphotobase.com/b/s.gif"
+    },
+    {
+        "position": [
+            [
+                71.53334045410156,
+                188.0
+            ],
+            [
+                82.0,
+                208.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://travelphotobase.com/b/v.gif"
+    }
+]

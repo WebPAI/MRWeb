@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1685.7166748046875,
+                30.0
+            ],
+            [
+                1726.2333526611328,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1746.7333984375,
+                30.0
+            ],
+            [
+                1790.1333923339844,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Hours",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1810.63330078125,
+                30.0
+            ],
+            [
+                1903.9999694824219,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Reservations",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                64.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    }
+]

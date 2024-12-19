@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                174.43333435058594,
+                30.0
+            ],
+            [
+                211.43333435058594,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.wishesh.com/classifieds.html?md=browse&mds=search&ct=rlest9"
+    },
+    {
+        "position": [
+            [
+                231.4333343505859,
+                30.0
+            ],
+            [
+                269.43333435058594,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://studio206.network/?page_id=24"
+    },
+    {
+        "position": [
+            [
+                289.433349609375,
+                30.0
+            ],
+            [
+                337.433349609375,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://www.isbuc.co.uk/Places/Kyleakin.php"
+    },
+    {
+        "position": [
+            [
+                1792.0,
+                24.0
+            ],
+            [
+                1896.0,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Get Started",
+        "on_click_jump_to": "https://www.newsr.in/n/Front+Page/1zkhgt33nz/India-Jet-Airways-says-it-is-suspending.htm"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?technology"
+    }
+]

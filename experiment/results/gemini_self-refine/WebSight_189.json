@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                1420.0999755859375,
+                30.0
+            ],
+            [
+                1463.2166290283203,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.pastpages.org/screenshot/3368337/"
+    },
+    {
+        "position": [
+            [
+                1491.7166748046875,
+                30.0
+            ],
+            [
+                1535.3500213623047,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://jesslively.com/my-2014-future-letter/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+makeunder+%28Makeunder+My+Life%29"
+    },
+    {
+        "position": [
+            [
+                1563.8499755859375,
+                30.0
+            ],
+            [
+                1625.8999633789062,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Services",
+        "on_click_jump_to": "https://www.sbhcc.org/best-visco-memory-foam-mattress-topper-nectar-mattress/"
+    },
+    {
+        "position": [
+            [
+                1654.4000244140625,
+                30.0
+            ],
+            [
+                1712.0000305175781,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://www.thebritishtoastrack.com/chapter-fourteen-mr-talker-learns-to-listen/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                256.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1578911595545-a46c90db6413?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczMjJ8&ixlib=rb-4.0.3&w=100&h=100"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                80.0
+            ],
+            [
+                1712.0,
+                336.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://source.unsplash.com/random/1600x900/?creative"
+    }
+]

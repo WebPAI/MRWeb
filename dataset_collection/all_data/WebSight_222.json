@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                867.0,
+                17.5
+            ],
+            [
+                922.75,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "http://www.mayrschulmoebel.at/en/produkt.asp?HauptGruppeID=4&UnterGruppe1ID=11&UnterGruppe2ID=1342&ArtikeltextID=SGMSD126"
+    },
+    {
+        "position": [
+            [
+                938.75,
+                17.5
+            ],
+            [
+                982.3166656494141,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.selamtamagazine.com/stories/24-hours-in-franschhoek"
+    },
+    {
+        "position": [
+            [
+                998.316650390625,
+                17.5
+            ],
+            [
+                1052.999984741211,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://kerrymuseum.ie/collections/donations/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?architecture"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                251.11666870117188,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                283.1166687011719,
+                16.0
+            ],
+            [
+                352.1166687011719,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Surgeries",
+        "on_click_jump_to": "file:///surgeries"
+    },
+    {
+        "position": [
+            [
+                384.1166687011719,
+                16.0
+            ],
+            [
+                457.9166717529297,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Medicines",
+        "on_click_jump_to": "file:///medicines"
+    },
+    {
+        "position": [
+            [
+                489.9166870117187,
+                16.0
+            ],
+            [
+                559.683349609375,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Lab Tests",
+        "on_click_jump_to": "file:///lab-tests"
+    },
+    {
+        "position": [
+            [
+                591.683349609375,
+                16.0
+            ],
+            [
+                624.183349609375,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "file:///blog"
+    },
+    {
+        "position": [
+            [
+                656.183349609375,
+                16.0
+            ],
+            [
+                761.4000091552734,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Join as Doctor",
+        "on_click_jump_to": "file:///join-as-doctor"
+    },
+    {
+        "position": [
+            [
+                1672.4000244140625,
+                18.0
+            ],
+            [
+                1712.0000305175781,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Login",
+        "on_click_jump_to": "file:///login"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                144.0
+            ],
+            [
+                257.5500030517578,
+                252.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/doctor-image.jpg"
+    }
+]

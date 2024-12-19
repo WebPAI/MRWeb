@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                873.4166870117188,
+                149.5
+            ],
+            [
+                916.3166809082031,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.doinga360.com/Five-Tibetan-Rites.html"
+    },
+    {
+        "position": [
+            [
+                932.316650390625,
+                149.5
+            ],
+            [
+                975.8833160400391,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://stylepetal.blogspot.com/2015/06/summer-staples.html"
+    },
+    {
+        "position": [
+            [
+                991.88330078125,
+                149.5
+            ],
+            [
+                1046.566635131836,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://neuvoo.qa/view/?id=205a777fc630&source=gfj"
+    },
+    {
+        "position": [
+            [
+                884.5,
+                16.0
+            ],
+            [
+                1035.5,
+                116.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1719681113330-cec1018bced7?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NDV8&ixlib=rb-4.0.3&w=300&h=100"
+    }
+]

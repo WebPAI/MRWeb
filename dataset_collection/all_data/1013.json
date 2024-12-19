@@ -1,0 +1,614 @@
+[
+    {
+        "position": [
+            [
+                360.0,
+                135.0
+            ],
+            [
+                590.2833404541016,
+                166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Everyday Thrifter",
+        "on_click_jump_to": "http://www.everydaythrifter.com/"
+    },
+    {
+        "position": [
+            [
+                1022.1500244140624,
+                1482.5
+            ],
+            [
+                1181.6000366210938,
+                1501.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            122,
+            204
+        ],
+        "text": "J.Crew $90 dress shirt",
+        "on_click_jump_to": "https://www.jcrew.com/p/mens_category/dressshirts/ludlowdress/tall-ludlow-shirt-in-endonend-cotton/02499?color_name=fairweather-blue"
+    },
+    {
+        "position": [
+            [
+                780.0,
+                4577.5
+            ],
+            [
+                1362.4166870117188,
+                4624.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            122,
+            204
+        ],
+        "text": "AmazonBasics 2-piece fry pan set is a great deal",
+        "on_click_jump_to": "https://www.amazon.com/AmazonBasics-2-Piece-Nonstick-Fry-Pan/dp/B0112W7COG"
+    },
+    {
+        "position": [
+            [
+                1123.2666015625,
+                7091.0
+            ],
+            [
+                1174.9665985107422,
+                7110.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            122,
+            204
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "https://twitter.com/EDThrifter"
+    },
+    {
+        "position": [
+            [
+                1197.88330078125,
+                7091.0
+            ],
+            [
+                1265.3332977294922,
+                7110.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            122,
+            204
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "https://www.facebook.com/everydaythrifter/"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                944.0
+            ],
+            [
+                566.0,
+                959.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Nick",
+        "on_click_jump_to": "http://www.everydaythrifter.com/author/nick/"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                972.0
+            ],
+            [
+                635.0,
+                987.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "August 10, 2017",
+        "on_click_jump_to": "http://www.everydaythrifter.com/2017/08/10/7-things-college-students-should-buy-at-thrift-stores/"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                1000.0
+            ],
+            [
+                612.0,
+                1015.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Accessories",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/accessories/"
+    },
+    {
+        "position": [
+            [
+                620.0,
+                1000.0
+            ],
+            [
+                684.0,
+                1015.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Appliances",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/appliances/"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                1021.0
+            ],
+            [
+                597.0,
+                1036.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Bakeware",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/kitchenware/bakeware/"
+    },
+    {
+        "position": [
+            [
+                605.0,
+                1021.0
+            ],
+            [
+                642.0,
+                1036.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Books",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/books/"
+    },
+    {
+        "position": [
+            [
+                650.0,
+                1021.0
+            ],
+            [
+                697.0,
+                1036.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Clothing",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/clothing/"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                1042.0
+            ],
+            [
+                583.0,
+                1057.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "College",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/school/college/"
+    },
+    {
+        "position": [
+            [
+                591.0,
+                1042.0
+            ],
+            [
+                644.0,
+                1057.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Dishware",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/kitchenware/dishware/"
+    },
+    {
+        "position": [
+            [
+                652.0,
+                1042.0
+            ],
+            [
+                703.0,
+                1057.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Furniture",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/furniture/"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                1063.0
+            ],
+            [
+                574.0,
+                1078.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Jeans",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/clothing/jeans/"
+    },
+    {
+        "position": [
+            [
+                582.0,
+                1063.0
+            ],
+            [
+                653.0,
+                1078.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Kitchenware",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/kitchenware/"
+    },
+    {
+        "position": [
+            [
+                661.0,
+                1063.0
+            ],
+            [
+                695.0,
+                1078.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Pants",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/clothing/pants/"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                1084.0
+            ],
+            [
+                614.0,
+                1099.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Pots & Pans",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/kitchenware/pots-pans/"
+    },
+    {
+        "position": [
+            [
+                622.0,
+                1084.0
+            ],
+            [
+                662.0,
+                1099.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "School",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/school/"
+    },
+    {
+        "position": [
+            [
+                670.0,
+                1084.0
+            ],
+            [
+                704.0,
+                1099.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Shirts",
+        "on_click_jump_to": "http://www.everydaythrifter.com/category/clothing/shirts/"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                7286.5
+            ],
+            [
+                1380.0,
+                7405.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "PREVIOUS\nWhy Men Should Never Buy Ties New",
+        "on_click_jump_to": "http://www.everydaythrifter.com/2017/08/08/why-men-should-never-buy-ties-new/"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                7409.5
+            ],
+            [
+                1380.0,
+                7528.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "NEXT\nDisplaying Mugs at Thrift Stores",
+        "on_click_jump_to": "http://www.everydaythrifter.com/2017/08/15/displaying-mugs-at-thrift-stores/"
+    },
+    {
+        "position": [
+            [
+                360.0,
+                7654.5
+            ],
+            [
+                461.6166687011719,
+                7669.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Everyday Thrifter",
+        "on_click_jump_to": "http://www.everydaythrifter.com/"
+    },
+    {
+        "position": [
+            [
+                479.75,
+                7654.5
+            ],
+            [
+                660.8166656494141,
+                7669.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            104,
+            104,
+            104
+        ],
+        "text": "Proudly powered by WordPress",
+        "on_click_jump_to": "https://wordpress.org/"
+    },
+    {
+        "position": [
+            [
+                760.0,
+                441.0
+            ],
+            [
+                1160.0,
+                841.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.everydaythrifter.com/wp-content/uploads/2017/08/7-Things-College-Students-Should-Buy-at-Thrift-Stores.jpg"
+    },
+    {
+        "position": [
+            [
+                780.0,
+                1680.0
+            ],
+            [
+                1380.0,
+                2017.5
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.everydaythrifter.com/wp-content/uploads/2017/08/shirts-7-Things-College-Students-Should-Buy-at-Thrift-Stores.jpg"
+    },
+    {
+        "position": [
+            [
+                780.0,
+                2758.5
+            ],
+            [
+                1380.0,
+                3096.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.everydaythrifter.com/wp-content/uploads/2017/08/pants-7-Things-College-Students-Should-Buy-at-Thrift-Stores.jpg"
+    },
+    {
+        "position": [
+            [
+                1080.0,
+                3648.0
+            ],
+            [
+                1380.0,
+                3817.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.everydaythrifter.com/wp-content/uploads/2017/08/books-7-Things-College-Students-Should-Buy-at-Thrift-Stores-300x169.jpg"
+    },
+    {
+        "position": [
+            [
+                1080.0,
+                4663.0
+            ],
+            [
+                1380.0,
+                4963.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.everydaythrifter.com/wp-content/uploads/2017/08/cookware-7-Things-College-Students-Should-Buy-at-Thrift-Stores-300x300.jpg"
+    },
+    {
+        "position": [
+            [
+                780.0,
+                5454.0
+            ],
+            [
+                1380.0,
+                5791.5
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.everydaythrifter.com/wp-content/uploads/2017/08/appliances-7-Things-College-Students-Should-Buy-at-Thrift-Stores.jpg"
+    },
+    {
+        "position": [
+            [
+                1080.0,
+                6392.5
+            ],
+            [
+                1380.0,
+                6561.5
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.everydaythrifter.com/wp-content/uploads/2017/08/furniture-7-Things-College-Students-Should-Buy-at-Thrift-Stores-300x169.jpg"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                885.0
+            ],
+            [
+                589.0,
+                934.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://2.gravatar.com/avatar/b2f37fbf375b922238df9de22a6f6abf?s=49&d=mm&r=g"
+    }
+]

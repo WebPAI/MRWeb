@@ -1,0 +1,532 @@
+[
+    {
+        "position": [
+            [
+                1578.9666748046875,
+                8.0
+            ],
+            [
+                1720.7166748046875,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Log In / Register",
+        "on_click_jump_to": "https://leoandbella.com.au/my-account/"
+    },
+    {
+        "position": [
+            [
+                1720.7166748046875,
+                8.0
+            ],
+            [
+                1831.183349609375,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "My Account",
+        "on_click_jump_to": "https://leoandbella.com.au/my-account/"
+    },
+    {
+        "position": [
+            [
+                1831.183349609375,
+                8.0
+            ],
+            [
+                1912.000015258789,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Wishlist",
+        "on_click_jump_to": "https://leoandbella.com.au/wishlist/"
+    },
+    {
+        "position": [
+            [
+                632.75,
+                56.0
+            ],
+            [
+                668.6999969482422,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "NEW",
+        "on_click_jump_to": "https://leoandbella.com.au/new-arrival/"
+    },
+    {
+        "position": [
+            [
+                700.7000122070312,
+                56.0
+            ],
+            [
+                745.683349609375,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "WEAR",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/wear/"
+    },
+    {
+        "position": [
+            [
+                777.683349609375,
+                56.0
+            ],
+            [
+                888.4000091552734,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "KIDS INTERIOR",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/kids-interior/"
+    },
+    {
+        "position": [
+            [
+                920.4000244140624,
+                56.0
+            ],
+            [
+                961.1333618164061,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "TOYS",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/toys/"
+    },
+    {
+        "position": [
+            [
+                993.13330078125,
+                56.0
+            ],
+            [
+                1042.8666381835938,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "PARTY",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/party-2/"
+    },
+    {
+        "position": [
+            [
+                1074.86669921875,
+                56.0
+            ],
+            [
+                1121.3500366210938,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/homeware/"
+    },
+    {
+        "position": [
+            [
+                1153.3499755859375,
+                56.0
+            ],
+            [
+                1191.6833038330078,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "SALE",
+        "on_click_jump_to": "https://leoandbella.com.au/sale/"
+    },
+    {
+        "position": [
+            [
+                1223.683349609375,
+                56.0
+            ],
+            [
+                1287.250015258789,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "BRANDS",
+        "on_click_jump_to": "https://leoandbella.com.au/brands/"
+    },
+    {
+        "position": [
+            [
+                494.0,
+                113.0
+            ],
+            [
+                580.4333343505859,
+                133.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "LEO & BELLA",
+        "on_click_jump_to": "https://leoandbella.com.au/"
+    },
+    {
+        "position": [
+            [
+                596.433349609375,
+                113.0
+            ],
+            [
+                634.8333435058594,
+                133.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "SHOP",
+        "on_click_jump_to": "https://leoandbella.com.au/shop/"
+    },
+    {
+        "position": [
+            [
+                650.8333129882812,
+                113.0
+            ],
+            [
+                828.7833251953125,
+                133.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "BLOCK PUZZLES & GAMES",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/toys/games/"
+    },
+    {
+        "position": [
+            [
+                844.7833251953125,
+                113.0
+            ],
+            [
+                901.1333160400391,
+                133.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "BRANDS",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/brands/"
+    },
+    {
+        "position": [
+            [
+                917.13330078125,
+                113.0
+            ],
+            [
+                1015.4999694824219,
+                133.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "KIDS INTERIOR",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/kids-interior/"
+    },
+    {
+        "position": [
+            [
+                1031.5,
+                113.0
+            ],
+            [
+                1072.0,
+                133.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "KIKO+",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/brands/kiko/"
+    },
+    {
+        "position": [
+            [
+                1088.0,
+                113.0
+            ],
+            [
+                1138.25,
+                133.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "KUKKIA",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/brands/kukkia/"
+    },
+    {
+        "position": [
+            [
+                1154.25,
+                113.0
+            ],
+            [
+                1255.0833282470703,
+                133.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "PRETEND PLAY",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/toys/pretend-play/"
+    },
+    {
+        "position": [
+            [
+                1271.0833740234375,
+                113.0
+            ],
+            [
+                1307.2167053222656,
+                133.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "TOYS",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/toys/"
+    },
+    {
+        "position": [
+            [
+                1323.2166748046875,
+                113.0
+            ],
+            [
+                1426.000015258789,
+                133.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "WOODEN TOYS",
+        "on_click_jump_to": "https://leoandbella.com.au/product-category/toys/wooden-toys/"
+    },
+    {
+        "position": [
+            [
+                1008.0,
+                191.0
+            ],
+            [
+                1160.7166595458984,
+                227.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ADD TO CART",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1181.2166748046875,
+                199.0
+            ],
+            [
+                1317.7166748046875,
+                219.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "ADD TO WISHLIST",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                149.0
+            ],
+            [
+                944.0,
+                885.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://leoandbella.com.au/wp-content/uploads/2014/12/kiko-gatcha-gatcha-gumball.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                901.0
+            ],
+            [
+                380.0,
+                1073.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://leoandbella.com.au/wp-content/uploads/2014/12/kiko-gatcha-gatcha-gumball.jpg"
+    },
+    {
+        "position": [
+            [
+                396.0,
+                901.0
+            ],
+            [
+                568.0,
+                1073.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://leoandbella.com.au/wp-content/uploads/2014/12/Screen-Shot-2014-12-29-at-7.27.28-pm.png"
+    },
+    {
+        "position": [
+            [
+                584.0,
+                901.0
+            ],
+            [
+                756.0,
+                1073.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://leoandbella.com.au/wp-content/uploads/2014/12/kiko_gatchagatcha_01-533x533.jpg"
+    },
+    {
+        "position": [
+            [
+                772.0,
+                901.0
+            ],
+            [
+                944.0,
+                1073.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://leoandbella.com.au/wp-content/uploads/2014/12/kiko_gatchagatcha_08-533x533.jpg"
+    }
+]

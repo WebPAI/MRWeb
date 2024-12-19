@@ -1,0 +1,36 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                2505.5
+            ],
+            [
+                297.18333435058594,
+                2542.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Book Now",
+        "on_click_jump_to": "http://quick.co.id/en/quick-capung-rawa-2/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                272.0
+            ],
+            [
+                1728.0,
+                2192.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1554357345-187a92a9eeab?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2MzJ8&ixlib=rb-4.0.3&w=1200&h=400"
+    }
+]

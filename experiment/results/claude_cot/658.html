@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>The Wine Snob</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white">
+    <!-- Header with background image -->
+    <header class="relative h-[528px] w-full">
+        <div class="absolute inset-0 bg-cover bg-center" 
+             style="background-image: url('https://thewinesnob.net/wp-content/uploads/2014/06/cropped-photo-4.jpg')">
+        </div>
+        <nav class="relative z-10 flex justify-center items-center h-full">
+            <div class="flex space-x-8 text-white">
+                <a href="https://thewinesnob.net/" class="text-xl">HOME</a>
+                <a href="https://thewinesnob.net/about/" class="text-xl">ABOUT ME</a>
+                <a href="https://thewinesnob.net/freelance-work/" class="text-xl">FREELANCE WORK</a>
+            </div>
+        </nav>
+        <a href="https://thewinesnob.net/" class="absolute top-[231px] right-[307px] text-white text-3xl">
+            THE WINE SNOB.
+        </a>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-4xl mx-auto mt-8 px-4">
+        <article>
+            <!-- Article Meta -->
+            <div class="text-gray-600 mb-4">
+                <a href="https://thewinesnob.net/2015/01/06/thirty-oregon-wines-in-thirty-days-day-5-fun-with-deponte/" 
+                   class="hover:text-brown-600">JANUARY 6, 2015</a>
+                <span class="mx-2">|</span>
+                <a href="https://thewinesnob.net/author/thewinesnob/" 
+                   class="hover:text-brown-600">THEWINESNOB</a>
+            </div>
+
+            <!-- Images -->
+            <div class="flex justify-center space-x-4 my-8">
+                <img src="https://thewinesnob.net/wp-content/uploads/2015/01/img_6017.jpeg?w=225&h=300" 
+                     class="w-[225px] h-[300px] object-cover" />
+                <img src="https://thewinesnob.net/wp-content/uploads/2015/01/white_grape.jpg?w=215&h=300" 
+                     class="w-[215px] h-[300px] object-cover" />
+            </div>
+
+            <!-- Share Buttons -->
+            <div class="flex space-x-4 mt-8 text-gray-800">
+                <a href="#" class="hover:text-brown-600">Facebook</a>
+                <a href="#" class="hover:text-brown-600">Email</a>
+                <a href="#" class="hover:text-brown-600">Twitter</a>
+                <a href="#" class="hover:text-brown-600">Print</a>
+                <a href="#" class="hover:text-brown-600">Reddit</a>
+            </div>
+
+            <!-- Tags -->
+            <div class="flex flex-wrap gap-2 mt-8 text-gray-600">
+                <a href="#" class="hover:text-brown-600">Melon de Bourgogne</a>
+                <a href="#" class="hover:text-brown-600">Michael Cramer</a>
+                <a href="#" class="hover:text-brown-600">Oregon</a>
+                <a href="#" class="hover:text-brown-600">Oregon 30 in 30</a>
+                <a href="#" class="hover:text-brown-600">Oregon whites</a>
+            </div>
+        </article>
+    </main>
+
+    <!-- Sidebar -->
+    <aside class="fixed top-0 right-0 w-[300px] h-full overflow-y-auto p-4 text-brown-600">
+        <!-- Archive Links -->
+        <div class="space-y-2">
+            <a href="#" class="block hover:text-brown-800">August 2017</a>
+            <a href="#" class="block hover:text-brown-800">March 2016</a>
+            <!-- ... more archive links ... -->
+        </div>
+    </aside>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 mt-16 py-8">
+        <div class="max-w-4xl mx-auto px-4">
+            <a href="https://wordpress.com/?ref=footer_blog" 
+               class="text-brown-600 hover:text-brown-800">BLOG AT WORDPRESS.COM.</a>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                32.0,
+                348.0
+            ],
+            [
+                70.23333740234375,
+                368.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            40,
+            217
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.positively.media/about-us/"
+    },
+    {
+        "position": [
+            [
+                86.23333740234375,
+                348.0
+            ],
+            [
+                139.5,
+                368.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            40,
+            217
+        ],
+        "text": "Courses",
+        "on_click_jump_to": "https://www.chemistwarehouse.com.au/buy/64602/witch-hazel-240ml"
+    },
+    {
+        "position": [
+            [
+                155.5,
+                348.0
+            ],
+            [
+                221.8333282470703,
+                368.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            40,
+            217
+        ],
+        "text": "Admission",
+        "on_click_jump_to": "https://www.honeyrunfarm.com/beeswax-candles/set-of-4-pure-beeswax-blocks-great-for-crafting"
+    },
+    {
+        "position": [
+            [
+                237.8333282470703,
+                348.0
+            ],
+            [
+                307.6166687011719,
+                368.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            40,
+            217
+        ],
+        "text": "Newsletter",
+        "on_click_jump_to": "https://deniseosborne.com/category/home-architecture/page/323/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                208.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1599081593734-5e65dd7abfba?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczNDB8&ixlib=rb-4.0.3&w=1200&h=400"
+    }
+]

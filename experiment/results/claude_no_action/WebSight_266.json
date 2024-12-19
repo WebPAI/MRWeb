@@ -1,0 +1,82 @@
+[
+    {
+        "position": [
+            [
+                1329.86669921875,
+                16.0
+            ],
+            [
+                1409.933364868164,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Admissions",
+        "on_click_jump_to": "#admissions"
+    },
+    {
+        "position": [
+            [
+                1441.933349609375,
+                16.0
+            ],
+            [
+                1517.3833465576172,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Academics",
+        "on_click_jump_to": "#academics"
+    },
+    {
+        "position": [
+            [
+                1549.38330078125,
+                16.0
+            ],
+            [
+                1633.2499694824219,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Student Life",
+        "on_click_jump_to": "#student-life"
+    },
+    {
+        "position": [
+            [
+                1665.25,
+                16.0
+            ],
+            [
+                1728.0,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Research",
+        "on_click_jump_to": "#research"
+    }
+]

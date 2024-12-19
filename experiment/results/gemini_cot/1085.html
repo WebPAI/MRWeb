@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jake Scruggs Blog</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="font-sans">
+    <div class="relative">
+        <img src="https://jakescruggs.com/assets/images/DALL-E2022-09-24EpicSceneSummoningSkyServersCyberpunk.jpg" alt="Background" class="w-full h-[570px] object-cover">
+        <a href="https://jakescruggs.com/" class="absolute top-[15%] left-[42%] text-[rgb(21,153,87)] text-4xl font-bold">Jake Scruggs</a>
+        <p class="absolute top-[20%] left-[42%] text-white text-lg">I Summon Sky Servers and Occasionally Wear Crazy Shirts</p>
+    </div>
+
+    <div class="container mx-auto px-4 py-8">
+        <h1 class="text-3xl font-bold text-green-600 mb-4">My Apprenticeship - Wednesday, July 21, 2004</h1>
+        <p class="text-gray-600 mb-4">21 Jul 2004</p>
+        <p class="mb-4">In the summer of 2009 I revisited my 2004 summer apprenticeship at Object Mentor. What follows is the original 2004 post and then some 2009 commentary.</p>
+
+        <p class="mb-4">Our payroll UML diagram (from yesterday) had some needless complexity but, other than that, it was fine. Well, mostly fine.</p>
+
+        <p class="mb-4">Lots more patterns today. Many of the patterns boil down to the server-client relationship. Let's say you have a laser scanner object that can scan a bar code and identify a product. There's also going to be a sale object which gets a message from the scanner and then does some sort of sale stuff. Well now the scanner has to have code that knows about the sale and the sale might even have code that depends on the scanner. This system is now tightly coupled. But if you stick and interface between them, you can have them both know about the interface and not each other. Therefore swapping out the scanner for another one doesn't affect the sale code. And changes to the sale don't affect the scanner object. Patterns can be way oversimplified as the proper placement of interfaces. Too many and you've got needless complexity. Too few and the code is tightly coupled and hard to maintain. All these patterns have trade-offs so the big deal is not just knowing how to use them, but being able to figure out if they're necessary/will help your project.</p>
+
+        <p class="mb-4">My project for the afternoon was, of course, banging my head against the Linux box. Apache keeps insisting that I don't have permission to run the install.php program, but everybody has permission to use it. Hmm. At least Micah had some trouble when he tried to figure it out. I'm always a wee bit worried that the thing that's been bugging me for days is only 30 seconds worth of work for a pro. So I went back to prowling through the httpd.conf file (a set-up file for the apache file server) for things to change or adjust. The day ended with Micah and me pretty stumped.</p>
+
+        <p class="mb-4">The big message I took away from Object Mentor that summer was that although patterns are cool and can help a lot, they add complexity. It's a complexity/coupling trade-off. A message that has stayed with me. Just today I was looking at some code that could have been refactored to be more DRY, but way less intentional and I had to make a call as to wether the project would be better served by adhering to one principle or another. That's the thing about writing code that is meant to be understood by humans: The hard part is not learning the language, patterns, or principles, but knowing when to use them and where.</p>
+
+        <p class="mb-4">I really feel like this site should have a footer.</p>
+    </div>
+</body>
+</html>

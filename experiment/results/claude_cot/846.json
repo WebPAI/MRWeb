@@ -1,0 +1,156 @@
+[
+    {
+        "position": [
+            [
+                1586.0,
+                8.0
+            ],
+            [
+                1644.0,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://aachristmas.com/pages/about-us"
+    },
+    {
+        "position": [
+            [
+                1660.0,
+                8.0
+            ],
+            [
+                1728.0,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://aachristmas.com/pages/contact-us"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                174.0
+            ],
+            [
+                1401.7166748046875,
+                230.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SHOP BY CATEGORIES",
+        "on_click_jump_to": "javascript:void(0)"
+    },
+    {
+        "position": [
+            [
+                1401.7166748046875,
+                174.0
+            ],
+            [
+                1567.8333435058594,
+                230.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Shopping Cart\n0",
+        "on_click_jump_to": "javascript:void(0)"
+    },
+    {
+        "position": [
+            [
+                1568.8333740234375,
+                164.0
+            ],
+            [
+                1728.0000457763672,
+                240.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Login / Register\nMy Account",
+        "on_click_jump_to": "https://aachristmas.com/account/login"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                256.5
+            ],
+            [
+                229.0,
+                275.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                263.0,
+                256.5
+            ],
+            [
+                362.0,
+                275.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "LED Craft Lights",
+        "on_click_jump_to": "file:///collections/led-craft-lights"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                52.0
+            ],
+            [
+                507.1499938964844,
+                148.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/logo.png"
+    }
+]

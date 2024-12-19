@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                1495.6500244140625,
+                24.0
+            ],
+            [
+                1538.7666931152344,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E9%A3%9B%E5%87%8C"
+    },
+    {
+        "position": [
+            [
+                1570.7666015625,
+                24.0
+            ],
+            [
+                1614.3999328613281,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.envass.co.za/client-value-add/environmental-legal-updates/"
+    },
+    {
+        "position": [
+            [
+                1646.4000244140625,
+                24.0
+            ],
+            [
+                1704.0000305175781,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://altapetestockdogs.blogspot.com/2009/10/"
+    },
+    {
+        "position": [
+            [
+                899.433349609375,
+                258.0
+            ],
+            [
+                1020.5666809082031,
+                294.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Donate Now",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                16.0
+            ],
+            [
+                256.0,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1706542112210-a75060048dfd?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NTd8&ixlib=rb-4.0.3&w=100&h=100"
+    }
+]

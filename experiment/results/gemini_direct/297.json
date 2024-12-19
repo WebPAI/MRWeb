@@ -1,0 +1,198 @@
+[
+    {
+        "position": [
+            [
+                980.7333374023438,
+                15.5
+            ],
+            [
+                1078.2166595458984,
+                32.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "WATCH LIVE",
+        "on_click_jump_to": "https://6abc.com/watch/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1558.0
+            ],
+            [
+                457.75,
+                1590.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "KENNETT SQUARE BOROUGH",
+        "on_click_jump_to": "https://6abc.com/place/kennett-square-borough/"
+    },
+    {
+        "position": [
+            [
+                465.75,
+                1558.0
+            ],
+            [
+                558.8000030517578,
+                1590.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "PA. NEWS",
+        "on_click_jump_to": "https://6abc.com/tag/pa-news/"
+    },
+    {
+        "position": [
+            [
+                566.7999877929688,
+                1558.0
+            ],
+            [
+                683.2499847412109,
+                1590.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "HALLOWEEN",
+        "on_click_jump_to": "https://6abc.com/tag/halloween/"
+    },
+    {
+        "position": [
+            [
+                691.25,
+                1558.0
+            ],
+            [
+                763.2333374023438,
+                1590.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CANDY",
+        "on_click_jump_to": "https://6abc.com/tag/candy/"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                1678.0
+            ],
+            [
+                942.933349609375,
+                1774.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "DNC Takeaways: Walz's night, Clinton's dig at Trump, Oprah comes home",
+        "on_click_jump_to": "https://6abc.com/post/dnc-day-3-key-takeaways-tim-walzs-night-bill-clintons-dig-trump-oprahs-surprise-appearance-influencers-flexing-clout/15216111/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1854.0
+            ],
+            [
+                434.6666717529297,
+                1874.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://6abc.com/"
+    },
+    {
+        "position": [
+            [
+                59.01666259765625,
+                8.0
+            ],
+            [
+                91.89999389648438,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_icon.png"
+    },
+    {
+        "position": [
+            [
+                99.89999389648438,
+                12.0
+            ],
+            [
+                212.8333282470703,
+                36.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_desktop-logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                172.0
+            ],
+            [
+                1712.0,
+                1018.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.com/dip/images/1063980_110215-wpvi-needles-in-candy-1230-video.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1678.0
+            ],
+            [
+                336.0,
+                1774.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.com/dip/images/15215624_082124-wls-ap-dnc-night-3-signs-img.jpg"
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "position": [
+            [
+                840.6666870117188,
+                86.0
+            ],
+            [
+                1079.3333435058594,
+                122.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "THE WINE SNOB.",
+        "on_click_jump_to": "https://thewinesnob.net/"
+    },
+    {
+        "position": [
+            [
+                794.0,
+                224.0
+            ],
+            [
+                840.4833374023438,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://thewinesnob.net/"
+    },
+    {
+        "position": [
+            [
+                872.4833374023438,
+                224.0
+            ],
+            [
+                953.8666687011719,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT ME",
+        "on_click_jump_to": "https://thewinesnob.net/about/"
+    },
+    {
+        "position": [
+            [
+                985.86669921875,
+                224.0
+            ],
+            [
+                1126.0000305175781,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FREELANCE WORK",
+        "on_click_jump_to": "https://thewinesnob.net/freelance-work/"
+    },
+    {
+        "position": [
+            [
+                780.88330078125,
+                386.0
+            ],
+            [
+                895.0832977294922,
+                406.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "THEWINESNOB",
+        "on_click_jump_to": "https://thewinesnob.net/author/thewinesnob/"
+    },
+    {
+        "position": [
+            [
+                853.9833374023438,
+                1169.0
+            ],
+            [
+                1066.0166625976562,
+                1189.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            245,
+            158,
+            11
+        ],
+        "text": "BLOG AT WORDPRESS.COM.",
+        "on_click_jump_to": "https://wordpress.com/?ref=footer_blog"
+    },
+    {
+        "position": [
+            [
+                624.0,
+                424.0
+            ],
+            [
+                848.0,
+                724.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://thewinesnob.net/wp-content/uploads/2015/01/img_6017.jpeg?w=225&h=300"
+    },
+    {
+        "position": [
+            [
+                624.0,
+                780.0
+            ],
+            [
+                839.0,
+                1079.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://thewinesnob.net/wp-content/uploads/2015/01/white_grape.jpg?w=215&h=300"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                208.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://thewinesnob.net/wp-content/uploads/2014/06/cropped-photo-4.jpg"
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "position": [
+            [
+                908.433349609375,
+                274.0
+            ],
+            [
+                1011.5666809082031,
+                294.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            95,
+            70
+        ],
+        "text": "A-Z Site Index",
+        "on_click_jump_to": "https://go.uab.edu/a-z404"
+    },
+    {
+        "position": [
+            [
+                902.11669921875,
+                306.0
+            ],
+            [
+                1017.86669921875,
+                326.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            95,
+            70
+        ],
+        "text": "UAB Homepage",
+        "on_click_jump_to": "https://www.uab.edu/home"
+    },
+    {
+        "position": [
+            [
+                901.7999877929688,
+                338.0
+            ],
+            [
+                1018.1833190917969,
+                358.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            95,
+            70
+        ],
+        "text": "Future Students",
+        "on_click_jump_to": "https://www.uab.edu/admissions"
+    },
+    {
+        "position": [
+            [
+                897.683349609375,
+                370.0
+            ],
+            [
+                1022.3000183105469,
+                390.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            95,
+            70
+        ],
+        "text": "Current Students",
+        "on_click_jump_to": "https://www.uab.edu/students/home/"
+    },
+    {
+        "position": [
+            [
+                920.7000122070312,
+                402.0
+            ],
+            [
+                999.2833557128906,
+                422.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            95,
+            70
+        ],
+        "text": "Employees",
+        "on_click_jump_to": "https://www.uab.edu/humanresources/home/"
+    },
+    {
+        "position": [
+            [
+                933.9666748046876,
+                434.0
+            ],
+            [
+                986.0333557128907,
+                454.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            95,
+            70
+        ],
+        "text": "Faculty",
+        "on_click_jump_to": "https://www.uab.edu/faculty/"
+    },
+    {
+        "position": [
+            [
+                769.9166870117188,
+                730.0
+            ],
+            [
+                873.0500183105469,
+                754.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "A-Z Site Index",
+        "on_click_jump_to": "https://go.uab.edu/a-z404"
+    },
+    {
+        "position": [
+            [
+                889.0499877929688,
+                730.0
+            ],
+            [
+                968.5833129882812,
+                754.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "UAB Home",
+        "on_click_jump_to": "https://www.uab.edu/home/"
+    },
+    {
+        "position": [
+            [
+                984.5833129882812,
+                730.0
+            ],
+            [
+                1037.4166564941406,
+                754.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Privacy",
+        "on_click_jump_to": "https://www.uab.edu/privacy"
+    },
+    {
+        "position": [
+            [
+                1053.4166259765625,
+                730.0
+            ],
+            [
+                1150.0666198730469,
+                754.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Terms of Use",
+        "on_click_jump_to": "https://www.uab.edu/toolkit/web/terms-of-use"
+    },
+    {
+        "position": [
+            [
+                432.0,
+                8.0
+            ],
+            [
+                1488.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.uab.edu/styles/images/uab_linear_r-white-1320x40.png"
+    }
+]

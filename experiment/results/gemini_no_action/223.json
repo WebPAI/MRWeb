@@ -1,0 +1,418 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                3.5
+            ],
+            [
+                242.68333435058594,
+                20.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Main",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                27.5
+            ],
+            [
+                249.81666564941406,
+                44.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                51.5
+            ],
+            [
+                267.5500030517578,
+                68.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Families",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                75.5
+            ],
+            [
+                287.1999969482422,
+                92.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Languages",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                99.5
+            ],
+            [
+                266.6999969482422,
+                116.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Sources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                123.5
+            ],
+            [
+                314.78334045410156,
+                140.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Language Map",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                147.5
+            ],
+            [
+                253.9499969482422,
+                164.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Words",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                171.5
+            ],
+            [
+                276.5,
+                188.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Cognates",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                195.5
+            ],
+            [
+                276.5,
+                212.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Pronouns",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                219.5
+            ],
+            [
+                272.01666259765625,
+                236.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Statistics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                349.5
+            ],
+            [
+                252.48333740234375,
+                366.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Log-in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                584.0,
+                46.5
+            ],
+            [
+                621.3500061035156,
+                61.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                633.0,
+                46.5
+            ],
+            [
+                684.3500061035156,
+                61.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Sources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                770.6500244140625,
+                237.5
+            ],
+            [
+                851.2833709716797,
+                254.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            13,
+            148,
+            136
+        ],
+        "text": "West Kewa",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                770.6500244140625,
+                278.5
+            ],
+            [
+                847.1333618164062,
+                295.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            13,
+            148,
+            136
+        ],
+        "text": "East Kewa",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1083.199951171875,
+                324.0
+            ],
+            [
+                1118.0999603271484,
+                366.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1130.550048828125,
+                324.0
+            ],
+            [
+                1165.4500427246094,
+                366.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1177.9000244140625,
+                324.0
+            ],
+            [
+                1212.800033569336,
+                366.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "3",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                418.0
+            ],
+            [
+                552.0,
+                482.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/anu_logo.png"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                558.0
+            ],
+            [
+                552.0,
+                606.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/australian_government_logo.png"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                702.0
+            ],
+            [
+                552.0,
+                750.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/arc_logo.png"
+    },
+    {
+        "position": [
+            [
+                854.6500244140625,
+                431.8666687011719
+            ],
+            [
+                957.3166961669922,
+                444.8666687011719
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/cc_logo.png"
+    }
+]

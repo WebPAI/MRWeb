@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1693.63330078125,
+                38.0
+            ],
+            [
+                1758.8999633789062,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Products",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1774.9000244140625,
+                38.0
+            ],
+            [
+                1838.0166931152344,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Features",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1854.0166015625,
+                38.0
+            ],
+            [
+                1903.9999389648438,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Pricing",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                125.48333740234376,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    }
+]

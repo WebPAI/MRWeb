@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                742.5,
+                16.0
+            ],
+            [
+                785.6166687011719,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                817.61669921875,
+                16.0
+            ],
+            [
+                879.6667022705078,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                911.6666870117188,
+                16.0
+            ],
+            [
+                979.8833465576172,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Providers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1011.88330078125,
+                16.0
+            ],
+            [
+                1087.88330078125,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1119.88330078125,
+                16.0
+            ],
+            [
+                1177.4833068847656,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                56.0
+            ],
+            [
+                1920.0,
+                312.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/your-image-url.jpg"
+    }
+]

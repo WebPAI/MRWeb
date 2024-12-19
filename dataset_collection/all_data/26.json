@@ -1,0 +1,216 @@
+[
+    {
+        "position": [
+            [
+                1552.2666015625,
+                12.0
+            ],
+            [
+                1586.4999389648438,
+                24.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            79,
+            79,
+            79
+        ],
+        "text": "LOGIN",
+        "on_click_jump_to": "#login"
+    },
+    {
+        "position": [
+            [
+                1607.5,
+                12.0
+            ],
+            [
+                1650.0,
+                24.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            79,
+            79,
+            79
+        ],
+        "text": "SIGN UP",
+        "on_click_jump_to": "https://www.acupuncturemedia.com/register/"
+    },
+    {
+        "position": [
+            [
+                1453.449951171875,
+                12.0
+            ],
+            [
+                1482.133285522461,
+                24.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            79,
+            79,
+            79
+        ],
+        "text": "CART",
+        "on_click_jump_to": "https://www.acupuncturemedia.com/cart/"
+    },
+    {
+        "position": [
+            [
+                1503.13330078125,
+                12.0
+            ],
+            [
+                1531.2666320800781,
+                24.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            79,
+            79,
+            79
+        ],
+        "text": "SHOP",
+        "on_click_jump_to": "https://www.acupuncturemedia.com/shop/"
+    },
+    {
+        "position": [
+            [
+                1021.433349609375,
+                37.0
+            ],
+            [
+                1115.0666809082031,
+                115.56666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            68,
+            68,
+            68
+        ],
+        "text": "TEXTBOOKS",
+        "on_click_jump_to": "https://www.acupuncturemedia.com/textbooks/"
+    },
+    {
+        "position": [
+            [
+                1135.066650390625,
+                37.0
+            ],
+            [
+                1258.6499786376953,
+                115.56666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            68,
+            68,
+            68
+        ],
+        "text": "REVIEW COURSE",
+        "on_click_jump_to": "https://www.acupuncturemedia.com/review/"
+    },
+    {
+        "position": [
+            [
+                1278.6500244140625,
+                37.0
+            ],
+            [
+                1413.0666961669922,
+                115.56666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            68,
+            68,
+            68
+        ],
+        "text": "CLINICAL COURSE",
+        "on_click_jump_to": "https://www.acupuncturemedia.com/ceu/"
+    },
+    {
+        "position": [
+            [
+                1433.066650390625,
+                37.0
+            ],
+            [
+                1524.1166534423828,
+                115.56666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            68,
+            68,
+            68
+        ],
+        "text": "FREE STUFF",
+        "on_click_jump_to": "https://www.acupuncturemedia.com/webinars/"
+    },
+    {
+        "position": [
+            [
+                1544.11669921875,
+                37.0
+            ],
+            [
+                1640.0000305175781,
+                115.56666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            68,
+            68,
+            68
+        ],
+        "text": "CONTACT US",
+        "on_click_jump_to": "https://www.acupuncturemedia.com/contact-us/"
+    },
+    {
+        "position": [
+            [
+                373.6333312988281,
+                402.0499877929687
+            ],
+            [
+                1031.1833190917969,
+                421.0499877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            157,
+            216
+        ],
+        "text": "https://us06web.zoom.us/j/3315519123?pwd=HsgvByXwzo2oUhUmANLago21OaVrz3.1",
+        "on_click_jump_to": "https://us06web.zoom.us/j/3315519123?pwd=HsgvByXwzo2oUhUmANLago21OaVrz3.1"
+    },
+    {
+        "position": [
+            [
+                270.0,
+                53.0
+            ],
+            [
+                574.683349609375,
+                93.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.acupuncturemedia.com/wp-content/uploads/2021/01/acumedia-horizontal.png"
+    }
+]

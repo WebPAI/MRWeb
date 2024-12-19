@@ -1,0 +1,1314 @@
+[
+    {
+        "position": [
+            [
+                518.5,
+                154.0
+            ],
+            [
+                561.5,
+                171.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://www.newsr.in/"
+    },
+    {
+        "position": [
+            [
+                625.5,
+                154.0
+            ],
+            [
+                694.5,
+                171.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "NATIONAL",
+        "on_click_jump_to": "https://www.newsr.in/latest/India.htm"
+    },
+    {
+        "position": [
+            [
+                751.5,
+                154.0
+            ],
+            [
+                808.5,
+                171.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "WORLD",
+        "on_click_jump_to": "https://www.newsr.in/latest/World.htm"
+    },
+    {
+        "position": [
+            [
+                869.0,
+                154.0
+            ],
+            [
+                931.0,
+                171.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SPORTS",
+        "on_click_jump_to": "https://www.newsr.in/latest/Sports.htm"
+    },
+    {
+        "position": [
+            [
+                987.0,
+                154.0
+            ],
+            [
+                1053.0,
+                171.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "POLITICS",
+        "on_click_jump_to": "https://www.newsr.in/latest/Politics.htm"
+    },
+    {
+        "position": [
+            [
+                1103.5,
+                154.0
+            ],
+            [
+                1176.5,
+                171.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BUSINESS",
+        "on_click_jump_to": "https://www.newsr.in/latest/Business.htm"
+    },
+    {
+        "position": [
+            [
+                1230.0,
+                154.0
+            ],
+            [
+                1290.0,
+                171.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PEOPLE",
+        "on_click_jump_to": "https://www.newsr.in/latest/Celebrities.htm"
+    },
+    {
+        "position": [
+            [
+                1348.0,
+                154.0
+            ],
+            [
+                1412.0,
+                171.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SCITECH",
+        "on_click_jump_to": "https://www.newsr.in/latest/Science.htm"
+    },
+    {
+        "position": [
+            [
+                501.23333740234375,
+                186.5
+            ],
+            [
+                617.0500030517578,
+                203.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " • Top Stories • ",
+        "on_click_jump_to": "https://www.newsr.in/"
+    },
+    {
+        "position": [
+            [
+                697.88330078125,
+                186.5
+            ],
+            [
+                738.5166320800781,
+                203.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Video",
+        "on_click_jump_to": "https://www.newsr.in/videos.htm"
+    },
+    {
+        "position": [
+            [
+                849.88330078125,
+                186.5
+            ],
+            [
+                904.1166381835938,
+                203.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Live TV",
+        "on_click_jump_to": "https://www.newsr.in/liveTV.htm"
+    },
+    {
+        "position": [
+            [
+                982.0,
+                186.5
+            ],
+            [
+                1089.5833282470703,
+                203.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Movie Reviews",
+        "on_click_jump_to": "https://www.newsr.in/s/movies/gmr.htm"
+    },
+    {
+        "position": [
+            [
+                1136.13330078125,
+                186.5
+            ],
+            [
+                1259.7499694824219,
+                203.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Front Page News",
+        "on_click_jump_to": "https://www.newsr.in/latest/Front+Page.htm"
+    },
+    {
+        "position": [
+            [
+                1338.300048828125,
+                186.5
+            ],
+            [
+                1381.9000396728516,
+                203.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Latest",
+        "on_click_jump_to": "https://www.newsr.in/latestnews.htm"
+    },
+    {
+        "position": [
+            [
+                482.0,
+                226.5
+            ],
+            [
+                946.7166748046875,
+                244.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "COVID-19 Coronavirus Pandemic – Latest Media Coverage",
+        "on_click_jump_to": "https://www.newsr.in/current/gllq_cc2j11/-nCoV-acute-respiratory-disease.htm"
+    },
+    {
+        "position": [
+            [
+                481.0,
+                374.0
+            ],
+            [
+                609.0,
+                412.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            144,
+            48
+        ],
+        "text": "Bookmark",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                487.8500061035156,
+                447.0
+            ],
+            [
+                605.1499938964844,
+                465.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            68,
+            68,
+            68
+        ],
+        "text": "IN THE NEWS 💡",
+        "on_click_jump_to": "https://www.newsr.in/inthenews.php"
+    },
+    {
+        "position": [
+            [
+                519.5,
+                527.0
+            ],
+            [
+                572.5,
+                556.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "KOLKATA",
+        "on_click_jump_to": "https://www.newsr.in/current/m9wvc0/Kolkata.htm"
+    },
+    {
+        "position": [
+            [
+                514.5,
+                672.0
+            ],
+            [
+                577.5,
+                701.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "BADLAPUR",
+        "on_click_jump_to": "https://www.newsr.in/current/mhb6x40/Badlapur.htm"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                824.5
+            ],
+            [
+                599.0,
+                883.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "R. G. KAR MEDICAL COLLEGE AND HOSPITAL",
+        "on_click_jump_to": "https://www.newsr.in/current/m0xxjl40/R-G-Kar-Medical-College-and-Hospital.htm"
+    },
+    {
+        "position": [
+            [
+                529.5,
+                962.0
+            ],
+            [
+                562.5,
+                991.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "DELHI",
+        "on_click_jump_to": "https://www.newsr.in/current/m70f90/Delhi.htm"
+    },
+    {
+        "position": [
+            [
+                487.0,
+                1114.5
+            ],
+            [
+                605.0,
+                1143.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "MADHABI PURI BUCH",
+        "on_click_jump_to": "https://www.newsr.in/current/g11hh4n1t11/Madhabi-Puri-Buch.htm"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                1259.5
+            ],
+            [
+                599.0,
+                1288.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "ANDHRA PRADESH",
+        "on_click_jump_to": "https://www.newsr.in/current/mhyy0/Andhra-Pradesh.htm"
+    },
+    {
+        "position": [
+            [
+                490.0,
+                1404.5
+            ],
+            [
+                602.0,
+                1433.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "MAMATA BANERJEE",
+        "on_click_jump_to": "https://www.newsr.in/current/mvwn370/Mamata-Banerjee.htm"
+    },
+    {
+        "position": [
+            [
+                497.0,
+                1549.5
+            ],
+            [
+                595.0,
+                1593.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "INDIAN NATIONAL CONGRESS",
+        "on_click_jump_to": "https://www.newsr.in/current/mrd5310/Indian-National-Congress.htm"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                1702.0
+            ],
+            [
+                608.0,
+                1761.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "SECURITIES AND EXCHANGE BOARD OF INDIA",
+        "on_click_jump_to": "https://www.newsr.in/current/m9yq820/Securities-and-Exchange-Board-of-India.htm"
+    },
+    {
+        "position": [
+            [
+                486.0,
+                1832.0
+            ],
+            [
+                606.0,
+                1861.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "RAIPUR–HYDERABAD EXPRESSWAY",
+        "on_click_jump_to": "https://www.newsr.in/current/gnfvn4msj11/Raipur-Hyderabad-Expressway.htm"
+    },
+    {
+        "position": [
+            [
+                512.5,
+                1977.0
+            ],
+            [
+                579.5,
+                2006.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "LOK SABHA",
+        "on_click_jump_to": "https://www.newsr.in/current/ms68p10/Lok-Sabha.htm"
+    },
+    {
+        "position": [
+            [
+                498.0,
+                2129.5
+            ],
+            [
+                594.0,
+                2158.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "NARENDRA MODI",
+        "on_click_jump_to": "https://www.newsr.in/current/m2q6920/Narendra-Modi.htm"
+    },
+    {
+        "position": [
+            [
+                501.5,
+                2267.0
+            ],
+            [
+                590.5,
+                2296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            42,
+            138,
+            42
+        ],
+        "text": "MAHARASHTRA",
+        "on_click_jump_to": "https://www.newsr.in/current/mrv550/Maharashtra.htm"
+    },
+    {
+        "position": [
+            [
+                481.0,
+                2431.0
+            ],
+            [
+                599.0,
+                2476.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            144,
+            48
+        ],
+        "text": "📺\nLIVE\nTV",
+        "on_click_jump_to": "https://www.newsr.in/liveTV.htm"
+    },
+    {
+        "position": [
+            [
+                481.0,
+                2488.0
+            ],
+            [
+                599.0,
+                2533.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            144,
+            48
+        ],
+        "text": "🎥\nMOVIE REVIEWS",
+        "on_click_jump_to": "https://www.newsr.in/s/movies/gmr.htm"
+    },
+    {
+        "position": [
+            [
+                481.0,
+                2545.0
+            ],
+            [
+                599.0,
+                2590.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            144,
+            48
+        ],
+        "text": "📡\nLIVE\nNEWS",
+        "on_click_jump_to": "https://www.newsr.in/latestnews.htm"
+    },
+    {
+        "position": [
+            [
+                481.0,
+                2602.0
+            ],
+            [
+                599.0,
+                2627.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            144,
+            48
+        ],
+        "text": "RISHI SUNAK",
+        "on_click_jump_to": "https://www.newsr.in/topic/Rishi_Sunak.htm"
+    },
+    {
+        "position": [
+            [
+                481.0,
+                2639.0
+            ],
+            [
+                599.0,
+                2664.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            144,
+            48
+        ],
+        "text": "ARMSTRONG",
+        "on_click_jump_to": "https://www.newsr.in/topic/Armstrong.htm"
+    },
+    {
+        "position": [
+            [
+                481.0,
+                2676.0
+            ],
+            [
+                599.0,
+                2701.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            144,
+            48
+        ],
+        "text": "IND VS ZIM",
+        "on_click_jump_to": "https://www.newsr.in/topic/IND_Vs_ZIM.htm"
+    },
+    {
+        "position": [
+            [
+                481.0,
+                2713.0
+            ],
+            [
+                599.0,
+                2738.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            144,
+            48
+        ],
+        "text": "KILL",
+        "on_click_jump_to": "https://www.newsr.in/topic/Kill.htm"
+    },
+    {
+        "position": [
+            [
+                481.0,
+                2750.0
+            ],
+            [
+                599.0,
+                2775.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            144,
+            48
+        ],
+        "text": "UEFA",
+        "on_click_jump_to": "https://www.newsr.in/topic/UEFA.htm"
+    },
+    {
+        "position": [
+            [
+                884.0,
+                2811.5
+            ],
+            [
+                926.0,
+                2827.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "newsR",
+        "on_click_jump_to": "https://www.newsr.in/"
+    },
+    {
+        "position": [
+            [
+                698.5,
+                2833.5
+            ],
+            [
+                754.5,
+                2849.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "About us",
+        "on_click_jump_to": "https://www.newsr.in/aboutus.php"
+    },
+    {
+        "position": [
+            [
+                773.5,
+                2833.5
+            ],
+            [
+                841.5,
+                2849.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "Contact us",
+        "on_click_jump_to": "https://www.newsr.in/contactus.php"
+    },
+    {
+        "position": [
+            [
+                860.5,
+                2833.5
+            ],
+            [
+                925.5,
+                2849.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "Disclaimer",
+        "on_click_jump_to": "https://www.newsr.in/disclaimer.php"
+    },
+    {
+        "position": [
+            [
+                944.5,
+                2833.5
+            ],
+            [
+                1221.5,
+                2849.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "Terms & Conditions  |  Content Accreditation",
+        "on_click_jump_to": "https://www.newsr.in/tc.php"
+    },
+    {
+        "position": [
+            [
+                527.0,
+                2845.5
+            ],
+            [
+                575.0,
+                2876.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": " RSS",
+        "on_click_jump_to": "https://www.newsr.in/topnewsRSS.php"
+    },
+    {
+        "position": [
+            [
+                594.0,
+                2853.5
+            ],
+            [
+                725.0,
+                2869.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "News for my Website",
+        "on_click_jump_to": "https://www.newsr.in/newsformywebsite.php"
+    },
+    {
+        "position": [
+            [
+                744.0,
+                2853.5
+            ],
+            [
+                901.0,
+                2869.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "Free news search widget",
+        "on_click_jump_to": "https://www.newsr.in/searchwidget.php"
+    },
+    {
+        "position": [
+            [
+                920.0,
+                2853.5
+            ],
+            [
+                992.0,
+                2869.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "In the News",
+        "on_click_jump_to": "https://www.newsr.in/inthenews.php"
+    },
+    {
+        "position": [
+            [
+                1011.0,
+                2853.5
+            ],
+            [
+                1172.0,
+                2869.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "DMCA / Content Removal",
+        "on_click_jump_to": "https://www.newsr.in/contentremovalrequest.php"
+    },
+    {
+        "position": [
+            [
+                1191.0,
+                2853.5
+            ],
+            [
+                1393.0,
+                2869.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "Privacy & Data Protection Policy",
+        "on_click_jump_to": "https://www.newsr.in/tc.php"
+    },
+    {
+        "position": [
+            [
+                685.5,
+                2873.5
+            ],
+            [
+                831.5,
+                2889.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "Send us your feedback",
+        "on_click_jump_to": "https://www.newsr.in/feedback.php"
+    },
+    {
+        "position": [
+            [
+                850.5,
+                2865.5
+            ],
+            [
+                1005.5,
+                2896.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "LIKE us on Facebook",
+        "on_click_jump_to": "https://www.facebook.com/NewsR.in"
+    },
+    {
+        "position": [
+            [
+                1013.5,
+                2865.5
+            ],
+            [
+                1177.5,
+                2896.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "FOLLOW us on Twitter",
+        "on_click_jump_to": "https://twitter.com/newsR_IN"
+    },
+    {
+        "position": [
+            [
+                1194.5,
+                2873.5
+            ],
+            [
+                1357.5,
+                2889.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            96,
+            48
+        ],
+        "text": "FOLLOW us on Pinterest",
+        "on_click_jump_to": "https://www.pinterest.com/onenewspage/"
+    },
+    {
+        "position": [
+            [
+                490.0,
+                66.0
+            ],
+            [
+                777.0,
+                126.0
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                481.0,
+                325.0
+            ],
+            [
+                597.0,
+                361.0
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                519.5,
+                526.5
+            ],
+            [
+                572.5,
+                541.5
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                514.5,
+                671.5
+            ],
+            [
+                577.5,
+                686.5
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                506.0,
+                779.0
+            ],
+            [
+                586.0,
+                839.0
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                529.5,
+                961.5
+            ],
+            [
+                562.5,
+                976.5
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                506.0,
+                1099.0
+            ],
+            [
+                586.0,
+                1129.0
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                506.0,
+                1244.0
+            ],
+            [
+                586.0,
+                1274.0
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                506.0,
+                1389.0
+            ],
+            [
+                586.0,
+                1419.0
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                506.0,
+                1519.0
+            ],
+            [
+                586.0,
+                1564.0
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                506.0,
+                1641.5
+            ],
+            [
+                586.0,
+                1716.5
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                512.5,
+                1976.5
+            ],
+            [
+                579.5,
+                1991.5
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                506.0,
+                2114.0
+            ],
+            [
+                586.0,
+                2144.0
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                506.0,
+                2266.5
+            ],
+            [
+                586.0,
+                2281.5
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                716.066650390625,
+                271.5
+            ],
+            [
+                732.066650390625,
+                303.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAqtJREFUeNpEkttrVUcUxn+z9+zbOUkMSUxrUkmtWA3Fgli01kClvkRBsZe32orBSqJPRREs1H+gWh+UPvgQUqS0ULFIaVEp3sCkGOhNEQ2YGNOYetTEmHPbl5npnNOHDsysGVjf+r751hLz0xPM//zFUX332i6yOHCjPEgHR0DtEDYK115RGEOWvLDhh8beQ3tkefT7o4x8cyDItyMjD1F5iOtmyJYXcZtbkVLjeraQrKFjKvfP9D272pATk4ffMM74bzR9/CX5ddvJpv4ke3ADPX4Znt5Cti/HCRstq8KxCiQpT/4xNibl2GvMBV7TIty2ZfUdrNmBSUpkwydRN05YzSWc5k50NSZOPXRWrYipz9Y8b4j8Rq3KuFGIbOskWL8L+doOaktPXEL91I9O7QdlO7qSUiqbBUfUDIgLBK/3Er7VB1mF6ul3iU9thLSIs+wd5HvfkswvkMzNkVVtMVXzreZaZQZ/RQ9BTz/5vefJHbyDsAqSY11QnUV0rEVuOkLy97gFGowy1mVX4HV2k46cJDm3D/1gGKdtJf7A7+hoCaVTvXXJ0aZ9OEvfJClM/88omxfD45uoP74mHexB/XqsnuwPjFK5OUp1eKj+DtZ+YIEFjLaMwrHo4iRe91bCT8fwPzxH8uNBsrELOH6E3PAJCxe+qgPD1ZvRQQsqiS3QpNKJH+Ou2opo6kSs2EYavkzll+P15Nzm/bbpY/8pWNqN27ocNTfrSmQQieZ21F+nMW5I9ugeWTmxMhaIb18heXgPbUKK188iGlpR1RThBzkx/d3ngy2TQ7vDRXlrYJGkqFDBS2Ql2+zCDFoHGL+FeGYKVY7xGjT59/delLn1H/U9Kkz4+dk7W0wWecrOpclAuR6mrcM2rTYFDrKrA0+gnFdevZZ/e8/OfwUYADwQGQ/4BEPkAAAAAElFTkSuQmCC"
+    },
+    {
+        "position": [
+            [
+                527.0,
+                2845.5
+            ],
+            [
+                575.0,
+                2876.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAqtJREFUeNpEkttrVUcUxn+z9+zbOUkMSUxrUkmtWA3Fgli01kClvkRBsZe32orBSqJPRREs1H+gWh+UPvgQUqS0ULFIaVEp3sCkGOhNEQ2YGNOYetTEmHPbl5npnNOHDsysGVjf+r751hLz0xPM//zFUX332i6yOHCjPEgHR0DtEDYK115RGEOWvLDhh8beQ3tkefT7o4x8cyDItyMjD1F5iOtmyJYXcZtbkVLjeraQrKFjKvfP9D272pATk4ffMM74bzR9/CX5ddvJpv4ke3ADPX4Znt5Cti/HCRstq8KxCiQpT/4xNibl2GvMBV7TIty2ZfUdrNmBSUpkwydRN05YzSWc5k50NSZOPXRWrYipz9Y8b4j8Rq3KuFGIbOskWL8L+doOaktPXEL91I9O7QdlO7qSUiqbBUfUDIgLBK/3Er7VB1mF6ul3iU9thLSIs+wd5HvfkswvkMzNkVVtMVXzreZaZQZ/RQ9BTz/5vefJHbyDsAqSY11QnUV0rEVuOkLy97gFGowy1mVX4HV2k46cJDm3D/1gGKdtJf7A7+hoCaVTvXXJ0aZ9OEvfJClM/88omxfD45uoP74mHexB/XqsnuwPjFK5OUp1eKj+DtZ+YIEFjLaMwrHo4iRe91bCT8fwPzxH8uNBsrELOH6E3PAJCxe+qgPD1ZvRQQsqiS3QpNKJH+Ou2opo6kSs2EYavkzll+P15Nzm/bbpY/8pWNqN27ocNTfrSmQQieZ21F+nMW5I9ugeWTmxMhaIb18heXgPbUKK188iGlpR1RThBzkx/d3ngy2TQ7vDRXlrYJGkqFDBS2Ql2+zCDFoHGL+FeGYKVY7xGjT59/delLn1H/U9Kkz4+dk7W0wWecrOpclAuR6mrcM2rTYFDrKrA0+gnFdevZZ/e8/OfwUYADwQGQ/4BEPkAAAAAElFTkSuQmCC"
+    },
+    {
+        "position": [
+            [
+                850.5,
+                2865.5
+            ],
+            [
+                1005.5,
+                2896.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEXI1OvW1tb///9+nNQ+YbE6W6iCmMu1tbZEa8ZkfLSmr8OtwOVvhLR0k85khcRAZbm6yOfr6+tDY6qFnNLl6vaHodlpicZtjcny8vLl5eWVrNint9mmu+A3V6A7Y8H5+fk3XLSes9pYesBFZrGJo+JMdNLZ4fBUdrxsgKxIb8p3ltGMoMdNbbJngb5ef8Dv8vn29vhCaL9wisNvkcwtUquAlcRBYKZ3kcaPma19kLz6+/xLbrxzhq+Tp87GxsY+XKCqg8MtAAABr0lEQVR42m3T2XKCMBiG4YACWmQJOxSrSGs1WIpSbaUL939X/RMSxNH3yOR7GIYDkQx5SL+T7dENQKOP9HvBdcOATvTEH93kJzpJKfBI6pPrjJpG/JSsZdToaWJcVRuJbiNkEyNJ9QZFSTqqh4XwGIuEJE0qhH8zI7yK7xUJ6+wXI1xkdSCC2czkrsYIwqzAKC6yMBhkIrbaWRZQEDNgiihgb7BXZQlHBn4K+C0qyxUDyeuqhFPxA2BzbltnRy8g+Lx3Ctbwmbu2PW86MIcUxcnz3JP7qtO8PV6A0rW+gHdnfurA8QT7LaiGgI1jKPg8MPN4+DyclB7wGVouPxAFxw8Fco4zBhyxQ9aSAXVJDwPAV6gDbgdUAcQMPXFgwU3OQd7v+/2+B5YAMwBivwKWACoFbIYmPYB60D8/mXDgP+0HYAeA75AAIL4ZOKtvAPi+3U7WHIAw3TOAh7H6agFgOwDbg0YUrNzxA0ZY2oxd8xt2Or/wtpDpWlMJo0jSpi7Nh55F9OC6U02K0AJL2tdmynq7BKfZlybhBZIrLP1pd/uTcEX/vIsojqV7xdFClv8BintRMgwEcIUAAAAASUVORK5CYII="
+    },
+    {
+        "position": [
+            [
+                1013.5,
+                2865.5
+            ],
+            [
+                1177.5,
+                2896.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAwFBMVEWj7P3X9v3W1taH1ev///923fjH9f5xzOu1tbWi3vK45vSW5Phpyunk9/zy/P6a3PE7udxsvNKF4vlJw+RbxeXr6+tp1vN90Oe68v5puM5myOh3wNRFwePI7PaGxttTyurz8/Pl5eWZ2u9BvN5xvdJZze1hx+dCv+Aytdl0tcb5+fkqstZkyOdf0vFUxOSO2/D3/f8ys9ZOyOlLxedjx+i4xMg0ud1dyuc4ttk9vd9qzeiSsLhv0etb0O9fx+ev7vzVtbYjAAACCElEQVR42m3S23KqMBSAYSBLEZCDAlIwVBQBaz2DFazi+79VVwKyndn+VyHrmzCZiQCYripvUnXAGFCGyrtw+8CBEphEfhNRggUDemB6QTAcFoE8LIaveWYggrBWTBJghSIauiqjbMM9YiprISILuSiKWgWW3oiAV8gmiQT3czFMU4fgUBQNUGsct/MiMD9dBgIEKs51XQQ9rbF0g6XpZoFgjqCunRABBoc9wby6xnmNYM6BU+9CEPsYtIWyk9Yt8Inj1E4LjCbAy9ep45ARA3JZxrGKgIf/YRCUOC5Lz2fAK4/HbwSPj65HH8Lv1fEJrFWJoP94CcGqLDtQlisEwks6KCurtLxRCywEH2wgNhlg7CyMg5EXW9YPAk3TBGgTN1ZcWfF/QDsAL7z8ZFlcdaCqEDzG47EGbQapsqzKSAOyKrYYwLpLwBUFJUsGCI2zSoF+D0GvrQ9qRVuwJBRPu4HRe0kDMaP0CWy2FqE/mTznEwFCalO7A/hxM0DUugMM2FPbtsmUgx2uc3rTAeDQBBCe8tzecTAlV2rn+SlP8Nm2QFdmp1NuXzk4Z+TCwGx2SrYT3jZhX/mF0DO+Scmn5DrDkuR+37Lu93uSzJLb3h5JrhBJZ5/sedq/mg3/LEXC2pUGv1++74+W2JTHVr7/9TuQ3LUAKM6Dt50lNwIBYB3N59K75u4a4A8D6VkTiIfXMQAAAABJRU5ErkJggg=="
+    }
+]

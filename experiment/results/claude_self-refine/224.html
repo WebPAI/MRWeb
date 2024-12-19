@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock's Backpages Library</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .rbp-red {
+            color: rgb(212, 18, 64);
+        }
+        .rbp-link:hover {
+            text-decoration: underline;
+        }
+        .link-text {
+            font-size: 14px;
+            line-height: 18px;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <div class="container mx-auto px-4">
+        <!-- Header -->
+        <header class="flex justify-between items-center py-4">
+            <img src="https://www.rocksbackpages.com/public/img/common/logos/library.png" 
+                 alt="Rock's Backpages Library" 
+                 class="h-12">
+            <div class="space-x-4 text-sm">
+                <a href="/Library/Article" class="rbp-red rbp-link">Sign in</a>
+                |
+                <a href="/Subscribe" class="rbp-red rbp-link">Subscribe</a>
+            </div>
+        </header>
+
+        <div class="flex gap-8">
+            <!-- Left Sidebar -->
+            <div class="w-1/4">
+                <!-- Subscriptions -->
+                <div class="mb-6">
+                    <h2 class="font-bold mb-2 text-sm">subscriptions</h2>
+                    <div class="flex flex-col space-y-1">
+                        <a href="/Pages/AcademicSubscriptions" class="rbp-red rbp-link link-text">institutional</a>
+                        <a href="/Subscribe" class="rbp-red rbp-link link-text">personal</a>
+                        <a href="#" class="rbp-red rbp-link link-text">not a subscriber?</a>
+                    </div>
+                </div>
+
+                <!-- Archive -->
+                <div class="mb-6">
+                    <h2 class="font-bold mb-2 text-sm">archive</h2>
+                    <div class="flex flex-col space-y-1">
+                        <a href="/Library" class="rbp-red rbp-link link-text">library</a>
+                        <a href="/Library/Free" class="rbp-red rbp-link link-text">free articles</a>
+                        <a href="/Library/Audio" class="rbp-red rbp-link link-text">audio interviews</a>
+                        <a href="/Podcast" class="rbp-red rbp-link link-text">podcast</a>
+                        <a href="/Library/Artists" class="rbp-red rbp-link link-text">artists</a>
+                        <a href="/Library/Subjects" class="rbp-red rbp-link link-text">subjects & genres</a>
+                        <a href="/Library/Publications" class="rbp-red rbp-link link-text">publications</a>
+                        <a href="/Library/Writers" class="rbp-red rbp-link link-text">writers</a>
+                    </div>
+                </div>
+
+                <!-- Info -->
+                <div class="mb-6">
+                    <h2 class="font-bold mb-2 text-sm">info</h2>
+                    <div class="flex flex-col space-y-1">
+                        <a href="/Pages/AboutUs" class="rbp-red rbp-link link-text">about us</a>
+                        <a href="/Contact" class="rbp-red rbp-link link-text">contact us</a>
+                        <a href="/Pages/LibrariansInfo" class="rbp-red rbp-link link-text">for librarians</a>
+                        <a href="/Pages/Licensing" class="rbp-red rbp-link link-text">licensing</a>
+                        <a href="/Pages/MagazineArchive" class="rbp-red rbp-link link-text">magazine archive</a>
+                        <a href="/Pages/PressRoom" class="rbp-red rbp-link link-text">press room</a>
+                    </div>
+                </div>
+
+                <!-- Search -->
+                <div class="mb-6">
+                    <input type="text" class="border p-1 w-full mb-1 text-sm" placeholder="Search">
+                    <a href="/Library/Search" class="rbp-red rbp-link link-text">advanced search</a>
+                </div>
+            </div>
+
+            <!-- Main Content -->
+            <div class="w-2/4">
+                <h1 class="text-xl font-bold mb-2">Chuck E. Weiss: When the Gig Ended, His New Career Began</h1>
+                <div class="mb-4 text-sm">
+                    <span>Marc Weingarten, </span>
+                    <em>Los Angeles Times</em>
+                    <span>, 27 January 2002</span>
+                </div>
+                <p class="text-sm mb-4">
+                    Story line: Los Angeles club legend records first album in his late 40s, and now follows it with a stellar effort that includes a 32-year-old track with cameos by blues legends Willie Dixon and Sunnyland Slim.
+                </p>
+                <p class="text-sm">Total word count of piece: 396</p>
+            </div>
+
+            <!-- Right Sidebar -->
+            <div class="w-1/4">
+                <div class="space-y-4">
+                    <!-- Social Media Icons -->
+                    <div class="flex gap-2">
+                        <img src="/public/img/icons/facebook.png" class="w-8 h-8">
+                        <img src="/public/img/icons/instagram.png" class="w-8 h-8">
+                        <img src="/public/img/icons/twitter.png" class="w-8 h-8">
+                    </div>
+                    <div class="flex gap-2">
+                        <img src="/public/img/icons/spotify.png" class="w-8 h-8">
+                        <img src="/public/img/icons/tiktok.png" class="w-8 h-8">
+                        <img src="/public/img/icons/youtube.png" class="w-8 h-8">
+                    </div>
+
+                    <!-- RBP Podcast Promo -->
+                    <div class="mt-8">
+                        <img src="/public/img/side-bar/40.jpg" class="w-full">
+                        <a href="/Podcast" class="rbp-red rbp-link text-sm">
+                            Hear 180+ episodes, with stellar guests incl. Adele Bertei, Dorian Lynskey, Kate Mossman, James Fox, Vicki Wickham, Vernon Gibbs and Ellen Sander
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

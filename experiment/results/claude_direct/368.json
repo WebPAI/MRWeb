@@ -1,0 +1,250 @@
+[
+    {
+        "position": [
+            [
+                1817.066650390625,
+                16.0
+            ],
+            [
+                1903.999984741211,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sign up",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                900.9833374023438,
+                416.0
+            ],
+            [
+                996.0333404541016,
+                431.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                943.11669921875,
+                416.0
+            ],
+            [
+                1145.2833709716797,
+                447.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                770.0,
+                527.5
+            ],
+            [
+                1150.0,
+                551.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Forgot your password?",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                770.0,
+                607.5
+            ],
+            [
+                1150.0,
+                657.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Continue with Google",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                770.0,
+                673.5
+            ],
+            [
+                1150.0,
+                723.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Continue with Apple",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                986.2833251953124,
+                741.0
+            ],
+            [
+                1039.316650390625,
+                758.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Sign up!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                960.5
+            ],
+            [
+                55.73333740234375,
+                977.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                75.66667175292969,
+                960.5
+            ],
+            [
+                122.78334045410156,
+                977.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                142.71665954589844,
+                960.5
+            ],
+            [
+                173.85000610351562,
+                977.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Jobs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                193.78334045410156,
+                960.5
+            ],
+            [
+                245.73333740234375,
+                977.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Support",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                867.7666625976562,
+                622.5
+            ],
+            [
+                887.7666625976562,
+                642.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_direct/google-icon.png"
+    },
+    {
+        "position": [
+            [
+                872.75,
+                688.5
+            ],
+            [
+                892.75,
+                708.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_direct/apple-icon.png"
+    }
+]

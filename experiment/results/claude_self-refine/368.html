@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tumblr Login</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-color: #001935;
+        }
+        .tumblr-logo {
+            color: #444444;
+            font-size: 64px;
+            font-weight: bold;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        }
+        .custom-link {
+            color: rgb(34, 34, 34);
+            text-decoration: none;
+        }
+        .custom-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+    <!-- Header -->
+    <header class="p-4 flex justify-between items-center">
+        <div class="w-8">
+            <svg viewBox="0 0 21 36" width="20" height="33" fill="#ffffff">
+                <path d="M21 36v-3c-2.1-.8-3.6-2-4.7-3.5-.9-1.3-1.3-3.3-1.3-6V14h6v-3h-6V0h-3c-.5 4.3-1.9 7.3-4.2 9-.7.5-2.3 1-4.8 1v3h4v10.5c0 3.1.4 5.2 1.2 6.4.8 1.1 1.8 2 3.1 2.7 1.3.6 2.8.9 4.6.9.9 0 1.8-.1 2.7-.2 1-.2 1.7-.4 2.4-.6z"/>
+            </svg>
+        </div>
+        <a href="https://www.tumblr.com/register" class="bg-[#00b8ff] text-white px-4 py-2 rounded hover:bg-[#00a0df] text-sm font-bold">
+            Sign up
+        </a>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex flex-col items-center justify-center min-h-[80vh] -mt-20">
+        <div class="tumblr-logo mb-8">tumblr</div>
+        
+        <div class="w-[380px] space-y-4">
+            <input type="email" placeholder="Email" class="w-full px-4 py-2 rounded">
+            <input type="password" placeholder="Password" class="w-full px-4 py-2 rounded">
+            
+            <div class="text-xs text-gray-500 text-center px-4">
+                By continuing, you agree to Tumblr's 
+                <a href="https://www.tumblr.com/policy/terms-of-service" class="custom-link">Terms of Service</a> and 
+                <a href="https://www.tumblr.com/policy/privacy" class="custom-link">Privacy Policy</a>.
+            </div>
+
+            <button class="w-full bg-[#00b8ff] text-white py-3 rounded font-bold hover:bg-[#00a0df]">
+                Log in
+            </button>
+
+            <div class="text-center">
+                <a href="https://www.tumblr.com/forgot_password" class="custom-link text-sm">
+                    Forgot your password?
+                </a>
+            </div>
+
+            <div class="text-center text-gray-500">or</div>
+
+            <!-- Social Login Buttons -->
+            <button class="w-full flex items-center justify-center bg-white rounded py-3 px-4 hover:bg-gray-50 border border-gray-300">
+                <img src="https://www.google.com/favicon.ico" class="w-5 h-5 mr-2" alt="">
+                Continue with Google
+            </button>
+
+            <button class="w-full flex items-center justify-center bg-white rounded py-3 px-4 hover:bg-gray-50 border border-gray-300">
+                <img src="https://www.apple.com/favicon.ico" class="w-5 h-5 mr-2" alt="">
+                Continue with Apple
+            </button>
+
+            <div class="text-center text-sm text-gray-500">
+                New to Tumblr? 
+                <a href="https://www.tumblr.com/register" class="custom-link">Sign up!</a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="fixed bottom-0 left-0 p-4">
+        <div class="space-x-4 text-white text-sm">
+            <a href="https://www.tumblr.com/policy" class="hover:underline">Terms</a>
+            <a href="https://www.tumblr.com/privacy_policy" class="hover:underline">Privacy</a>
+            <a href="https://www.tumblr.com/jobs" class="hover:underline">Jobs</a>
+            <a href="https://www.tumblr.com/support" class="hover:underline">Support</a>
+        </div>
+    </footer>
+</body>
+</html>

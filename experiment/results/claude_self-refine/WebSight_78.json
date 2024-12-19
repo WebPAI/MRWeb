@@ -1,0 +1,82 @@
+[
+    {
+        "position": [
+            [
+                1274.3333740234375,
+                64.0
+            ],
+            [
+                1317.233383178711,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.boerinsurance.com/faqs/"
+    },
+    {
+        "position": [
+            [
+                1333.2333984375,
+                64.0
+            ],
+            [
+                1376.800064086914,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.123essentialoils.com/about-me/"
+    },
+    {
+        "position": [
+            [
+                1392.800048828125,
+                64.0
+            ],
+            [
+                1449.3167114257812,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "http://dragonslairproject.com/tech/pages/bl.asp"
+    },
+    {
+        "position": [
+            [
+                1465.316650390625,
+                64.0
+            ],
+            [
+                1519.999984741211,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.afr.com/real-estate/perths-oconnor-industrial-landholding-snapped-up-20190206-h1axdk"
+    }
+]

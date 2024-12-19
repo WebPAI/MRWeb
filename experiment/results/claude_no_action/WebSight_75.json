@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                97.5
+            ],
+            [
+                70.13333129882812,
+                118.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Mission",
+        "on_click_jump_to": "#mission"
+    },
+    {
+        "position": [
+            [
+                102.13333129882812,
+                97.5
+            ],
+            [
+                140.81666564941406,
+                118.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "#news"
+    },
+    {
+        "position": [
+            [
+                172.81666564941406,
+                97.5
+            ],
+            [
+                224.38333129882812,
+                118.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Donate",
+        "on_click_jump_to": "#donate"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                64.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "position": [
+            [
+                1140.566650390625,
+                18.0
+            ],
+            [
+                1207.6833190917969,
+                54.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1220.183349609375,
+                18.0
+            ],
+            [
+                1287.8166809082031,
+                54.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1300.316650390625,
+                18.0
+            ],
+            [
+                1386.3666534423828,
+                54.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1398.86669921875,
+                18.0
+            ],
+            [
+                1482.050033569336,
+                54.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1494.550048828125,
+                18.0
+            ],
+            [
+                1576.1500396728516,
+                54.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                150.0
+            ],
+            [
+                488.76666259765625,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Email: info@constructioncompany.com",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                509.26666259765625,
+                150.0
+            ],
+            [
+                702.4833374023438,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Phone: +1 (123) 456-7890",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1478.2666015625,
+                150.0
+            ],
+            [
+                1548.6832733154297,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1569.183349609375,
+                150.0
+            ],
+            [
+                1619.183349609375,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1639.683349609375,
+                150.0
+            ],
+            [
+                1712.000015258789,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Instagram",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                248.0,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1694191610907-d1cdf7efd2f9?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NTh8&ixlib=rb-4.0.3&w=100&h=100"
+    }
+]

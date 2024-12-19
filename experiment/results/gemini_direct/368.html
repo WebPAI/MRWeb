@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tumblr</title>
+    <link href="https://cdn.tailwindcss.com" rel="stylesheet">
+</head>
+<body class="bg-black text-white font-sans">
+    <header class="flex justify-between items-center px-8 py-4">
+        <a href="#" class="text-white text-2xl font-bold">t</a>
+        <div class="relative">
+            <input type="text" placeholder="Search Tumblr" class="bg-gray-800 rounded-full px-4 py-2 pr-8 focus:outline-none focus:ring-2 focus:ring-blue-500">
+            <svg class="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-400" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+        </div>
+        <a href="#" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full">Sign up</a>
+    </header>
+
+    <main class="flex flex-col items-center justify-center h-screen">
+        <h1 class="text-white text-6xl font-bold mb-8">tumblr</h1>
+        <form class="bg-gray-800 rounded-lg p-8 w-96">
+            <div class="mb-4">
+                <label for="email" class="block text-gray-400 text-sm font-bold mb-2">Email</label>
+                <input type="email" id="email" class="appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" placeholder="Enter your email">
+            </div>
+            <div class="mb-6">
+                <label for="password" class="block text-gray-400 text-sm font-bold mb-2">Password</label>
+                <input type="password" id="password" class="appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" placeholder="Enter your password">
+            </div>
+            <p class="text-gray-500 text-xs mb-4">By clicking log in, or continuing with the other options below, you agree to Tumblr's <a href="#" class="text-blue-500 hover:underline">Terms of Service</a> and have read the <a href="#" class="text-blue-500 hover:underline">Privacy Policy</a></p>
+            <button type="submit" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Log in</button>
+            <a href="#" class="block text-center text-blue-500 hover:underline mt-4">Forgot your password?</a>
+            <div class="text-center mt-6">
+                <span class="text-gray-500">or</span>
+            </div>
+            <a href="#" class="bg-white hover:bg-gray-100 text-black font-bold py-2 px-4 rounded-full flex items-center justify-center mt-4">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1200px-Google_%22G%22_Logo.svg.png" alt="Google logo" class="h-5 mr-2">
+                Continue with Google
+            </a>
+            <a href="#" class="bg-black border border-gray-500 hover:border-gray-600 text-white font-bold py-2 px-4 rounded-full flex items-center justify-center mt-4">
+                <svg class="h-5 mr-2 fill-current text-white" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg>
+                Continue with Apple
+            </a>
+            <p class="text-gray-500 text-center mt-4">New to Tumblr? <a href="#" class="text-blue-500 hover:underline">Sign up!</a></p>
+        </form>
+    </main>
+
+    <footer class="absolute bottom-0 left-0 w-full bg-black text-white py-4 px-8">
+        <ul class="flex justify-start space-x-4 text-sm">
+            <li><a href="#" class="hover:underline">Terms</a></li>
+            <li><a href="#" class="hover:underline">Privacy</a></li>
+            <li><a href="#" class="hover:underline">Jobs</a></li>
+            <li><a href="#" class="hover:underline">Support</a></li>
+        </ul>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,214 @@
+[
+    {
+        "position": [
+            [
+                400.0,
+                0.0
+            ],
+            [
+                475.01666259765625,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Restaurant",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                507.01666259765625,
+                0.0
+            ],
+            [
+                541.7166595458984,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Lodě",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                573.7166748046875,
+                0.0
+            ],
+            [
+                629.0500183105469,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Penzion",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                759.0499877929688,
+                0.0
+            ],
+            [
+                816.9166564941406,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Poukazy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                848.9166870117188,
+                0.0
+            ],
+            [
+                910.9000091552734,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Kontakty",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                661.0499877929688,
+                0.0
+            ],
+            [
+                727.0499877929688,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                237.0
+            ],
+            [
+                752.0,
+                429.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/wedding-table.jpg"
+    },
+    {
+        "position": [
+            [
+                784.0,
+                237.0
+            ],
+            [
+                1136.0,
+                429.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/buffet.jpg"
+    },
+    {
+        "position": [
+            [
+                1168.0,
+                237.0
+            ],
+            [
+                1520.0,
+                429.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/boat-party.jpg"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                493.0
+            ],
+            [
+                752.0,
+                685.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/garden-party.jpg"
+    },
+    {
+        "position": [
+            [
+                784.0,
+                493.0
+            ],
+            [
+                1136.0,
+                685.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/corporate-party.jpg"
+    },
+    {
+        "position": [
+            [
+                1168.0,
+                493.0
+            ],
+            [
+                1520.0,
+                685.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/coffee-break.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                1049.0
+            ],
+            [
+                1920.0,
+                1097.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo-white.png"
+    }
+]

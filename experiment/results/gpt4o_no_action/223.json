@@ -1,0 +1,344 @@
+[
+    {
+        "position": [
+            [
+                224.0,
+                94.0
+            ],
+            [
+                267.1166687011719,
+                114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                126.0
+            ],
+            [
+                267.6333312988281,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                158.0
+            ],
+            [
+                272.28334045410156,
+                178.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Manus",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                190.0
+            ],
+            [
+                257.8999938964844,
+                210.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Fasu",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                222.0
+            ],
+            [
+                262.76666259765625,
+                242.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Kewa",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                254.0
+            ],
+            [
+                287.56666564941406,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Orokaiva",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                286.0
+            ],
+            [
+                277.31666564941406,
+                306.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Yagaria",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                318.0
+            ],
+            [
+                289.5,
+                338.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Contacts",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                350.0
+            ],
+            [
+                323.18333435058594,
+                370.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Opportunities",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                382.0
+            ],
+            [
+                274.5,
+                402.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Search",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                422.0
+            ],
+            [
+                268.1000061035156,
+                442.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                736.1666870117188,
+                291.0
+            ],
+            [
+                816.1166839599609,
+                311.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "West Kewa",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                338.0
+            ],
+            [
+                625.1000061035156,
+                372.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                629.0999755859375,
+                338.0
+            ],
+            [
+                656.4333038330078,
+                372.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                660.433349609375,
+                338.0
+            ],
+            [
+                688.1500091552734,
+                372.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "3",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                476.0
+            ],
+            [
+                568.0,
+                500.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo1.png"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                516.0
+            ],
+            [
+                568.0,
+                540.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo2.png"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                556.0
+            ],
+            [
+                568.0,
+                580.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo3.png"
+    }
+]

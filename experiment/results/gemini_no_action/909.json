@@ -1,0 +1,64 @@
+[
+    {
+        "position": [
+            [
+                690.2666625976562,
+                974.0
+            ],
+            [
+                722.5500030517578,
+                994.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "here",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                100.0
+            ],
+            [
+                1920.0,
+                500.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/building.jpg"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                852.0
+            ],
+            [
+                952.0,
+                876.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/handshake.jpg"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                852.0
+            ],
+            [
+                1696.0,
+                876.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/hh.jpg"
+    }
+]

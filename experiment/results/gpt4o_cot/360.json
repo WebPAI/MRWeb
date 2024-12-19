@@ -1,0 +1,256 @@
+[
+    {
+        "position": [
+            [
+                616.8499755859375,
+                16.0
+            ],
+            [
+                659.9666290283203,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://rookief1.com/"
+    },
+    {
+        "position": [
+            [
+                675.9666748046875,
+                16.0
+            ],
+            [
+                719.6000213623047,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://rookief1.com/about/"
+    },
+    {
+        "position": [
+            [
+                735.5999755859375,
+                16.0
+            ],
+            [
+                788.5333099365234,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Results",
+        "on_click_jump_to": "https://rookief1.com/results/"
+    },
+    {
+        "position": [
+            [
+                804.5333251953125,
+                16.0
+            ],
+            [
+                923.1499786376953,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Teams & Drivers",
+        "on_click_jump_to": "https://rookief1.com/teams/"
+    },
+    {
+        "position": [
+            [
+                939.1500244140624,
+                16.0
+            ],
+            [
+                1004.183364868164,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "https://rookief1.com/calendar/"
+    },
+    {
+        "position": [
+            [
+                1020.183349609375,
+                16.0
+            ],
+            [
+                1099.9833526611328,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Rules 2012",
+        "on_click_jump_to": "https://rookief1.com/rules/"
+    },
+    {
+        "position": [
+            [
+                1115.9833984375,
+                16.0
+            ],
+            [
+                1223.9333953857422,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Race Weekend",
+        "on_click_jump_to": "https://rookief1.com/race-weekend/"
+    },
+    {
+        "position": [
+            [
+                1239.933349609375,
+                16.0
+            ],
+            [
+                1303.1333465576172,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Glossary",
+        "on_click_jump_to": "https://rookief1.com/glossary/"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                654.0
+            ],
+            [
+                707.0500030517578,
+                674.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "British GP 2013: Tyred of it",
+        "on_click_jump_to": "https://rookief1.com/2013/07/03/british-gp-2013-tyred-of-it/"
+    },
+    {
+        "position": [
+            [
+                814.7000122070312,
+                654.0
+            ],
+            [
+                858.3333435058594,
+                674.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://rookief1.com/about/"
+    },
+    {
+        "position": [
+            [
+                969.683349609375,
+                654.0
+            ],
+            [
+                1203.8833465576172,
+                674.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Monza: What You Need to Know",
+        "on_click_jump_to": "https://rookief1.com/2011/09/09/monza-what-you-need-to-know/"
+    },
+    {
+        "position": [
+            [
+                1311.5333251953125,
+                654.0
+            ],
+            [
+                1407.999984741211,
+                674.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Select Month",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                180.0
+            ],
+            [
+                828.0,
+                360.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://rookief1.com/wp-content/uploads/2012/07/germany-gp.png?w=640"
+    }
+]

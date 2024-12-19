@@ -1,0 +1,156 @@
+[
+    {
+        "position": [
+            [
+                24.0,
+                69.5
+            ],
+            [
+                59.44999694824219,
+                90.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Pizza",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                101.5
+            ],
+            [
+                71.13333129882812,
+                122.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Burger",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                133.5
+            ],
+            [
+                61.26666259765625,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Sushi",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                233.5
+            ],
+            [
+                99.25,
+                254.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Vegetarian",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                265.5
+            ],
+            [
+                136.0500030517578,
+                286.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Non-Vegetarian",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                365.5
+            ],
+            [
+                58.16667175292969,
+                386.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Price",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                397.5
+            ],
+            [
+                69.46665954589844,
+                418.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Rating",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                640.0,
+                32.0
+            ],
+            [
+                1536.0,
+                416.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/eggs.jpg"
+    }
+]

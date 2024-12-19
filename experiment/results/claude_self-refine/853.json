@@ -1,0 +1,256 @@
+[
+    {
+        "position": [
+            [
+                200.0,
+                0.0
+            ],
+            [
+                443.76666259765625,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About SALTO\nWhy? What? Where? When? Who?",
+        "on_click_jump_to": "https://www.salto-youth.net/about/"
+    },
+    {
+        "position": [
+            [
+                443.76666259765625,
+                0.0
+            ],
+            [
+                693.1666717529297,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Resource Centres\nOur activities and resources for you",
+        "on_click_jump_to": "https://www.salto-youth.net/rc/"
+    },
+    {
+        "position": [
+            [
+                693.1666870117188,
+                0.0
+            ],
+            [
+                961.0166625976562,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Tools\nFor European youth work and training",
+        "on_click_jump_to": "https://www.salto-youth.net/tools/"
+    },
+    {
+        "position": [
+            [
+                961.0166625976562,
+                0.0
+            ],
+            [
+                1249.5499877929688,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "MySALTO\nLogin to your personal SALTO dashboard",
+        "on_click_jump_to": "https://www.salto-youth.net/mysalto/"
+    },
+    {
+        "position": [
+            [
+                1028.13330078125,
+                138.0
+            ],
+            [
+                1161.566635131836,
+                162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Find training offers",
+        "on_click_jump_to": "https://www.salto-youth.net/tools/european-training-calendar/browse/"
+    },
+    {
+        "position": [
+            [
+                1169.566650390625,
+                138.0
+            ],
+            [
+                1290.1166534423828,
+                162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Your applications",
+        "on_click_jump_to": "https://www.salto-youth.net/tools/european-training-calendar/dashboard/applications/"
+    },
+    {
+        "position": [
+            [
+                1298.11669921875,
+                138.0
+            ],
+            [
+                1494.9833679199219,
+                162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Manage your training offers",
+        "on_click_jump_to": "https://www.salto-youth.net/tools/european-training-calendar/dashboard/"
+    },
+    {
+        "position": [
+            [
+                1502.9833984375,
+                138.0
+            ],
+            [
+                1536.0000610351562,
+                162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Help",
+        "on_click_jump_to": "https://www.salto-youth.net/tools/european-training-calendar/help/"
+    },
+    {
+        "position": [
+            [
+                1468.0,
+                181.5
+            ],
+            [
+                1536.0,
+                200.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            199,
+            52,
+            133
+        ],
+        "text": "Login now!",
+        "on_click_jump_to": "https://www.salto-youth.net/tools/european-training-calendar/login/"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                234.5
+            ],
+            [
+                413.0,
+                253.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            199,
+            52,
+            133
+        ],
+        "text": "Start",
+        "on_click_jump_to": "https://www.salto-youth.net/tools/european-training-calendar/"
+    },
+    {
+        "position": [
+            [
+                1047.2333984375,
+                288.5
+            ],
+            [
+                1182.7167205810547,
+                309.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            199,
+            52,
+            133
+        ],
+        "text": "e-mail notifications",
+        "on_click_jump_to": "https://www.salto-youth.net/mysalto/"
+    },
+    {
+        "position": [
+            [
+                919.683349609375,
+                425.5
+            ],
+            [
+                1000.3166809082031,
+                446.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            119,
+            119,
+            119
+        ],
+        "text": "back to top",
+        "on_click_jump_to": "#sy-title"
+    },
+    {
+        "position": [
+            [
+                57.46665954589844,
+                21.0
+            ],
+            [
+                142.51666259765625,
+                69.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/path_to_salto_logo.png"
+    }
+]

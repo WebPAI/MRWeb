@@ -1,0 +1,224 @@
+[
+    {
+        "position": [
+            [
+                1643.8333740234375,
+                36.0
+            ],
+            [
+                1687.4667053222656,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/about"
+    },
+    {
+        "position": [
+            [
+                1703.4666748046875,
+                36.0
+            ],
+            [
+                1733.7166748046875,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/faq"
+    },
+    {
+        "position": [
+            [
+                1749.7166748046875,
+                36.0
+            ],
+            [
+                1806.3500213623047,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reports",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/yearly_report"
+    },
+    {
+        "position": [
+            [
+                1822.3499755859375,
+                36.0
+            ],
+            [
+                1903.9999694824219,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/contact"
+    },
+    {
+        "position": [
+            [
+                521.816650390625,
+                170.0
+            ],
+            [
+                674.9999847412109,
+                190.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Elsevier Science, Inc.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publishers/1116-Elsevier_Science_Inc"
+    },
+    {
+        "position": [
+            [
+                420.0,
+                434.0
+            ],
+            [
+                476.9166717529297,
+                454.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Surgery",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/20"
+    },
+    {
+        "position": [
+            [
+                420.0,
+                458.0
+            ],
+            [
+                476.8333282470703,
+                478.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/126"
+    },
+    {
+        "position": [
+            [
+                420.0,
+                534.0
+            ],
+            [
+                915.7666625976562,
+                554.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Surgical innovation and outcome measures for male urethral surgery",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/13603"
+    },
+    {
+        "position": [
+            [
+                113.51666259765624,
+                614.0
+            ],
+            [
+                163.51666259765625,
+                634.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "https://www.twitter.com/MSKLibrary"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                447.76666259765625,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/synapse_tag-0d09920709c0b95b6c6ed3caa108c1153c9f18ce1a91527709b51136c1e3db46.png"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                284.0
+            ],
+            [
+                496.0,
+                380.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1200/original/russo_paul.jpg?1407346719"
+    },
+    {
+        "position": [
+            [
+                627.2000122070312,
+                284.0
+            ],
+            [
+                723.2000122070312,
+                380.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1206/original/sandhu_jaspreet.jpg?1408567337"
+    }
+]

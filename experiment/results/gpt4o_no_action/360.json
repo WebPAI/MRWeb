@@ -1,0 +1,56 @@
+[
+    {
+        "position": [
+            [
+                528.0,
+                681.0
+            ],
+            [
+                579.6999969482422,
+                705.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                587.7000122070312,
+                681.0
+            ],
+            [
+                655.1500091552734,
+                705.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                313.0
+            ],
+            [
+                1392.0,
+                337.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/awesome-o-meter.png"
+    }
+]

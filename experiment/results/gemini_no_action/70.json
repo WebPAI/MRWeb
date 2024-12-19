@@ -1,0 +1,226 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                1100.0
+            ],
+            [
+                288.1666717529297,
+                1124.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Newer Post",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                688.4833374023438,
+                1100.0
+            ],
+            [
+                731.3833312988281,
+                1124.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1131.699951171875,
+                1100.0
+            ],
+            [
+                1205.3332824707031,
+                1124.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Older Post",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1269.3333740234375,
+                524.0
+            ],
+            [
+                1336.6000518798828,
+                548.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1269.3333740234375,
+                556.0
+            ],
+            [
+                1317.050048828125,
+                580.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1269.3333740234375,
+                588.0
+            ],
+            [
+                1339.866714477539,
+                612.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Instagram",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1034.0,
+                1180.0
+            ],
+            [
+                1075.0,
+                1196.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Blogger",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                48.0
+            ],
+            [
+                1189.3333129882812,
+                72.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/gemini_no_action/header_image.jpg"
+    },
+    {
+        "position": [
+            [
+                1237.3333740234375,
+                220.0
+            ],
+            [
+                1696.0000610351562,
+                244.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/gemini_no_action/qr_code.png"
+    },
+    {
+        "position": [
+            [
+                1237.3333740234375,
+                524.0
+            ],
+            [
+                1261.3333740234375,
+                548.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/gemini_no_action/facebook_icon.png"
+    },
+    {
+        "position": [
+            [
+                1237.3333740234375,
+                556.0
+            ],
+            [
+                1261.3333740234375,
+                580.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/gemini_no_action/twitter_icon.png"
+    },
+    {
+        "position": [
+            [
+                1237.3333740234375,
+                588.0
+            ],
+            [
+                1261.3333740234375,
+                612.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/gemini_no_action/instagram_icon.png"
+    },
+    {
+        "position": [
+            [
+                1237.3333740234375,
+                732.0
+            ],
+            [
+                1696.0000610351562,
+                756.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/gemini_no_action/cultural_district_logo.png"
+    }
+]

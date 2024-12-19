@@ -1,0 +1,286 @@
+[
+    {
+        "position": [
+            [
+                482.5,
+                25.0
+            ],
+            [
+                545.5,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            178,
+            8,
+            55
+        ],
+        "text": "Welcome",
+        "on_click_jump_to": "http://www.agriplan-bizplan.com/"
+    },
+    {
+        "position": [
+            [
+                584.5,
+                25.0
+            ],
+            [
+                643.5,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            178,
+            8,
+            55
+        ],
+        "text": "Products",
+        "on_click_jump_to": "http://www.agriplan-bizplan.com/products/"
+    },
+    {
+        "position": [
+            [
+                682.5,
+                25.0
+            ],
+            [
+                733.5,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            178,
+            8,
+            55
+        ],
+        "text": "F.A.Q.’s",
+        "on_click_jump_to": "http://www.agriplan-bizplan.com/f-a-q-s/"
+    },
+    {
+        "position": [
+            [
+                772.5,
+                25.0
+            ],
+            [
+                819.5,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            178,
+            8,
+            55
+        ],
+        "text": "PCORI",
+        "on_click_jump_to": "http://www.agriplan-bizplan.com/pcori/"
+    },
+    {
+        "position": [
+            [
+                858.5,
+                25.0
+            ],
+            [
+                980.5,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            178,
+            8,
+            55
+        ],
+        "text": "Savings Calculator",
+        "on_click_jump_to": "http://www.agriplan-bizplan.com/savings-calculator/"
+    },
+    {
+        "position": [
+            [
+                1019.5,
+                25.0
+            ],
+            [
+                1150.5,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            178,
+            8,
+            55
+        ],
+        "text": "Application Package",
+        "on_click_jump_to": "http://www.agriplan-bizplan.com/application-package/"
+    },
+    {
+        "position": [
+            [
+                1189.5,
+                25.0
+            ],
+            [
+                1262.5,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            178,
+            8,
+            55
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "http://www.agriplan-bizplan.com/contact/"
+    },
+    {
+        "position": [
+            [
+                482.5,
+                103.5
+            ],
+            [
+                849.3666687011719,
+                130.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Protective Financial Solutions, Inc.",
+        "on_click_jump_to": "http://www.agriplan-bizplan.com/"
+    },
+    {
+        "position": [
+            [
+                711.5,
+                1214.949951171875
+            ],
+            [
+                776.5,
+                1229.949951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Disclaimer",
+        "on_click_jump_to": "http://www.agriplan-bizplan.com/products/flexsystem/disclaimer/"
+    },
+    {
+        "position": [
+            [
+                1108.5,
+                1294.449951171875
+            ],
+            [
+                1162.5,
+                1308.449951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            119,
+            162,
+            46
+        ],
+        "text": "SiteOrigin",
+        "on_click_jump_to": "http://siteorigin.com/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                158.5
+            ],
+            [
+                24.0,
+                182.5
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.agriplan-bizplan.com/wp-content/themes/toothpaste/images/headers/dark-1.svg"
+    },
+    {
+        "position": [
+            [
+                1896.0,
+                158.5
+            ],
+            [
+                1920.0,
+                182.5
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.agriplan-bizplan.com/wp-content/themes/toothpaste/images/headers/light-1.svg"
+    },
+    {
+        "position": [
+            [
+                1177.5,
+                258.58331298828125
+            ],
+            [
+                1427.5,
+                333.58331298828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.agriplan-bizplan.com/wp-content/uploads/2013/07/call_now_btn.gif"
+    },
+    {
+        "position": [
+            [
+                1167.5,
+                347.08331298828125
+            ],
+            [
+                1244.5,
+                364.08331298828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.agriplan-bizplan.com/wp-content/uploads/2013/12/flex_sidebar.png"
+    },
+    {
+        "position": [
+            [
+                1210.5,
+                391.5833129882813
+            ],
+            [
+                1384.5,
+                557.5833129882812
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.agriplan-bizplan.com/wp-content/uploads/2013/12/tasc_card_app.png"
+    },
+    {
+        "position": [
+            [
+                932.13330078125,
+                1192.0833740234375
+            ],
+            [
+                1109.13330078125,
+                1267.0833740234375
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.agriplan-bizplan.com/wp-content/uploads/2013/07/tasc_green.png"
+    }
+]

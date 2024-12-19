@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                0.0,
+                64.0
+            ],
+            [
+                42.68333435058594,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                58.68333435058594,
+                64.0
+            ],
+            [
+                100.5,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                116.5,
+                64.0
+            ],
+            [
+                185.86666870117188,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "Programs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                201.86666870117188,
+                64.0
+            ],
+            [
+                257.01666259765625,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                16.0
+            ],
+            [
+                56.0,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/placeholder.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                88.0
+            ],
+            [
+                1920.0,
+                472.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/readmore.jpg"
+    }
+]

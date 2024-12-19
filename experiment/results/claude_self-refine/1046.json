@@ -1,0 +1,414 @@
+[
+    {
+        "position": [
+            [
+                999.316650390625,
+                38.19999694824219
+            ],
+            [
+                1083.4666442871094,
+                62.19999694824219
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Who we are",
+        "on_click_jump_to": "https://www.cds.co.uk/who-we-are"
+    },
+    {
+        "position": [
+            [
+                1107.4666748046875,
+                38.19999694824219
+            ],
+            [
+                1192.5166778564453,
+                62.19999694824219
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "What we do",
+        "on_click_jump_to": "https://www.cds.co.uk/what-we-do"
+    },
+    {
+        "position": [
+            [
+                1216.5166015625,
+                38.19999694824219
+            ],
+            [
+                1282.0499420166016,
+                62.19999694824219
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Our work",
+        "on_click_jump_to": "https://www.cds.co.uk/our-work"
+    },
+    {
+        "position": [
+            [
+                1306.050048828125,
+                38.19999694824219
+            ],
+            [
+                1400.6833801269531,
+                62.19999694824219
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Our thoughts",
+        "on_click_jump_to": "https://blog.cds.co.uk/"
+    },
+    {
+        "position": [
+            [
+                1424.683349609375,
+                38.19999694824219
+            ],
+            [
+                1499.5833435058594,
+                62.19999694824219
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact us",
+        "on_click_jump_to": "https://www.cds.co.uk/contact-us"
+    },
+    {
+        "position": [
+            [
+                1523.5833740234375,
+                38.19999694824219
+            ],
+            [
+                1576.2667083740234,
+                62.19999694824219
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "https://www.cds.co.uk/careers"
+    },
+    {
+        "position": [
+            [
+                1600.2666015625,
+                38.19999694824219
+            ],
+            [
+                1703.9999389648438,
+                62.19999694824219
+            ]
+        ],
+        "type": "a",
+        "color": [
+            27,
+            27,
+            27
+        ],
+        "text": "0800 138 4308",
+        "on_click_jump_to": "tel:08001384308"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                693.9000244140625
+            ],
+            [
+                292.71665954589844,
+                714.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            45,
+            212,
+            191
+        ],
+        "text": "Life at CDS",
+        "on_click_jump_to": "https://blog.cds.co.uk/tag/life-at-cds"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                693.9000244140625
+            ],
+            [
+                1067.566665649414,
+                714.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            45,
+            212,
+            191
+        ],
+        "text": "Public Sector",
+        "on_click_jump_to": "https://blog.cds.co.uk/tag/public-sector"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1307.9000244140625
+            ],
+            [
+                249.48333740234375,
+                1328.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "file:///sitemap"
+    },
+    {
+        "position": [
+            [
+                253.86666870117188,
+                1307.9000244140625
+            ],
+            [
+                351.0833282470703,
+                1328.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy notice",
+        "on_click_jump_to": "file:///privacy-notice"
+    },
+    {
+        "position": [
+            [
+                355.4666748046875,
+                1307.9000244140625
+            ],
+            [
+                515.7000122070312,
+                1328.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Accessibility statement",
+        "on_click_jump_to": "file:///accessibility-statement"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1307.9000244140625
+            ],
+            [
+                1070.933334350586,
+                1328.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Cookie policy",
+        "on_click_jump_to": "file:///cookie-policy"
+    },
+    {
+        "position": [
+            [
+                1075.316650390625,
+                1307.9000244140625
+            ],
+            [
+                1233.499984741211,
+                1328.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Carbon reduction plan",
+        "on_click_jump_to": "file:///carbon-reduction-plan"
+    },
+    {
+        "position": [
+            [
+                1237.88330078125,
+                1307.9000244140625
+            ],
+            [
+                1326.5499725341797,
+                1328.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms of use",
+        "on_click_jump_to": "file:///terms-of-use"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                16.0
+            ],
+            [
+                344.0,
+                84.39999389648438
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hubfs/cds-logo-teal.svg"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                356.3999938964844
+            ],
+            [
+                944.0,
+                656.3999938964844
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hs-fs/hubfs/Riverside.png"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                356.3999938964844
+            ],
+            [
+                1704.0,
+                656.3999938964844
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hs-fs/hubfs/Police-Industry-Charter-Signatory.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1362.4000244140625
+            ],
+            [
+                216.0,
+                1386.4000244140625
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hubfs/LI-White.svg.svg"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                1362.4000244140625
+            ],
+            [
+                256.0,
+                1386.4000244140625
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hubfs/logo-white-svg.svg"
+    },
+    {
+        "position": [
+            [
+                272.0,
+                1362.4000244140625
+            ],
+            [
+                296.0,
+                1386.3833618164062
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hubfs/Instagram_White.svg.svg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                1434.4000244140625
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://info.cds.co.uk/hubfs/CDS_Website_Files_Jan_2020/arrows-pattern-black.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                1194.4000244140625
+            ],
+            [
+                1920.0,
+                1434.4000244140625
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://info.cds.co.uk/hubfs/CDS_Website_Files_Jan_2020/dots-pattern-white.png"
+    }
+]

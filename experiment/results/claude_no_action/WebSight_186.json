@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1675.75,
+                13.5
+            ],
+            [
+                1716.5833282470703,
+                34.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1744.9666748046875,
+                13.5
+            ],
+            [
+                1787.116683959961,
+                34.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Hours",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1815.5,
+                13.5
+            ],
+            [
+                1904.0,
+                34.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Reservations",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                48.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    }
+]

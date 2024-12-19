@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                1402.816650390625,
+                18.0
+            ],
+            [
+                1446.4499816894531,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1470.449951171875,
+                18.0
+            ],
+            [
+                1532.4999542236328,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1556.5,
+                18.0
+            ],
+            [
+                1646.3999938964844,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1670.4000244140625,
+                18.0
+            ],
+            [
+                1728.0000305175781,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                104.0
+            ],
+            [
+                352.0,
+                200.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/placeholder-image1.jpg"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                356.0
+            ],
+            [
+                1696.0,
+                380.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/placeholder-image2.jpg"
+    }
+]

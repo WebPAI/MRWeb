@@ -1,0 +1,270 @@
+[
+    {
+        "position": [
+            [
+                1127.933349609375,
+                10.0
+            ],
+            [
+                1160.2166748046875,
+                30.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "here",
+        "on_click_jump_to": "https://mcrw.org/ccr1"
+    },
+    {
+        "position": [
+            [
+                1646.88330078125,
+                92.93333435058594
+            ],
+            [
+                1809.8499755859375,
+                112.93333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Phone: 765-342-7370",
+        "on_click_jump_to": "tel:765-342-7370"
+    },
+    {
+        "position": [
+            [
+                1822.3499755859375,
+                92.93333435058594
+            ],
+            [
+                1903.9999694824219,
+                112.93333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contact-us"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                165.88333129882812
+            ],
+            [
+                283.1166687011719,
+                221.88333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                283.1166687011719,
+                165.88333129882812
+            ],
+            [
+                449.8000030517578,
+                221.88333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Member Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                449.7999877929687,
+                165.88333129882812
+            ],
+            [
+                620.066650390625,
+                221.88333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Forms & Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                620.066650390625,
+                165.88333129882812
+            ],
+            [
+                783.7666473388672,
+                221.88333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News & Notices",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                783.7666625976562,
+                165.88333129882812
+            ],
+            [
+                907.7666625976562,
+                221.88333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1376.0,
+                253.88333129882812
+            ],
+            [
+                1728.0,
+                309.8833312988281
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BILL PAYMENT",
+        "on_click_jump_to": "file:///bill-payment"
+    },
+    {
+        "position": [
+            [
+                1376.0,
+                325.8833312988281
+            ],
+            [
+                1728.0,
+                381.8833312988281
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "New Service Request",
+        "on_click_jump_to": "file:///new-service-request-1"
+    },
+    {
+        "position": [
+            [
+                1376.0,
+                397.8833312988281
+            ],
+            [
+                1728.0,
+                453.8833312988281
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Water Quality Report",
+        "on_click_jump_to": "file:///water-quality-report"
+    },
+    {
+        "position": [
+            [
+                1392.0,
+                599.88330078125
+            ],
+            [
+                1613.3999938964844,
+                619.88330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Alliance of Indiana Rural Water",
+        "on_click_jump_to": "https://www.inh2o.org/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://mcrw.org/images/backgrounds/RWI_WV_barn_mill_with_waterfall_1400_x_900.jpg"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                56.0
+            ],
+            [
+                208.0,
+                149.88333129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://mcrw.org/images/logos_rwi/rwi_699_MCRW_Logo_smaller_size_1352756831_3644.png"
+    }
+]

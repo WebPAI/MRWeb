@@ -1,0 +1,246 @@
+[
+    {
+        "position": [
+            [
+                8.0,
+                129.26666259765625
+            ],
+            [
+                47.100006103515625,
+                145.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                51.100006103515625,
+                129.26666259765625
+            ],
+            [
+                114.18333435058594,
+                145.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Literature",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                118.18333435058594,
+                129.26666259765625
+            ],
+            [
+                179.5,
+                145.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Grammar",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                183.5,
+                129.26666259765625
+            ],
+            [
+                261.3333282470703,
+                145.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Study Skills",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                265.33331298828125,
+                129.26666259765625
+            ],
+            [
+                316.8999786376953,
+                145.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                320.8999938964844,
+                129.26666259765625
+            ],
+            [
+                453.3500061035156,
+                145.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Current Student Info",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                457.3500061035156,
+                129.26666259765625
+            ],
+            [
+                548.3999938964844,
+                145.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Useful Videos",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                552.4000244140625,
+                129.26666259765625
+            ],
+            [
+                602.1667022705078,
+                145.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                9.600006103515623
+            ],
+            [
+                70.19999694824219,
+                25.600006103515625
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/facebook-icon.png"
+    },
+    {
+        "position": [
+            [
+                74.19999694824219,
+                9.600006103515623
+            ],
+            [
+                132.85000610351562,
+                25.600006103515625
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/linkedin-icon.png"
+    },
+    {
+        "position": [
+            [
+                136.85000610351562,
+                9.600006103515623
+            ],
+            [
+                175.06666564941406,
+                25.600006103515625
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/email-icon.png"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                110.06666564941406
+            ],
+            [
+                98.16667175292967,
+                126.06666564941406
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/header-image.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                309.8999938964844
+            ],
+            [
+                102.63333129882812,
+                325.8999938964844
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/chapter-image.jpg"
+    },
+    {
+        "position": [
+            [
+                87.98333740234375,
+                370.2999877929687
+            ],
+            [
+                173.75,
+                386.2999877929687
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/footer-image.png"
+    }
+]

@@ -1,0 +1,402 @@
+[
+    {
+        "position": [
+            [
+                202.5,
+                0.0
+            ],
+            [
+                647.5,
+                68.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Seirbhís Náisiúnta Meitéareolaíochta na hÉireann",
+        "on_click_jump_to": "https://www.met.ie/ga/"
+    },
+    {
+        "position": [
+            [
+                1134.7333984375,
+                22.0
+            ],
+            [
+                1233.9333953857422,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Réamhaisnéisí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1233.933349609375,
+                22.0
+            ],
+            [
+                1357.3000183105469,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Tuairiscí is déanaí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1357.300048828125,
+                22.0
+            ],
+            [
+                1402.983383178711,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Aeráid",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1402.9833984375,
+                22.0
+            ],
+            [
+                1476.2000579833984,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Oideachas",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1476.199951171875,
+                22.0
+            ],
+            [
+                1540.8166198730469,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Eolaíocht",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1540.816650390625,
+                22.0
+            ],
+            [
+                1637.9833221435547,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Podchraoladh",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1637.9833984375,
+                22.0
+            ],
+            [
+                1717.5000610351562,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Eolas Fúinn",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                833.2000122070312,
+                84.0
+            ],
+            [
+                899.8333435058594,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            48,
+            96
+        ],
+        "text": "Rabhaidh",
+        "on_click_jump_to": "https://www.met.ie/ga/warnings/today"
+    },
+    {
+        "position": [
+            [
+                923.8333129882812,
+                84.0
+            ],
+            [
+                997.0499877929688,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            48,
+            96
+        ],
+        "text": "Aimsir",
+        "on_click_jump_to": "https://www.met.ie/ga/warnings/today"
+    },
+    {
+        "position": [
+            [
+                1021.0499877929688,
+                84.0
+            ],
+            [
+                1086.7999877929688,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            48,
+            96
+        ],
+        "text": "Muirí",
+        "on_click_jump_to": "https://www.met.ie/ga/warnings/today"
+    },
+    {
+        "position": [
+            [
+                1120.11669921875,
+                181.0
+            ],
+            [
+                1277.2333679199219,
+                205.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Eolas Fúinn",
+        "on_click_jump_to": "https://www.met.ie/ga/about-us"
+    },
+    {
+        "position": [
+            [
+                1120.11669921875,
+                205.0
+            ],
+            [
+                1277.2333679199219,
+                229.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Straitéis",
+        "on_click_jump_to": "https://www.met.ie/ga/about-us/strategy"
+    },
+    {
+        "position": [
+            [
+                214.5,
+                12.0
+            ],
+            [
+                326.5,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.met.ie/img/met-eireann-small.png"
+    },
+    {
+        "position": [
+            [
+                202.5,
+                781.0
+            ],
+            [
+                303.5,
+                963.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn-b.metweb.ie/images/met-eireann-long.png"
+    },
+    {
+        "position": [
+            [
+                327.5,
+                889.0
+            ],
+            [
+                571.5,
+                963.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn-b.metweb.ie/images/department-logo-2020.png"
+    },
+    {
+        "position": [
+            [
+                595.5,
+                889.0
+            ],
+            [
+                661.5,
+                955.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn-b.metweb.ie/images/wwis.png"
+    },
+    {
+        "position": [
+            [
+                923.8333129882812,
+                85.5
+            ],
+            [
+                944.8333129882812,
+                106.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.met.ie/images/warning-yellow@3x.png"
+    },
+    {
+        "position": [
+            [
+                1021.0499877929688,
+                85.5
+            ],
+            [
+                1042.0499877929688,
+                106.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.met.ie/images/warning-yellow@3x.png"
+    },
+    {
+        "position": [
+            [
+                1461.5,
+                852.0
+            ],
+            [
+                1501.5,
+                892.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.met.ie/images/social-icons-new.png"
+    },
+    {
+        "position": [
+            [
+                1533.5,
+                852.0
+            ],
+            [
+                1573.5,
+                892.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.met.ie/images/social-icons-new.png"
+    },
+    {
+        "position": [
+            [
+                1605.5,
+                852.0
+            ],
+            [
+                1645.5,
+                892.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.met.ie/images/social-icons-new.png"
+    },
+    {
+        "position": [
+            [
+                1677.5,
+                852.0
+            ],
+            [
+                1717.5,
+                892.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.met.ie/images/social-icons-new.png"
+    }
+]

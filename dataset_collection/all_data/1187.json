@@ -1,0 +1,50 @@
+[
+    {
+        "position": [
+            [
+                1086.699951171875,
+                283.6000061035156
+            ],
+            [
+                1269.2832946777344,
+                304.6000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            99,
+            100,
+            102
+        ],
+        "text": "Show More Information",
+        "on_click_jump_to": "javascript:ViewMoreInformation();"
+    },
+    {
+        "position": [
+            [
+                420.0,
+                10.0
+            ],
+            [
+                795.0,
+                121.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://eangee.com/defineyourspace.com/e2013/css/eangee_logo_transparent.png"
+    },
+    {
+        "position": [
+            [
+                438.0,
+                181.0
+            ],
+            [
+                888.0,
+                631.0
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    }
+]

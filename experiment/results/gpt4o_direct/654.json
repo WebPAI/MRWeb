@@ -1,0 +1,250 @@
+[
+    {
+        "position": [
+            [
+                691.13330078125,
+                16.0
+            ],
+            [
+                734.2499694824219,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.amreading.com/"
+    },
+    {
+        "position": [
+            [
+                750.25,
+                16.0
+            ],
+            [
+                902.5,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Gifts for Book Lovers",
+        "on_click_jump_to": "https://www.amreading.com/category/book-lovers/gifts/"
+    },
+    {
+        "position": [
+            [
+                918.5,
+                16.0
+            ],
+            [
+                1009.6833343505859,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Bookshelves",
+        "on_click_jump_to": "https://www.amreading.com/category/bookshelf/"
+    },
+    {
+        "position": [
+            [
+                1025.683349609375,
+                16.0
+            ],
+            [
+                1137.750015258789,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Literary Quotes",
+        "on_click_jump_to": "https://www.amreading.com/category/quotes/"
+    },
+    {
+        "position": [
+            [
+                1153.75,
+                16.0
+            ],
+            [
+                1228.8666687011719,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Book Lists",
+        "on_click_jump_to": "https://www.amreading.com/category/lists/"
+    },
+    {
+        "position": [
+            [
+                888.4000244140625,
+                89.0
+            ],
+            [
+                1031.5833587646484,
+                119.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "AMREADING",
+        "on_click_jump_to": "https://www.amreading.com/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                212.0
+            ],
+            [
+                571.7166595458984,
+                236.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Tweet",
+        "on_click_jump_to": "https://twitter.com/share"
+    },
+    {
+        "position": [
+            [
+                587.7166748046875,
+                212.0
+            ],
+            [
+                624.183349609375,
+                236.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Pin It",
+        "on_click_jump_to": "https://www.pinterest.com/pin/create/button/?url=https://www.amreading.com/2017/01/07/10-disadvantages-of-being-a-bookworm-and-how-to-fix-them/&media=https://www.amreading.com/wp-content/uploads/maxresdefault4-e1483821732916.jpg&description=10%20Disadvantages%20Of%20Being%20A%20Bookworm%20And%20How%20To%20%E2%80%9CFix%E2%80%9D%20Them"
+    },
+    {
+        "position": [
+            [
+                168.03334045410156,
+                1301.433349609375
+            ],
+            [
+                585.0500030517578,
+                1325.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "5 Reasons All Book Lovers Should Be Watching ‘Younger’",
+        "on_click_jump_to": "https://www.amreading.com/2016/10/10/5-reasons-all-book-lovers-should-be-watching-younger/"
+    },
+    {
+        "position": [
+            [
+                601.0499877929688,
+                1301.433349609375
+            ],
+            [
+                1239.7166137695312,
+                1325.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "Stay Weird (And Shower Sometimes): 3 Great Books From Your Favorite YouTube Ladies",
+        "on_click_jump_to": "https://www.amreading.com/2016/07/07/stay-weird-and-shower-sometimes-3-great-books-from-your-favorite-youtube-ladies/"
+    },
+    {
+        "position": [
+            [
+                1255.7166748046875,
+                1301.433349609375
+            ],
+            [
+                1751.9666748046875,
+                1325.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "5 Memoirs And Biographies Of Asian Leaders Everyone Should Read",
+        "on_click_jump_to": "https://www.amreading.com/2017/01/22/5-memoirs-and-biographies-of-asian-leaders-everyone-should-read/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                292.0
+            ],
+            [
+                1392.0,
+                1157.433349609375
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.amreading.com/wp-content/uploads/stacks-of-books-messy-shelves.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                1341.433349609375
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.amreading.com/wp-content/themes/mts_schema/images/pattern1.png"
+    }
+]

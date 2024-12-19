@@ -1,0 +1,778 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                20.0
+            ],
+            [
+                94.55000305175781,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            246,
+            238,
+            215
+        ],
+        "text": "Restaurant",
+        "on_click_jump_to": "https://www.usemika.cz/cs/restaurant"
+    },
+    {
+        "position": [
+            [
+                126.5500030517578,
+                20.0
+            ],
+            [
+                162.39999389648438,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            246,
+            238,
+            215
+        ],
+        "text": "Lodě",
+        "on_click_jump_to": "https://www.usemika.cz/cs/lode"
+    },
+    {
+        "position": [
+            [
+                194.3999938964844,
+                20.0
+            ],
+            [
+                251.94999694824222,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            246,
+            238,
+            215
+        ],
+        "text": "Penzion",
+        "on_click_jump_to": "https://www.motylilouka.cz/cs"
+    },
+    {
+        "position": [
+            [
+                283.95001220703125,
+                20.0
+            ],
+            [
+                345.0500183105469,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            246,
+            238,
+            215
+        ],
+        "text": "Poukazy",
+        "on_click_jump_to": "https://www.usemika.cz/cs/darkovy-poukaz"
+    },
+    {
+        "position": [
+            [
+                377.0499877929687,
+                20.0
+            ],
+            [
+                441.0499877929687,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            246,
+            238,
+            215
+        ],
+        "text": "Kontakty",
+        "on_click_jump_to": "https://www.usemika.cz/cs/kontakty"
+    },
+    {
+        "position": [
+            [
+                1141.3333740234375,
+                447.76666259765625
+            ],
+            [
+                1440.0000610351562,
+                471.76666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "More Info",
+        "on_click_jump_to": "https://www.usemika.cz/en/lode"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                1129.5333251953125
+            ],
+            [
+                526.5500030517578,
+                1149.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Restaurant",
+        "on_click_jump_to": "https://www.usemika.cz/cs/restaurant"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                1153.5333251953125
+            ],
+            [
+                526.9499969482422,
+                1173.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Náš příběh",
+        "on_click_jump_to": "https://www.usemika.cz/cs/restaurant/o-nas"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                1177.5333251953125
+            ],
+            [
+                534.75,
+                1197.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Denní menu",
+        "on_click_jump_to": "https://www.usemika.cz/cs/restaurant/denni-menu"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                1201.5333251953125
+            ],
+            [
+                537.0666656494141,
+                1221.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Jídelní lístek",
+        "on_click_jump_to": "https://www.usemika.cz/cs/restaurant/jidelni-listek"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                1225.5333251953125
+            ],
+            [
+                558.25,
+                1245.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Nápojový lístek",
+        "on_click_jump_to": "https://www.usemika.cz/cs/restaurant/napojovy-listek"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                1249.5333251953125
+            ],
+            [
+                497.51666259765625,
+                1269.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Svatby",
+        "on_click_jump_to": "https://www.usemika.cz/cs/restaurant/svatby"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                1273.5333251953125
+            ],
+            [
+                509.71665954589844,
+                1293.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Catering",
+        "on_click_jump_to": "https://www.usemika.cz/cs/restaurant/catering"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                1297.5333251953125
+            ],
+            [
+                564.1999969482422,
+                1317.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Dárkový poukaz",
+        "on_click_jump_to": "https://www.usemika.cz/cs/restaurant/voucher"
+    },
+    {
+        "position": [
+            [
+                712.0,
+                1129.5333251953125
+            ],
+            [
+                747.8500061035156,
+                1149.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Lodě",
+        "on_click_jump_to": "https://www.usemika.cz/cs/lode"
+    },
+    {
+        "position": [
+            [
+                712.0,
+                1153.5333251953125
+            ],
+            [
+                832.5166625976562,
+                1173.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Plavba po Vltavě",
+        "on_click_jump_to": "https://www.usemika.cz/cs/lode/vltava"
+    },
+    {
+        "position": [
+            [
+                712.0,
+                1177.5333251953125
+            ],
+            [
+                752.9666595458984,
+                1197.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Ceník",
+        "on_click_jump_to": "https://www.usemika.cz/cs/lode/cenik"
+    },
+    {
+        "position": [
+            [
+                712.0,
+                1201.5333251953125
+            ],
+            [
+                820.9166717529297,
+                1221.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Nástupní místo",
+        "on_click_jump_to": "https://www.usemika.cz/cs/lode/nastupni-misto"
+    },
+    {
+        "position": [
+            [
+                712.0,
+                1225.5333251953125
+            ],
+            [
+                762.9333343505859,
+                1245.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Galerie",
+        "on_click_jump_to": "https://www.usemika.cz/cs/lode/galerie"
+    },
+    {
+        "position": [
+            [
+                712.0,
+                1249.5333251953125
+            ],
+            [
+                787.4666595458984,
+                1269.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Rezervace",
+        "on_click_jump_to": "https://www.usemika.cz/cs/lode/booking"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1129.5333251953125
+            ],
+            [
+                1179.8833312988281,
+                1149.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Penzion v Železných horách",
+        "on_click_jump_to": "https://www.motylilouka.cz/cs"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1153.5333251953125
+            ],
+            [
+                1016.9666595458984,
+                1173.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Ceník",
+        "on_click_jump_to": "https://www.motylilouka.cz/cs/cenik"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1177.5333251953125
+            ],
+            [
+                1092.6999969482422,
+                1197.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Pokoje a interiér",
+        "on_click_jump_to": "https://www.motylilouka.cz/cs/pokoje"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1201.5333251953125
+            ],
+            [
+                1024.5166625976562,
+                1221.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Služby",
+        "on_click_jump_to": "https://www.motylilouka.cz/cs/sluzby"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1225.5333251953125
+            ],
+            [
+                1126.3333282470703,
+                1245.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Okolí a tipy na výlety",
+        "on_click_jump_to": "https://www.motylilouka.cz/cs/okoli"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1249.5333251953125
+            ],
+            [
+                1031.6333312988281,
+                1269.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Kontakt",
+        "on_click_jump_to": "https://www.motylilouka.cz/cs/kontakt"
+    },
+    {
+        "position": [
+            [
+                1240.0,
+                1129.5333251953125
+            ],
+            [
+                1304.0,
+                1149.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "Kontakty",
+        "on_click_jump_to": "https://www.usemika.cz/cs/kontakty"
+    },
+    {
+        "position": [
+            [
+                1240.0,
+                1153.5333251953125
+            ],
+            [
+                1374.1499938964844,
+                1173.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "+420 221 965 610",
+        "on_click_jump_to": "tel:+420221965610"
+    },
+    {
+        "position": [
+            [
+                1240.0,
+                1177.5333251953125
+            ],
+            [
+                1376.3666687011719,
+                1197.5333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            204,
+            204,
+            204
+        ],
+        "text": "office@usemika.cz",
+        "on_click_jump_to": "mailto:office@usemika.cz"
+    },
+    {
+        "position": [
+            [
+                1776.0,
+                16.0
+            ],
+            [
+                1808.0,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/icon.fb.svg"
+    },
+    {
+        "position": [
+            [
+                1824.0,
+                16.0
+            ],
+            [
+                1856.0,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/icon.ta.svg"
+    },
+    {
+        "position": [
+            [
+                1872.0,
+                16.0
+            ],
+            [
+                1904.0,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/icon.map.svg"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                292.0
+            ],
+            [
+                778.6666870117188,
+                439.76666259765625
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/docs/catering.svatby.jpg"
+    },
+    {
+        "position": [
+            [
+                810.6666870117188,
+                292.0
+            ],
+            [
+                1109.3333435058594,
+                439.76666259765625
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/docs/catering.bufet.jpg"
+    },
+    {
+        "position": [
+            [
+                1141.3333740234375,
+                292.0
+            ],
+            [
+                1440.0000610351562,
+                439.76666259765625
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/docs/catering.lod.jpg"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                503.76666259765625
+            ],
+            [
+                778.6666870117188,
+                651.5333404541016
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/docs/catering.outdoor.jpg"
+    },
+    {
+        "position": [
+            [
+                810.6666870117188,
+                503.76666259765625
+            ],
+            [
+                1109.3333435058594,
+                651.5333404541016
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/docs/catering.naplavka.jpg"
+    },
+    {
+        "position": [
+            [
+                1141.3333740234375,
+                503.76666259765625
+            ],
+            [
+                1440.0000610351562,
+                651.5333404541016
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/docs/catering.coffeebreak.jpg"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                811.5333251953125
+            ],
+            [
+                944.0,
+                927.5333251953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/docs/reference/logo.mscr.png"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                811.5333251953125
+            ],
+            [
+                1440.0,
+                927.5333251953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/docs/reference/logo.accon.png"
+    },
+    {
+        "position": [
+            [
+                1240.0,
+                1215.5333251953125
+            ],
+            [
+                1272.0,
+                1247.5333251953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/icon.fb.svg"
+    },
+    {
+        "position": [
+            [
+                1288.0,
+                1215.5333251953125
+            ],
+            [
+                1320.0,
+                1247.5333251953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/icon.ta.svg"
+    },
+    {
+        "position": [
+            [
+                1336.0,
+                1215.5333251953125
+            ],
+            [
+                1368.0,
+                1247.5333251953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.usemika.cz/images/icon.map.svg"
+    }
+]

@@ -1,0 +1,170 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                650.0
+            ],
+            [
+                331.3500061035156,
+                670.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "storiesbywilliams",
+        "on_click_jump_to": "https://storiesbywilliams.com/author/storiesbywilliams/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                682.0
+            ],
+            [
+                252.60000610351562,
+                702.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Books",
+        "on_click_jump_to": "https://storiesbywilliams.com/category/books-2/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                714.0
+            ],
+            [
+                267.26666259765625,
+                734.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reviews",
+        "on_click_jump_to": "https://storiesbywilliams.com/tag/reviews/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                746.0
+            ],
+            [
+                278.6166687011719,
+                766.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            185,
+            129
+        ],
+        "text": "About Me",
+        "on_click_jump_to": "https://storiesbywilliams.com/about/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                778.0
+            ],
+            [
+                401.81666564941406,
+                798.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            185,
+            129
+        ],
+        "text": "Advice for Aspiring Writers",
+        "on_click_jump_to": "https://storiesbywilliams.com/advise-for-aspiring-writers/"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                866.0
+            ],
+            [
+                673.8333282470703,
+                886.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            185,
+            129
+        ],
+        "text": "Count Zero",
+        "on_click_jump_to": "https://storiesbywilliams.com/2012/04/12/count-zero/"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                898.0
+            ],
+            [
+                740.5666656494141,
+                918.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            185,
+            129
+        ],
+        "text": "Mona Lisa Overdrive",
+        "on_click_jump_to": "https://storiesbywilliams.com/2012/09/02/mona-lisa-overdrive/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                864.0
+            ],
+            [
+                248.0,
+                904.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://storiesbywilliams.files.wordpress.com/2012/04/cyberpunk_2-1680x1050.jpg?w=40&h=40&crop=1"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                600.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://storiesbywilliams.com/wp-content/uploads/2011/11/dune_misc1.jpg?w=249&"
+    }
+]

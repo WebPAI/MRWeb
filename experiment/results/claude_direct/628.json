@@ -1,0 +1,436 @@
+[
+    {
+        "position": [
+            [
+                384.0,
+                26.5
+            ],
+            [
+                638.1666717529297,
+                69.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "DiagnosisDude",
+        "on_click_jump_to": "https://diagnosisdude.com/"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                96.0
+            ],
+            [
+                462.48333740234375,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://diagnosisdude.com/"
+    },
+    {
+        "position": [
+            [
+                462.48333740234375,
+                96.0
+            ],
+            [
+                548.4833374023438,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://diagnosisdude.com/about-2/"
+    },
+    {
+        "position": [
+            [
+                548.4833374023438,
+                96.0
+            ],
+            [
+                807.5,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "REFERENCE TABLES (SCROLL)",
+        "on_click_jump_to": "https://diagnosisdude.com/page-6/"
+    },
+    {
+        "position": [
+            [
+                807.5,
+                96.0
+            ],
+            [
+                918.2333374023438,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "WELCOME",
+        "on_click_jump_to": "https://diagnosisdude.com/welcome/"
+    },
+    {
+        "position": [
+            [
+                1280.0,
+                482.0
+            ],
+            [
+                1339.75,
+                502.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Register",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1280.0,
+                506.0
+            ],
+            [
+                1324.1000061035156,
+                526.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1280.0,
+                530.0
+            ],
+            [
+                1366.8000030517578,
+                550.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Entries feed",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1280.0,
+                554.0
+            ],
+            [
+                1395.4666595458984,
+                574.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Comments feed",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1280.0,
+                578.0
+            ],
+            [
+                1394.25,
+                598.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "WordPress.com",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                552.9000244140625,
+                266.0
+            ],
+            [
+                727.1000366210938,
+                286.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Blog at WordPress.com.",
+        "on_click_jump_to": "https://wordpress.com/?ref=footer_blog"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                707.0
+            ],
+            [
+                240.0,
+                731.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "DiagnosisDude",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                731.0
+            ],
+            [
+                240.0,
+                755.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Customize",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                759.0
+            ],
+            [
+                240.0,
+                783.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                787.0
+            ],
+            [
+                240.0,
+                811.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Sign up",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                815.0
+            ],
+            [
+                240.0,
+                839.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                843.0
+            ],
+            [
+                240.0,
+                867.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Copy shortlink",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                871.0
+            ],
+            [
+                240.0,
+                895.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Report this content",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                899.0
+            ],
+            [
+                240.0,
+                923.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "View post in Reader",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                927.0
+            ],
+            [
+                240.0,
+                951.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Manage subscriptions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                955.0
+            ],
+            [
+                240.0,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Collapse this bar",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                651.0
+            ],
+            [
+                64.0,
+                699.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://s2.wp.com/i/logo/wpcom-gray-white.png"
+    }
+]

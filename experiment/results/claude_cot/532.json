@@ -1,0 +1,306 @@
+[
+    {
+        "position": [
+            [
+                464.0,
+                67.0
+            ],
+            [
+                544.4499969482422,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "O NÁS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                548.9500122070312,
+                67.0
+            ],
+            [
+                696.683349609375,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "STREET DANCE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                701.183349609375,
+                67.0
+            ],
+            [
+                839.1666870117188,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DISCO DANCE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                843.6666870117188,
+                67.0
+            ],
+            [
+                1005.5666809082031,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTEMPORARY",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1010.066650390625,
+                67.0
+            ],
+            [
+                1159.5499877929688,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JABLONEC N.N.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1164.050048828125,
+                67.0
+            ],
+            [
+                1316.1833801269531,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LÉTO S TAKTEM",
+        "on_click_jump_to": "https://www.takt-lbc.com/leto-s-taktem-2/"
+    },
+    {
+        "position": [
+            [
+                1320.683349609375,
+                67.0
+            ],
+            [
+                1499.616683959961,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ONLINE PŘIHLÁŠKA",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1665.5166015625,
+                168.0
+            ],
+            [
+                1711.9999389648438,
+                188.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://www.takt-lbc.com/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                206.0
+            ],
+            [
+                483.20001220703125,
+                366.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "[text]\n[fotek count]",
+        "on_click_jump_to": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/[link]"
+    },
+    {
+        "position": [
+            [
+                923.933349609375,
+                462.0
+            ],
+            [
+                1072.3833465576172,
+                486.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "takt-lbc@seznam.cz",
+        "on_click_jump_to": "mailto:takt-lbc@seznam.cz"
+    },
+    {
+        "position": [
+            [
+                923.933349609375,
+                486.0
+            ],
+            [
+                1072.3833465576172,
+                510.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "+420 777 256 959",
+        "on_click_jump_to": "tel:+420777256959"
+    },
+    {
+        "position": [
+            [
+                280.0,
+                0.0
+            ],
+            [
+                430.0,
+                150.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2023/03/logoweb.svg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                206.0
+            ],
+            [
+                483.20001220703125,
+                366.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/[image-src]"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                462.0
+            ],
+            [
+                378.0,
+                633.5166625976562
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2023/03/logo2-1-1.png"
+    },
+    {
+        "position": [
+            [
+                1618.316650390625,
+                462.0
+            ],
+            [
+                1711.999984741211,
+                510.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/[partner-logo-1]"
+    },
+    {
+        "position": [
+            [
+                1618.316650390625,
+                526.0
+            ],
+            [
+                1711.999984741211,
+                574.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/[partner-logo-2]"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                150.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2023/03/header_bg-1-1.png"
+    }
+]

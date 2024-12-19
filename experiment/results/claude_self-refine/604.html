@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Synapse - Journal of Urology</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-white px-4 py-2;
+        }
+        .blue-link {
+            @apply text-[#1C75CD] hover:underline;
+        }
+        .header-bar {
+            @apply bg-[#0099CC] text-white p-4 flex justify-between items-center;
+        }
+        .content-section {
+            @apply max-w-7xl mx-auto p-8;
+        }
+        .person-grid {
+            @apply grid grid-cols-5 gap-4;
+        }
+        .person-img {
+            @apply w-20 h-24 object-cover rounded;
+        }
+        .results-section {
+            @apply mt-8 border-t pt-4;
+        }
+        .result-item {
+            @apply mb-8;
+        }
+        .footer {
+            @apply bg-gray-800 text-white p-8 mt-16;
+        }
+    </style>
+</head>
+<body>
+    <!-- Top Navigation -->
+    <div class="header-bar">
+        <div class="flex items-center">
+            <img src="synapse_tag.png" alt="Synapse" class="h-16">
+            <img src="mskflatbar.png" alt="MSK" class="h-16 ml-auto">
+        </div>
+        <div class="flex gap-4">
+            <a href="/about" class="nav-link">About</a>
+            <a href="/faq" class="nav-link">FAQ</a>
+            <a href="/reports" class="nav-link">Reports</a>
+            <a href="/contact" class="nav-link">Contact Us</a>
+        </div>
+    </div>
+
+    <!-- Secondary Navigation -->
+    <div class="bg-[#0099CC] text-white py-2">
+        <div class="flex justify-center gap-8">
+            <a href="/works" class="nav-link">Works</a>
+            <a href="/groups" class="nav-link">Groups</a>
+            <a href="/people" class="nav-link">People</a>
+            <a href="/publications" class="nav-link">Publications</a>
+            <a href="/publishers" class="nav-link">Publishers</a>
+            <a href="/inpress" class="nav-link">In Press</a>
+        </div>
+    </div>
+
+    <div class="content-section">
+        <h1 class="text-2xl mb-8">Journal of Urology</h1>
+        
+        <!-- People Grid -->
+        <div class="person-grid mb-12">
+            <!-- Grid of 10 person images, 5 in each row -->
+            <!-- Each person is wrapped in a div with their image and name -->
+        </div>
+
+        <!-- Search Results -->
+        <div class="results-section">
+            <!-- Result items -->
+            <div class="result-item">
+                <a href="#" class="text-lg blue-link">Surgical innovation and outcome measures for male urethral surgery</a>
+                <div class="mt-2">
+                    <a href="#" class="blue-link">Sandhu, J. S.</a>
+                    <span class="mx-2">|</span>
+                    <a href="#" class="blue-link">Journal of Urology</a>
+                </div>
+                <div class="mt-1">
+                    <a href="#" class="blue-link">Fulltext@MSK</a>
+                    <span class="mx-2">|</span>
+                    <a href="#" class="blue-link">Save</a>
+                </div>
+            </div>
+            <!-- Additional result items follow same pattern -->
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container mx-auto">
+            <div class="flex justify-between items-center">
+                <div>
+                    <a href="#" class="text-white hover:underline">Memorial Sloan Kettering Cancer Center</a>
+                    <span class="mx-2">|</span>
+                    <a href="#" class="text-white hover:underline">Sloan Kettering Institute</a>
+                </div>
+                <div class="flex items-center">
+                    <span>Follow Us on</span>
+                    <img src="twitter-icon.png" alt="Twitter" class="ml-2 w-8">
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

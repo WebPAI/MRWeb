@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                871.816650390625,
+                112.0
+            ],
+            [
+                914.9333190917969,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://zh.wikipedia.org/wiki/%E8%8B%B1%E9%A3%9B%E5%87%8C"
+    },
+    {
+        "position": [
+            [
+                930.933349609375,
+                112.0
+            ],
+            [
+                974.5666809082031,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.envass.co.za/client-value-add/environmental-legal-updates/"
+    },
+    {
+        "position": [
+            [
+                990.566650390625,
+                112.0
+            ],
+            [
+                1048.1666564941406,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://altapetestockdogs.blogspot.com/2009/10/"
+    },
+    {
+        "position": [
+            [
+                1648.0,
+                32.0
+            ],
+            [
+                1712.0,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1706542112210-a75060048dfd?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NTd8&ixlib=rb-4.0.3&w=100&h=100"
+    }
+]

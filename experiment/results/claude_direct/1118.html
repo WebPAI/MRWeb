@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cahill</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-white px-4 py-2 hover:opacity-80;
+        }
+        .blue-link {
+            @apply text-[#00538B] hover:underline;
+        }
+        .orange-link {
+            @apply text-[#E04403] hover:underline;
+        }
+        .gray-link {
+            @apply text-[#5F6369] hover:underline;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Top Bar -->
+    <div class="bg-[#002B5C] text-right py-2 px-4">
+        <div class="inline-space">
+            <a href="/alumni" class="nav-link">ALUMNI</a>
+            <a href="/subscribe" class="nav-link">SUBSCRIBE</a>
+            <a href="/offices" class="nav-link">OFFICES</a>
+        </div>
+    </div>
+
+    <!-- Logo -->
+    <div class="px-8 py-4">
+        <img src="https://www.cahill.com/images/layout/logo.svg" alt="Cahill" class="h-10">
+    </div>
+
+    <!-- Main Navigation -->
+    <nav class="bg-[#002B5C] px-8 py-4">
+        <div class="flex space-x-6">
+            <a href="/firm" class="nav-link">Firm</a>
+            <a href="/professionals" class="nav-link">Professionals</a>
+            <a href="/practices" class="nav-link">Practices</a>
+            <a href="/publications" class="nav-link">Publications</a>
+            <a href="/news" class="nav-link">News</a>
+            <a href="/pro-bono" class="nav-link">Pro Bono</a>
+            <a href="/diversity" class="nav-link">Diversity, Equity & Inclusion</a>
+            <a href="/careers" class="nav-link">Careers</a>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mx-auto px-8 py-12">
+        <h1 class="text-4xl mb-8">Rankings & Recognition</h1>
+        
+        <div class="grid grid-cols-3 gap-8">
+            <!-- Left Sidebar -->
+            <div class="col-span-1">
+                <a href="/news" class="gray-link block mb-4">Firm News</a>
+                <a href="/rankings" class="orange-link block mb-4">Rankings & Recognition</a>
+                <a href="/events" class="gray-link block mb-4">Speaking Engagements</a>
+                
+                <div class="mt-8">
+                    <p class="text-sm mb-2">Media Contact:</p>
+                    <p class="text-sm mb-1">Julie Cohen</p>
+                    <p class="text-sm mb-1">Director of Marketing and Communications</p>
+                    <p class="text-sm mb-1">212.701.3614</p>
+                    <a href="mailto:jcohen@cahill.com" class="blue-link text-sm">jcohen@cahill.com</a>
+                </div>
+            </div>
+
+            <!-- Main Content -->
+            <div class="col-span-2">
+                <h2 class="text-2xl mb-6">Benchmark Litigation Names Cahill Partners Among Top 250 Women in Litigation 2018</h2>
+                <p class="text-sm text-gray-600 mb-4">Date: 07/17/18</p>
+                
+                <img src="https://www.cahill.com/news/rankings/2018-07-17-benchmark-litigation-names-cahill-partners-among-top-250-women-in-litigation-2018/_res/id=Picture/Benchmarak%20Top%20250%20SMALL.png" 
+                     alt="Benchmark Litigation" 
+                     class="w-48 mb-6">
+                
+                <!-- Content paragraphs... -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-[#002B5C] text-white px-8 py-12 mt-12">
+        <div class="grid grid-cols-3 gap-8">
+            <div>
+                <img src="https://www.cahill.com/images/layout/logo-full-stacked.svg" alt="Cahill" class="h-24 mb-6">
+            </div>
+            <div>
+                <p class="mb-4">Stay in the loop with Cahill publications, which feature firm memoranda, news, events, and more.</p>
+                <button class="bg-white text-[#002B5C] px-6 py-2">SUBSCRIBE</button>
+            </div>
+            <div>
+                <a href="/terms" class="orange-link block mb-2">Terms of Use</a>
+                <a href="/privacy" class="orange-link block mb-2">Privacy/Cookies</a>
+                <a href="/sitemap" class="orange-link block mb-2">Sitemap</a>
+                <a href="/credits" class="orange-link block mb-2">Credits</a>
+                <a href="/transparency" class="orange-link block">Transparency in Coverage</a>
+            </div>
+        </div>
+        
+        <div class="mt-8 border-t border-white pt-8">
+            <div class="flex space-x-4">
+                <a href="/newyork" class="text-white hover:underline">New York</a>
+                <span class="text-white">|</span>
+                <a href="/washington" class="text-white hover:underline">Washington, D.C.</a>
+                <span class="text-white">|</span>
+                <a href="/delaware" class="text-white hover:underline">Delaware</a>
+                <span class="text-white">|</span>
+                <a href="/london" class="text-white hover:underline">London</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

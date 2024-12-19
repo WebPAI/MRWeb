@@ -1,0 +1,136 @@
+[
+    {
+        "position": [
+            [
+                1706.0833740234375,
+                26.5
+            ],
+            [
+                1748.983383178711,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            147,
+            51,
+            234
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1777.36669921875,
+                26.5
+            ],
+            [
+                1820.933364868164,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            147,
+            51,
+            234
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1849.316650390625,
+                26.5
+            ],
+            [
+                1903.999984741211,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            147,
+            51,
+            234
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1501.7166748046875,
+                944.5
+            ],
+            [
+                1568.9833526611328,
+                965.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            147,
+            51,
+            234
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1589.36669921875,
+                944.5
+            ],
+            [
+                1637.0833587646484,
+                965.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            147,
+            51,
+            234
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1657.4666748046875,
+                944.5
+            ],
+            [
+                1728.000015258789,
+                965.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            147,
+            51,
+            234
+        ],
+        "text": "Instagram",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                74.0
+            ],
+            [
+                960.0,
+                98.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/property-image.jpg"
+    }
+]

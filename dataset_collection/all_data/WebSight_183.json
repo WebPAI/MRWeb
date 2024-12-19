@@ -1,0 +1,62 @@
+[
+    {
+        "position": [
+            [
+                174.43333435058594,
+                28.0
+            ],
+            [
+                211.43333435058594,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            229,
+            231,
+            235
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://english.cw.com.tw/article/article.action?id=40"
+    },
+    {
+        "position": [
+            [
+                231.4333343505859,
+                28.0
+            ],
+            [
+                269.43333435058594,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            229,
+            231,
+            235
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.farm-stay-kent.co.uk/great-field-farm"
+    },
+    {
+        "position": [
+            [
+                289.433349609375,
+                28.0
+            ],
+            [
+                337.433349609375,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            229,
+            231,
+            235
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://keywords.oxus.net/archives/2019/01/12/talks-and-film-screenings-winter-2019"
+    }
+]

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tumblr Login</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-color: #000000;
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+    <!-- Header -->
+    <header class="flex justify-between items-center p-4">
+        <div class="text-white text-2xl">t</div>
+        <div class="flex items-center">
+            <input type="text" placeholder="Search Tumblr" class="bg-gray-800 text-white rounded px-4 py-2 mr-4">
+            <a href="#" class="bg-[#00B8FF] text-white px-4 py-2 rounded">Sign up</a>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex flex-col items-center justify-center min-h-[calc(100vh-200px)]">
+        <div class="w-[380px] text-center">
+            <!-- Tumblr Logo -->
+            <div class="text-gray-500 text-6xl mb-8">tumblr</div>
+
+            <!-- Login Form -->
+            <form class="space-y-4">
+                <input type="email" placeholder="Email" class="w-full px-4 py-3 rounded">
+                <input type="password" placeholder="Password" class="w-full px-4 py-3 rounded">
+                
+                <div class="text-xs text-gray-500 mt-2">
+                    <span>By clicking "Log in," or continuing with the other options below, you agree to Tumblr's</span>
+                    <a href="#" class="text-gray-700 hover:underline">Terms of Service</a>
+                    <span>and have read the</span>
+                    <a href="#" class="text-gray-700 hover:underline">Privacy Policy</a>
+                </div>
+
+                <button class="w-full bg-[#00B8FF] text-white py-3 rounded">Log in</button>
+
+                <a href="#" class="block text-center text-gray-500 hover:underline">Forgot your password?</a>
+
+                <div class="text-center text-gray-500">or</div>
+
+                <!-- Social Login Buttons -->
+                <a href="#" class="block w-full bg-white text-black py-3 rounded border flex items-center justify-center space-x-2">
+                    <img src="google-icon.png" class="w-5 h-5">
+                    <span>Continue with Google</span>
+                </a>
+
+                <a href="#" class="block w-full bg-white text-black py-3 rounded border flex items-center justify-center space-x-2">
+                    <img src="apple-icon.png" class="w-5 h-5">
+                    <span>Continue with Apple</span>
+                </a>
+
+                <div class="text-gray-500 text-sm">
+                    New to Tumblr?
+                    <a href="#" class="text-gray-700 hover:underline">Sign up!</a>
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="fixed bottom-0 left-0 p-4">
+        <div class="space-x-4 text-white text-sm">
+            <a href="#" class="hover:underline">Terms</a>
+            <a href="#" class="hover:underline">Privacy</a>
+            <a href="#" class="hover:underline">Jobs</a>
+            <a href="#" class="hover:underline">Support</a>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,236 @@
+[
+    {
+        "position": [
+            [
+                1683.183349609375,
+                16.0
+            ],
+            [
+                1772.2666778564453,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SIGN IN",
+        "on_click_jump_to": "https://www.langrealty.com/idx/login.html"
+    },
+    {
+        "position": [
+            [
+                1796.2666015625,
+                24.0
+            ],
+            [
+                1895.9999389648438,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "877.357.0618",
+        "on_click_jump_to": "tel:18773570618"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                88.0
+            ],
+            [
+                62.23333740234375,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.langrealty.com/"
+    },
+    {
+        "position": [
+            [
+                82.35000610351562,
+                88.0
+            ],
+            [
+                216.25,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "Palm Beach Gardens",
+        "on_click_jump_to": "https://www.langrealty.com/palm-beach-gardens.php"
+    },
+    {
+        "position": [
+            [
+                236.36666870117188,
+                88.0
+            ],
+            [
+                299.03334045410156,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "Rainwood",
+        "on_click_jump_to": "https://www.langrealty.com/palm-beach-gardens-rainwood.php"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                1014.0
+            ],
+            [
+                484.23333740234375,
+                1034.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BOCA RATON",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                1046.0
+            ],
+            [
+                516.8999938964844,
+                1066.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BOYNTON BEACH",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                1078.0
+            ],
+            [
+                499.43333435058594,
+                1098.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DELRAY BEACH",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                1110.0
+            ],
+            [
+                446.76666259765625,
+                1130.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JUPITER",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                1142.0
+            ],
+            [
+                561.0666656494141,
+                1162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PALM BEACH GARDENS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                1174.0
+            ],
+            [
+                498.71665954589844,
+                1194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PORT ST LUCIE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                22.0
+            ],
+            [
+                149.64999389648438,
+                50.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/uploads/logo_content_page.44.webp"
+    }
+]

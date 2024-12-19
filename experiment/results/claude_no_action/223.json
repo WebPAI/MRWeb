@@ -1,0 +1,284 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                97.5
+            ],
+            [
+                251.56666564941406,
+                118.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                129.5
+            ],
+            [
+                263.98333740234375,
+                150.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Families",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                161.5
+            ],
+            [
+                283.8833312988281,
+                182.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Languages",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                193.5
+            ],
+            [
+                263.03334045410156,
+                214.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Sources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                225.5
+            ],
+            [
+                313.3833312988281,
+                246.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Language Map",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                257.5
+            ],
+            [
+                253.46665954589844,
+                278.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Words",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                289.5
+            ],
+            [
+                274.4499969482422,
+                310.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Cognates",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                321.5
+            ],
+            [
+                275.23333740234375,
+                342.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Pronouns",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                353.5
+            ],
+            [
+                269.0833282470703,
+                374.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Statistics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                427.5
+            ],
+            [
+                253.6666717529297,
+                448.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Log-in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                408.0,
+                117.5
+            ],
+            [
+                450.8999938964844,
+                138.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                465.8999938964844,
+                117.5
+            ],
+            [
+                520.9333343505859,
+                138.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Sources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                482.0
+            ],
+            [
+                368.0,
+                642.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/aus-national-library.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                658.0
+            ],
+            [
+                368.0,
+                818.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/aus-government.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                834.0
+            ],
+            [
+                288.0,
+                914.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/creative-commons.png"
+    }
+]

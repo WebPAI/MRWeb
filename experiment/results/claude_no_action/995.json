@@ -1,0 +1,370 @@
+[
+    {
+        "position": [
+            [
+                1108.5166015625,
+                19.5
+            ],
+            [
+                1138.6332702636719,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MPs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1167.0166015625,
+                19.5
+            ],
+            [
+                1194.6166076660156,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Bills",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1223.0,
+                19.5
+            ],
+            [
+                1280.683334350586,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            204,
+            21
+        ],
+        "text": "Debates",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1309.066650390625,
+                19.5
+            ],
+            [
+                1394.1499786376953,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Committees",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1422.5333251953125,
+                19.5
+            ],
+            [
+                1466.0999908447266,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1494.4833984375,
+                19.5
+            ],
+            [
+                1526.3333892822266,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Labs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                663.11669921875,
+                194.5
+            ],
+            [
+                867.0500335693359,
+                215.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "See this statement in context",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                652.5999755859375,
+                430.5
+            ],
+            [
+                734.5832977294922,
+                451.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "See context",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1062.449951171875,
+                614.5
+            ],
+            [
+                1192.633285522461,
+                635.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Debates (Hansard)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1062.449951171875,
+                638.5
+            ],
+            [
+                1147.5332946777344,
+                659.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Committees",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1062.449951171875,
+                662.5
+            ],
+            [
+                1109.449951171875,
+                683.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Search",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1062.449951171875,
+                686.5
+            ],
+            [
+                1102.7832946777344,
+                707.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Alerts",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1262.9666748046875,
+                614.5
+            ],
+            [
+                1290.5666809082031,
+                635.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Bills",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1262.9666748046875,
+                638.5
+            ],
+            [
+                1301.8333435058594,
+                659.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Votes",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1463.4833984375,
+                614.5
+            ],
+            [
+                1600.0000610351562,
+                635.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Feedback / Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1463.4833984375,
+                638.5
+            ],
+            [
+                1503.8667297363281,
+                659.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Haiku",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1463.4833984375,
+                662.5
+            ],
+            [
+                1594.7834014892578,
+                683.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Developers (JSON)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                249.0
+            ],
+            [
+                636.6000061035156,
+                345.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/profile-placeholder.jpg"
+    },
+    {
+        "position": [
+            [
+                430.316650390625,
+                629.0
+            ],
+            [
+                510.58331298828125,
+                661.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/opennorth-logo.png"
+    }
+]

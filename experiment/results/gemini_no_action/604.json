@@ -1,0 +1,356 @@
+[
+    {
+        "position": [
+            [
+                224.0,
+                78.0
+            ],
+            [
+                269.43333435058594,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Works",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                285.433349609375,
+                78.0
+            ],
+            [
+                338.2833557128906,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Groups",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                354.2833251953125,
+                78.0
+            ],
+            [
+                403.84999084472656,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "People",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                419.8500061035156,
+                78.0
+            ],
+            [
+                508.1000061035156,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                524.0999755859375,
+                78.0
+            ],
+            [
+                599.5166320800781,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publishers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                615.5166625976562,
+                78.0
+            ],
+            [
+                673.1833343505859,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "In Press",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                594.0
+            ],
+            [
+                291.76666259765625,
+                618.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "<- Previous",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1276.8499755859375,
+                594.0
+            ],
+            [
+                1331.9999694824219,
+                618.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Next ->",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                744.0
+            ],
+            [
+                308.9166717529297,
+                764.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                321.73333740234375,
+                744.0
+            ],
+            [
+                356.68333435058594,
+                764.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Save",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1675.11669921875,
+                18.0
+            ],
+            [
+                1712.0000305175781,
+                50.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/1884.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                212.0
+            ],
+            [
+                477.0,
+                236.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/russo.png"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                212.0
+            ],
+            [
+                762.0,
+                236.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/sandhu.png"
+    },
+    {
+        "position": [
+            [
+                778.0,
+                212.0
+            ],
+            [
+                1047.0,
+                236.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/eastham.png"
+    },
+    {
+        "position": [
+            [
+                1063.0,
+                212.0
+            ],
+            [
+                1332.0,
+                236.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/coleman.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                284.0
+            ],
+            [
+                477.0,
+                308.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/herr.png"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                284.0
+            ],
+            [
+                762.0,
+                308.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/scardino.png"
+    },
+    {
+        "position": [
+            [
+                778.0,
+                284.0
+            ],
+            [
+                1047.0,
+                308.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/solomon.png"
+    },
+    {
+        "position": [
+            [
+                1063.0,
+                284.0
+            ],
+            [
+                1332.0,
+                308.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/tickoo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                356.0
+            ],
+            [
+                477.0,
+                380.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/bochner.png"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                356.0
+            ],
+            [
+                762.0,
+                380.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/dalbagni.png"
+    }
+]

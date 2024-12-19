@@ -1,0 +1,450 @@
+[
+    {
+        "position": [
+            [
+                1450.38330078125,
+                8.0
+            ],
+            [
+                1523.8499755859375,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            124,
+            62
+        ],
+        "text": "Apply",
+        "on_click_jump_to": "https://www.jscc.edu/gotime"
+    },
+    {
+        "position": [
+            [
+                1523.8499755859375,
+                8.0
+            ],
+            [
+                1647.8666381835938,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            124,
+            62
+        ],
+        "text": "Get Answers",
+        "on_click_jump_to": "https://www.jscc.edu/academics/registration-help/reg-contact.html"
+    },
+    {
+        "position": [
+            [
+                1647.86669921875,
+                8.0
+            ],
+            [
+                1712.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            124,
+            62
+        ],
+        "text": "Give",
+        "on_click_jump_to": "https://www.jscc.edu/development/foundation/donate/"
+    },
+    {
+        "position": [
+            [
+                815.7833251953125,
+                95.5
+            ],
+            [
+                946.3499908447266,
+                151.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "Admissions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                946.3499755859376,
+                95.5
+            ],
+            [
+                1085.9999694824219,
+                151.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "Financial Aid",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1086.0,
+                95.5
+            ],
+            [
+                1213.4166717529297,
+                151.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "Academics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1213.4166259765625,
+                95.5
+            ],
+            [
+                1336.3332824707031,
+                151.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "Workforce",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1336.3333740234375,
+                95.5
+            ],
+            [
+                1447.3167114257812,
+                151.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "Athletics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1447.316650390625,
+                95.5
+            ],
+            [
+                1583.8999786376953,
+                151.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "About JSCC",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1583.9000244140625,
+                95.5
+            ],
+            [
+                1728.0000305175781,
+                151.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "Development",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                199.5
+            ],
+            [
+                230.23333740234375,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            124,
+            62
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                246.76666259765625,
+                199.5
+            ],
+            [
+                317.3999938964844,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            124,
+            62
+        ],
+        "text": "Academics",
+        "on_click_jump_to": "file:///academics"
+    },
+    {
+        "position": [
+            [
+                333.933349609375,
+                199.5
+            ],
+            [
+                459.2166748046875,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            124,
+            62
+        ],
+        "text": "Academic Divisions",
+        "on_click_jump_to": "file:///academics/divisions"
+    },
+    {
+        "position": [
+            [
+                475.75,
+                199.5
+            ],
+            [
+                649.4833374023438,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            124,
+            62
+        ],
+        "text": "Math and Natural Sciences",
+        "on_click_jump_to": "file:///academics/divisions/math-sciences"
+    },
+    {
+        "position": [
+            [
+                666.0166625976562,
+                199.5
+            ],
+            [
+                731.9166717529297,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            124,
+            62
+        ],
+        "text": "Chemistry",
+        "on_click_jump_to": "file:///academics/divisions/math-sciences/chemistry"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                306.0
+            ],
+            [
+                560.0,
+                346.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "About Chemistry",
+        "on_click_jump_to": "file:///about-chemistry"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                346.0
+            ],
+            [
+                560.0,
+                386.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "Chemistry Pathway",
+        "on_click_jump_to": "file:///chemistry-pathway"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                386.0
+            ],
+            [
+                560.0,
+                426.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "Courses",
+        "on_click_jump_to": "file:///courses"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                426.0
+            ],
+            [
+                560.0,
+                466.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            80,
+            74,
+            61
+        ],
+        "text": "Faculty",
+        "on_click_jump_to": "file:///faculty"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                416.0
+            ],
+            [
+                734.5333404541016,
+                436.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            124,
+            62
+        ],
+        "text": "jkappel@jscc.edu",
+        "on_click_jump_to": "mailto:jkappel@jscc.edu"
+    },
+    {
+        "position": [
+            [
+                710.066650390625,
+                470.0
+            ],
+            [
+                1212.3499755859375,
+                494.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            124,
+            62
+        ],
+        "text": "Learn how to transfer to a 4-year school with your degree from JSCC",
+        "on_click_jump_to": "http://www.tntransferpathway.org/majors/chemistry"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                81.0
+            ],
+            [
+                267.0,
+                166.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.jscc.edu/_resources/images/rwd/logo/logo-j2.webp"
+    },
+    {
+        "position": [
+            [
+                624.0,
+                470.0
+            ],
+            [
+                694.0666656494141,
+                494.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.jscc.edu/_resources/images/ttp.png"
+    }
+]

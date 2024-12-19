@@ -1,0 +1,210 @@
+[
+    {
+        "position": [
+            [
+                480.0,
+                54.5
+            ],
+            [
+                512.8833312988281,
+                95.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "O NÁS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                557.9666748046875,
+                54.5
+            ],
+            [
+                621.0500183105469,
+                95.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "STREET DANCE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                704.0,
+                54.5
+            ],
+            [
+                759.9833374023438,
+                95.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DISCO DANCE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                838.5833129882812,
+                54.5
+            ],
+            [
+                975.1833190917969,
+                71.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTEMPORARY",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1007.183349609375,
+                54.5
+            ],
+            [
+                1091.6333465576172,
+                95.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JABLONEC N.N.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1150.800048828125,
+                54.5
+            ],
+            [
+                1214.5000457763672,
+                95.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LÉTO S TAKTEM",
+        "on_click_jump_to": "https://www.takt-lbc.com/leto-s-taktem-2/"
+    },
+    {
+        "position": [
+            [
+                1298.0,
+                54.5
+            ],
+            [
+                1387.7833404541016,
+                95.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ONLINE PŘIHLÁŠKA",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                385.5
+            ],
+            [
+                352.31666564941406,
+                402.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "takt-lbc@seznam.cz",
+        "on_click_jump_to": "mailto:takt-lbc@seznam.cz"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                409.5
+            ],
+            [
+                337.5,
+                426.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "+420 777 256 959",
+        "on_click_jump_to": "tel:+420777256959"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                192.0,
+                192.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2023/03/logoweb.svg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                150.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2023/03/header_bg-1-1.png"
+    }
+]

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage Layout</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-green-300">
+    <div class="max-w-4xl mx-auto p-4">
+        <header class="flex justify-between items-center bg-green-200 p-4">
+            <h1 class="text-xl font-bold">News Release</h1>
+            <div class="flex space-x-4">
+                <button class="bg-white px-2 py-1 rounded">Login</button>
+                <button class="bg-white px-2 py-1 rounded">Register</button>
+            </div>
+        </header>
+
+        <main class="flex mt-4">
+            <section class="w-2/3 bg-blue-100 p-4">
+                <h2 class="text-lg font-bold">Ian Oliver Elevated to Senior Correspondent</h2>
+                <p class="mt-2">Veteran broadcaster to contribute exclusive interviews, commentary, and analysis.</p>
+                <p class="mt-2">Los Angeles - Ian Oliver, one of the premier reporters and broadcasters...</p>
+                <!-- Add more content as needed -->
+            </section>
+
+            <aside class="w-1/3 bg-green-200 p-4 ml-4">
+                <div class="bg-green-100 p-2 mb-4">
+                    <h3 class="font-bold">Calendar</h3>
+                    <!-- Calendar content -->
+                </div>
+                <div class="bg-green-100 p-2">
+                    <h3 class="font-bold">Switch</h3>
+                    <ul class="list-disc pl-4">
+                        <li>Series past and present</li>
+                        <li>New movies and mini-series</li>
+                    </ul>
+                </div>
+            </aside>
+        </main>
+
+        <footer class="mt-4 bg-green-200 p-4">
+            <p class="text-center">More news >></p>
+        </footer>
+    </div>
+</body>
+</html>

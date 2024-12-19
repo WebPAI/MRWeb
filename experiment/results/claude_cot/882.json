@@ -1,0 +1,272 @@
+[
+    {
+        "position": [
+            [
+                400.0,
+                32.0
+            ],
+            [
+                535.75,
+                64.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            36,
+            52
+        ],
+        "text": "Chakra Blog",
+        "on_click_jump_to": "https://chakradiaries.wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                1041.449951171875,
+                36.0
+            ],
+            [
+                1269.5499572753906,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Becca's Inspirational Book Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1285.550048828125,
+                36.0
+            ],
+            [
+                1520.0000457763672,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Becca Chopra, the author",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1184.0,
+                142.0
+            ],
+            [
+                1383.9833374023438,
+                162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Becca Chopra on Facebook",
+        "on_click_jump_to": "https://www.facebook.com/"
+    },
+    {
+        "position": [
+            [
+                1184.0,
+                250.0
+            ],
+            [
+                1360.1000061035156,
+                270.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            193,
+            212
+        ],
+        "text": "Tweets by BeccaChopra",
+        "on_click_jump_to": "http://twitter.com/BeccaChopra"
+    },
+    {
+        "position": [
+            [
+                1184.0,
+                374.0
+            ],
+            [
+                1493.9500122070312,
+                394.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Increase your Energy and Lose your Stress",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1184.0,
+                414.0
+            ],
+            [
+                1421.566665649414,
+                434.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Last Day to Download Free Copy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                595.0
+            ],
+            [
+                468.3500061035156,
+                615.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Customize",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                484.3500061035156,
+                595.0
+            ],
+            [
+                549.25,
+                615.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                565.25,
+                595.0
+            ],
+            [
+                604.4833374023438,
+                615.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                192.0
+            ],
+            [
+                678.0,
+                491.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://chakradiaries.wordpress.com/wp-content/uploads/2012/05/screen-shot-2012-03-21-at-8-59-47-am.png?w=278&h=300"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://s2.wp.com/wp-content/themes/pub/spectrum/images/bgs/body.jpg"
+    },
+    {
+        "position": [
+            [
+                1168.0,
+                96.0
+            ],
+            [
+                1520.0,
+                180.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://s2.wp.com/wp-content/themes/pub/spectrum/images/bgs/sidebar/sidebar-title.jpg"
+    },
+    {
+        "position": [
+            [
+                1168.0,
+                204.0
+            ],
+            [
+                1520.0,
+                288.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://s2.wp.com/wp-content/themes/pub/spectrum/images/bgs/sidebar/sidebar-title.jpg"
+    },
+    {
+        "position": [
+            [
+                1168.0,
+                312.0
+            ],
+            [
+                1520.0,
+                452.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://s2.wp.com/wp-content/themes/pub/spectrum/images/bgs/sidebar/sidebar-title.jpg"
+    }
+]

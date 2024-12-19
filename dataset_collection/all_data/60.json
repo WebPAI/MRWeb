@@ -1,0 +1,738 @@
+[
+    {
+        "position": [
+            [
+                1690.0,
+                25.649993896484375
+            ],
+            [
+                1770.0,
+                56.55000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SIGN IN",
+        "on_click_jump_to": "https://www.langrealty.com/idx/login.html"
+    },
+    {
+        "position": [
+            [
+                1794.0,
+                32.46665954589844
+            ],
+            [
+                1896.0,
+                49.73333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "877.357.0618",
+        "on_click_jump_to": "tel:18773570618"
+    },
+    {
+        "position": [
+            [
+                370.0,
+                152.6999969482422
+            ],
+            [
+                417.1333312988281,
+                169.6999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.langrealty.com/"
+    },
+    {
+        "position": [
+            [
+                436.0333251953125,
+                152.6999969482422
+            ],
+            [
+                592.5833129882812,
+                169.6999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "Palm Beach Gardens",
+        "on_click_jump_to": "https://www.langrealty.com/palm-beach-gardens.php"
+    },
+    {
+        "position": [
+            [
+                611.4833374023438,
+                152.6999969482422
+            ],
+            [
+                682.6333312988281,
+                169.6999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "Rainwood",
+        "on_click_jump_to": "https://www.langrealty.com/palm-beach-gardens-rainwood.php"
+    },
+    {
+        "position": [
+            [
+                793.0,
+                616.0
+            ],
+            [
+                1127.0,
+                668.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "FIND THE BEST DEALS",
+        "on_click_jump_to": "https://www.langrealty.com/palm-beach-gardens-rainwood.php?extraSort=best_buy"
+    },
+    {
+        "position": [
+            [
+                370.0,
+                1060.699951171875
+            ],
+            [
+                962.5833129882812,
+                1077.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            61,
+            114
+        ],
+        "text": "Customize your Palm Beach Gardens, Rainwood Townhouse MLS ® listings search",
+        "on_click_jump_to": "https://www.langrealty.com/idx/"
+    },
+    {
+        "position": [
+            [
+                370.0,
+                3199.36669921875
+            ],
+            [
+                470.0,
+                3220.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BOCA RATON",
+        "on_click_jump_to": "https://www.langrealty.com/boca-raton-fl/"
+    },
+    {
+        "position": [
+            [
+                370.0,
+                3236.36669921875
+            ],
+            [
+                500.0,
+                3257.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BOYNTON BEACH",
+        "on_click_jump_to": "https://www.langrealty.com/boynton-beach/"
+    },
+    {
+        "position": [
+            [
+                370.0,
+                3273.36669921875
+            ],
+            [
+                486.0,
+                3294.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DELRAY BEACH",
+        "on_click_jump_to": "https://www.langrealty.com/delray-beach/"
+    },
+    {
+        "position": [
+            [
+                370.0,
+                3310.36669921875
+            ],
+            [
+                432.0,
+                3331.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JUPITER",
+        "on_click_jump_to": "https://www.langrealty.com/jupiter/"
+    },
+    {
+        "position": [
+            [
+                370.0,
+                3347.36669921875
+            ],
+            [
+                545.0,
+                3368.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PALM BEACH GARDENS",
+        "on_click_jump_to": "https://www.langrealty.com/palm-beach-gardens/"
+    },
+    {
+        "position": [
+            [
+                370.0,
+                3384.36669921875
+            ],
+            [
+                487.0,
+                3405.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PORT ST LUCIE",
+        "on_click_jump_to": "https://www.langrealty.com/port-st-lucie/"
+    },
+    {
+        "position": [
+            [
+                671.0,
+                3199.36669921875
+            ],
+            [
+                807.0,
+                3220.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SEARCH LISTINGS",
+        "on_click_jump_to": "https://www.langrealty.com/idx/"
+    },
+    {
+        "position": [
+            [
+                671.0,
+                3236.36669921875
+            ],
+            [
+                806.0,
+                3257.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME INSURANCE",
+        "on_click_jump_to": "https://www.langrealty.com/insurance.php"
+    },
+    {
+        "position": [
+            [
+                671.0,
+                3273.36669921875
+            ],
+            [
+                867.0,
+                3294.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MORTGAGE CALCULATOR",
+        "on_click_jump_to": "https://www.langrealty.com/mortgage-calculator.php"
+    },
+    {
+        "position": [
+            [
+                671.0,
+                3310.36669921875
+            ],
+            [
+                831.0,
+                3331.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MORTGAGE LENDING",
+        "on_click_jump_to": "https://www.langrealty.com/mortgage-services.php"
+    },
+    {
+        "position": [
+            [
+                671.0,
+                3347.36669921875
+            ],
+            [
+                802.0,
+                3368.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "TITLE & ESCROW",
+        "on_click_jump_to": "https://www.langrealty.com/title-escrow.php"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                3199.36669921875
+            ],
+            [
+                1152.0,
+                3220.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME VALUATION TOOL",
+        "on_click_jump_to": "https://www.langrealty.com/home-evaluation.php"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                3236.36669921875
+            ],
+            [
+                1143.0,
+                3257.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "OUR MARKETING PLAN",
+        "on_click_jump_to": "https://www.langrealty.com/marketing.php"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                3273.36669921875
+            ],
+            [
+                1103.0,
+                3294.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "OUR GUARANTEE",
+        "on_click_jump_to": "https://www.langrealty.com/our-guarantee.php"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                3310.36669921875
+            ],
+            [
+                1133.0,
+                3331.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "REQUEST VALUATION",
+        "on_click_jump_to": "https://www.langrealty.com/contact.php"
+    },
+    {
+        "position": [
+            [
+                1273.0,
+                3199.36669921875
+            ],
+            [
+                1399.0,
+                3220.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PRIVACY POLICY",
+        "on_click_jump_to": "https://www.langrealty.com/privacy-policy.php"
+    },
+    {
+        "position": [
+            [
+                1273.0,
+                3236.36669921875
+            ],
+            [
+                1440.0,
+                3257.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "TERMS & CONDITIONS",
+        "on_click_jump_to": "https://www.langrealty.com/terms-conditions.php"
+    },
+    {
+        "position": [
+            [
+                1273.0,
+                3273.36669921875
+            ],
+            [
+                1481.0,
+                3294.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ACCESSIBILITY STATEMENT",
+        "on_click_jump_to": "https://www.langrealty.com/website-accessibility-statement.php"
+    },
+    {
+        "position": [
+            [
+                1273.0,
+                3310.36669921875
+            ],
+            [
+                1377.0,
+                3331.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "AGENT LOGIN",
+        "on_click_jump_to": "https://www.langrealty.com/backend/intranet"
+    },
+    {
+        "position": [
+            [
+                427.0,
+                3461.36669921875
+            ],
+            [
+                642.0,
+                3477.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "REAL ESTATE WEBMASTERS",
+        "on_click_jump_to": "http://www.realestatewebmasters.com/"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                27.100006103515625
+            ],
+            [
+                149.39999389648438,
+                55.100006103515625
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/uploads/logo_content_page.44.webp"
+    },
+    {
+        "position": [
+            [
+                624.6666870117188,
+                2296.89990234375
+            ],
+            [
+                774.1000213623047,
+                2313.89990234375
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/img/util/35mm_landscape.gif"
+    },
+    {
+        "position": [
+            [
+                778.5499877929688,
+                2296.89990234375
+            ],
+            [
+                919.9333190917969,
+                2313.89990234375
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/img/util/35mm_landscape.gif"
+    },
+    {
+        "position": [
+            [
+                924.38330078125,
+                2296.89990234375
+            ],
+            [
+                1125.4333038330078,
+                2313.89990234375
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/img/util/35mm_landscape.gif"
+    },
+    {
+        "position": [
+            [
+                1129.88330078125,
+                2296.89990234375
+            ],
+            [
+                1295.316635131836,
+                2313.89990234375
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/img/util/35mm_landscape.gif"
+    },
+    {
+        "position": [
+            [
+                848.6500244140625,
+                2484.300048828125
+            ],
+            [
+                929.0000305175781,
+                2501.300048828125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/img/util/35mm_landscape.gif"
+    },
+    {
+        "position": [
+            [
+                951.25,
+                2484.300048828125
+            ],
+            [
+                1071.3333282470703,
+                2501.300048828125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/img/util/35mm_landscape.gif"
+    },
+    {
+        "position": [
+            [
+                1420.0,
+                3727.36669921875
+            ],
+            [
+                1920.0,
+                4227.36669921875
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/uploads/agent-1/bg-foot-wt-gld.svg"
+    },
+    {
+        "position": [
+            [
+                897.2666625976562,
+                2714.699951171875
+            ],
+            [
+                1022.7166595458984,
+                2731.699951171875
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/img/util/35mm_landscape.gif"
+    },
+    {
+        "position": [
+            [
+                864.36669921875,
+                3017.2666015625
+            ],
+            [
+                1055.61669921875,
+                3034.2666015625
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/img/util/35mm_landscape.gif"
+    },
+    {
+        "position": [
+            [
+                855.9500122070312,
+                3063.666748046875
+            ],
+            [
+                1064.0500183105469,
+                3080.666748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.langrealty.com/img/util/35mm_landscape.gif"
+    },
+    {
+        "position": [
+            [
+                370.0,
+                3846.36669921875
+            ],
+            [
+                630.0,
+                3891.36669921875
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                370.0,
+                4006.36669921875
+            ],
+            [
+                590.0,
+                4073.36669921875
+            ]
+        ],
+        "type": "img",
+        "src": null
+    },
+    {
+        "position": [
+            [
+                0.0,
+                2074.39990234375
+            ],
+            [
+                1920.0,
+                2607.9998779296875
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/png;base64,"
+    }
+]

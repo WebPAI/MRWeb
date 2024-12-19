@@ -1,0 +1,356 @@
+[
+    {
+        "position": [
+            [
+                493.8666687011719,
+                74.5
+            ],
+            [
+                562.8666687011719,
+                95.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Date view",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                773.7333374023438,
+                74.5
+            ],
+            [
+                858.5166625976562,
+                95.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Thread view",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1059.933349609375,
+                74.5
+            ],
+            [
+                1147.8000183105469,
+                95.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Subject view",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1349.300048828125,
+                74.5
+            ],
+            [
+                1433.9500427246094,
+                95.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Author view",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                523.9666748046875,
+                160.5
+            ],
+            [
+                879.61669921875,
+                181.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Beman Dawes: \"Version 1.18.1 posted on web site\"",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                550.5333251953125,
+                185.0
+            ],
+            [
+                1008.3333129882812,
+                206.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "jsiek_at_[hidden]: \"Re: [boost] graph: different node/edge types?\"",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                525.5999755859375,
+                209.5
+            ],
+            [
+                853.1666259765625,
+                230.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "David Abrahams: \"Re: [boost] GCC 2.95.2 and \"",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                463.3500061035156,
+                234.0
+            ],
+            [
+                790.9166564941406,
+                255.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "David Abrahams: \"Re: [boost] GCC 2.95.2 and \"",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                469.5,
+                315.5
+            ],
+            [
+                603.9499969482422,
+                336.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "http://gcc.gnu.org/",
+        "on_click_jump_to": "http://gcc.gnu.org/"
+    },
+    {
+        "position": [
+            [
+                493.8666687011719,
+                428.5
+            ],
+            [
+                562.8666687011719,
+                449.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Date view",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                773.7333374023438,
+                428.5
+            ],
+            [
+                858.5166625976562,
+                449.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Thread view",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1059.933349609375,
+                428.5
+            ],
+            [
+                1147.8000183105469,
+                449.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Subject view",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1349.300048828125,
+                428.5
+            ],
+            [
+                1433.9500427246094,
+                449.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Author view",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                488.0,
+                468.5
+            ],
+            [
+                603.0,
+                487.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "bdawes at acm.org",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                610.0,
+                468.5
+            ],
+            [
+                731.0,
+                487.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "gregod at cs.rpi.edu",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                738.0,
+                468.5
+            ],
+            [
+                873.0,
+                487.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "cpdaniel at pacbell.net",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                880.0,
+                468.5
+            ],
+            [
+                1045.0,
+                487.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "john at johnmaddock.co.uk",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                16.0
+            ],
+            [
+                424.1333312988281,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/boost-logo.png"
+    }
+]

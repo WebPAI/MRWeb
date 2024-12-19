@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                320.0,
+                106.0
+            ],
+            [
+                375.0500030517578,
+                130.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Mission",
+        "on_click_jump_to": "http://mkt.msk.ru/kindle/celtic-curses"
+    },
+    {
+        "position": [
+            [
+                941.2833251953124,
+                106.0
+            ],
+            [
+                981.5666503906249,
+                130.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "http://trivalleysite.yolasite.com/nflquals.php"
+    },
+    {
+        "position": [
+            [
+                1547.816650390625,
+                106.0
+            ],
+            [
+                1599.999984741211,
+                130.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Donate",
+        "on_click_jump_to": "https://historicpatterson.org/Exhibits/Exh19Century.php"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                91.0,
+                66.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1558979634-599249d06627?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NDF8&ixlib=rb-4.0.3&w=100&h=50"
+    }
+]

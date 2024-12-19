@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                1297.949951171875,
+                20.0
+            ],
+            [
+                1390.8499603271484,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About SALTO",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1422.8499755859375,
+                20.0
+            ],
+            [
+                1544.6833038330078,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Resource Centres",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1576.683349609375,
+                20.0
+            ],
+            [
+                1612.933349609375,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Tools",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1644.933349609375,
+                20.0
+            ],
+            [
+                1712.000015258789,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "MySALTO",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                292.0,
+                152.5
+            ],
+            [
+                321.0,
+                171.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Start",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                0.0
+            ],
+            [
+                368.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/salto-logo.png"
+    }
+]

@@ -1,0 +1,224 @@
+[
+    {
+        "position": [
+            [
+                1154.13330078125,
+                28.0
+            ],
+            [
+                1197.2499694824219,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://gkcenturion.org.za/"
+    },
+    {
+        "position": [
+            [
+                1221.25,
+                28.0
+            ],
+            [
+                1288.933334350586,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://gkcenturion.org.za/about-us/"
+    },
+    {
+        "position": [
+            [
+                1312.933349609375,
+                28.0
+            ],
+            [
+                1420.1500091552734,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Area Coverage",
+        "on_click_jump_to": "https://gkcenturion.org.za/areas/"
+    },
+    {
+        "position": [
+            [
+                1444.1500244140625,
+                28.0
+            ],
+            [
+                1474.4000244140625,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://gkcenturion.org.za/faq/"
+    },
+    {
+        "position": [
+            [
+                1498.4000244140625,
+                28.0
+            ],
+            [
+                1560.4500274658203,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Services",
+        "on_click_jump_to": "https://gkcenturion.org.za/services/"
+    },
+    {
+        "position": [
+            [
+                1584.449951171875,
+                28.0
+            ],
+            [
+                1646.3999481201172,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Location",
+        "on_click_jump_to": "https://gkcenturion.org.za/category/location/"
+    },
+    {
+        "position": [
+            [
+                1670.4000244140625,
+                28.0
+            ],
+            [
+                1728.0000305175781,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://gkcenturion.org.za/contact/"
+    },
+    {
+        "position": [
+            [
+                335.51666259765625,
+                434.0
+            ],
+            [
+                581.9833374023438,
+                454.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Scrap Metal Dealer Johannesburg",
+        "on_click_jump_to": "https://gkcenturion.org.za/author/crayadmin/"
+    },
+    {
+        "position": [
+            [
+                212.0,
+                752.0
+            ],
+            [
+                437.81666564941406,
+                772.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Scrap Metal Dealers in Melrose",
+        "on_click_jump_to": "https://gkcenturion.org.za/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                352.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://gkcenturion.org.za/wp-content/themes/generatepress/images/logo.png"
+    },
+    {
+        "position": [
+            [
+                810.0,
+                512.0
+            ],
+            [
+                1110.0,
+                734.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://gkcenturion.org.za/wp-content/uploads/2018/08/cs-300x222.png"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                112.0
+            ],
+            [
+                1728.0,
+                368.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://gkcenturion.org.za/wp-content/themes/generatepress/images/banner.jpg"
+    }
+]

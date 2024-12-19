@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Layout</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .custom-container {
+            position: relative;
+            width: 1440px;
+            height: 979px;
+        }
+        
+        .image-1 {
+            position: absolute;
+            left: 480px;
+            top: 154.7px;
+            width: 960px;
+            height: 537.6px;
+        }
+        
+        .image-2 {
+            position: absolute;
+            left: 0;
+            top: 251.73px;
+            width: 480px;
+            height: 727.27px;
+        }
+    </style>
+</head>
+<body>
+    <div class="custom-container">
+        <img 
+            class="image-1 object-cover"
+            src="https://images.unsplash.com/photo-1458644267420-66bc8a5f21e4?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NDR8&ixlib=rb-4.0.3&w=800&h=600"
+            alt="First image"
+        >
+        <img 
+            class="image-2 object-cover"
+            src="https://images.unsplash.com/photo-1716798781278-6efc6c432ce3?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NDR8&ixlib=rb-4.0.3&w=100&h=50"
+            alt="Second image"
+        >
+    </div>
+</body>
+</html>

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ga">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Met Éireann</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .warning-icon {
+            background-image: url('https://www.met.ie/images/warning-yellow@3x.png');
+            background-size: contain;
+            background-repeat: no-repeat;
+            width: 21px;
+            height: 21px;
+        }
+        .social-icon {
+            background-image: url('https://www.met.ie/images/social-icons-new.png');
+            background-size: cover;
+            width: 40px;
+            height: 40px;
+        }
+        .nav-link {
+            @apply text-white px-4 py-6 hover:bg-blue-900;
+        }
+        .sidebar-link {
+            @apply block py-4 px-6 text-gray-800 hover:bg-gray-100;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="bg-[#003060]">
+        <div class="container mx-auto flex items-center">
+            <div class="flex items-center">
+                <a href="https://www.met.ie/ga/" class="flex items-center">
+                    <img src="https://www.met.ie/img/met-eireann-small.png" alt="Met Éireann Logo" class="h-16">
+                    <span class="text-[#003060] ml-2">Seirbhís Náisiúnta Meitéareolaíochta na hÉireann</span>
+                </a>
+            </div>
+            <nav class="flex ml-auto">
+                <a href="#" class="nav-link">Réamhaisnéisí</a>
+                <a href="#" class="nav-link">Tuairiscí is déanaí</a>
+                <a href="#" class="nav-link">Aeráid</a>
+                <a href="#" class="nav-link">Oideachas</a>
+                <a href="#" class="nav-link">Eolaíocht</a>
+                <a href="#" class="nav-link">Podchraoladh</a>
+                <a href="#" class="nav-link">Eolas Fúinn</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Warning Bar -->
+    <div class="container mx-auto py-4">
+        <div class="flex space-x-8">
+            <a href="https://www.met.ie/ga/warnings/today" class="flex items-center text-[#003060]">
+                <span>Rabhaidh</span>
+                <div class="warning-icon ml-2"></div>
+            </a>
+            <a href="https://www.met.ie/ga/warnings/today" class="flex items-center text-[#003060]">
+                <span>Aimsir</span>
+                <div class="warning-icon ml-2"></div>
+            </a>
+            <a href="https://www.met.ie/ga/warnings/today" class="flex items-center text-[#003060]">
+                <span>Muirí</span>
+                <div class="warning-icon ml-2"></div>
+            </a>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="container mx-auto flex">
+        <div class="w-3/4 pr-8">
+            <h1 class="text-2xl mb-6">Climate Statements for 2018 and December 2018</h1>
+            <!-- Content text here -->
+        </div>
+        
+        <!-- Sidebar -->
+        <aside class="w-1/4">
+            <h2 class="text-lg font-bold mb-4">Eolas Fúinn</h2>
+            <nav>
+                <a href="https://www.met.ie/ga/about-us" class="sidebar-link">Eolas Fúinn</a>
+                <a href="https://www.met.ie/ga/about-us/strategy" class="sidebar-link">Straitéis</a>
+                <!-- More sidebar links -->
+            </nav>
+        </aside>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-[#003060] text-white mt-16 py-8">
+        <div class="container mx-auto">
+            <!-- Footer content -->
+            <div class="flex justify-between items-center">
+                <div class="flex space-x-4">
+                    <img src="https://cdn-b.metweb.ie/images/met-eireann-long.png" alt="Met Éireann" class="h-24">
+                    <img src="https://cdn-b.metweb.ie/images/department-logo-2020.png" alt="Department Logo" class="h-16">
+                    <img src="https://cdn-b.metweb.ie/images/wwis.png" alt="WWIS" class="h-16">
+                </div>
+                <div class="flex space-x-4">
+                    <div class="social-icon"></div>
+                    <div class="social-icon"></div>
+                    <div class="social-icon"></div>
+                    <div class="social-icon"></div>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

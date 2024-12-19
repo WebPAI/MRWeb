@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-image: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_page.jpg');
+            background-repeat: repeat;
+        }
+        .menu-button {
+            background-image: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/lmenu_bt_bg.jpg');
+            background-repeat: no-repeat;
+            height: 35px;
+        }
+    </style>
+</head>
+<body>
+    <div class="mx-auto" style="width: 1016px;">
+        <!-- Top bar -->
+        <div class="h-[7px]" style="background: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_top.gif')"></div>
+        
+        <!-- Main content wrapper -->
+        <div style="background: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_center.gif')">
+            <!-- Header -->
+            <div class="flex justify-between items-center px-8" style="height: 98px; background: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_logo.jpg')">
+                <img src="https://www.emmalabs.com/bitrix/templates/EMMA/img/logo.jpg" alt="EMMA Labs" class="h-24">
+                
+                <div class="flex gap-4 text-gray-500">
+                    <a href="/about/" class="hover:text-gray-700">ABOUT US</a>
+                    <span class="text-gray-300">|</span>
+                    <a href="/map/map.php" class="hover:text-gray-700">SITE MAP</a>
+                    <span class="text-gray-300">|</span>
+                    <a href="/search/" class="hover:text-gray-700">SEARCH</a>
+                    <span class="text-gray-300">|</span>
+                    <a href="/auth.php" class="hover:text-gray-700">LOGIN</a>
+                </div>
+            </div>
+
+            <!-- Navigation -->
+            <div class="flex text-center">
+                <a href="/" class="flex-1 bg-blue-600 text-white py-2">Products</a>
+                <a href="/news/" class="flex-1 bg-gray-200 text-gray-700 py-2">News</a>
+                <a href="/downloads/" class="flex-1 bg-blue-600 text-white py-2">Downloads</a>
+                <a href="/purchase/" class="flex-1 bg-blue-600 text-white py-2">Purchase</a>
+                <a href="/support/" class="flex-1 bg-blue-600 text-white py-2">Support</a>
+            </div>
+
+            <!-- Content area -->
+            <div class="flex px-8 gap-8">
+                <!-- Left sidebar -->
+                <div class="w-64">
+                    <div class="mb-6" style="background: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_news.jpg'); height: 71px;">
+                        <img src="https://www.emmalabs.com/images/find_us_on_facebook.png" alt="Find us on Facebook" class="w-full h-full">
+                    </div>
+                    
+                    <div class="space-y-2">
+                        <div class="menu-button px-4 flex items-center">
+                            <a href="/aee/" class="text-[#387B9F]">Emex 3</a>
+                        </div>
+                        <div class="menu-button px-4 flex items-center">
+                            <a href="/hsv/" class="text-[#387B9F]">High Speed Verifier</a>
+                        </div>
+                        <div class="menu-button px-4 flex items-center">
+                            <a href="/mlw/" class="text-[#387B9F]">Mailing List Wizard</a>
+                        </div>
+                        <div class="menu-button px-4 flex items-center">
+                            <a href="/oe/" class="text-[#387B9F]">Outlook Extractors</a>
+                        </div>
+                        <div class="menu-button px-4 flex items-center">
+                            <a href="/imape/" class="text-[#387B9F]">IMAP Extractors</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Main content -->
+                <div class="flex-1">
+                    <!-- Content here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div style="background: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_bottom.gif')" class="h-20 flex justify-center items-center">
+            <a href="/legal/" class="text-[#4B6B82]">No Spam Policy</a>
+        </div>
+    </div>
+</body>
+</html>

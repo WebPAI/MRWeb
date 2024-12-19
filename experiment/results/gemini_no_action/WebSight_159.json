@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                804.2166748046875,
+                168.0
+            ],
+            [
+                874.1500091552734,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Programs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                890.1500244140625,
+                168.0
+            ],
+            [
+                958.4833679199219,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Initiatives",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                974.4833374023438,
+                168.0
+            ],
+            [
+                1042.1666717529297,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1058.1666259765625,
+                168.0
+            ],
+            [
+                1115.766616821289,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                920.0,
+                40.0
+            ],
+            [
+                1000.0,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/ukraine_logo.png"
+    }
+]

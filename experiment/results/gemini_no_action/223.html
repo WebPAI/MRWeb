@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TransNewGuinea.org</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        a {
+            color: teal;
+            text-decoration: none;
+        }
+        .pagination {
+            margin-top: 20px;
+            text-align: center;
+        }
+        .pagination a {
+            display: inline-block;
+            padding: 8px 12px;
+            border: 1px solid #ddd;
+            margin: 0 4px;
+            border-radius: 4px;
+        }
+        .pagination a.active {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <div class="container mx-auto px-4">
+        <div class="flex flex-col md:flex-row">
+            <div class="md:w-1/4 pr-4">
+                <ul class="text-gray-600">
+                    <li><a href="#">Main</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Families</a></li>
+                    <li><a href="#">Languages</a></li>
+                    <li><a href="#">Sources</a></li>
+                    <li><a href="#">Language Map</a></li>
+                    <li><a href="#">Words</a></li>
+                    <li><a href="#">Cognates</a></li>
+                    <li><a href="#">Pronouns</a></li>
+                    <li><a href="#">Statistics</a></li>
+                </ul>
+                <div class="mt-4">
+                    <input type="text" class="border border-gray-300 px-2 py-1 rounded w-full" placeholder="SEARCH">
+                    <button class="bg-gray-200 px-2 py-1 rounded mt-2">»</button>
+                </div>
+                <div class="mt-4">
+                    <a href="#" class="text-gray-600">Log-in</a>
+                </div>
+                <div class="mt-8 bg-gray-800 p-4 text-white">
+                    <img src="anu_logo.png" alt="Australian National University" class="h-16">
+                    <p class="mt-2 text-sm">Australian National University</p>
+                </div>
+                <div class="mt-4 p-4">
+                    <img src="australian_government_logo.png" alt="Australian Government" class="h-12">
+                    <p class="mt-2 text-sm">Australian Government<br>Australian Research Council</p>
+                </div>
+                <div class="mt-4 p-4">
+                    <img src="arc_logo.png" alt="ARC" class="h-12">
+                </div>
+            </div>
+
+            <div class="md:w-3/4 mt-8 md:mt-0">
+                <h1 class="text-3xl font-bold text-teal-600">Source: Franklin (1975)</h1>
+                <div class="text-gray-600 text-sm mt-2">
+                    <a href="#">Home</a> / <a href="#">Sources</a> / Franklin (1975)
+                </div>
+                <p class="mt-4 text-gray-600 text-sm">Franklin KJ. 1975. Comments on Proto-Engan. In SA Wurm, Ed. New Guinea Area Languages and Language Study: Papuan languages and the New Guinea linguistic scene. Canberra: Pacific Linguistics, pp. 263-275.</p>
+
+                <h2 class="text-2xl font-bold mt-8">Provided Lexicon:</h2>
+
+                <table>
+                    <thead>
+                        <tr>
+                            <th class="w-1/6">ID</th>
+                            <th class="w-1/6">Language</th>
+                            <th class="w-1/6">Word</th>
+                            <th class="w-1/6">Entry</th>
+                            <th class="w-1/6">Source Gloss</th>
+                            <th class="w-1/6">Annotation</th>
+                            <th class="w-1/6">Loan</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Table data rows here -->
+                        <tr>
+                            <td>80249</td>
+                            <td><a href="#" class="text-teal-600">West Kewa</a></td>
+                            <td>back (body part)</td>
+                            <td>masa</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <tr>
+                            <td>80250</td>
+                            <td><a href="#" class="text-teal-600">East Kewa</a></td>
+                            <td>back (body part)</td>
+                            <td>masa</td>
+                            <td></td>
+                            <td></td>
+                            <td></td>
+                        </tr>
+                        <!-- ... more rows -->
+                    </tbody>
+                </table>
+
+                <div class="pagination mt-4">
+                    <a href="#" class="active">1</a>
+                    <a href="#">2</a>
+                    <a href="#">3</a>
+                    <!-- ... more pagination links -->
+                </div>
+                <p class="text-gray-500 text-xs mt-4">Showing 50 of 924 Lexical Items</p>
+
+                <div class="mt-8 text-gray-500 text-xs">
+                    ©2024. Simon J. Greenhill. r1311.6a983b8c83b6 <a href="#" class="ml-2"><img src="cc_logo.png" alt="Creative Commons" class="inline h-4"></a>
+                    <p class="mt-2">TransNewGuinea.org by Simon Greenhill is licensed under a Creative Commons Attribution 4.0 International License.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,384 @@
+[
+    {
+        "position": [
+            [
+                1133.7666015625,
+                22.0
+            ],
+            [
+                1176.8832702636719,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1197.38330078125,
+                22.0
+            ],
+            [
+                1262.0999755859375,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Business",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1282.5999755859375,
+                22.0
+            ],
+            [
+                1334.5499725341797,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Politics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1355.050048828125,
+                22.0
+            ],
+            [
+                1428.7833862304688,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Interviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1449.2833251953125,
+                22.0
+            ],
+            [
+                1502.0499877929688,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Culture",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1522.550048828125,
+                22.0
+            ],
+            [
+                1578.4667053222656,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Opinion",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1598.9666748046875,
+                22.0
+            ],
+            [
+                1646.7666778564453,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Sports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1667.2666015625,
+                22.0
+            ],
+            [
+                1727.9999389648438,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Lifestyle",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                97.5
+            ],
+            [
+                230.23333740234375,
+                114.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1264.0,
+                244.0
+            ],
+            [
+                1334.4166717529297,
+                268.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1350.4166259765625,
+                244.0
+            ],
+            [
+                1400.4166259765625,
+                268.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1416.4166259765625,
+                244.0
+            ],
+            [
+                1488.7332916259766,
+                268.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Instagram",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1504.7333984375,
+                244.0
+            ],
+            [
+                1564.5667266845703,
+                268.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Youtube",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1264.0,
+                370.0
+            ],
+            [
+                1455.5500030517578,
+                390.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Gaza death toll rises to 40",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1264.0,
+                402.0
+            ],
+            [
+                1518.0500030517578,
+                422.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Egypt's FM discusses Gaza, Sudan",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1264.0,
+                434.0
+            ],
+            [
+                1438.4666595458984,
+                454.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Al-Sisi reviews progress",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1264.0,
+                466.0
+            ],
+            [
+                1515.9166717529297,
+                486.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Egypt's MSMEDA signs agreement",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                252.0
+            ],
+            [
+                1216.0,
+                276.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/wind-turbines.jpg"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                96.0
+            ],
+            [
+                1728.0,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/ad1.jpg"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                136.0
+            ],
+            [
+                1728.0,
+                160.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/ad2.jpg"
+    }
+]

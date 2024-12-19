@@ -1,0 +1,210 @@
+[
+    {
+        "position": [
+            [
+                1021.86669921875,
+                36.0
+            ],
+            [
+                1121.0833587646484,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "GET TICKETS",
+        "on_click_jump_to": "https://phlgeekawards.ticketleap.com/philly-geek-awards-2017/"
+    },
+    {
+        "position": [
+            [
+                1145.0833740234375,
+                36.0
+            ],
+            [
+                1226.2000427246094,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "NOMINEES",
+        "on_click_jump_to": "https://www.phillygeekawards.com/nominations/2017-nominees/"
+    },
+    {
+        "position": [
+            [
+                1250.199951171875,
+                36.0
+            ],
+            [
+                1346.0499572753906,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "CATEGORIES",
+        "on_click_jump_to": "https://www.phillygeekawards.com/categories/"
+    },
+    {
+        "position": [
+            [
+                1370.050048828125,
+                36.0
+            ],
+            [
+                1424.050048828125,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://www.phillygeekawards.com/about/"
+    },
+    {
+        "position": [
+            [
+                1448.050048828125,
+                36.0
+            ],
+            [
+                1533.3167114257812,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "SPONSORS",
+        "on_click_jump_to": "https://www.phillygeekawards.com/sponsors/"
+    },
+    {
+        "position": [
+            [
+                1557.316650390625,
+                36.0
+            ],
+            [
+                1606.2833251953125,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "PRESS",
+        "on_click_jump_to": "https://www.phillygeekawards.com/press/"
+    },
+    {
+        "position": [
+            [
+                1630.2833251953125,
+                36.0
+            ],
+            [
+                1703.999984741211,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://www.phillygeekawards.com/contact/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                892.0
+            ],
+            [
+                329.8999938964844,
+                916.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Philly Geek Awards",
+        "on_click_jump_to": "https://www.phillygeekawards.com/"
+    },
+    {
+        "position": [
+            [
+                1701.1500244140625,
+                892.0
+            ],
+            [
+                1728.0000305175781,
+                916.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Top",
+        "on_click_jump_to": "#top"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                16.0
+            ],
+            [
+                280.0,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.phillygeekawards.com/wp-content/themes/geekawards/images/pga17_logo_t_1024.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                96.0
+            ],
+            [
+                1920.0,
+                480.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.phillygeekawards.com/wp-content/uploads/2015/05/header-image6.jpg"
+    }
+]

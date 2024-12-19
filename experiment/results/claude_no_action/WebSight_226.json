@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                766.75,
+                273.5
+            ],
+            [
+                809.6499938964844,
+                294.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                833.6500244140625,
+                273.5
+            ],
+            [
+                890.1667022705078,
+                294.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                914.1666870117188,
+                273.5
+            ],
+            [
+                979.7666778564453,
+                294.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Providers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1003.7666625976562,
+                273.5
+            ],
+            [
+                1074.5500030517578,
+                294.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1098.550048828125,
+                273.5
+            ],
+            [
+                1153.233383178711,
+                294.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/medical-office.jpg"
+    }
+]

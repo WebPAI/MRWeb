@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                781.0166625976562,
+                397.5
+            ],
+            [
+                823.9166717529297,
+                418.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://yellow.co.nz/y/designsource-tapora"
+    },
+    {
+        "position": [
+            [
+                855.9166870117188,
+                397.5
+            ],
+            [
+                954.5666809082031,
+                418.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Practice Areas",
+        "on_click_jump_to": "http://www.jazzedmagazine.com/category/articles/hot-wax/page/2/"
+    },
+    {
+        "position": [
+            [
+                986.566650390625,
+                397.5
+            ],
+            [
+                1052.2999877929688,
+                418.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://www.romanroad.com/exhibitions/booth-1-19/"
+    },
+    {
+        "position": [
+            [
+                1084.300048828125,
+                397.5
+            ],
+            [
+                1138.983383178711,
+                418.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://ishowmy.support/filters/england-euro-2016-filter-frame"
+    },
+    {
+        "position": [
+            [
+                926.7166748046876,
+                16.0
+            ],
+            [
+                993.2833557128907,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1696609880195-1a97e01eaa29?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1MjV8&ixlib=rb-4.0.3&w=300&h=100"
+    }
+]

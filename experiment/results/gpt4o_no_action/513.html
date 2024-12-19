@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Page</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="font-sans text-gray-800">
+
+    <!-- Header -->
+    <header class="flex justify-between items-center p-4 border-b">
+        <div class="flex space-x-4">
+            <a href="#" class="text-sm">NEW</a>
+            <a href="#" class="text-sm">WEAR</a>
+            <a href="#" class="text-sm">KIDS INTERIOR</a>
+            <a href="#" class="text-sm">TOYS</a>
+            <a href="#" class="text-sm">PARTY</a>
+            <a href="#" class="text-sm">HOME</a>
+            <a href="#" class="text-sm">SALE</a>
+            <a href="#" class="text-sm">BRANDS</a>
+        </div>
+        <div class="flex space-x-4">
+            <a href="#" class="text-sm">Login / Register</a>
+            <a href="#" class="text-sm">My Account</a>
+            <a href="#" class="text-sm">Wishlist</a>
+        </div>
+    </header>
+
+    <!-- Breadcrumb -->
+    <nav class="p-4 text-xs text-gray-500">
+        <a href="#">Leo & Bella</a> / <a href="#">Shop</a> / <a href="#">Kiko+</a> / <a href="#">Gatcha Gatcha Gumball Vending Machine</a>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="flex justify-center p-8">
+        <div class="w-1/2">
+            <div class="bg-gray-200 h-96"></div>
+        </div>
+        <div class="w-1/2 pl-8">
+            <div class="mb-4">
+                <span class="bg-black text-white text-xs px-2 py-1">SALE</span>
+            </div>
+            <h1 class="text-2xl font-bold mb-2">Kiko+ Gatcha Gatcha Gumball Vending Machine</h1>
+            <p class="text-lg mb-4"><span class="line-through">$88.00</span> $62.00</p>
+            <p class="text-sm mb-4">or 4 payments of $15.50 with <a href="#" class="underline">Learn More</a></p>
+            <div class="flex items-center mb-4">
+                <button class="border px-2 py-1">-</button>
+                <input type="text" value="1" class="w-12 text-center border-t border-b">
+                <button class="border px-2 py-1">+</button>
+                <button class="ml-4 bg-black text-white px-4 py-2">Add to Cart</button>
+                <button class="ml-2 border px-4 py-2">Add to Wishlist</button>
+            </div>
+            <p class="text-sm mb-2">SKU: GATCHA-GUMBALL</p>
+            <p class="text-sm mb-2">Categories: Block Puzzles & Games, Brands, Kids Interior, Kiko+, Kukkia, Pretend Play, Toys, Wooden Toys</p>
+            <p class="text-sm mb-2">Brand: Kiko+, Kukkia</p>
+            <p class="text-sm">Share:</p>
+        </div>
+    </main>
+
+    <!-- Related Products -->
+    <section class="p-8">
+        <h2 class="text-lg font-bold mb-4">Related Products</h2>
+        <div class="grid grid-cols-4 gap-4">
+            <div class="border p-4">
+                <span class="bg-black text-white text-xs px-2 py-1">SALE</span>
+                <p class="mt-4">Bloomingville Mini Cork Placemat Bear Let's Eat Natural</p>
+                <p class="text-sm"><span class="line-through">$30.95</span> $25.97</p>
+            </div>
+            <div class="border p-4">
+                <span class="bg-black text-white text-xs px-2 py-1">SALE</span>
+                <p class="mt-4">Bloomingville Mini Toy Animals Beech Nature Set of 3</p>
+                <p class="text-sm"><span class="line-through">$45.95</span> $27.57</p>
+            </div>
+            <div class="border p-4">
+                <span class="bg-black text-white text-xs px-2 py-1">SALE</span>
+                <p class="mt-4">Bloomingville Mini Toby Fox Melamine Cup Blue</p>
+                <p class="text-sm"><span class="line-through">$13.95</span> $8.37</p>
+            </div>
+            <div class="border p-4">
+                <p class="mt-4">Numero 74 Suitcase Small Gold</p>
+                <p class="text-sm">$68.00</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 p-8">
+        <div class="flex justify-between">
+            <div>
+                <h3 class="font-bold mb-2">Customer Service</h3>
+                <ul class="text-sm">
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">Gift Cards</a></li>
+                    <li><a href="#">Ordering</a></li>
+                    <li><a href="#">Shipping Information</a></li>
+                    <li><a href="#">Returns</a></li>
+                </ul>
+            </div>
+            <div>
+                <h3 class="font-bold mb-2">About Us</h3>
+                <ul class="text-sm">
+                    <li><a href="#">Who we are</a></li>
+                    <li><a href="#">Terms & Conditions</a></li>
+                </ul>
+            </div>
+            <div>
+                <h3 class="font-bold mb-2">Newsletter Signup</h3>
+                <form class="flex">
+                    <input type="email" placeholder="Your email" class="border p-2 w-full">
+                    <button class="bg-black text-white px-4">Go!</button>
+                </form>
+                <p class="mt-4">Connect</p>
+                <div class="flex space-x-2 mt-2">
+                    <a href="#" class="text-sm">FB</a>
+                    <a href="#" class="text-sm">TW</a>
+                    <a href="#" class="text-sm">IG</a>
+                    <a href="#" class="text-sm">PT</a>
+                </div>
+            </div>
+        </div>
+        <p class="text-center text-xs mt-8">&copy; 2023 Your Site | All Rights Reserved | Another remarkable website</p>
+    </footer>
+
+</body>
+</html>

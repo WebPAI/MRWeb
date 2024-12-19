@@ -1,0 +1,484 @@
+[
+    {
+        "position": [
+            [
+                1082.63330078125,
+                44.0
+            ],
+            [
+                1157.449966430664,
+                68.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "ABOUT US",
+        "on_click_jump_to": "file:///about/"
+    },
+    {
+        "position": [
+            [
+                1193.2833251953125,
+                44.0
+            ],
+            [
+                1260.5499877929688,
+                68.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "SITE MAP",
+        "on_click_jump_to": "file:///map/map.php"
+    },
+    {
+        "position": [
+            [
+                1296.38330078125,
+                44.0
+            ],
+            [
+                1353.9166412353516,
+                68.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "SEARCH",
+        "on_click_jump_to": "file:///search/"
+    },
+    {
+        "position": [
+            [
+                1389.75,
+                44.0
+            ],
+            [
+                1436.0,
+                68.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "LOGIN",
+        "on_click_jump_to": "file:///auth.php"
+    },
+    {
+        "position": [
+            [
+                452.0,
+                105.0
+            ],
+            [
+                655.1999969482422,
+                145.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Products",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                655.2000122070312,
+                105.0
+            ],
+            [
+                858.4000091552734,
+                145.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "News",
+        "on_click_jump_to": "file:///news/"
+    },
+    {
+        "position": [
+            [
+                858.4000244140625,
+                105.0
+            ],
+            [
+                1061.6000366210938,
+                145.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Downloads",
+        "on_click_jump_to": "file:///downloads/"
+    },
+    {
+        "position": [
+            [
+                1061.5999755859375,
+                105.0
+            ],
+            [
+                1264.7999725341797,
+                145.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Purchase",
+        "on_click_jump_to": "file:///purchase/"
+    },
+    {
+        "position": [
+            [
+                1264.800048828125,
+                105.0
+            ],
+            [
+                1468.0000457763672,
+                145.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Support",
+        "on_click_jump_to": "file:///support/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                245.5
+            ],
+            [
+                550.6166687011719,
+                269.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            56,
+            123,
+            159
+        ],
+        "text": "Emex 3",
+        "on_click_jump_to": "file:///aee/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                288.5
+            ],
+            [
+                636.0833282470703,
+                312.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            56,
+            123,
+            159
+        ],
+        "text": "High Speed Verifier",
+        "on_click_jump_to": "file:///hsv/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                331.5
+            ],
+            [
+                634.1833343505859,
+                355.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            56,
+            123,
+            159
+        ],
+        "text": "Mailing List Wizard",
+        "on_click_jump_to": "file:///mlw/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                374.5
+            ],
+            [
+                630.6166687011719,
+                398.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            56,
+            123,
+            159
+        ],
+        "text": "Outlook Extractors",
+        "on_click_jump_to": "file:///oe/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                417.5
+            ],
+            [
+                611.3833312988281,
+                441.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            56,
+            123,
+            159
+        ],
+        "text": "IMAP Extractors",
+        "on_click_jump_to": "file:///imape/"
+    },
+    {
+        "position": [
+            [
+                904.7000122070312,
+                475.0
+            ],
+            [
+                1015.2833557128906,
+                499.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            107,
+            130
+        ],
+        "text": "No Spam Policy",
+        "on_click_jump_to": "file:///legal/"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                8.0
+            ],
+            [
+                779.8333129882812,
+                104.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/logo.jpg"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                145.0
+            ],
+            [
+                740.0,
+                216.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.emmalabs.com/images/find_us_on_facebook.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                527.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_page.jpg"
+    },
+    {
+        "position": [
+            [
+                452.0,
+                0.0
+            ],
+            [
+                1468.0,
+                7.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_top.gif"
+    },
+    {
+        "position": [
+            [
+                452.0,
+                7.0
+            ],
+            [
+                1468.0,
+                447.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_center.gif"
+    },
+    {
+        "position": [
+            [
+                452.0,
+                7.0
+            ],
+            [
+                1468.0,
+                105.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_logo.jpg"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                145.0
+            ],
+            [
+                740.0,
+                216.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_news.jpg"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                240.0
+            ],
+            [
+                740.0,
+                275.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/lmenu_bt_bg.jpg"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                283.0
+            ],
+            [
+                740.0,
+                318.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/lmenu_bt_bg.jpg"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                326.0
+            ],
+            [
+                740.0,
+                361.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/lmenu_bt_bg.jpg"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                369.0
+            ],
+            [
+                740.0,
+                404.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/lmenu_bt_bg.jpg"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                412.0
+            ],
+            [
+                740.0,
+                447.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/lmenu_bt_bg.jpg"
+    },
+    {
+        "position": [
+            [
+                452.0,
+                447.0
+            ],
+            [
+                1468.0,
+                527.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_bottom.gif"
+    }
+]

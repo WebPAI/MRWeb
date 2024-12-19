@@ -1,0 +1,352 @@
+[
+    {
+        "position": [
+            [
+                425.0333251953125,
+                0.0
+            ],
+            [
+                507.9333190917969,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://dwse.org/"
+    },
+    {
+        "position": [
+            [
+                511.933349609375,
+                0.0
+            ],
+            [
+                590.6166839599609,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://dwse.org/index.php/news-from-maynooth"
+    },
+    {
+        "position": [
+            [
+                594.61669921875,
+                0.0
+            ],
+            [
+                690.4500274658203,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Courses",
+        "on_click_jump_to": "https://dwse.org/index.php/courses"
+    },
+    {
+        "position": [
+            [
+                694.4500122070312,
+                0.0
+            ],
+            [
+                827.4000091552734,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Examinations",
+        "on_click_jump_to": "https://dwse.org/index.php/examinations"
+    },
+    {
+        "position": [
+            [
+                831.4000244140625,
+                0.0
+            ],
+            [
+                934.4000244140625,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Activities",
+        "on_click_jump_to": "https://dwse.org/index.php/activities"
+    },
+    {
+        "position": [
+            [
+                938.4000244140624,
+                0.0
+            ],
+            [
+                1095.1000366210938,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Accommodation",
+        "on_click_jump_to": "https://dwse.org/index.php/accommodation"
+    },
+    {
+        "position": [
+            [
+                1099.0999755859375,
+                0.0
+            ],
+            [
+                1245.7166290283203,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Dates and Fees",
+        "on_click_jump_to": "https://dwse.org/index.php/dates-and-fees"
+    },
+    {
+        "position": [
+            [
+                1249.7166748046875,
+                0.0
+            ],
+            [
+                1374.116683959961,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Registration",
+        "on_click_jump_to": "https://dwse.org/index.php/registration"
+    },
+    {
+        "position": [
+            [
+                1378.11669921875,
+                0.0
+            ],
+            [
+                1494.9666900634766,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://dwse.org/index.php/contact-us"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                859.0
+            ],
+            [
+                108.85000610351562,
+                883.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            27,
+            27,
+            27
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://dwse.org/index.php/contact-us"
+    },
+    {
+        "position": [
+            [
+                1847.066650390625,
+                859.0
+            ],
+            [
+                1887.999984741211,
+                883.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "^ Top",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                915.0
+            ],
+            [
+                504.8333282470703,
+                939.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            241,
+            237
+        ],
+        "text": "Terms and Conditions",
+        "on_click_jump_to": "http://dwse.org/index.php/terms"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                955.0
+            ],
+            [
+                421.26666259765625,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            241,
+            237
+        ],
+        "text": "littlepig.ie",
+        "on_click_jump_to": "http://www.littlepig.ie/"
+    },
+    {
+        "position": [
+            [
+                1423.88330078125,
+                955.0
+            ],
+            [
+                1567.9999694824219,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            241,
+            237
+        ],
+        "text": "Consent Preferences",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1823.066650390625,
+                863.0
+            ],
+            [
+                1839.066650390625,
+                879.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://dwse.org/images/cms/printbutton.gif"
+    },
+    {
+        "position": [
+            [
+                1556.0,
+                921.0
+            ],
+            [
+                1568.0,
+                933.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://dwse.org/index.php/uploads/images/facebook.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                1091.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://dwse.org/images/black_denim.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                851.0
+            ],
+            [
+                1920.0,
+                891.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://dwse.org/uploads/NCleanBlue/bg__content.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                891.0
+            ],
+            [
+                1920.0,
+                1091.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://dwse.org/uploads/images/footblue.png"
+    }
+]

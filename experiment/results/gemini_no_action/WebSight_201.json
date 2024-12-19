@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                87.0
+            ],
+            [
+                264.1666717529297,
+                109.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "Stories",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                115.0
+            ],
+            [
+                261.8333282470703,
+                137.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "Events",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                143.0
+            ],
+            [
+                399.9499969482422,
+                165.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "Volunteer Opportunities",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                32.0
+            ],
+            [
+                1712.0,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image.jpg"
+    }
+]

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-[#244D72] hover:opacity-80 transition-opacity py-[15px] px-[10px];
+        }
+        .blue-banner {
+            background-image: url('https://hollandlawllp.wpenginepowered.com/wp-content/themes/holland/images/banner-blue.gif');
+            background-repeat: repeat-x;
+            height: 56px;
+        }
+        .main-bg {
+            background-image: url('https://hollandlawllp.wpenginepowered.com/wp-content/themes/holland/images/blue-bg.jpg');
+            background-size: cover;
+            width: 1920px;
+            height: 995px;
+        }
+    </style>
+</head>
+<body class="relative">
+    <div class="main-bg min-h-screen">
+        <!-- Top Bar -->
+        <div class="flex justify-end px-4 py-3">
+            <a href="tel:1-415-200-4980" class="text-[#244D72] text-sm" style="position: absolute; right: 42px; top: 12px;">415.200.4980</a>
+        </div>
+
+        <!-- Header -->
+        <header class="relative">
+            <!-- Logo -->
+            <div style="position: absolute; left: 40px; top: 24px;">
+                <img 
+                    src="https://hollandlawllp.wpenginepowered.com/wp-content/themes/holland/images/holland-law-llc-logo.png"
+                    alt="Holland Law LLC Logo"
+                    class="w-[205px] h-[50.5px]"
+                >
+            </div>
+
+            <!-- Navigation -->
+            <nav class="flex justify-center" style="margin-top: 55px;">
+                <div class="flex space-x-0">
+                    <a href="https://hollandlawllp.com/" class="nav-link" style="width: 63.33px;">HOME</a>
+                    <a href="#" class="nav-link" style="width: 77.33px;">FIRM</a>
+                    <a href="#" class="nav-link" style="width: 168.33px;">PRACTICE AREAS</a>
+                    <a href="#" class="nav-link" style="width: 82px;">TEAM</a>
+                    <a href="https://hollandlawllp.com/contact-us/" class="nav-link" style="width: 89.7px;">CONTACT</a>
+                </div>
+            </nav>
+
+            <!-- Blue Banner -->
+            <div class="blue-banner w-full" style="margin-top: 0;"></div>
+        </header>
+
+        <!-- Footer -->
+        <footer class="absolute bottom-0 w-full">
+            <div class="text-center mb-4">
+                <a href="https://hollandlawllp.wpengine.com/contact-us/" 
+                   class="text-[#BC360A]"
+                   style="position: absolute; left: 769px; bottom: 149px;">Contact</a>
+            </div>
+            <div class="text-center" style="position: absolute; bottom: 30px; width: 100%;">
+                <a href="https://hollandlawllp.com/terms-of-use/" 
+                   class="text-[#686758] text-xs mx-2">Terms of Use</a>
+                <a href="https://hollandlawllp.com/privacy/" 
+                   class="text-[#686758] text-xs mx-2">Online Privacy Policy</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

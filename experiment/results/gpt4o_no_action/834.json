@@ -1,0 +1,56 @@
+[
+    {
+        "position": [
+            [
+                892.5833129882812,
+                460.0
+            ],
+            [
+                932.7166442871094,
+                484.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "Posts",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                948.7166748046876,
+                460.0
+            ],
+            [
+                1027.4166870117188,
+                484.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "Comments",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                24.0
+            ],
+            [
+                60.08332824707031,
+                72.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    }
+]

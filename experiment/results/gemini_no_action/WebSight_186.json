@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1493.7166748046875,
+                46.0
+            ],
+            [
+                1534.2333526611328,
+                66.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1554.7333984375,
+                46.0
+            ],
+            [
+                1598.1333923339844,
+                66.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Hours",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1618.63330078125,
+                46.0
+            ],
+            [
+                1711.9999694824219,
+                66.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Reservations",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                32.0
+            ],
+            [
+                256.0,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/ukraine_logo.png"
+    }
+]

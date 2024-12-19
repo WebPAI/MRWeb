@@ -1,0 +1,250 @@
+[
+    {
+        "position": [
+            [
+                1376.0166015625,
+                38.0
+            ],
+            [
+                1419.6499328613281,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1440.1500244140625,
+                38.0
+            ],
+            [
+                1511.3833618164062,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Arranging",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1531.88330078125,
+                38.0
+            ],
+            [
+                1566.4166412353516,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Fees",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1586.9166259765625,
+                38.0
+            ],
+            [
+                1711.9999542236328,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Support Planning",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                519.566650390625,
+                96.0
+            ],
+            [
+                615.3499908447266,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Funerals",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                631.3499755859375,
+                96.0
+            ],
+            [
+                734.1833038330078,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Minyanim",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                750.183349609375,
+                96.0
+            ],
+            [
+                888.6333465576172,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Consecrations",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                904.63330078125,
+                96.0
+            ],
+            [
+                1043.0832977294922,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Consecrations",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1059.0833740234375,
+                96.0
+            ],
+            [
+                1175.9500427246094,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Cemeteries",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1191.949951171875,
+                96.0
+            ],
+            [
+                1292.8332824707031,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Memorial",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1308.8333740234375,
+                96.0
+            ],
+            [
+                1400.4333801269531,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                32.0
+            ],
+            [
+                438.6666717529297,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                238.0
+            ],
+            [
+                1712.0,
+                262.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/flower.jpg"
+    }
+]

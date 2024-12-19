@@ -1,0 +1,176 @@
+[
+    {
+        "position": [
+            [
+                655.5333251953125,
+                124.0
+            ],
+            [
+                711.4333190917969,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "my story",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                727.433349609375,
+                124.0
+            ],
+            [
+                853.7166748046875,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "book blurbs for real",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                869.7166748046875,
+                124.0
+            ],
+            [
+                951.3666839599609,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "mixed media",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                967.36669921875,
+                124.0
+            ],
+            [
+                1059.2500305175781,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "shadow boxes",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1075.25,
+                124.0
+            ],
+            [
+                1109.3833312988281,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "voice",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1125.38330078125,
+                124.0
+            ],
+            [
+                1196.0166320800781,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "shout-outs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1212.0166015625,
+                124.0
+            ],
+            [
+                1264.449935913086,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "connect",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                457.0
+            ],
+            [
+                734.9333343505859,
+                477.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Continue reading →",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                16.0
+            ],
+            [
+                1328.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_no_action/cowbell-lane.jpg"
+    }
+]

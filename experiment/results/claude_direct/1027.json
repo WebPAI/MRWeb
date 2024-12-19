@@ -1,0 +1,424 @@
+[
+    {
+        "position": [
+            [
+                1765.9000244140625,
+                10.0
+            ],
+            [
+                1896.0000305175781,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            246,
+            247,
+            247
+        ],
+        "text": "Get started",
+        "on_click_jump_to": "https://wordpress.com/start/?ref=marketing_bar"
+    },
+    {
+        "position": [
+            [
+                1333.566650390625,
+                278.5
+            ],
+            [
+                1600.0,
+                321.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "VOGEL LEGACY",
+        "on_click_jump_to": "https://vogellegacy.wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                587.9166870117188,
+                574.7000122070312
+            ],
+            [
+                634.4000091552734,
+                598.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                634.4000244140625,
+                574.7000122070312
+            ],
+            [
+                688.4000244140625,
+                598.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                688.4000244140625,
+                574.7000122070312
+            ],
+            [
+                841.3500366210938,
+                598.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "VOGEL FAMILY TREE",
+        "on_click_jump_to": "file:///family-tree"
+    },
+    {
+        "position": [
+            [
+                841.3499755859375,
+                574.7000122070312
+            ],
+            [
+                1018.7166290283203,
+                598.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "FOUNDER GENERATION",
+        "on_click_jump_to": "file:///founder"
+    },
+    {
+        "position": [
+            [
+                1018.7166748046876,
+                574.7000122070312
+            ],
+            [
+                1164.1333465576172,
+                598.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "FIRST GENERATION",
+        "on_click_jump_to": "file:///first-gen"
+    },
+    {
+        "position": [
+            [
+                1164.13330078125,
+                574.7000122070312
+            ],
+            [
+                1332.066635131836,
+                598.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "SECOND GENERATION",
+        "on_click_jump_to": "file:///second-gen"
+    },
+    {
+        "position": [
+            [
+                604.183349609375,
+                598.7000122070312
+            ],
+            [
+                753.7666778564453,
+                622.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "THIRD GENERATION",
+        "on_click_jump_to": "file:///third-gen"
+    },
+    {
+        "position": [
+            [
+                753.7666625976562,
+                598.7000122070312
+            ],
+            [
+                866.5333404541016,
+                622.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "GENERATION 4",
+        "on_click_jump_to": "file:///gen-4"
+    },
+    {
+        "position": [
+            [
+                866.5333251953125,
+                598.7000122070312
+            ],
+            [
+                978.8833160400391,
+                622.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "GENERATION 5",
+        "on_click_jump_to": "file:///gen-5"
+    },
+    {
+        "position": [
+            [
+                978.88330078125,
+                598.7000122070312
+            ],
+            [
+                1091.5333099365234,
+                622.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "GENERATION 6",
+        "on_click_jump_to": "file:///gen-6"
+    },
+    {
+        "position": [
+            [
+                1091.5333251953125,
+                598.7000122070312
+            ],
+            [
+                1203.1166534423828,
+                622.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "GENERATION 7",
+        "on_click_jump_to": "file:///gen-7"
+    },
+    {
+        "position": [
+            [
+                1203.11669921875,
+                598.7000122070312
+            ],
+            [
+                1315.800033569336,
+                622.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "GENERATION 8",
+        "on_click_jump_to": "file:///gen-8"
+    },
+    {
+        "position": [
+            [
+                778.5333251953125,
+                622.7000122070312
+            ],
+            [
+                891.1833190917969,
+                646.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "GENERATION 9",
+        "on_click_jump_to": "file:///gen-9"
+    },
+    {
+        "position": [
+            [
+                891.183349609375,
+                622.7000122070312
+            ],
+            [
+                1012.4500122070312,
+                646.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "OTHER STORIES",
+        "on_click_jump_to": "file:///other-stories"
+    },
+    {
+        "position": [
+            [
+                1012.4500122070312,
+                622.7000122070312
+            ],
+            [
+                1141.4666748046875,
+                646.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "VOGEL LEGACY II",
+        "on_click_jump_to": "file:///legacy-2"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                738.7000122070312
+            ],
+            [
+                1696.0,
+                762.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "RainbowPlumbobs Image dump",
+        "on_click_jump_to": "http://rainbowplumbobsimlitimages.wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                770.7000122070312
+            ],
+            [
+                1696.0,
+                794.7000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Loves Legacy",
+        "on_click_jump_to": "http://littlelovebigdream.wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                726.7000122070312
+            ],
+            [
+                696.0,
+                999.9166870117188
+            ]
+        ],
+        "type": "img",
+        "src": "https://i0.wp.com/vogellegacy.wordpress.com/wp-content/uploads/2016/01/01-18-16_7-10-10c2a0pm.png?w=334&h=188&ssl=1"
+    },
+    {
+        "position": [
+            [
+                712.0,
+                726.7000122070312
+            ],
+            [
+                1200.0,
+                999.9166870117188
+            ]
+        ],
+        "type": "img",
+        "src": "https://i0.wp.com/vogellegacy.wordpress.com/wp-content/uploads/2016/01/01-18-16_7-10-28c2a0pm.png?w=334&h=188&ssl=1"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                574.7000122070312
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://vogellegacy.wordpress.com/wp-content/uploads/2015/02/cropped-02-05-15_11-10c2a0am.png"
+    }
+]

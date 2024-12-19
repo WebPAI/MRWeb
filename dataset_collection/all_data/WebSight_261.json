@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                837.1666870117188,
+                25.5
+            ],
+            [
+                880.0666809082031,
+                46.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://conquetesanimaux.1fr1.net/t449-grok-faesul-giores-and-arokkh-mauritius"
+    },
+    {
+        "position": [
+            [
+                896.066650390625,
+                25.5
+            ],
+            [
+                939.6333160400391,
+                46.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.churchproduction.com/news/rushworks-ptx-universal-pantilt-head/"
+    },
+    {
+        "position": [
+            [
+                955.63330078125,
+                25.5
+            ],
+            [
+                1012.1499633789062,
+                46.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "https://geoforward.com/about-us/"
+    },
+    {
+        "position": [
+            [
+                1028.1500244140625,
+                25.5
+            ],
+            [
+                1082.8333587646484,
+                46.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://portlandfoodanddrink.com/french-arabesque-levant-opens/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?tech"
+    }
+]

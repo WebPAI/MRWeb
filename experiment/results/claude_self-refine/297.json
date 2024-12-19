@@ -1,0 +1,380 @@
+[
+    {
+        "position": [
+            [
+                1742.949951171875,
+                50.0
+            ],
+            [
+                1843.9999542236328,
+                78.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "WATCH LIVE",
+        "on_click_jump_to": "https://6abc.com/watch/"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                688.0
+            ],
+            [
+                520.0,
+                708.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            73,
+            205
+        ],
+        "text": "KENNETT SQUARE BOROUGH",
+        "on_click_jump_to": "file:///kennett-square-borough"
+    },
+    {
+        "position": [
+            [
+                532.0,
+                688.0
+            ],
+            [
+                592.0,
+                708.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            73,
+            205
+        ],
+        "text": "PA. NEWS",
+        "on_click_jump_to": "file:///pa-news"
+    },
+    {
+        "position": [
+            [
+                604.0,
+                688.0
+            ],
+            [
+                685.0,
+                708.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            73,
+            205
+        ],
+        "text": "HALLOWEEN",
+        "on_click_jump_to": "file:///halloween"
+    },
+    {
+        "position": [
+            [
+                697.0,
+                688.0
+            ],
+            [
+                743.0,
+                708.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            73,
+            205
+        ],
+        "text": "CANDY",
+        "on_click_jump_to": "file:///candy"
+    },
+    {
+        "position": [
+            [
+                1285.183349609375,
+                200.0
+            ],
+            [
+                1584.0,
+                250.9166717529297
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "DNC Takeaways: Walz's night, Clinton's dig at Trump, Oprah comes home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1290.9833984375,
+                266.91668701171875
+            ],
+            [
+                1584.0000610351562,
+                321.1000213623047
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Parents outraged by NJ school leader's proposal to cut bus services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1318.9833984375,
+                337.1000061035156
+            ],
+            [
+                1584.0000610351562,
+                407.03334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "All about Tim Walz's wife Gwen Walz and 2 kids",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                804.0
+            ],
+            [
+                624.0,
+                828.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///home"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                836.0
+            ],
+            [
+                624.0,
+                860.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Weather",
+        "on_click_jump_to": "file:///weather"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                868.0
+            ],
+            [
+                624.0,
+                892.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Traffic",
+        "on_click_jump_to": "file:///traffic"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                900.0
+            ],
+            [
+                624.0,
+                924.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Watch",
+        "on_click_jump_to": "file:///watch"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                932.0
+            ],
+            [
+                624.0,
+                956.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Photos",
+        "on_click_jump_to": "file:///photos"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                964.0
+            ],
+            [
+                624.0,
+                988.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Apps",
+        "on_click_jump_to": "file:///apps"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                40.0
+            ],
+            [
+                65.33332824707031,
+                88.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_icon.png"
+    },
+    {
+        "position": [
+            [
+                81.33332824707031,
+                36.0
+            ],
+            [
+                344.8666534423828,
+                92.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_desktop-logo.png"
+    },
+    {
+        "position": [
+            [
+                1876.0,
+                54.0
+            ],
+            [
+                1896.0,
+                74.0
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIyMCI+PHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTEuMzcgMTIuNDM4YTUuNDI2IDUuNDI2IDAgMSAxLTcuNDUyLTcuODg2IDUuNDI2IDUuNDI2IDAgMCAxIDcuNDUyIDcuODg1bTEuNzQtOS4yNzhDMTAuMjczLjIgNS40ODguMTEgMi40MjQgMi45NnMtMy4yNDYgNy41NjItLjQwNyAxMC41MjJjMi42MSAyLjcyIDYuODYgMy4wMTUgOS45MS44MzJsNC42MSA0LjgwNEwxOCAxNy43NTdsLTQuNjA4LTQuODA0YzIuMzg2LTIuODc1IDIuMzI4LTcuMDc0LS4yOC05Ljc5NCIvPjwvc3ZnPg=="
+    },
+    {
+        "position": [
+            [
+                336.0,
+                208.0
+            ],
+            [
+                1146.6666870117188,
+                664.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.com/dip/images/1063980_110215-wpvi-needles-in-candy-1230-video.jpg"
+    },
+    {
+        "position": [
+            [
+                1178.6666259765625,
+                200.0
+            ],
+            [
+                1269.1832885742188,
+                250.9166717529297
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.com/dip/images/15215624_082124-wls-ap-dnc-night-3-signs-img.jpg"
+    },
+    {
+        "position": [
+            [
+                1178.6666259765625,
+                266.91668701171875
+            ],
+            [
+                1274.9832916259766,
+                321.1000213623047
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.com/dip/images/15216281_082124-wpvi-school-bus-nj-11pm-video-vid.jpg"
+    },
+    {
+        "position": [
+            [
+                1178.6666259765625,
+                337.1000061035156
+            ],
+            [
+                1302.9832916259766,
+                407.03334045410156
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.com/dip/images/15216223_082124-wls-ap-dnc-walz-family-hug-img.jpg"
+    }
+]

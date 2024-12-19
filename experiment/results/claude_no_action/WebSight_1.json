@@ -1,0 +1,162 @@
+[
+    {
+        "position": [
+            [
+                24.0,
+                16.0
+            ],
+            [
+                165.88333129882812,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Restaurant Chain",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                197.88333129882812,
+                18.0
+            ],
+            [
+                258.0500030517578,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Location",
+        "on_click_jump_to": "file:///location"
+    },
+    {
+        "position": [
+            [
+                282.04998779296875,
+                18.0
+            ],
+            [
+                322.88331604003906,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "file:///menu"
+    },
+    {
+        "position": [
+            [
+                346.8833312988281,
+                18.0
+            ],
+            [
+                438.5500030517578,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Order Online",
+        "on_click_jump_to": "file:///order"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                1072.0
+            ],
+            [
+                91.26666259765625,
+                1096.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                107.26666259765624,
+                1072.0
+            ],
+            [
+                154.98333740234375,
+                1096.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                170.98333740234375,
+                1072.0
+            ],
+            [
+                241.51666259765625,
+                1096.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Instagram",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1647.86669921875,
+                1073.5
+            ],
+            [
+                1896.0000305175781,
+                1094.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Contact: info@restaurantchain.com",
+        "on_click_jump_to": "mailto:info@restaurantchain.com"
+    }
+]

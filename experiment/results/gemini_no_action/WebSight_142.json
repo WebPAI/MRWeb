@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1551.6500244140625,
+                16.0
+            ],
+            [
+                1594.7666931152344,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1610.7666015625,
+                16.0
+            ],
+            [
+                1654.3999328613281,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1670.4000244140625,
+                16.0
+            ],
+            [
+                1728.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                496.0
+            ],
+            [
+                944.0,
+                520.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/architecture.jpg"
+    }
+]

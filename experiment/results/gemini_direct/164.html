@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eeHealthBook</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif; /* Approximated font */
+        }
+        .headerbg {
+            background-image: url('http://www.eehealthbook.com/templates/images/headerbg.jpg');
+            background-size: cover;
+        }
+        .navbg {
+            background-image: url('http://www.eehealthbook.com/templates/images/navbg.jpg');
+            background-size: cover;
+        }
+        .shadow {
+            background-image: url('http://www.eehealthbook.com/templates/images/shadow_top.gif');
+            background-size: cover;
+        }
+        .shadow-left {
+            background-image: url('http://www.eehealthbook.com/templates/images/shadow_left.gif');
+            background-size: cover;
+        }
+        .shadow-right {
+            background-image: url('http://www.eehealthbook.com/templates/images/shadow_right.gif');
+            background-size: cover;
+        }
+        .shadow-bottom {
+            background-image: url('http://www.eehealthbook.com/templates/images/shadow_bottom.gif');
+            background-size: cover;
+        }
+        /* ... other background image styles ... */
+    </style>
+</head>
+<body class="bg-gray-100">
+
+    <div class="container mx-auto px-4">
+        <!-- Header -->
+        <div class="headerbg h-28 flex items-center">
+            <img src="http://www.eehealthbook.com/templates/images/logo.jpg" alt="Logo" class="ml-16">
+            <div class="ml-auto mr-16 text-white">
+                <a href="http://www.eehealthbook.com/member_registration.php" class="mr-4">Registration</a>
+                <a href="#" class="text-gray-400 mr-4">sign in</a> /
+                <a href="http://www.eehealthbook.com/member_registration.php" class="text-gray-400">sign up now</a>
+            </div>
+        </div>
+
+        <!-- Navigation -->
+        <div class="navbg h-10 flex items-center text-white">
+            <a href="http://www.eehealthbook.com/" class="mx-4">Home</a>
+            <a href="http://www.eehealthbook.com/profile.php" class="mx-4">Profile</a>
+            <!-- ... other navigation links ... -->
+        </div>
+
+        <div class="shadow h-1"></div>
+        <div class="shadow-left w-1 absolute left-24 top-40 h-screen"></div>
+        <div class="shadow-right w-1 absolute right-24 top-40 h-screen"></div>
+        <div class="shadow-bottom h-1 absolute left-24 right-24 bottom-4"></div>
+
+
+        <div class="flex mt-4">
+            <!-- Left Sidebar -->
+            <div class="w-64 mr-8">
+                <div class="bg-white p-4 rounded shadow">
+                    <h2 class="text-gray-600 font-bold mb-2">Symptoms</h2>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=czE=" class="text-gray-500 block mb-1">Abdominal Pain</a>
+                    <!-- ... other symptom links ... -->
+                </div>
+                <!-- ... other left sidebar content ... -->
+            </div>
+
+            <!-- Main Content -->
+            <div class="w-2/3">
+                <div class="bg-white p-4 rounded shadow">
+                    <h1 class="text-xl font-bold mb-2">The human camera: eye</h1>
+                    <p class="text-gray-600 mb-4">Reviewed by Dr. Pradip Chauhan</p>
+                    <h2 class="text-lg font-bold mb-2">Introduction:</h2>
+                    <p class="text-gray-700 mb-4">The human eye has been called the most complex organ in our body. It's amazing that something so small can have so many working parts. But when you consider how difficult the task of providing vision really is, perhaps it's no wonder after all.</p>
+                    <!-- ... other main content ... -->
+                </div>
+            </div>
+
+            <!-- Right Sidebar -->
+            <div class="w-64">
+                <!-- ... right sidebar content ... -->
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="mt-8 text-gray-500 text-sm">
+            <!-- ... footer content ... -->
+        </div>
+    </div>
+
+</body>
+</html>

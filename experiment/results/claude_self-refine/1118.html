@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cahill</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-white px-4 py-2 hover:opacity-80;
+        }
+        .secondary-nav-link {
+            @apply text-[#5F6369] py-3 hover:text-[#E04403];
+        }
+        .practice-link {
+            @apply text-[#5F6369] block py-2 hover:text-[#E04403];
+        }
+        .footer-link {
+            @apply text-[#E04403] block py-2 hover:opacity-80;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Top Bar -->
+    <div class="bg-[#002B5C] text-white">
+        <div class="max-w-[1520px] mx-auto">
+            <div class="flex justify-end space-x-6 py-2 text-sm">
+                <a href="/alumni" class="nav-link">ALUMNI</a>
+                <a href="/subscribe" class="nav-link">SUBSCRIBE</a>
+                <a href="/offices" class="nav-link">OFFICES</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Navigation -->
+    <div class="bg-[#002B5C] pb-4">
+        <div class="max-w-[1520px] mx-auto">
+            <div class="flex items-center justify-between py-4">
+                <img src="https://www.cahill.com/images/layout/logo.svg" alt="Cahill" class="h-10">
+                <nav class="flex space-x-6 text-white">
+                    <a href="/firm" class="nav-link">Firm</a>
+                    <a href="/professionals" class="nav-link">Professionals</a>
+                    <a href="/practices" class="nav-link">Practices</a>
+                    <a href="/publications" class="nav-link">Publications</a>
+                    <a href="/news" class="nav-link">News</a>
+                    <a href="/pro-bono" class="nav-link">Pro Bono</a>
+                    <a href="/diversity" class="nav-link">Diversity, Equity & Inclusion</a>
+                    <a href="/careers" class="nav-link">Careers</a>
+                </nav>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="max-w-[1520px] mx-auto py-8">
+        <div class="flex justify-between">
+            <!-- Left Sidebar -->
+            <div class="w-1/4">
+                <nav class="space-y-2">
+                    <a href="/news" class="secondary-nav-link block">Firm News</a>
+                    <a href="/rankings" class="text-[#E04403] font-bold block py-3">Rankings & Recognition</a>
+                    <a href="/events" class="secondary-nav-link block">Speaking Engagements</a>
+                </nav>
+
+                <div class="mt-12">
+                    <h3 class="font-bold mb-2">Media Contact:</h3>
+                    <p>Julie Cohen<br>
+                    Director of Marketing and Communications<br>
+                    212.701.3614<br>
+                    <a href="mailto:jcohen@cahill.com" class="text-[#00538B]">jcohen@cahill.com</a></p>
+                </div>
+            </div>
+
+            <!-- Main Content Area -->
+            <div class="w-1/2 px-8">
+                <h1 class="text-3xl text-[#002B5C] mb-6">Rankings & Recognition</h1>
+                <h2 class="text-xl mb-4">Benchmark Litigation Names Cahill Partners Among Top 250 Women in Litigation 2018</h2>
+                <p class="text-sm text-gray-600 mb-4">Date: 07/17/18</p>
+                <img src="https://www.cahill.com/news/rankings/2018-07-17-benchmark-litigation-names-cahill-partners-among-top-250-women-in-litigation-2018/_res/id=Picture/Benchmarak%20Top%20250%20SMALL.png" alt="Benchmark Litigation" class="mb-6">
+                <!-- Rest of the content -->
+            </div>
+
+            <!-- Right Sidebar -->
+            <div class="w-1/4">
+                <div class="mb-8">
+                    <h3 class="font-bold text-lg mb-4">Attorney</h3>
+                    <a href="/professionals/landis-best" class="text-[#5F6369] hover:text-[#E04403]">Landis C. Best</a>
+                </div>
+
+                <div>
+                    <h3 class="font-bold text-lg mb-4">Practices</h3>
+                    <div class="space-y-2">
+                        <a href="/practices/commercial" class="practice-link">Commercial Litigation</a>
+                        <a href="/practices/first-amendment" class="practice-link">First Amendment & Media Litigation</a>
+                        <a href="/practices/insurance" class="practice-link">Insurance and Reinsurance Litigation</a>
+                        <a href="/practices/securities" class="practice-link">Securities Litigation, Regulation & Enforcement</a>
+                        <a href="/practices/white-collar" class="practice-link">White Collar Defense & Investigations</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-[#002B5C] text-white py-12">
+        <div class="max-w-[1520px] mx-auto">
+            <div class="flex justify-between">
+                <div class="flex flex-col">
+                    <img src="https://www.cahill.com/images/layout/logo-full-stacked.svg" alt="Cahill" class="h-24 mb-6">
+                    <div class="flex space-x-4 text-white">
+                        <a href="/new-york">New York</a>
+                        <span>|</span>
+                        <a href="/washington-dc">Washington, D.C.</a>
+                        <span>|</span>
+                        <a href="/delaware">Delaware</a>
+                        <span>|</span>
+                        <a href="/london">London</a>
+                    </div>
+                </div>
+                <div class="space-y-2">
+                    <a href="/terms" class="footer-link">Terms of Use</a>
+                    <a href="/privacy" class="footer-link">Privacy/Cookies</a>
+                    <a href="/sitemap" class="footer-link">Sitemap</a>
+                    <a href="/credits" class="footer-link">Credits</a>
+                    <a href="/transparency" class="footer-link">Transparency in Coverage</a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                772.75,
+                16.0
+            ],
+            [
+                815.8666687011719,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                855.86669921875,
+                16.0
+            ],
+            [
+                923.5500335693359,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                963.5499877929688,
+                16.0
+            ],
+            [
+                1025.5999908447266,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1065.5999755859375,
+                16.0
+            ],
+            [
+                1147.2499694824219,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                576.0,
+                96.0
+            ],
+            [
+                1344.0,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/building.jpg"
+    }
+]

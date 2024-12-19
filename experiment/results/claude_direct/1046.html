@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .bg-pattern {
+            background-image: url('https://info.cds.co.uk/hubfs/CDS_Website_Files_Jan_2020/arrows-pattern-black.png');
+            background-repeat: repeat;
+        }
+        .bg-dots {
+            background-image: url('https://info.cds.co.uk/hubfs/CDS_Website_Files_Jan_2020/dots-pattern-white.png');
+            background-repeat: repeat;
+        }
+    </style>
+</head>
+<body class="bg-pattern min-h-screen">
+    <!-- Header -->
+    <header class="px-4 py-2 flex items-center justify-between">
+        <a href="/">
+            <img src="https://blog.cds.co.uk/hubfs/cds-logo-teal.svg" alt="CDS Logo" class="h-16">
+        </a>
+        <nav class="flex items-center space-x-6">
+            <a href="/who-we-are" class="text-black hover:text-teal-600">Who we are</a>
+            <a href="/what-we-do" class="text-black hover:text-teal-600">What we do</a>
+            <a href="/our-work" class="text-black hover:text-teal-600">Our work</a>
+            <a href="/our-thoughts" class="text-black hover:text-teal-600">Our thoughts</a>
+            <a href="/contact-us" class="text-black hover:text-teal-600">Contact us</a>
+            <a href="/careers" class="text-black hover:text-teal-600">Careers</a>
+            <a href="tel:08001384308" class="text-gray-800">0800 138 4308</a>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4">
+        <section class="py-12">
+            <h1 class="text-4xl font-bold text-white mb-4">What's on our mind</h1>
+            <p class="text-teal-400">
+                Explore and discover innovations and insights from our bloggers as they share their thoughts on how communications, data and technology can be used to make a positive difference in the world today.
+            </p>
+        </section>
+
+        <!-- Featured Posts Grid -->
+        <div class="grid grid-cols-2 gap-8 mb-12">
+            <div class="relative">
+                <img src="https://blog.cds.co.uk/hs-fs/hubfs/Riverside.png" class="w-full">
+                <div class="absolute bottom-0 left-0 p-6 text-white">
+                    <h3 class="text-xl font-bold">We're Hiring: Learn more about why CDS is a great place to work</h3>
+                    <p class="mt-2">Life at CDS</p>
+                </div>
+            </div>
+            <div class="relative">
+                <img src="https://blog.cds.co.uk/hs-fs/hubfs/Police-Industry-Charter-Signatory.jpg" class="w-full">
+                <div class="absolute bottom-0 left-0 p-6 text-white">
+                    <h3 class="text-xl font-bold">CDS signs Police Industry Charter</h3>
+                    <p class="mt-2">Public Sector</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Recent Posts -->
+        <section class="py-12">
+            <h2 class="text-3xl font-bold text-white mb-8">Recent thoughts</h2>
+            <p class="text-teal-400 mb-8">A selection of our most recent articles and company stories</p>
+            
+            <!-- Blog Posts List -->
+            <div class="space-y-8">
+                <!-- Individual blog post items would go here -->
+            </div>
+
+            <button class="mt-8 px-6 py-3 border border-gray-300 text-white hover:bg-teal-600 transition-colors">
+                Load more
+            </button>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-dots mt-16 py-12 text-white">
+        <div class="max-w-7xl mx-auto px-4">
+            <h2 class="text-2xl mb-4">It's time to make a <span class="text-teal-400">positive difference</span></h2>
+            <div class="mt-8 flex space-x-6">
+                <a href="/sitemap" class="text-white hover:text-teal-400">Sitemap</a>
+                <a href="/privacy-notice" class="text-white hover:text-teal-400">Privacy notice</a>
+                <a href="/cookie-policy" class="text-white hover:text-teal-400">Cookie policy</a>
+                <a href="/carbon-reduction" class="text-white hover:text-teal-400">Carbon reduction plan</a>
+                <a href="/modern-slavery" class="text-white hover:text-teal-400">Modern slavery</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

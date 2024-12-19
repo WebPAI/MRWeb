@@ -1,0 +1,1538 @@
+[
+    {
+        "position": [
+            [
+                1460.300048828125,
+                36.0
+            ],
+            [
+                1503.866714477539,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/about"
+    },
+    {
+        "position": [
+            [
+                1519.86669921875,
+                36.0
+            ],
+            [
+                1549.1333618164062,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/faq"
+    },
+    {
+        "position": [
+            [
+                1565.13330078125,
+                36.0
+            ],
+            [
+                1619.1499633789062,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reports",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/yearly_report"
+    },
+    {
+        "position": [
+            [
+                1635.1500244140625,
+                36.0
+            ],
+            [
+                1712.0000305175781,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/contact"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                543.1666870117188
+            ],
+            [
+                268.0,
+                567.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Works",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works?view=all"
+    },
+    {
+        "position": [
+            [
+                284.0,
+                543.1666870117188
+            ],
+            [
+                335.1666717529297,
+                567.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Groups",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups"
+    },
+    {
+        "position": [
+            [
+                351.16668701171875,
+                543.1666870117188
+            ],
+            [
+                398.933349609375,
+                567.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "People",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people"
+    },
+    {
+        "position": [
+            [
+                414.933349609375,
+                543.1666870117188
+            ],
+            [
+                500.15000915527344,
+                567.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publications",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications"
+    },
+    {
+        "position": [
+            [
+                516.1500244140625,
+                543.1666870117188
+            ],
+            [
+                587.8833618164062,
+                567.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publishers",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publishers"
+    },
+    {
+        "position": [
+            [
+                603.88330078125,
+                543.1666870117188
+            ],
+            [
+                658.0333099365234,
+                567.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "In Press",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/inpress"
+    },
+    {
+        "position": [
+            [
+                674.0333251953125,
+                544.6666870117188
+            ],
+            [
+                743.7833251953125,
+                565.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Advanced",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/search/advanced"
+    },
+    {
+        "position": [
+            [
+                306.183349609375,
+                656.6666870117188
+            ],
+            [
+                448.11668395996094,
+                677.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Elsevier Science, Inc.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publishers/1116-Elsevier_Science_Inc"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                739.1666870117188
+            ],
+            [
+                414.3999938964844,
+                1045.2666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Russo",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/1519"
+    },
+    {
+        "position": [
+            [
+                430.3999938964844,
+                739.1666870117188
+            ],
+            [
+                636.8000030517578,
+                1045.2666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Sandhu",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/85"
+    },
+    {
+        "position": [
+            [
+                652.7999877929688,
+                739.1666870117188
+            ],
+            [
+                859.1999816894531,
+                1045.2666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Eastham",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/5929"
+    },
+    {
+        "position": [
+            [
+                875.2000122070312,
+                739.1666870117188
+            ],
+            [
+                1081.6000213623047,
+                1045.2666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Coleman",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/101"
+    },
+    {
+        "position": [
+            [
+                1097.5999755859375,
+                739.1666870117188
+            ],
+            [
+                1303.9999694824219,
+                1045.2666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Herr",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/7116"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1061.2666015625
+            ],
+            [
+                414.3999938964844,
+                1367.3666076660156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Scardino",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/1991"
+    },
+    {
+        "position": [
+            [
+                430.3999938964844,
+                1061.2666015625
+            ],
+            [
+                636.8000030517578,
+                1367.3666076660156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Solomon",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/5759"
+    },
+    {
+        "position": [
+            [
+                652.7999877929688,
+                1061.2666015625
+            ],
+            [
+                859.1999816894531,
+                1367.3666076660156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Tickoo",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/3595"
+    },
+    {
+        "position": [
+            [
+                875.2000122070312,
+                1061.2666015625
+            ],
+            [
+                1081.6000213623047,
+                1367.3666076660156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Bochner",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/5880"
+    },
+    {
+        "position": [
+            [
+                1097.5999755859375,
+                1061.2666015625
+            ],
+            [
+                1303.9999694824219,
+                1367.3666076660156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Dalbagni",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/1763"
+    },
+    {
+        "position": [
+            [
+                1123.433349609375,
+                1462.86669921875
+            ],
+            [
+                1304.000015258789,
+                1486.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Export to EndNote / Excel",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/search/export?amp=&fq%5B%5D=year_facet%3A%222011%22&id=813&publication_id=813&total_hits=18&view=all"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1543.86669921875
+            ],
+            [
+                691.6333312988281,
+                1564.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Surgical innovation and outcome measures for male urethral surgery",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/13603"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                1567.86669921875
+            ],
+            [
+                318.5833282470703,
+                1588.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Sandhu, J. S.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/25017"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                1591.86669921875
+            ],
+            [
+                362.31666564941406,
+                1612.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                1614.36669921875
+            ],
+            [
+                330.6166687011719,
+                1638.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Surgical+innovation+and+outcome+measures+for+male+urethral+surgery&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-11-01&rft.volume=186&rft.issue=5&rft.spage=1938&rft.epage=&rft.au=Sandhu%2C+J.+S.&sid=Entrez:PubMed&id=pmid:21993110&rft_id=info:10.1016%2Fj.juro.2011.08.015"
+    },
+    {
+        "position": [
+            [
+                342.45001220703125,
+                1614.36669921875
+            ],
+            [
+                375.11668395996094,
+                1638.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/13603/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1672.86669921875
+            ],
+            [
+                806.1666870117188,
+                1693.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Use of empiric antibiotics in the setting of an increased prostate specific antigen: con",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/13123"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                1696.86669921875
+            ],
+            [
+                318.5833282470703,
+                1717.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Sandhu, J. S.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/25017"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                1720.86669921875
+            ],
+            [
+                362.31666564941406,
+                1741.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                1743.36669921875
+            ],
+            [
+                330.6166687011719,
+                1767.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Use+of+empiric+antibiotics+in+the+setting+of+an+increased+prostate+specific+antigen%3A+con&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-07-01&rft.volume=186&rft.issue=1&rft.spage=18&rft.epage=19&rft.au=Sandhu%2C+J.+S.&sid=Entrez:PubMed&id=pmid:21805693"
+    },
+    {
+        "position": [
+            [
+                342.45001220703125,
+                1743.36669921875
+            ],
+            [
+                375.11668395996094,
+                1767.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/13123/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1801.86669921875
+            ],
+            [
+                795.38330078125,
+                1822.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Is repeat transurethral resection needed for minimally invasive T1 urothelial cancer?",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/12999"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                1825.86669921875
+            ],
+            [
+                308.3500061035156,
+                1846.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Herr, H. W.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/22172"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                1849.86669921875
+            ],
+            [
+                362.31666564941406,
+                1870.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                1872.36669921875
+            ],
+            [
+                330.6166687011719,
+                1896.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Is+repeat+transurethral+resection+needed+for+minimally+invasive+T1+urothelial+cancer%3F&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-09-01&rft.volume=186&rft.issue=3&rft.spage=787&rft.epage=788&rft.au=Herr%2C+H.+W.&sid=Entrez:PubMed&id=pmid:21788040&rft_id=info:10.1016%2Fj.juro.2011.06.016"
+    },
+    {
+        "position": [
+            [
+                342.45001220703125,
+                1872.36669921875
+            ],
+            [
+                375.11668395996094,
+                1896.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/12999/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1929.36669921875
+            ],
+            [
+                285.8500061035156,
+                1953.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "← Previous",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                927.5499877929688,
+                1929.36669921875
+            ],
+            [
+                936.1833190917969,
+                1953.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "2",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&page=2&view=all"
+    },
+    {
+        "position": [
+            [
+                1252.7166748046875,
+                1929.36669921875
+            ],
+            [
+                1304.000015258789,
+                1953.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Next →",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&page=2&view=all"
+    },
+    {
+        "position": [
+            [
+                1376.0,
+                721.1666870117188
+            ],
+            [
+                1423.066665649414,
+                745.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "\"2011\"",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                793.1666870117188
+            ],
+            [
+                1696.0,
+                817.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Journal Article (18)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=type_facet%3A%22Journal+article%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                865.1666870117188
+            ],
+            [
+                1696.0,
+                889.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Surgery (17)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Surgery%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                893.1666870117188
+            ],
+            [
+                1696.0,
+                917.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Urology (17)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Urology%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                921.1666870117188
+            ],
+            [
+                1696.0,
+                969.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Molecular Pharmacology and Chemistry Program Faculty (3)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Molecular+Pharmacology+and+Chemistry+Program+Faculty%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                973.1666870117188
+            ],
+            [
+                1696.0,
+                997.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Sloan Kettering Institute Faculty (3)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Sloan+Kettering+Institute+Faculty%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1001.1666870117188
+            ],
+            [
+                1696.0,
+                1025.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Center for Pancreatic Cancer Research (2)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Center+for+Pancreatic+Cancer+Research%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1029.1666259765625
+            ],
+            [
+                1696.0,
+                1053.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Interventional Radiology Service (2)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Interventional+Radiology+Service%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1057.1666259765625
+            ],
+            [
+                1696.0,
+                1081.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "More Groups",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/x"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1129.1666259765625
+            ],
+            [
+                1696.0,
+                1153.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Paul Russo (8)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22Paul+Russo%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1157.1666259765625
+            ],
+            [
+                1696.0,
+                1181.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Ari Adamy Junior (6)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22Ari+Adamy+Junior%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1185.1666259765625
+            ],
+            [
+                1696.0,
+                1209.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Melanie Bernstein (5)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22Melanie+Bernstein%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1213.1666259765625
+            ],
+            [
+                1696.0,
+                1237.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Jaspreet Sandhu (4)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22Jaspreet+Sandhu%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1241.1666259765625
+            ],
+            [
+                1696.0,
+                1265.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "James Eastham (3)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22James+Eastham%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1269.1666259765625
+            ],
+            [
+                1696.0,
+                1293.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Matthew Kaag (3)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22Matthew+Kaag%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1297.1666259765625
+            ],
+            [
+                1696.0,
+                1321.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "More People",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/x"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1369.1666259765625
+            ],
+            [
+                1696.0,
+                1393.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "2011 (18)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1441.1666259765625
+            ],
+            [
+                1696.0,
+                1465.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Elsevier Science, Inc. (18)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=publisher_facet%3A%22Elsevier+Science%2C+Inc.%22&view=all"
+    },
+    {
+        "position": [
+            [
+                818.2666625976562,
+                2105.36669921875
+            ],
+            [
+                1101.7333374023438,
+                2129.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Memorial Sloan Kettering Cancer Center",
+        "on_click_jump_to": "http://www.mskcc.org/"
+    },
+    {
+        "position": [
+            [
+                786.5333251953125,
+                2137.36669921875
+            ],
+            [
+                1133.4666442871094,
+                2161.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Memorial Hospital for Cancer and Allied Diseases",
+        "on_click_jump_to": "http://www.mskcc.org/cancer-care"
+    },
+    {
+        "position": [
+            [
+                875.0499877929688,
+                2169.36669921875
+            ],
+            [
+                1044.9499816894531,
+                2193.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sloan Kettering Institute",
+        "on_click_jump_to": "http://ski.edu/"
+    },
+    {
+        "position": [
+            [
+                730.8333129882812,
+                2201.36669921875
+            ],
+            [
+                1189.1499633789062,
+                2225.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Gerstner Sloan Kettering Graduate School of Biomedical Sciences",
+        "on_click_jump_to": "http://www.sloankettering.edu/"
+    },
+    {
+        "position": [
+            [
+                884.6500244140625,
+                2233.36669921875
+            ],
+            [
+                1035.3333587646484,
+                2257.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Patients & Caregivers",
+        "on_click_jump_to": "https://library.mskcc.org/resource/patient-and-caregivers"
+    },
+    {
+        "position": [
+            [
+                902.7000122070312,
+                2265.36669921875
+            ],
+            [
+                1017.3000183105469,
+                2289.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Legal Disclaimer",
+        "on_click_jump_to": "https://library.mskcc.org/legal-disclaimer"
+    },
+    {
+        "position": [
+            [
+                888.25,
+                2297.36669921875
+            ],
+            [
+                1031.75,
+                2321.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Giving to the Library",
+        "on_click_jump_to": "https://library.mskcc.org/about/giving-to-the-library"
+    },
+    {
+        "position": [
+            [
+                792.1500244140625,
+                2329.36669921875
+            ],
+            [
+                1127.8333740234375,
+                2353.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Memorial Sloan Kettering Cancer Center Library",
+        "on_click_jump_to": "https://library.mskcc.org/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                639.7666625976562,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/synapse_tag-0d09920709c0b95b6c6ed3caa108c1153c9f18ce1a91527709b51136c1e3db46.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                96.0
+            ],
+            [
+                1712.0,
+                535.1666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/mskflatbar-26f2717478fd3e8e9bddde39a77d7346195c5b5eda3ac95863bd3e1e60c5d934.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                739.1666870117188
+            ],
+            [
+                414.3999938964844,
+                1013.2666625976562
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1200/original/russo_paul.jpg?1407346719"
+    },
+    {
+        "position": [
+            [
+                430.3999938964844,
+                739.1666870117188
+            ],
+            [
+                636.8000030517578,
+                1013.2666625976562
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1206/original/sandhu_jaspreet.jpg?1408567337"
+    },
+    {
+        "position": [
+            [
+                652.7999877929688,
+                739.1666870117188
+            ],
+            [
+                859.1999816894531,
+                1013.2666625976562
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1311/original/eastham_james.jpg?1408047752"
+    },
+    {
+        "position": [
+            [
+                875.2000122070312,
+                739.1666870117188
+            ],
+            [
+                1081.6000213623047,
+                1013.2666625976562
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1047/original/coleman_jonathan.jpg?1408567499"
+    },
+    {
+        "position": [
+            [
+                1097.5999755859375,
+                739.1666870117188
+            ],
+            [
+                1303.9999694824219,
+                1013.2666625976562
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1104/original/herr_harry.jpg?1411482502"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1061.2666015625
+            ],
+            [
+                414.3999938964844,
+                1335.3666076660156
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1646/original/scardino_peter.jpg?1408044757"
+    },
+    {
+        "position": [
+            [
+                430.3999938964844,
+                1061.2666015625
+            ],
+            [
+                636.8000030517578,
+                1335.3666076660156
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1457/original/solomon_stephen.jpg?1411675668"
+    },
+    {
+        "position": [
+            [
+                652.7999877929688,
+                1061.2666015625
+            ],
+            [
+                859.1999816894531,
+                1335.3666076660156
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1239/original/tickoo_satish.jpg?1408048768"
+    },
+    {
+        "position": [
+            [
+                875.2000122070312,
+                1061.2666015625
+            ],
+            [
+                1081.6000213623047,
+                1335.3666076660156
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1609/original/bochner_bernard.png?1459958208"
+    },
+    {
+        "position": [
+            [
+                1097.5999755859375,
+                1061.2666015625
+            ],
+            [
+                1303.9999694824219,
+                1335.3666076660156
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1301/original/dalbagni_guido.jpg?1411491378"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                725.1666870117188
+            ],
+            [
+                1368.0,
+                741.1666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/cross-button.png"
+    },
+    {
+        "position": [
+            [
+                1012.4500122070312,
+                2065.36669921875
+            ],
+            [
+                1014.4500122070312,
+                2089.36669921875
+            ]
+        ],
+        "type": "img",
+        "src": "https://library.mskcc.org/sites/library.mskcc.org/media/graphics/social-media.png?v=3"
+    }
+]

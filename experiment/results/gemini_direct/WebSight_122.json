@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                8.0,
+                115.1999969482422
+            ],
+            [
+                63.116668701171875,
+                131.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Booking",
+        "on_click_jump_to": "https://aidanstoytrove.com/sorry-website-shipping-glitch/"
+    },
+    {
+        "position": [
+            [
+                67.11666870117188,
+                115.1999969482422
+            ],
+            [
+                103.55000305175781,
+                131.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Deals",
+        "on_click_jump_to": "https://restaurantguru.com/Almond-Bar-Sydney"
+    },
+    {
+        "position": [
+            [
+                107.5500030517578,
+                115.1999969482422
+            ],
+            [
+                226.64999389648438,
+                131.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Recommendations",
+        "on_click_jump_to": "https://www.novo-studio.com/novostudio-blog-arkansas-editorial-commercial-lifestyle-photography/?category=Antique+Cameras"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                8.0
+            ],
+            [
+                75.0,
+                108.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1591117573987-3a481519705f?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1MjZ8&ixlib=rb-4.0.3&w=100&h=100"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                8.0
+            ],
+            [
+                1912.0,
+                132.8000030517578
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?travel"
+    }
+]

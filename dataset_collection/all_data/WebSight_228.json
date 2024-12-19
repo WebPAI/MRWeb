@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                174.43333435058594,
+                28.0
+            ],
+            [
+                214.63333129882812,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.consultancy-me.com/news/1436/bassam-hajhamad-named-as-pwcs-country-senior-partner-in-qatar"
+    },
+    {
+        "position": [
+            [
+                235.4333343505859,
+                28.0
+            ],
+            [
+                277.43333435058594,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.farm-stay-kent.co.uk/great-field-farm"
+    },
+    {
+        "position": [
+            [
+                298.23333740234375,
+                28.0
+            ],
+            [
+                351.8333282470703,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://standards.ospi.k12.wa.us/ResourcesOfGLE.aspx?subject=6,GLE&gl=12&ea=33&co=97&gle=3554&popup=yes"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                724.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?tech"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                76.0
+            ],
+            [
+                1920.0,
+                404.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?tech"
+    }
+]

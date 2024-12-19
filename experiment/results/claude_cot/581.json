@@ -1,0 +1,446 @@
+[
+    {
+        "position": [
+            [
+                1423.449951171875,
+                8.0
+            ],
+            [
+                1537.5499572753906,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "SUBSCRIBE",
+        "on_click_jump_to": "http://feeds.feedburner.com/HealthYourWayOnline"
+    },
+    {
+        "position": [
+            [
+                1553.550048828125,
+                8.0
+            ],
+            [
+                1664.6000518798828,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "FACEBOOK",
+        "on_click_jump_to": "http://www.facebook.com/pages/Health-Your-Way-Online/197280086971483"
+    },
+    {
+        "position": [
+            [
+                1680.5999755859375,
+                8.0
+            ],
+            [
+                1776.5333099365234,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "TWITTER",
+        "on_click_jump_to": "http://twitter.com/"
+    },
+    {
+        "position": [
+            [
+                1792.5333251953125,
+                8.0
+            ],
+            [
+                1903.999984741211,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "PINTEREST",
+        "on_click_jump_to": "http://pinterest.com/healthywaymag/"
+    },
+    {
+        "position": [
+            [
+                629.7333374023438,
+                128.0
+            ],
+            [
+                676.2166595458984,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                708.2166748046875,
+                128.0
+            ],
+            [
+                762.2166748046875,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                794.2166748046875,
+                128.0
+            ],
+            [
+                908.7666778564453,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PRESS CENTER",
+        "on_click_jump_to": "file:///press-center"
+    },
+    {
+        "position": [
+            [
+                940.7666625976562,
+                128.0
+            ],
+            [
+                1068.4666595458984,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOW TO SUBMIT",
+        "on_click_jump_to": "file:///how-to-submit"
+    },
+    {
+        "position": [
+            [
+                1100.4666748046875,
+                128.0
+            ],
+            [
+                1184.5500183105469,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ADVERTISE",
+        "on_click_jump_to": "file:///advertise"
+    },
+    {
+        "position": [
+            [
+                1216.550048828125,
+                128.0
+            ],
+            [
+                1290.2667083740234,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                168.0
+            ],
+            [
+                274.0500030517578,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "ASK A PRO",
+        "on_click_jump_to": "file:///ask-a-pro"
+    },
+    {
+        "position": [
+            [
+                306.04998779296875,
+                168.0
+            ],
+            [
+                457.83331298828125,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "AGING GRACEFULLY",
+        "on_click_jump_to": "file:///aging-gracefully"
+    },
+    {
+        "position": [
+            [
+                489.8333129882813,
+                168.0
+            ],
+            [
+                600.9499816894531,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "GET FIT QUICK",
+        "on_click_jump_to": "file:///get-fit-quick"
+    },
+    {
+        "position": [
+            [
+                632.9500122070312,
+                168.0
+            ],
+            [
+                781.6666870117188,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "KIDS/TEEN CORNER",
+        "on_click_jump_to": "file:///kids-teen-corner"
+    },
+    {
+        "position": [
+            [
+                262.23333740234375,
+                281.0
+            ],
+            [
+                378.1499938964844,
+                301.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Leave a Comment",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1216.0,
+                475.0
+            ],
+            [
+                1335.7166595458984,
+                495.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Aging Gracefully",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1216.0,
+                507.0
+            ],
+            [
+                1284.8000030517578,
+                527.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Ask a Pro",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1216.0,
+                539.0
+            ],
+            [
+                1365.7666625976562,
+                559.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Big Picture of Health",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1423.449951171875,
+                12.0
+            ],
+            [
+                1443.449951171875,
+                28.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/rss_blog.gif"
+    },
+    {
+        "position": [
+            [
+                1553.550048828125,
+                12.0
+            ],
+            [
+                1573.550048828125,
+                28.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/facebook_icon.gif"
+    },
+    {
+        "position": [
+            [
+                1680.5999755859375,
+                12.0
+            ],
+            [
+                1700.5999755859375,
+                28.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/twitter_icon.gif"
+    },
+    {
+        "position": [
+            [
+                1792.5333251953125,
+                12.0
+            ],
+            [
+                1812.5333251953125,
+                28.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/pinterest_icon.gif"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                317.0
+            ],
+            [
+                352.0,
+                477.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/uploads/2013/04/HYWO.Baseball-150x150.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                40.0
+            ],
+            [
+                1920.0,
+                120.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/healthyourwayonline_header.png"
+    }
+]

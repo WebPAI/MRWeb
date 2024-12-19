@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CarsBase.com</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white">
+    <!-- Header -->
+    <header class="bg-black p-3 flex items-center justify-between">
+        <div class="flex items-center">
+            <img src="https://carsbase.com/images/design/logo_carsbase_200.png" alt="CarsBase Logo" class="w-48">
+            <nav class="ml-4">
+                <a href="https://carsbase.com/photo/" class="text-white px-4">Photos</a>
+                <a href="https://carsbase.com/news/" class="text-white px-4">News</a>
+                <a href="https://carsbase.com/photoforum/" class="text-white px-4">Forum</a>
+                <a href="https://carsbase.com/photo-rating/" class="text-white px-4">Rating</a>
+            </nav>
+        </div>
+        <a href="https://carsbase.com/login/" class="text-gray-500">Login</a>
+    </header>
+
+    <!-- Breadcrumb -->
+    <div class="p-4">
+        <div class="flex gap-2">
+            <a href="https://carsbase.com/photo/" class="text-red-700">Photos</a> /
+            <a href="https://carsbase.com/photo/alfa-romeo/" class="text-red-700">Alfa Romeo</a> /
+            <a href="https://carsbase.com/photo/alfa-romeo/147/" class="text-red-700">Alfa Romeo 147</a>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="p-4">
+        <!-- Navigation Links -->
+        <div class="flex justify-between mb-8">
+            <a href="#" class="text-red-700">prev pic</a>
+            <a href="#" class="text-red-700">next pic</a>
+        </div>
+
+        <!-- Image Gallery -->
+        <div class="grid grid-cols-3 gap-4">
+            <!-- Add thumbnail images here -->
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="float-right w-1/4">
+            <img src="https://carsbase.com/cache/storage/catalog/logos/54-gthumb-gwdata128-ghdata128.jpg" 
+                 alt="Alfa Romeo Logo" class="mb-4">
+            <div class="bg-gray-100 p-4 rounded">
+                <a href="#" class="block text-gray-600 mb-2">Alfa Romeo pictures 2006</a>
+                <a href="#" class="block text-gray-600 mb-2">147 photos 59</a>
+                <a href="#" class="block text-gray-600">Alfa Romeo news</a>
+            </div>
+        </aside>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-black text-gray-500 p-4 mt-8">
+        <div class="container mx-auto">
+            <p>© 2024 CarsBase.com - <a href="#" class="text-gray-500">car pics</a></p>
+            <p>design by: <a href="https://www.eto-design.ru/" class="text-gray-500">eto design</a></p>
+        </div>
+    </footer>
+</body>
+</html>

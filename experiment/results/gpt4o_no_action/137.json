@@ -1,0 +1,196 @@
+[
+    {
+        "position": [
+            [
+                1013.9000244140624,
+                36.0
+            ],
+            [
+                1057.0166931152344,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1073.0166015625,
+                36.0
+            ],
+            [
+                1140.699935913086,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1156.699951171875,
+                36.0
+            ],
+            [
+                1257.1499481201172,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1273.1500244140625,
+                36.0
+            ],
+            [
+                1353.5833587646484,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Send Email",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1369.5833740234375,
+                36.0
+            ],
+            [
+                1433.4333801269531,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Site Map",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1449.433349609375,
+                36.0
+            ],
+            [
+                1520.000015258789,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "View Cart",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                416.0,
+                130.0
+            ],
+            [
+                603.0500030517578,
+                174.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Acrylic Heart Keychains & Necklaces",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                416.0,
+                182.0
+            ],
+            [
+                647.8833312988281,
+                202.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Laser Engraved Heart Keepsake",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                851.11669921875,
+                206.0
+            ],
+            [
+                944.8833618164062,
+                226.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Enlarge View",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                696.0,
+                172.0
+            ],
+            [
+                1100.0,
+                196.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/cufflink.jpg"
+    }
+]

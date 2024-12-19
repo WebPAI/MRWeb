@@ -1,0 +1,410 @@
+[
+    {
+        "position": [
+            [
+                1650.3333740234375,
+                36.0
+            ],
+            [
+                1737.1833801269531,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Registration",
+        "on_click_jump_to": "http://www.eehealthbook.com/member_registration.php"
+    },
+    {
+        "position": [
+            [
+                1753.183349609375,
+                36.0
+            ],
+            [
+                1800.4833526611328,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "sign in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1816.4833984375,
+                36.0
+            ],
+            [
+                1904.0000610351562,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "sign up now",
+        "on_click_jump_to": "http://www.eehealthbook.com/member_registration.php"
+    },
+    {
+        "position": [
+            [
+                587.0833129882812,
+                104.0
+            ],
+            [
+                630.1999816894531,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.eehealthbook.com/"
+    },
+    {
+        "position": [
+            [
+                662.2000122070312,
+                104.0
+            ],
+            [
+                708.3833465576172,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Profile",
+        "on_click_jump_to": "http://www.eehealthbook.com/profile.php"
+    },
+    {
+        "position": [
+            [
+                740.38330078125,
+                104.0
+            ],
+            [
+                817.8666381835938,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Symptoms",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                849.86669921875,
+                104.0
+            ],
+            [
+                914.3333587646484,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Wellness",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                946.3333129882812,
+                104.0
+            ],
+            [
+                1005.3666534423828,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "My Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1037.36669921875,
+                104.0
+            ],
+            [
+                1068.7333679199219,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GPS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1100.7333984375,
+                104.0
+            ],
+            [
+                1219.2500610351562,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Medical Tourism",
+        "on_click_jump_to": "http://www.eehealthbook.com/medical_tourism.php"
+    },
+    {
+        "position": [
+            [
+                1251.25,
+                104.0
+            ],
+            [
+                1332.8999938964844,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "http://www.eehealthbook.com/contactus.php"
+    },
+    {
+        "position": [
+            [
+                52.0,
+                198.0
+            ],
+            [
+                164.3333282470703,
+                218.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Abdominal Pain",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czE="
+    },
+    {
+        "position": [
+            [
+                52.0,
+                222.0
+            ],
+            [
+                129.73333740234375,
+                242.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Chest Pain",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czI="
+    },
+    {
+        "position": [
+            [
+                52.0,
+                246.0
+            ],
+            [
+                115.31666564941406,
+                266.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Dyspnea",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czM="
+    },
+    {
+        "position": [
+            [
+                52.0,
+                270.0
+            ],
+            [
+                92.14999389648438,
+                290.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Fever",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czQ="
+    },
+    {
+        "position": [
+            [
+                52.0,
+                294.0
+            ],
+            [
+                125.48333740234375,
+                314.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Headache",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czU="
+    },
+    {
+        "position": [
+            [
+                52.0,
+                318.0
+            ],
+            [
+                89.16667175292969,
+                338.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "More",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                989.9666748046876,
+                422.0
+            ],
+            [
+                1163.1500091552734,
+                442.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "www.eehealthbook.com",
+        "on_click_jump_to": "http://www.eehealthbook.com/"
+    },
+    {
+        "position": [
+            [
+                903.2166748046876,
+                446.0
+            ],
+            [
+                1104.8333435058594,
+                466.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "eehealthbook@hotmail.com",
+        "on_click_jump_to": "mailto:eehealthbook@hotmail.com"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                52.08332824707031,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/logo.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                96.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/headerbg.jpg"
+    }
+]

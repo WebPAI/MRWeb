@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dance Gallery 2018</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-black">
+    <!-- Header -->
+    <header class="bg-red-800 p-4">
+        <nav class="container mx-auto flex items-center justify-between">
+            <img src="logo.png" alt="Dance Logo" class="h-12">
+            <div class="flex space-x-6 text-white uppercase text-sm">
+                <a href="#" class="hover:text-gray-300">O nás</a>
+                <a href="#" class="hover:text-gray-300">Street Dance</a>
+                <a href="#" class="hover:text-gray-300">Disco Dance</a>
+                <a href="#" class="hover:text-gray-300">Contemporary</a>
+                <a href="#" class="hover:text-gray-300">Jablonec n.n.</a>
+                <a href="#" class="hover:text-gray-300">Léto s Taktem</a>
+                <a href="#" class="hover:text-gray-300">Online přihláška</a>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Year Section -->
+    <div class="text-white text-2xl py-8 container mx-auto">
+        <h1>2018</h1>
+    </div>
+
+    <!-- Gallery Grid -->
+    <div class="container mx-auto px-4">
+        <div class="grid grid-cols-5 gap-4">
+            <!-- Gallery Items -->
+            <!-- Each item is a relative positioned div with image and overlay text -->
+            <div class="relative group">
+                <img src="image1.jpg" alt="Extraliga" class="w-full h-48 object-cover">
+                <div class="absolute bottom-0 left-0 right-0 bg-black bg-opacity-50 p-2">
+                    <h3 class="text-white text-center text-sm uppercase">Extraliga Disco Dance Chomutov 2018</h3>
+                    <p class="text-white text-center text-xs">25 FOTEK</p>
+                </div>
+            </div>
+            <!-- Repeat similar structure for other gallery items -->
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-black text-white mt-20 py-10">
+        <div class="container mx-auto">
+            <div class="text-center">
+                <h3 class="font-bold">TS TAKT LIBEREC Z.S.</h3>
+                <p class="text-sm mt-2">České Mládeže 355/155</p>
+                <p class="text-sm">Liberec 6, 460 08</p>
+                <p class="text-sm mt-2">takt-lbc@seznam.cz</p>
+                <p class="text-sm">+420 777 256 959</p>
+            </div>
+            <div class="text-center mt-4">
+                <h3 class="font-bold">PARTNEŘI</h3>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,724 @@
+[
+    {
+        "position": [
+            [
+                488.0,
+                120.0
+            ],
+            [
+                550.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " HOME",
+        "on_click_jump_to": "https://gamedevelopers.ie/"
+    },
+    {
+        "position": [
+            [
+                550.0,
+                120.0
+            ],
+            [
+                635.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " FEATURES",
+        "on_click_jump_to": "https://gamedevelopers.ie/category/feature-articles/"
+    },
+    {
+        "position": [
+            [
+                635.0,
+                120.0
+            ],
+            [
+                772.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " JOBS & INTERNSHIPS",
+        "on_click_jump_to": "https://gamedevelopers.ie/category/jobs-and-internships/"
+    },
+    {
+        "position": [
+            [
+                772.0,
+                120.0
+            ],
+            [
+                845.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " EVENTS",
+        "on_click_jump_to": "https://gamedevelopers.ie/irishgamedev-calendar/"
+    },
+    {
+        "position": [
+            [
+                845.0,
+                120.0
+            ],
+            [
+                908.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " NEWS",
+        "on_click_jump_to": "https://gamedevelopers.ie/category/news/"
+    },
+    {
+        "position": [
+            [
+                908.0,
+                120.0
+            ],
+            [
+                1060.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "#IRISHGAMEDEV GAMES",
+        "on_click_jump_to": "https://gamedevelopers.ie/category/irish-made-games/"
+    },
+    {
+        "position": [
+            [
+                1060.0,
+                120.0
+            ],
+            [
+                1200.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " #IRISHGAMEDEV MAP",
+        "on_click_jump_to": "https://gamedevelopers.ie/irish-games-industry-map/"
+    },
+    {
+        "position": [
+            [
+                1200.0,
+                120.0
+            ],
+            [
+                1361.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " #IRISHGAMEDEV TIMELINE",
+        "on_click_jump_to": "https://gamedevelopers.ie/timeline-of-the-irish-games-industry/"
+    },
+    {
+        "position": [
+            [
+                1361.0,
+                120.0
+            ],
+            [
+                1484.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " EDUCATION NEWS",
+        "on_click_jump_to": "https://gamedevelopers.ie/category/irishgamedev-education/"
+    },
+    {
+        "position": [
+            [
+                1484.0,
+                120.0
+            ],
+            [
+                1567.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DIVERSITY",
+        "on_click_jump_to": "https://gamedevelopers.ie/diversity/"
+    },
+    {
+        "position": [
+            [
+                1567.0,
+                120.0
+            ],
+            [
+                1687.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " SUBMIT CONTENT",
+        "on_click_jump_to": "https://gamedevelopers.ie/contact-us/submit-stories/"
+    },
+    {
+        "position": [
+            [
+                1687.0,
+                120.0
+            ],
+            [
+                1773.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " ABOUT US",
+        "on_click_jump_to": "https://gamedevelopers.ie/about-us/"
+    },
+    {
+        "position": [
+            [
+                1773.0,
+                120.0
+            ],
+            [
+                1905.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": " FORUMS (ARCHIVE)",
+        "on_click_jump_to": "https://gamedevelopers.ie/irishgamedev-forums"
+    },
+    {
+        "position": [
+            [
+                197.0,
+                226.8999938964844
+            ],
+            [
+                231.0,
+                240.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://gamedevelopers.ie/"
+    },
+    {
+        "position": [
+            [
+                241.0,
+                226.8999938964844
+            ],
+            [
+                284.0,
+                240.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Forums",
+        "on_click_jump_to": "https://gamedevelopers.ie/irishgamedev-forums/"
+    },
+    {
+        "position": [
+            [
+                294.0,
+                226.8999938964844
+            ],
+            [
+                370.0,
+                240.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Programming",
+        "on_click_jump_to": "https://gamedevelopers.ie/irishgamedev-forums/forum/programming/"
+    },
+    {
+        "position": [
+            [
+                506.2000122070313,
+                262.70001220703125
+            ],
+            [
+                635.2000122070312,
+                276.70001220703125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            85,
+            85,
+            85
+        ],
+        "text": "19 years, 3 months ago",
+        "on_click_jump_to": "https://gamedevelopers.ie/irishgamedev-forums/topic/abbreviate-your-sms-27s/"
+    },
+    {
+        "position": [
+            [
+                1295.0,
+                382.1000061035156
+            ],
+            [
+                1330.0,
+                400.1000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            112,
+            112,
+            112
+        ],
+        "text": "#4066",
+        "on_click_jump_to": "https://gamedevelopers.ie/irishgamedev-forums/topic/abbreviate-your-sms-27s/"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                667.5
+            ],
+            [
+                563.0,
+                681.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "http://student.cs.ucc.ie/~pb2/SMSShort.zip",
+        "on_click_jump_to": "http://student.cs.ucc.ie/~pb2/SMSShort.zip"
+    },
+    {
+        "position": [
+            [
+                1359.0,
+                284.8999938964844
+            ],
+            [
+                1453.0,
+                301.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Archiving gd.ie",
+        "on_click_jump_to": "https://gamedevelopers.ie/archiving-gd-ie/"
+    },
+    {
+        "position": [
+            [
+                1359.0,
+                309.8999938964844
+            ],
+            [
+                1576.0,
+                326.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "FÍS Games Summit 2022 (online)",
+        "on_click_jump_to": "https://gamedevelopers.ie/fis-games-summit-2022-online/"
+    },
+    {
+        "position": [
+            [
+                1359.0,
+                334.8999938964844
+            ],
+            [
+                1676.0,
+                366.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Research assistant in games development at TU Dublin (12 months contract)",
+        "on_click_jump_to": "https://gamedevelopers.ie/research-assistant-in-games-development-at-tu-dublin-12-months-contract/"
+    },
+    {
+        "position": [
+            [
+                1359.0,
+                374.8999938964844
+            ],
+            [
+                1619.0,
+                391.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Game Designer at Little Moon Animation",
+        "on_click_jump_to": "https://gamedevelopers.ie/game-designer-at-little-moon-animation/"
+    },
+    {
+        "position": [
+            [
+                1359.0,
+                399.8999938964844
+            ],
+            [
+                1698.0,
+                431.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Junior & Senior Unity3D Developers (Full Time / Part Time – Fully Remote)",
+        "on_click_jump_to": "https://gamedevelopers.ie/junior-senior-unity3d-developers-full-time-part-time-fully-remote/"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                924.5
+            ],
+            [
+                136.0,
+                941.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Submit Content",
+        "on_click_jump_to": "https://gamedevelopers.ie/contact-us/submit-stories/"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                944.5
+            ],
+            [
+                116.0,
+                961.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Latest News",
+        "on_click_jump_to": "https://gamedevelopers.ie/category/news/"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                964.5
+            ],
+            [
+                137.0,
+                981.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Feature Articles",
+        "on_click_jump_to": "https://gamedevelopers.ie/category/feature-articles/"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                984.5
+            ],
+            [
+                86.0,
+                1001.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Forums",
+        "on_click_jump_to": "https://gamedevelopers.ie/irishgamedev-forums"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                1004.5
+            ],
+            [
+                135.0,
+                1021.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Event Calendar",
+        "on_click_jump_to": "https://gamedevelopers.ie/irishgamedev-calendar/"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                1024.5
+            ],
+            [
+                155.0,
+                1041.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Jobs & Internships",
+        "on_click_jump_to": "https://gamedevelopers.ie/category/jobs-and-internships/"
+    },
+    {
+        "position": [
+            [
+                655.0,
+                924.5
+            ],
+            [
+                850.0,
+                941.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Account Recovery Assistance",
+        "on_click_jump_to": "https://gamedevelopers.ie/contact-us/account-recovery-assistance/"
+    },
+    {
+        "position": [
+            [
+                655.0,
+                944.5
+            ],
+            [
+                728.0,
+                961.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://gamedevelopers.ie/contact-us/"
+    },
+    {
+        "position": [
+            [
+                655.0,
+                964.5
+            ],
+            [
+                746.0,
+                981.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://gamedevelopers.ie/privacy-policy/"
+    },
+    {
+        "position": [
+            [
+                655.0,
+                984.5
+            ],
+            [
+                783.0,
+                1001.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            109,
+            61,
+            111
+        ],
+        "text": "Terms & Conditions",
+        "on_click_jump_to": "https://gamedevelopers.ie/terms-conditions/"
+    },
+    {
+        "position": [
+            [
+                80.0,
+                10.0
+            ],
+            [
+                412.0,
+                110.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://gamedevelopers.ie/wp-content/themes/live/images/logo.png"
+    },
+    {
+        "position": [
+            [
+                653.2000122070312,
+                263.6000061035156
+            ],
+            [
+                667.2000122070312,
+                277.6000061035156
+            ]
+        ],
+        "type": "img",
+        "src": "https://secure.gravatar.com/avatar/?s=14&d=retro&r=g"
+    },
+    {
+        "position": [
+            [
+                223.5,
+                428.1000061035156
+            ],
+            [
+                303.5,
+                508.1000061035156
+            ]
+        ],
+        "type": "img",
+        "src": "https://secure.gravatar.com/avatar/?s=80&d=retro&r=g"
+    }
+]

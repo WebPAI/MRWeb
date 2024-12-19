@@ -1,0 +1,280 @@
+[
+    {
+        "position": [
+            [
+                781.5833129882812,
+                63.0
+            ],
+            [
+                828.816650390625,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "O NÁS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                860.816650390625,
+                63.0
+            ],
+            [
+                967.3499908447266,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "STREET DANCE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                999.3499755859376,
+                63.0
+            ],
+            [
+                1100.3666381835938,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DISCO DANCE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1132.36669921875,
+                63.0
+            ],
+            [
+                1255.7666931152344,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTEMPORARY",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1287.7666015625,
+                63.0
+            ],
+            [
+                1396.833267211914,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JABLONEC N.N.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1428.8333740234375,
+                63.0
+            ],
+            [
+                1539.1667175292969,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LÉTO S TAKTEM",
+        "on_click_jump_to": "https://www.takt-lbc.com/leto-s-taktem-2/"
+    },
+    {
+        "position": [
+            [
+                1571.1666259765625,
+                63.0
+            ],
+            [
+                1711.9999542236328,
+                87.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ONLINE PŘIHLÁŠKA",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                442.0,
+                590.7833251953125
+            ],
+            [
+                609.9499969482422,
+                614.7833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "takt-lbc@seznam.cz",
+        "on_click_jump_to": "mailto:takt-lbc@seznam.cz"
+    },
+    {
+        "position": [
+            [
+                442.0,
+                614.7833251953125
+            ],
+            [
+                609.9499969482422,
+                638.7833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "+420 777 256 959",
+        "on_click_jump_to": "tel:+420777256959"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                0.0
+            ],
+            [
+                358.0,
+                150.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2023/03/logoweb.svg"
+    },
+    {
+        "position": [
+            [
+                342.79998779296875,
+                214.0
+            ],
+            [
+                542.7999877929688,
+                374.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/cache/2018/11/PB240035/91614461.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                518.7833251953125
+            ],
+            [
+                378.0,
+                690.2999877929688
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2023/03/logo2-1-1.png"
+    },
+    {
+        "position": [
+            [
+                1563.066650390625,
+                518.7833251953125
+            ],
+            [
+                1711.999984741211,
+                566.7833251953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2023/04/lk-logotype-pantone-red-032-c.png"
+    },
+    {
+        "position": [
+            [
+                1563.066650390625,
+                582.7833251953125
+            ],
+            [
+                1711.999984741211,
+                630.7833251953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2019/11/pruihledny.png"
+    },
+    {
+        "position": [
+            [
+                1563.066650390625,
+                646.7833251953125
+            ],
+            [
+                1711.999984741211,
+                674.7833251953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2019/02/lionsport_logo_negativ-500x94.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                150.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.takt-lbc.com/wp-content/uploads/2023/03/header_bg-1-1.png"
+    }
+]

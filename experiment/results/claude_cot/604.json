@@ -1,0 +1,264 @@
+[
+    {
+        "position": [
+            [
+                1643.8333740234375,
+                12.0
+            ],
+            [
+                1687.4667053222656,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/about"
+    },
+    {
+        "position": [
+            [
+                1703.4666748046875,
+                12.0
+            ],
+            [
+                1733.7166748046875,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/faq"
+    },
+    {
+        "position": [
+            [
+                1749.7166748046875,
+                12.0
+            ],
+            [
+                1806.3500213623047,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reports",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/yearly_report"
+    },
+    {
+        "position": [
+            [
+                1822.3499755859375,
+                12.0
+            ],
+            [
+                1903.9999694824219,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/contact"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                132.0
+            ],
+            [
+                61.43333435058594,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Works",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                77.43333435058594,
+                132.0
+            ],
+            [
+                130.28334045410156,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Groups",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                146.28334045410156,
+                132.0
+            ],
+            [
+                195.85000610351562,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "People",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                211.8500061035156,
+                132.0
+            ],
+            [
+                300.1000061035156,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                316.1000061035156,
+                132.0
+            ],
+            [
+                391.51666259765625,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publishers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                407.51666259765625,
+                132.0
+            ],
+            [
+                465.18333435058594,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "In Press",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1839.949951171875,
+                134.0
+            ],
+            [
+                1903.9999542236328,
+                154.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Advanced",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                56.0
+            ],
+            [
+                447.76666259765625,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/synapse_tag-0d09920709c0b95b6c6ed3caa108c1153c9f18ce1a91527709b51136c1e3db46.png"
+    },
+    {
+        "position": [
+            [
+                1684.816650390625,
+                56.0
+            ],
+            [
+                1903.999984741211,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/mskflatbar-26f2717478fd3e8e9bddde39a77d7346195c5b5eda3ac95863bd3e1e60c5d934.png"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                216.0
+            ],
+            [
+                244.0,
+                444.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/profile1.jpg"
+    }
+]

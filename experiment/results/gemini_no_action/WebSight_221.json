@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                795.4666748046875,
+                21.0
+            ],
+            [
+                838.5833435058594,
+                45.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                854.5833129882812,
+                21.0
+            ],
+            [
+                898.2166442871094,
+                45.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                914.2166748046876,
+                21.0
+            ],
+            [
+                971.8166809082032,
+                45.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                400.0
+            ],
+            [
+                235.63333129882812,
+                420.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                432.0
+            ],
+            [
+                249.60000610351562,
+                452.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                230.0
+            ],
+            [
+                944.0,
+                258.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/house_image.jpg"
+    }
+]

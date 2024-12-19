@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artist Profile - EBSQ</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white">
+    <div class="max-w-5xl mx-auto p-4">
+        <!-- Header Navigation -->
+        <nav class="flex space-x-4 text-sm text-blue-600 mb-4">
+            <a href="#" class="hover:underline">Explore</a>
+            <a href="#" class="hover:underline">Artists</a>
+            <a href="#" class="hover:underline">Art</a>
+        </nav>
+
+        <!-- Promotional Banner -->
+        <div class="bg-yellow-100 p-3 mb-6 text-sm">
+            <span>NEW! Start your year with EBSQ for just $6.95/month!</span>
+            <a href="#" class="text-blue-600 hover:underline">Click here for details</a>
+        </div>
+
+        <!-- Artist Profile Section -->
+        <div class="flex items-start gap-4 mb-6">
+            <img src="profile-avatar.jpg" alt="Artist Avatar" class="w-12 h-12 rounded">
+            <div>
+                <h1 class="text-xl font-bold">Artist Name</h1>
+                <p class="text-gray-600">Excelsior Springs, MO USA</p>
+                <div class="flex items-center space-x-1 mt-1">
+                    <!-- Rating stars -->
+                    <span class="text-yellow-400">★★★★★</span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Content -->
+        <div class="grid grid-cols-4 gap-8">
+            <!-- Left Column -->
+            <div class="col-span-3">
+                <!-- Artwork Image -->
+                <div class="mb-6">
+                    <img src="artwork.jpg" alt="Artwork" class="max-w-full">
+                </div>
+
+                <!-- Artwork Description -->
+                <div class="prose max-w-none">
+                    <p class="text-sm text-gray-700 mb-4">
+                        [Artist's description text here...]
+                    </p>
+                </div>
+
+                <!-- About the Art Section -->
+                <div class="mt-8">
+                    <h2 class="text-lg font-bold mb-4">About the Art:</h2>
+                    <dl class="grid grid-cols-2 gap-2 text-sm">
+                        <dt class="font-bold">Title:</dt>
+                        <dd>9/11</dd>
+                        <dt class="font-bold">Medium:</dt>
+                        <dd>Acrylic</dd>
+                        <!-- Add other details... -->
+                    </dl>
+                </div>
+            </div>
+
+            <!-- Right Column -->
+            <div class="col-span-1">
+                <!-- Navigation Links -->
+                <div class="space-y-2 text-sm">
+                    <h3 class="font-bold">EBSQ Entries</h3>
+                    <ul class="text-blue-600 space-y-1">
+                        <li><a href="#" class="hover:underline">Profile</a></li>
+                        <li><a href="#" class="hover:underline">Collections</a></li>
+                        <!-- Add other links... -->
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- Detail Images -->
+        <div class="mt-8">
+            <h2 class="text-lg font-bold mb-4">Detail Images</h2>
+            <div class="grid grid-cols-2 gap-4">
+                <img src="detail1.jpg" alt="Detail 1" class="max-w-full">
+                <img src="detail2.jpg" alt="Detail 2" class="max-w-full">
+            </div>
+        </div>
+    </div>
+</body>
+</html>

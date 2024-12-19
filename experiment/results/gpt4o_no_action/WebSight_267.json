@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                58.0
+            ],
+            [
+                59.116668701171875,
+                78.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                90.0
+            ],
+            [
+                81.26666259765625,
+                110.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Products",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                122.0
+            ],
+            [
+                83.68333435058594,
+                142.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                154.0
+            ],
+            [
+                97.64999389648438,
+                174.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                464.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/car-logo.jpg"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                0.0
+            ],
+            [
+                1920.0,
+                24.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/car-mirror.jpg"
+    }
+]

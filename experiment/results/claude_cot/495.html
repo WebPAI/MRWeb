@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEMMCO</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .bg-gradient {
+            background-image: url('http://nemmco.com.au/media/images/background.jpg');
+            background-size: cover;
+        }
+        .top-menu-bg {
+            background-image: url('http://nemmco.com.au/media/images/topmenu-bg.jpg');
+            background-size: cover;
+        }
+        .banner-bg {
+            background-image: url('http://nemmco.com.au/media/images/banner-bg.jpg');
+            background-size: cover;
+        }
+        .leftmenu-bg {
+            background-image: url('http://nemmco.com.au/media/images/leftmenu-bg.jpg');
+            background-size: cover;
+        }
+        .footer-bg {
+            background-image: url('http://nemmco.com.au/media/images/footer-bg.jpg');
+            background-size: cover;
+        }
+    </style>
+</head>
+<body class="bg-gradient min-h-screen">
+    <div class="relative w-full min-h-screen">
+        <!-- Top section with logo -->
+        <div class="relative">
+            <div class="h-[33px]">
+                <img src="http://nemmco.com.au/media/images/logo.jpg" 
+                     alt="NEMMCO Logo" 
+                     class="absolute top-[25px] left-0 w-[145px] h-[33px]">
+                <div class="top-menu-bg absolute left-[145px] right-0 h-[33px] top-[25px]"></div>
+            </div>
+        </div>
+
+        <!-- Banner background -->
+        <div class="banner-bg w-full h-[95px] relative"></div>
+
+        <!-- Main content area -->
+        <div class="leftmenu-bg w-full min-h-[269px] relative p-8">
+            <div class="text-green-600 font-normal mb-4">
+                From 1 July 2009 NEMMCO ceased operations. NEMMCO's roles and responsibilities have transitioned to the Australian Energy Market Operator (AEMO).
+            </div>
+            
+            <div class="mb-2">
+                To access the AEMO website please 
+                <a href="http://www.aemo.com.au/" 
+                   class="text-[#0066ff]">click here >></a>
+            </div>
+            
+            <div class="mb-2">
+                Some historical documentation and most data sets published by NEMMCO will continue to be available on the AEMO website.
+            </div>
+            
+            <div>
+                For further information please contact the 
+                <a href="mailto:infocentre@aemo.com.au" 
+                   class="text-[#0066ff]">AEMO Information Centre</a> 
+                on 1300 301 011 (toll free).
+            </div>
+        </div>
+
+        <!-- Footer background -->
+        <div class="footer-bg w-full h-[50px] absolute bottom-0"></div>
+    </div>
+</body>
+</html>

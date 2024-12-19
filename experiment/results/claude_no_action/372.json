@@ -1,0 +1,234 @@
+[
+    {
+        "position": [
+            [
+                1172.3333740234375,
+                16.0
+            ],
+            [
+                1221.3167114257812,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            209,
+            213,
+            219
+        ],
+        "text": "Photos",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1245.316650390625,
+                16.0
+            ],
+            [
+                1283.999984741211,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            209,
+            213,
+            219
+        ],
+        "text": "News",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1308.0,
+                16.0
+            ],
+            [
+                1353.6000061035156,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            209,
+            213,
+            219
+        ],
+        "text": "Forum",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1377.5999755859375,
+                16.0
+            ],
+            [
+                1423.066635131836,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            209,
+            213,
+            219
+        ],
+        "text": "Rating",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                80.5
+            ],
+            [
+                251.0,
+                99.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Photos",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                264.0,
+                80.5
+            ],
+            [
+                334.0,
+                99.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Alfa Romeo",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                704.0,
+                236.0
+            ],
+            [
+                800.0,
+                300.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/thumb1.jpg"
+    },
+    {
+        "position": [
+            [
+                808.0,
+                236.0
+            ],
+            [
+                904.0,
+                300.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/thumb2.jpg"
+    },
+    {
+        "position": [
+            [
+                912.0,
+                236.0
+            ],
+            [
+                1008.0,
+                300.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/thumb3.jpg"
+    },
+    {
+        "position": [
+            [
+                1016.0,
+                236.0
+            ],
+            [
+                1112.0,
+                300.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/thumb4.jpg"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                236.0
+            ],
+            [
+                1216.0,
+                300.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/thumb5.jpg"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                380.0
+            ],
+            [
+                690.6666870117188,
+                854.6666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/car1.jpg"
+    },
+    {
+        "position": [
+            [
+                722.6666870117188,
+                380.0
+            ],
+            [
+                1197.3333435058594,
+                854.6666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/car2.jpg"
+    },
+    {
+        "position": [
+            [
+                1229.3333740234375,
+                380.0
+            ],
+            [
+                1704.0000610351562,
+                854.6666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/car3.jpg"
+    }
+]

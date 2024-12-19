@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                1344.0,
+                48.0
+            ],
+            [
+                1382.2333374023438,
+                68.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            71,
+            85,
+            105
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1398.2333984375,
+                48.0
+            ],
+            [
+                1437.0334014892578,
+                68.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            71,
+            85,
+            105
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1453.0333251953125,
+                48.0
+            ],
+            [
+                1508.3666534423828,
+                68.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            71,
+            85,
+            105
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1524.36669921875,
+                48.0
+            ],
+            [
+                1577.1667022705078,
+                68.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            71,
+            85,
+            105
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1593.1666259765625,
+                48.0
+            ],
+            [
+                1644.4166259765625,
+                68.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            71,
+            85,
+            105
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                48.0
+            ],
+            [
+                232.0,
+                88.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/your-logo.png"
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                59.116668701171875,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.stratesys-ts.com/en/international-roll-out/"
+    },
+    {
+        "position": [
+            [
+                75.11666870117188,
+                16.0
+            ],
+            [
+                118.75,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://herviewfromhome.com/pinspiration-stained-glass-for-a-day-and-homemade-modge-podge/"
+    },
+    {
+        "position": [
+            [
+                134.75,
+                16.0
+            ],
+            [
+                192.35000610351562,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://dragonslairproject.com/tech/pages/bl.asp"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                384.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?real-estate"
+    }
+]

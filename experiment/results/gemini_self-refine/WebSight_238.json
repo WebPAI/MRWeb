@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                32.0,
+                16.0
+            ],
+            [
+                179.4499969482422,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Architecture Firm",
+        "on_click_jump_to": "http://www.world-spectator.com/news_story.php?id=889"
+    },
+    {
+        "position": [
+            [
+                1598.9666748046875,
+                20.0
+            ],
+            [
+                1642.0833435058594,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.gondwanalink.org/whatshapwhere/Karri_coast.aspx?_Gallery=31"
+    },
+    {
+        "position": [
+            [
+                1670.5833740234375,
+                20.0
+            ],
+            [
+                1714.2167053222656,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://www.kiwireviews.co.nz/review/8070-house-with-clock-in-its-walls"
+    },
+    {
+        "position": [
+            [
+                1742.7166748046875,
+                20.0
+            ],
+            [
+                1801.9000091552734,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "http://ninthartpress.blogspot.com/2016/01/"
+    },
+    {
+        "position": [
+            [
+                1830.4000244140625,
+                20.0
+            ],
+            [
+                1888.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://bootroom.org/products-list/Sunflower%2520Round%2520Collection/26"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                60.0
+            ],
+            [
+                1920.0,
+                444.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?architecture"
+    }
+]

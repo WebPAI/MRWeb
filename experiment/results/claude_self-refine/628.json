@@ -1,0 +1,456 @@
+[
+    {
+        "position": [
+            [
+                1560.066650390625,
+                28.5
+            ],
+            [
+                1719.999984741211,
+                60.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "DiagnosisDude",
+        "on_click_jump_to": "https://diagnosisdude.com/"
+    },
+    {
+        "position": [
+            [
+                629.7999877929688,
+                113.0
+            ],
+            [
+                746.6999816894531,
+                166.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://diagnosisdude.com/"
+    },
+    {
+        "position": [
+            [
+                746.7000122070312,
+                113.0
+            ],
+            [
+                868.6333465576172,
+                166.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://diagnosisdude.com/about-2/"
+    },
+    {
+        "position": [
+            [
+                868.63330078125,
+                113.0
+            ],
+            [
+                1145.13330078125,
+                166.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "REFERENCE TABLES (SCROLL)",
+        "on_click_jump_to": "https://diagnosisdude.com/page-6/"
+    },
+    {
+        "position": [
+            [
+                1145.13330078125,
+                113.0
+            ],
+            [
+                1290.1833038330078,
+                166.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "WELCOME",
+        "on_click_jump_to": "https://diagnosisdude.com/welcome/"
+    },
+    {
+        "position": [
+            [
+                1679.066650390625,
+                613.3499755859375
+            ],
+            [
+                1735.9666442871094,
+                634.3499755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Register",
+        "on_click_jump_to": "https://wordpress.com/start?ref=wplogin"
+    },
+    {
+        "position": [
+            [
+                1679.066650390625,
+                664.3499755859375
+            ],
+            [
+                1722.7166442871094,
+                685.3499755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "https://diagnosisduh.wordpress.com/wp-login.php"
+    },
+    {
+        "position": [
+            [
+                1679.066650390625,
+                715.3499755859375
+            ],
+            [
+                1761.7666473388672,
+                736.3499755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Entries feed",
+        "on_click_jump_to": "https://diagnosisdude.com/feed/"
+    },
+    {
+        "position": [
+            [
+                1679.066650390625,
+                766.3499755859375
+            ],
+            [
+                1791.066650390625,
+                787.3499755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Comments feed",
+        "on_click_jump_to": "https://diagnosisdude.com/comments/feed/"
+    },
+    {
+        "position": [
+            [
+                1679.066650390625,
+                817.3499755859375
+            ],
+            [
+                1788.2333221435547,
+                838.3499755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "WordPress.com",
+        "on_click_jump_to": "https://wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                876.5999755859375,
+                1852.2166748046875
+            ],
+            [
+                1043.3999633789062,
+                1876.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            136,
+            136,
+            136
+        ],
+        "text": "Blog at WordPress.com.",
+        "on_click_jump_to": "https://wordpress.com/?ref=footer_blog"
+    },
+    {
+        "position": [
+            [
+                165.9499969482422,
+                1921.2166748046875
+            ],
+            [
+                272.53334045410156,
+                1945.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "DiagnosisDude",
+        "on_click_jump_to": "https://diagnosisdude.com/"
+    },
+    {
+        "position": [
+            [
+                107.9499969482422,
+                1974.2166748046875
+            ],
+            [
+                1920.0000457763672,
+                1998.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Customize",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                107.9499969482422,
+                2023.5166015625
+            ],
+            [
+                176.28334045410156,
+                2044.5166015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                188.6666717529297,
+                2023.5166015625
+            ],
+            [
+                266.4166717529297,
+                2044.5166015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Subscribed",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                107.9499969482422,
+                2069.816650390625
+            ],
+            [
+                1920.0000457763672,
+                2093.816650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Sign up",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                107.9499969482422,
+                2117.61669921875
+            ],
+            [
+                1920.0000457763672,
+                2141.61669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                107.9499969482422,
+                2165.416748046875
+            ],
+            [
+                1920.0000457763672,
+                2189.416748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Copy shortlink",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                107.9499969482422,
+                2213.216552734375
+            ],
+            [
+                1920.0000457763672,
+                2237.216552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Report this content",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                107.9499969482422,
+                2261.0166015625
+            ],
+            [
+                1920.0000457763672,
+                2285.0166015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "View post in Reader",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                107.9499969482422,
+                2308.816650390625
+            ],
+            [
+                1920.0000457763672,
+                2332.816650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Manage subscriptions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                107.9499969482422,
+                2356.61669921875
+            ],
+            [
+                1920.0000457763672,
+                2380.61669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Collapse this bar",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                107.9499969482422,
+                1908.2166748046875
+            ],
+            [
+                157.9499969482422,
+                1958.2166748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://s2.wp.com/i/logo/wpcom-gray-white.png"
+    }
+]

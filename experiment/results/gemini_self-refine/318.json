@@ -1,0 +1,598 @@
+[
+    {
+        "position": [
+            [
+                609.2666625976562,
+                22.0
+            ],
+            [
+                652.3833312988281,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/index.aspx"
+    },
+    {
+        "position": [
+            [
+                672.88330078125,
+                22.0
+            ],
+            [
+                761.5333099365234,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Trip Reports",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/tripList.aspx"
+    },
+    {
+        "position": [
+            [
+                782.0333251953125,
+                22.0
+            ],
+            [
+                873.5166473388672,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Site Reviews",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/siteList.aspx"
+    },
+    {
+        "position": [
+            [
+                894.0166625976562,
+                22.0
+            ],
+            [
+                949.1000061035156,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Lifelists",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/lifelistList.aspx"
+    },
+    {
+        "position": [
+            [
+                969.5999755859376,
+                22.0
+            ],
+            [
+                1013.2333068847657,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/help.aspx"
+    },
+    {
+        "position": [
+            [
+                1033.7333984375,
+                22.0
+            ],
+            [
+                1123.0667266845703,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Info",
+        "on_click_jump_to": "https://www.planetscott.com/contact.aspx"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2248.0
+            ],
+            [
+                1712.0,
+                2272.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Africa: Egypt and Ethiopia",
+        "on_click_jump_to": "https://www.planetscott.com/trip/21/africa-egypt-and-ethiopia"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2272.0
+            ],
+            [
+                1712.0,
+                2296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Around The World in 66 Days",
+        "on_click_jump_to": "https://www.planetscott.com/trip/27/around-the-world-in-66-days"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2296.0
+            ],
+            [
+                1712.0,
+                2320.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Eastern Australia",
+        "on_click_jump_to": "https://www.planetscott.com/trip/26/eastern-australia"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2320.0
+            ],
+            [
+                1712.0,
+                2344.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "India",
+        "on_click_jump_to": "https://www.planetscott.com/trip/8/india"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2344.0
+            ],
+            [
+                1712.0,
+                2368.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Japan",
+        "on_click_jump_to": "https://www.planetscott.com/trip/55/japan"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2368.0
+            ],
+            [
+                1712.0,
+                2392.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "New Zealand",
+        "on_click_jump_to": "https://www.planetscott.com/trip/24/new-zealand"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2392.0
+            ],
+            [
+                1712.0,
+                2416.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Siberia",
+        "on_click_jump_to": "https://www.planetscott.com/trip/13/siberia"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2416.0
+            ],
+            [
+                1712.0,
+                2440.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Svalbard, Canary Islands, and Spain",
+        "on_click_jump_to": "https://www.planetscott.com/trip/33/svalbard-canary-islands-and-spain"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2440.0
+            ],
+            [
+                1712.0,
+                2464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Turkey",
+        "on_click_jump_to": "https://www.planetscott.com/trip/14/turkey"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2464.0
+            ],
+            [
+                1712.0,
+                2488.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Western Australia",
+        "on_click_jump_to": "https://www.planetscott.com/trip/50/western-australia"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2540.0
+            ],
+            [
+                1712.0,
+                2564.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Africa",
+        "on_click_jump_to": "https://www.planetscott.com/ll/6/africa"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2564.0
+            ],
+            [
+                1712.0,
+                2588.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Asia",
+        "on_click_jump_to": "https://www.planetscott.com/ll/5/asia"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2588.0
+            ],
+            [
+                1712.0,
+                2612.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Australasia",
+        "on_click_jump_to": "https://www.planetscott.com/ll/21/australasia"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2612.0
+            ],
+            [
+                1712.0,
+                2636.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Europe",
+        "on_click_jump_to": "https://www.planetscott.com/ll/4/europe"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2636.0
+            ],
+            [
+                1712.0,
+                2660.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "India",
+        "on_click_jump_to": "https://www.planetscott.com/ll/10/india"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2660.0
+            ],
+            [
+                1712.0,
+                2684.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Turkey",
+        "on_click_jump_to": "https://www.planetscott.com/ll/17/turkey"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2684.0
+            ],
+            [
+                1712.0,
+                2708.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "World",
+        "on_click_jump_to": "https://www.planetscott.com/ll/1/world"
+    },
+    {
+        "position": [
+            [
+                974.9666748046876,
+                2820.5
+            ],
+            [
+                1081.4666748046875,
+                2837.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "PlanetScott.com",
+        "on_click_jump_to": "http://www.planetscott.com/"
+    },
+    {
+        "position": [
+            [
+                828.0166625976562,
+                2855.0
+            ],
+            [
+                880.7833404541016,
+                2875.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "https://www.planetscott.com/sitemap.xml"
+    },
+    {
+        "position": [
+            [
+                900.25,
+                2855.0
+            ],
+            [
+                1021.25,
+                2875.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Hackers Challenge",
+        "on_click_jump_to": "https://www.planetscott.com/spammers.aspx"
+    },
+    {
+        "position": [
+            [
+                1040.7166748046875,
+                2855.0
+            ],
+            [
+                1091.9666748046875,
+                2875.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            128,
+            61
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.planetscott.com/contact.aspx"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                256.0,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/_images/graphics/planetscottlogo2.gif"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                128.0
+            ],
+            [
+                1712.0,
+                1256.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/8117/large/eurasian-coot-(fulica-atra).jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1272.0
+            ],
+            [
+                709.3333129882812,
+                1648.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/8117/small/eurasian-coot-(fulica-atra).jpg"
+    },
+    {
+        "position": [
+            [
+                709.3333129882812,
+                1272.0
+            ],
+            [
+                1210.6666564941406,
+                1648.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/2005/small/common-coot-(fulica-atra)-.jpg"
+    }
+]

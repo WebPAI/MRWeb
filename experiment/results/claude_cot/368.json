@@ -1,0 +1,224 @@
+[
+    {
+        "position": [
+            [
+                1797.61669921875,
+                16.0
+            ],
+            [
+                1904.0000305175781,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Sign up",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                870.5166625976562,
+                454.0
+            ],
+            [
+                965.5666656494141,
+                469.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1073.550048828125,
+                454.0
+            ],
+            [
+                1151.9667053222656,
+                469.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                886.13330078125,
+                553.5
+            ],
+            [
+                1033.8666381835938,
+                570.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Forgot your password?",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                986.2833251953124,
+                691.0
+            ],
+            [
+                1039.316650390625,
+                708.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Sign up!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                959.0
+            ],
+            [
+                55.73333740234375,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                71.73333740234375,
+                959.0
+            ],
+            [
+                118.85000610351562,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                134.85000610351562,
+                959.0
+            ],
+            [
+                165.98333740234375,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Jobs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                181.98333740234375,
+                959.0
+            ],
+            [
+                233.93333435058594,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Support",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                934.8499755859376,
+                229.5
+            ],
+            [
+                985.1499633789064,
+                277.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/tumblr-logo.png"
+    },
+    {
+        "position": [
+            [
+                768.0,
+                629.5
+            ],
+            [
+                788.0,
+                649.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/google-icon.png"
+    },
+    {
+        "position": [
+            [
+                928.9500122070312,
+                629.5
+            ],
+            [
+                948.9500122070312,
+                649.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/apple-icon.png"
+    }
+]

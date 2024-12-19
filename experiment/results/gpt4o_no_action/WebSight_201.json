@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                32.0,
+                82.0
+            ],
+            [
+                82.69999694824219,
+                102.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Stories",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                114.0
+            ],
+            [
+                80.5,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Events",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                146.0
+            ],
+            [
+                205.06666564941406,
+                166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Volunteer Opportunities",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                32.0
+            ],
+            [
+                1888.0,
+                376.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://via.placeholder.com/800x200"
+    }
+]

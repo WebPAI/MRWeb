@@ -1,0 +1,300 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                123.43333435058594,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "SUBSCRIBE",
+        "on_click_jump_to": "http://feeds.feedburner.com/HealthYourWayOnline"
+    },
+    {
+        "position": [
+            [
+                139.43333435058594,
+                8.0
+            ],
+            [
+                242.43333435058594,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "FACEBOOK",
+        "on_click_jump_to": "http://www.facebook.com/pages/Health-Your-Way-Online/197280086971483"
+    },
+    {
+        "position": [
+            [
+                258.433349609375,
+                8.0
+            ],
+            [
+                344.50001525878906,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "TWITTER",
+        "on_click_jump_to": "http://twitter.com/"
+    },
+    {
+        "position": [
+            [
+                360.5,
+                8.0
+            ],
+            [
+                465.25,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "PINTEREST",
+        "on_click_jump_to": "http://pinterest.com/healthywaymag/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                168.0
+            ],
+            [
+                64.0,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                80.0,
+                168.0
+            ],
+            [
+                135.10000610351562,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                151.10000610351562,
+                168.0
+            ],
+            [
+                275.51666259765625,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PRESS CENTER",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                291.51666259765625,
+                168.0
+            ],
+            [
+                421.8833312988281,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOW TO SUBMIT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                437.8833312988281,
+                168.0
+            ],
+            [
+                528.25,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ADVERTISE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                544.25,
+                168.0
+            ],
+            [
+                620.3666687011719,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                12.5
+            ],
+            [
+                31.0,
+                27.5
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/rss_blog.gif"
+    },
+    {
+        "position": [
+            [
+                139.43333435058594,
+                12.5
+            ],
+            [
+                154.43333435058594,
+                27.5
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/facebook_icon.gif"
+    },
+    {
+        "position": [
+            [
+                258.433349609375,
+                12.5
+            ],
+            [
+                273.433349609375,
+                27.5
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/twitter_icon.gif"
+    },
+    {
+        "position": [
+            [
+                360.5,
+                12.5
+            ],
+            [
+                375.5,
+                27.5
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/pinterest_icon.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                40.0
+            ],
+            [
+                1920.0,
+                152.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/healthyourwayonline_header.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                152.0
+            ],
+            [
+                1920.0,
+                208.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/subnav.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                208.0
+            ],
+            [
+                1920.0,
+                272.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/inner.png"
+    }
+]

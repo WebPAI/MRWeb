@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <title>Webpage</title>
+</head>
+<body class="bg-gray-100">
+
+    <!-- Header -->
+    <header class="bg-red-700 text-white p-4">
+        <div class="container mx-auto flex justify-between">
+            <div class="flex space-x-4">
+                <a href="#" class="hover:underline">Home</a>
+                <a href="#" class="hover:underline">View Account</a>
+                <a href="#" class="hover:underline">Contact</a>
+                <!-- Add more links as needed -->
+            </div>
+            <div>
+                <a href="#" class="hover:underline">Shopping Cart / $0.00</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto mt-8 flex">
+        <!-- Sidebar -->
+        <aside class="w-1/4 bg-white p-4 shadow">
+            <h2 class="text-lg font-bold mb-4">Filter Results</h2>
+            <!-- Add filter options here -->
+        </aside>
+
+        <!-- Product List -->
+        <section class="w-3/4 ml-8">
+            <div class="grid grid-cols-1 gap-8">
+                <!-- Product Item -->
+                <div class="bg-white p-4 shadow flex">
+                    <img src="https://via.placeholder.com/150" alt="Product Image" class="w-1/4">
+                    <div class="ml-4">
+                        <h3 class="text-xl font-bold">Product Name</h3>
+                        <p class="text-gray-600">Product description goes here.</p>
+                        <a href="#" class="text-red-700 hover:underline">More Info</a>
+                    </div>
+                </div>
+                <!-- Repeat for more products -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white p-4 mt-8">
+        <div class="container mx-auto flex justify-between">
+            <div>
+                <a href="#" class="hover:underline">About Us</a>
+                <a href="#" class="hover:underline ml-4">Contact Us</a>
+                <!-- Add more links as needed -->
+            </div>
+            <div>
+                <p>&copy; 2023 Able Kitchen</p>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>

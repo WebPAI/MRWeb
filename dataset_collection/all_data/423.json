@@ -1,0 +1,162 @@
+[
+    {
+        "position": [
+            [
+                40.0,
+                131.6999969482422
+            ],
+            [
+                212.0,
+                148.6999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            91,
+            29,
+            30
+        ],
+        "text": "DESCRIPTIVE SUMMARY",
+        "on_click_jump_to": "#a1"
+    },
+    {
+        "position": [
+            [
+                40.0,
+                159.1999969482422
+            ],
+            [
+                238.0,
+                176.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            91,
+            29,
+            30
+        ],
+        "text": "ORGANIZATIONAL HISTORY",
+        "on_click_jump_to": "#d1e142"
+    },
+    {
+        "position": [
+            [
+                40.0,
+                186.6999969482422
+            ],
+            [
+                234.0,
+                203.6999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            91,
+            29,
+            30
+        ],
+        "text": "COLLECTION DESCRIPTION",
+        "on_click_jump_to": "#d1e149"
+    },
+    {
+        "position": [
+            [
+                40.0,
+                214.1999969482422
+            ],
+            [
+                227.0,
+                231.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            91,
+            29,
+            30
+        ],
+        "text": "INFORMATION FOR USERS",
+        "on_click_jump_to": "#info_for_users"
+    },
+    {
+        "position": [
+            [
+                40.0,
+                241.6999969482422
+            ],
+            [
+                114.0,
+                258.6999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            91,
+            29,
+            30
+        ],
+        "text": "SUBJECTS",
+        "on_click_jump_to": "#subjects"
+    },
+    {
+        "position": [
+            [
+                40.0,
+                269.20001220703125
+            ],
+            [
+                160.0,
+                286.20001220703125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            91,
+            29,
+            30
+        ],
+        "text": "CONTAINER LIST",
+        "on_click_jump_to": "#a10"
+    },
+    {
+        "position": [
+            [
+                229.5,
+                387.7000122070313
+            ],
+            [
+                329.5,
+                402.7000122070313
+            ]
+        ],
+        "type": "a",
+        "color": [
+            91,
+            29,
+            30
+        ],
+        "text": "Print this guide",
+        "on_click_jump_to": "javascript:window.print()"
+    },
+    {
+        "position": [
+            [
+                54.5,
+                425.7000122070313
+            ],
+            [
+                305.5,
+                440.7000122070313
+            ]
+        ],
+        "type": "a",
+        "color": [
+            91,
+            29,
+            30
+        ],
+        "text": "Contact Rare & Manuscript Collections",
+        "on_click_jump_to": "https://rare.library.cornell.edu/about/contact"
+    }
+]

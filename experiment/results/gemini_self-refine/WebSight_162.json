@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                142.4166717529297,
+                16.0
+            ],
+            [
+                186.4166717529297,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.wishesh.com/classifieds.html?md=browse&mds=search&ct=rlest9"
+    },
+    {
+        "position": [
+            [
+                202.4166717529297,
+                16.0
+            ],
+            [
+                247.21665954589844,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://studio206.network/?page_id=24"
+    },
+    {
+        "position": [
+            [
+                263.2166748046875,
+                16.0
+            ],
+            [
+                322.20001220703125,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://www.isbuc.co.uk/Places/Kyleakin.php"
+    },
+    {
+        "position": [
+            [
+                1786.0166015625,
+                10.0
+            ],
+            [
+                1903.9999389648438,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Get Started",
+        "on_click_jump_to": "https://www.newsr.in/n/Front+Page/1zkhgt33nz/India-Jet-Airways-says-it-is-suspending.htm"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?technology"
+    }
+]

@@ -1,0 +1,516 @@
+[
+    {
+        "position": [
+            [
+                1449.5,
+                9.0
+            ],
+            [
+                1555.6499938964844,
+                33.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "SUBSCRIBE",
+        "on_click_jump_to": "http://feeds.feedburner.com/HealthYourWayOnline"
+    },
+    {
+        "position": [
+            [
+                1571.6500244140625,
+                9.0
+            ],
+            [
+                1677.11669921875,
+                33.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "FACEBOOK",
+        "on_click_jump_to": "http://www.facebook.com/pages/Health-Your-Way-Online/197280086971483"
+    },
+    {
+        "position": [
+            [
+                1693.11669921875,
+                9.0
+            ],
+            [
+                1783.7833709716797,
+                33.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "TWITTER",
+        "on_click_jump_to": "http://twitter.com/"
+    },
+    {
+        "position": [
+            [
+                1799.7833251953125,
+                9.0
+            ],
+            [
+                1903.999984741211,
+                33.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "PINTEREST",
+        "on_click_jump_to": "http://pinterest.com/healthywaymag/"
+    },
+    {
+        "position": [
+            [
+                665.3333129882812,
+                128.0
+            ],
+            [
+                711.2333221435547,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                735.2333374023438,
+                128.0
+            ],
+            [
+                786.1666717529297,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "file:///about/"
+    },
+    {
+        "position": [
+            [
+                810.1666870117188,
+                128.0
+            ],
+            [
+                914.2000122070312,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PRESS CENTER",
+        "on_click_jump_to": "file:///press-center/"
+    },
+    {
+        "position": [
+            [
+                938.2000122070312,
+                128.0
+            ],
+            [
+                1060.3166809082031,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOW TO SUBMIT",
+        "on_click_jump_to": "file:///how-to-submit/"
+    },
+    {
+        "position": [
+            [
+                1084.316650390625,
+                128.0
+            ],
+            [
+                1161.5833129882812,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ADVERTISE",
+        "on_click_jump_to": "file:///advertise/"
+    },
+    {
+        "position": [
+            [
+                1185.5833740234375,
+                128.0
+            ],
+            [
+                1254.6667175292969,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "file:///contact/"
+    },
+    {
+        "position": [
+            [
+                691.5499877929688,
+                162.0
+            ],
+            [
+                769.1833190917969,
+                186.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "ASK A PRO",
+        "on_click_jump_to": "file:///category/ask-a-pro/"
+    },
+    {
+        "position": [
+            [
+                793.183349609375,
+                162.0
+            ],
+            [
+                936.1000213623047,
+                186.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "AGING GRACEFULLY",
+        "on_click_jump_to": "file:///category/aging-gracefully/"
+    },
+    {
+        "position": [
+            [
+                960.0999755859376,
+                162.0
+            ],
+            [
+                1063.2833099365234,
+                186.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "GET FIT QUICK",
+        "on_click_jump_to": "file:///category/get-fit-quick/"
+    },
+    {
+        "position": [
+            [
+                1087.2833251953125,
+                162.0
+            ],
+            [
+                1228.4499816894531,
+                186.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "KIDS/TEEN CORNER",
+        "on_click_jump_to": "file:///category/kids-teen-corner/"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                225.0
+            ],
+            [
+                527.3666687011719,
+                257.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Should Kids Lift Weights? By Brett Klika C.S.C.S.",
+        "on_click_jump_to": "file:///should-kids-lift-weights-by-brett-klika-c-s-c-s/"
+    },
+    {
+        "position": [
+            [
+                147.0,
+                275.0
+            ],
+            [
+                278.0,
+                295.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Leave a Comment",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1312.0,
+                428.5
+            ],
+            [
+                1428.4666595458984,
+                449.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Aging Gracefully",
+        "on_click_jump_to": "file:///category/aging-gracefully/"
+    },
+    {
+        "position": [
+            [
+                1312.0,
+                476.5
+            ],
+            [
+                1377.8666687011719,
+                497.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Ask a Pro",
+        "on_click_jump_to": "file:///category/ask-a-pro/"
+    },
+    {
+        "position": [
+            [
+                1449.5,
+                13.5
+            ],
+            [
+                1469.5,
+                28.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/rss_blog.gif"
+    },
+    {
+        "position": [
+            [
+                1571.6500244140625,
+                13.5
+            ],
+            [
+                1591.6500244140625,
+                28.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/facebook_icon.gif"
+    },
+    {
+        "position": [
+            [
+                1693.11669921875,
+                13.5
+            ],
+            [
+                1713.11669921875,
+                28.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/twitter_icon.gif"
+    },
+    {
+        "position": [
+            [
+                1799.7833251953125,
+                13.5
+            ],
+            [
+                1819.7833251953125,
+                28.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/pinterest_icon.gif"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                311.0
+            ],
+            [
+                182.0,
+                461.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/HYWO.Baseball-150x150.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                42.0
+            ],
+            [
+                1920.0,
+                122.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/healthyourwayonline_header.png"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                275.0
+            ],
+            [
+                131.0,
+                295.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/icon-time.png"
+    },
+    {
+        "position": [
+            [
+                147.0,
+                275.0
+            ],
+            [
+                278.0,
+                295.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                1312.0,
+                223.0
+            ],
+            [
+                1888.0,
+                350.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/enews.png"
+    },
+    {
+        "position": [
+            [
+                1312.0,
+                419.0
+            ],
+            [
+                1888.0,
+                459.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/sidebar-list.png"
+    },
+    {
+        "position": [
+            [
+                1312.0,
+                467.0
+            ],
+            [
+                1888.0,
+                507.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/sidebar-list.png"
+    }
+]

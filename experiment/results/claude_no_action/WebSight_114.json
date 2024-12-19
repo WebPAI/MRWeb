@@ -1,0 +1,62 @@
+[
+    {
+        "position": [
+            [
+                1480.0,
+                19.5
+            ],
+            [
+                1590.683334350586,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Featured Artists",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1619.066650390625,
+                19.5
+            ],
+            [
+                1752.5499877929688,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Current Exhibitions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1780.933349609375,
+                19.5
+            ],
+            [
+                1904.000015258789,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Upcoming Events",
+        "on_click_jump_to": "#"
+    }
+]

@@ -1,0 +1,316 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                138.46665954589844,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "LIVEJOURNAL",
+        "on_click_jump_to": "https://www.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                1458.316650390625,
+                18.0
+            ],
+            [
+                1520.6166534423828,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET PRO",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1544.61669921875,
+                18.0
+            ],
+            [
+                1580.5833587646484,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HELP",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1604.5833740234375,
+                18.0
+            ],
+            [
+                1655.2167053222656,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LOG IN",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1679.2166748046875,
+                10.0
+            ],
+            [
+                1783.183349609375,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JOIN FREE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1807.183349609375,
+                18.0
+            ],
+            [
+                1904.000015258789,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ENGLISH (EN)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                69.5
+            ],
+            [
+                98.43333435058594,
+                93.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BOBBY1933",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                460.0,
+                227.5
+            ],
+            [
+                539.8666687011719,
+                248.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "bobby1933",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                792.0,
+                135.0
+            ],
+            [
+                880.0,
+                155.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Previous Entry",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1396.0,
+                135.0
+            ],
+            [
+                1460.0,
+                155.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Next Entry",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                792.0,
+                171.5
+            ],
+            [
+                1265.9166870117188,
+                198.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            147,
+            183
+        ],
+        "text": "Walter M. Miller, Jr. - Wikipedia, the free encyclopedia",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                792.0,
+                215.0
+            ],
+            [
+                900.0,
+                235.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Leave a comment",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                916.0,
+                215.0
+            ],
+            [
+                950.0,
+                235.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Share",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                966.0,
+                215.0
+            ],
+            [
+                991.0,
+                235.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Flag",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1007.0,
+                215.0
+            ],
+            [
+                1032.0,
+                235.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Link",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                460.0,
+                135.0
+            ],
+            [
+                562.0,
+                210.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_cot/profile-image.jpg"
+    }
+]

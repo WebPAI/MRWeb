@@ -1,0 +1,124 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                156.0
+            ],
+            [
+                251.11666870117188,
+                180.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://thehungrywaitress.com/roasted-garlic-mashed-potatoes/"
+    },
+    {
+        "position": [
+            [
+                267.1166687011719,
+                156.0
+            ],
+            [
+                310.75,
+                180.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.bewildlyhappy.com/fall-retreat"
+    },
+    {
+        "position": [
+            [
+                326.75,
+                156.0
+            ],
+            [
+                388.8000030517578,
+                180.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Services",
+        "on_click_jump_to": "https://www.eventbrite.com/e/march-madness-for-meals-on-wheels-2019-tickets-55411616637?aff=ebdssbcitybrowse"
+    },
+    {
+        "position": [
+            [
+                404.7999877929687,
+                156.0
+            ],
+            [
+                462.39997863769526,
+                180.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://www.d2messageboard.com/showthread.php?t=94010&s=9b3a30e7f44ebca6bdc3a1b43888f6d8"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                260.0
+            ],
+            [
+                464.0,
+                452.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1458408990864-27997f8c2984?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NjJ8&ixlib=rb-4.0.3&w=300&h=200"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                260.0
+            ],
+            [
+                736.0,
+                452.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1481130763351-e3d9667e3087?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NjJ8&ixlib=rb-4.0.3&w=300&h=200"
+    },
+    {
+        "position": [
+            [
+                752.0,
+                260.0
+            ],
+            [
+                1008.0,
+                452.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1485321586038-4cc99992a06f?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NjN8&ixlib=rb-4.0.3&w=300&h=200"
+    }
+]

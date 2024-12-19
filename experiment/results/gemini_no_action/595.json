@@ -1,0 +1,272 @@
+[
+    {
+        "position": [
+            [
+                48.0,
+                46.80000305175781
+            ],
+            [
+                87.10000610351562,
+                62.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                68.0
+            ],
+            [
+                109.78334045410156,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                89.19999694824219
+            ],
+            [
+                144.38333129882812,
+                105.19999694824219
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Area Coverage",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                110.39999389648438
+            ],
+            [
+                78.83332824707031,
+                126.39999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                131.60000610351562
+            ],
+            [
+                1912.0,
+                2017.1999816894531
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                2022.4000244140625
+            ],
+            [
+                1912.0,
+                3908.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Location",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                3913.199951171875
+            ],
+            [
+                97.76666259765625,
+                3929.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                5139.58349609375
+            ],
+            [
+                246.8000030517578,
+                5155.58349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Scrap Metal Dealers in Johannesburg",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                5174.783203125
+            ],
+            [
+                222.63333129882812,
+                5190.783203125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Scrap Metal Dealer in Lyme Park",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                5209.9833984375
+            ],
+            [
+                250.1666717529297,
+                5225.9833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Scrap Metal Dealer in Megawatt Park",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                9.600006103515623
+            ],
+            [
+                230.6999969482422,
+                25.600006103515625
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                4126.38330078125
+            ],
+            [
+                183.53334045410156,
+                4142.38330078125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/cables.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                4302.38330078125
+            ],
+            [
+                302.183349609375,
+                4318.38330078125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/cable-money.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                5499.64990234375
+            ],
+            [
+                71.98333740234375,
+                5515.64990234375
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/whatsapp.png"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                3950.716552734375
+            ],
+            [
+                1912.0,
+                3979.516555786133
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/hero.jpg"
+    }
+]

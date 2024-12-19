@@ -1,0 +1,264 @@
+[
+    {
+        "position": [
+            [
+                1643.8333740234375,
+                42.5
+            ],
+            [
+                1687.4667053222656,
+                62.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1703.4666748046875,
+                42.5
+            ],
+            [
+                1733.7166748046875,
+                62.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1749.7166748046875,
+                42.5
+            ],
+            [
+                1806.3500213623047,
+                62.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1822.3499755859375,
+                42.5
+            ],
+            [
+                1903.9999694824219,
+                62.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                123.0
+            ],
+            [
+                61.43333435058594,
+                143.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Works",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                77.43333435058594,
+                123.0
+            ],
+            [
+                130.28334045410156,
+                143.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Groups",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                146.28334045410156,
+                123.0
+            ],
+            [
+                195.85000610351562,
+                143.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "People",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                211.8500061035156,
+                123.0
+            ],
+            [
+                300.1000061035156,
+                143.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                316.1000061035156,
+                123.0
+            ],
+            [
+                391.51666259765625,
+                143.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publishers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                407.51666259765625,
+                123.0
+            ],
+            [
+                465.18333435058594,
+                143.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "In Press",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                321.816650390625,
+                243.0
+            ],
+            [
+                474.99998474121094,
+                263.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Elsevier Science, Inc.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                17.0
+            ],
+            [
+                495.0,
+                88.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/synapse_tag-0d09920709c0b95b6c6ed3caa108c1153c9f18ce1a91527709b51136c1e3db46.png"
+    },
+    {
+        "position": [
+            [
+                1377.8333740234375,
+                16.0
+            ],
+            [
+                1627.8333740234375,
+                89.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/mskflatbar-26f2717478fd3e8e9bddde39a77d7346195c5b5eda3ac95863bd3e1e60c5d934.png"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                281.0
+            ],
+            [
+                305.0,
+                387.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_direct/placeholder.jpg"
+    }
+]

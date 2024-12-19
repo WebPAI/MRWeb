@@ -1,0 +1,62 @@
+[
+    {
+        "position": [
+            [
+                1563.699951171875,
+                20.0
+            ],
+            [
+                1613.1499481201172,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Sign In",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1633.6500244140625,
+                20.0
+            ],
+            [
+                1728.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Sign Up Now",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                987.316650390625,
+                510.0
+            ],
+            [
+                1165.816650390625,
+                530.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "ehealthbook@gmail.com",
+        "on_click_jump_to": "mailto:ehealthbook@gmail.com"
+    }
+]

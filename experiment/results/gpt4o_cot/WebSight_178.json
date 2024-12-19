@@ -1,0 +1,36 @@
+[
+    {
+        "position": [
+            [
+                826.0,
+                435.0
+            ],
+            [
+                947.0666656494141,
+                471.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Details",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                810.0,
+                180.0
+            ],
+            [
+                1110.0,
+                349.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1529781833076-5f422f69d1af?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NjB8&ixlib=rb-4.0.3&w=300&h=200"
+    }
+]

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Web Foundations Showcase</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-image: url('http://webfoundations.com/gfx/bkg.jpg');
+            background-repeat: repeat;
+        }
+        .green-link {
+            color: rgb(0, 128, 0);
+            text-decoration: none;
+        }
+        .green-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="max-w-[1920px] mx-auto relative">
+        <!-- Header Banner -->
+        <div class="w-[600px] h-[93px]">
+            <img src="http://webfoundations.com/gfx/banner.gif" alt="Web Foundations Banner" class="w-full h-full">
+        </div>
+
+        <!-- Navigation Sidebar -->
+        <div class="absolute left-[3px] top-24 space-y-0">
+            <img src="http://webfoundations.com/gfx/webservices.gif" alt="Web Services" class="h-[20px]">
+            <img src="http://webfoundations.com/gfx/consulting.gif" alt="Consulting" class="h-[20px]">
+            <img src="http://webfoundations.com/gfx/training.gif" alt="Training" class="h-[20px]">
+            <img src="http://webfoundations.com/gfx/showcase.gif" alt="Showcase" class="h-[20px]">
+            <img src="http://webfoundations.com/gfx/costs.gif" alt="Costs" class="h-[20px]">
+            <img src="http://webfoundations.com/gfx/getting_ready.gif" alt="Getting Ready" class="h-[20px]">
+            <img src="http://webfoundations.com/gfx/contact.gif" alt="Contact" class="h-[20px]">
+            <img src="http://webfoundations.com/gfx/home.gif" alt="Home" class="h-[20px] mt-5">
+        </div>
+
+        <!-- Main Content -->
+        <div class="ml-24 p-4 max-w-[1600px]">
+            <p class="mb-4 text-[14px]">
+                Every attempt is made to create unique sites with original graphic work and both the needs of the organization and web standards in mind. In order to minimize page load time and ensure that our web technology stays appropriate we contribute to the building back of our own projects.
+            </p>
+            
+            <p class="mb-8 text-[14px]">
+                We work with a number of <a href="#np" class="green-link">non-profit groups</a>, <a href="#comm" class="green-link">smaller commercial organizations</a>, and <a href="#corp" class="green-link">corporations</a>.
+            </p>
+
+            <!-- Grid of showcased works -->
+            <div class="grid grid-cols-2 gap-x-8 gap-y-12">
+                <!-- Each showcase item -->
+                <div class="flex gap-4">
+                    <img src="http://webfoundations.com/gfx/show25.gif" alt="A1 Financing" class="w-[200px] h-[150px]">
+                    <div>
+                        <a href="javascript:OpenNewWindow('http://www.a1-financing.ca/');" class="green-link text-[14px]">A1 Financing</a>
+                        <p class="mt-2 text-[14px]">Small business client web site project calls for an elegant information site.</p>
+                    </div>
+                </div>
+                <!-- Additional showcase items would follow the same pattern -->
+            </div>
+        </div>
+
+        <!-- Footer Navigation -->
+        <div class="text-center mt-8 pb-4">
+            <img src="http://webfoundations.com/gfx/hbar.gif" alt="horizontal bar" class="mx-auto mb-2">
+            <div class="space-x-4 text-[13px]">
+                <a href="http://webfoundations.com/index.html" class="green-link">Home</a>
+                <a href="http://webfoundations.com/webservices.html" class="green-link">Web Services</a>
+                <a href="http://webfoundations.com/consulting.html" class="green-link">Consulting</a>
+                <a href="http://webfoundations.com/training.html" class="green-link">Training</a>
+                <a href="http://webfoundations.com/showcase.html" class="green-link">Showcase</a>
+                <a href="http://webfoundations.com/costs.html" class="green-link">Costs & Fees</a>
+                <a href="http://webfoundations.com/preparation.html" class="green-link">Getting Ready</a>
+                <a href="http://webfoundations.com/contact.html" class="green-link">Contact Us</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

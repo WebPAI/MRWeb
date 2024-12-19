@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                777.2666625976562,
+                88.0
+            ],
+            [
+                859.8333282470703,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Admissions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                875.8333129882812,
+                88.0
+            ],
+            [
+                955.2499847412109,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Academics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                971.25,
+                88.0
+            ],
+            [
+                1059.3333282470703,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Student Life",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1075.3333740234375,
+                88.0
+            ],
+            [
+                1142.733383178711,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Research",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1856.0,
+                16.0
+            ],
+            [
+                1904.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/profile.jpg"
+    }
+]

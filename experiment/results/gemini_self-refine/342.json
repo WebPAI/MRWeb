@@ -1,0 +1,768 @@
+[
+    {
+        "position": [
+            [
+                216.0,
+                19.5
+            ],
+            [
+                254.23333740234375,
+                36.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.ablekitchen.com/"
+    },
+    {
+        "position": [
+            [
+                274.16668701171875,
+                19.5
+            ],
+            [
+                303.1000213623047,
+                36.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://www.ablekitchen.com/blog/"
+    },
+    {
+        "position": [
+            [
+                323.0333251953125,
+                19.5
+            ],
+            [
+                411.4333190917969,
+                36.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "View Account",
+        "on_click_jump_to": "https://www.ablekitchen.com/account.php"
+    },
+    {
+        "position": [
+            [
+                431.3666687011719,
+                19.5
+            ],
+            [
+                461.23333740234375,
+                36.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Help",
+        "on_click_jump_to": "https://www.ablekitchen.com/help.html"
+    },
+    {
+        "position": [
+            [
+                481.1666870117187,
+                19.5
+            ],
+            [
+                589.0000152587891,
+                36.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Request a Quote",
+        "on_click_jump_to": "https://www.ablekitchen.com/request-quote.php"
+    },
+    {
+        "position": [
+            [
+                608.933349609375,
+                19.5
+            ],
+            [
+                660.183349609375,
+                36.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.ablekitchen.com/contact_us.php"
+    },
+    {
+        "position": [
+            [
+                680.11669921875,
+                19.5
+            ],
+            [
+                821.2666931152344,
+                36.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "International Shipping",
+        "on_click_jump_to": "https://www.ablekitchen.com/shipping-information.html"
+    },
+    {
+        "position": [
+            [
+                1504.6666259765625,
+                18.0
+            ],
+            [
+                1647.3332824707031,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Shopping Cart / $0.00",
+        "on_click_jump_to": "https://www.ablekitchen.com/cart.php"
+    },
+    {
+        "position": [
+            [
+                1695.3333740234375,
+                18.0
+            ],
+            [
+                1704.0000457763672,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "0",
+        "on_click_jump_to": "https://www.ablekitchen.com/cart.php"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                200.0
+            ],
+            [
+                368.8333282470703,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Bar and Beverage",
+        "on_click_jump_to": "https://www.ablekitchen.com/Bar-and-Beverage-Supplies.html"
+    },
+    {
+        "position": [
+            [
+                400.8333129882813,
+                200.0
+            ],
+            [
+                640.5833129882812,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Buffets, Displays and Serverware",
+        "on_click_jump_to": "https://www.ablekitchen.com/Buffet-Display-and-Serverware.html"
+    },
+    {
+        "position": [
+            [
+                672.5833129882812,
+                200.0
+            ],
+            [
+                817.4166564941406,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Dining and Tabletop",
+        "on_click_jump_to": "https://www.ablekitchen.com/Dining-and-Tabletop.html"
+    },
+    {
+        "position": [
+            [
+                849.4166870117188,
+                200.0
+            ],
+            [
+                1010.5000152587891,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Kitchen and Bakeware",
+        "on_click_jump_to": "https://www.ablekitchen.com/Kitchenware-Bakeware-and-Cookware.html"
+    },
+    {
+        "position": [
+            [
+                1042.5,
+                200.0
+            ],
+            [
+                1174.6999969482422,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Janitorial Supplies",
+        "on_click_jump_to": "https://www.ablekitchen.com/Janitorial-and-Maintenance.html"
+    },
+    {
+        "position": [
+            [
+                1206.699951171875,
+                200.0
+            ],
+            [
+                1313.8666229248047,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Shop by Brand",
+        "on_click_jump_to": "https://www.ablekitchen.com/Brand-B1/"
+    },
+    {
+        "position": [
+            [
+                588.0,
+                257.5
+            ],
+            [
+                665.8166656494141,
+                274.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            125,
+            118,
+            106
+        ],
+        "text": "AbleKitchen",
+        "on_click_jump_to": "https://www.ablekitchen.com/"
+    },
+    {
+        "position": [
+            [
+                682.3499755859375,
+                257.5
+            ],
+            [
+                811.1999664306641,
+                274.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            125,
+            118,
+            106
+        ],
+        "text": "Dining and Tabletop",
+        "on_click_jump_to": "https://www.ablekitchen.com/Dining-and-Tabletop.html"
+    },
+    {
+        "position": [
+            [
+                827.7333374023438,
+                257.5
+            ],
+            [
+                883.6166687011719,
+                274.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            125,
+            118,
+            106
+        ],
+        "text": "Tabletop",
+        "on_click_jump_to": "https://www.ablekitchen.com/Tabletop.html"
+    },
+    {
+        "position": [
+            [
+                900.1500244140625,
+                257.5
+            ],
+            [
+                1013.0000305175781,
+                274.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            125,
+            118,
+            106
+        ],
+        "text": "Beverage Service",
+        "on_click_jump_to": "https://www.ablekitchen.com/beverage-service.html"
+    },
+    {
+        "position": [
+            [
+                1029.5333251953125,
+                257.5
+            ],
+            [
+                1082.2833251953125,
+                274.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            125,
+            118,
+            106
+        ],
+        "text": "Pitchers",
+        "on_click_jump_to": "https://www.ablekitchen.com/Pitchers.html"
+    },
+    {
+        "position": [
+            [
+                605.0,
+                697.0
+            ],
+            [
+                942.8833312988281,
+                717.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Winco WP-14 Stainless Steel Pitcher, 14 oz.",
+        "on_click_jump_to": "https://www.ablekitchen.com/pitcher-14-ounce-stainless-steel1-each-unit.html"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                1016.0
+            ],
+            [
+                307.68333435058594,
+                1036.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://www.ablekitchen.com/about.html"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                1040.0
+            ],
+            [
+                321.6499938964844,
+                1060.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://www.ablekitchen.com/contact_us.php"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                1064.0
+            ],
+            [
+                270.25,
+                1084.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://www.ablekitchen.com/help.html"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                1088.0
+            ],
+            [
+                372.53334045410156,
+                1108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "text": "Privacy & Security",
+        "on_click_jump_to": "https://www.ablekitchen.com/privacy-policy.html"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                1016.0
+            ],
+            [
+                874.8000030517578,
+                1036.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "text": "Returns & Exchanges",
+        "on_click_jump_to": "https://www.ablekitchen.com/shipping-information.html"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                1040.0
+            ],
+            [
+                783.6000061035156,
+                1060.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "text": "Shipping",
+        "on_click_jump_to": "https://www.ablekitchen.com/shipping-information.html"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                1064.0
+            ],
+            [
+                806.4666595458984,
+                1084.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "text": "My Account",
+        "on_click_jump_to": "https://www.ablekitchen.com/account.php"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                1088.0
+            ],
+            [
+                752.5,
+                1108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            200,
+            200,
+            200
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://www.ablekitchen.com/blog/"
+    },
+    {
+        "position": [
+            [
+                832.5333251953125,
+                1158.5
+            ],
+            [
+                943.2166442871094,
+                1173.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            161,
+            161,
+            161
+        ],
+        "text": "Terms & Conditions",
+        "on_click_jump_to": "https://www.ablekitchen.com/terms-conditions.html"
+    },
+    {
+        "position": [
+            [
+                953.0833129882812,
+                1158.5
+            ],
+            [
+                1031.499984741211,
+                1173.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            161,
+            161,
+            161
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://www.ablekitchen.com/privacy-policy.html"
+    },
+    {
+        "position": [
+            [
+                1041.36669921875,
+                1158.5
+            ],
+            [
+                1087.4666900634766,
+                1173.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            161,
+            161,
+            161
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "https://www.ablekitchen.com/sitemap.php"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                72.0
+            ],
+            [
+                434.18333435058594,
+                168.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/images/ablekitchen-logo.png"
+    },
+    {
+        "position": [
+            [
+                605.0,
+                487.0
+            ],
+            [
+                797.0,
+                679.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/itempics/Pitcher--14-ounce--stainless-steel-1-Each-Unit--95983_thumb.jpg"
+    },
+    {
+        "position": [
+            [
+                1269.0833740234375,
+                1014.0
+            ],
+            [
+                1365.0833740234375,
+                1062.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/images/globalsign-logo.gif"
+    },
+    {
+        "position": [
+            [
+                1381.0833740234375,
+                1014.0
+            ],
+            [
+                1680.0000610351562,
+                1062.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/images/vmamed.png"
+    },
+    {
+        "position": [
+            [
+                1552.0,
+                1078.0
+            ],
+            [
+                1584.0,
+                1110.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/images/socials-sprite.jpg"
+    },
+    {
+        "position": [
+            [
+                1600.0,
+                1078.0
+            ],
+            [
+                1632.0,
+                1110.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/images/socials-sprite.jpg"
+    },
+    {
+        "position": [
+            [
+                1648.0,
+                1078.0
+            ],
+            [
+                1680.0,
+                1110.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/images/socials-sprite.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                56.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.ablekitchen.com/images/bg.jpg"
+    },
+    {
+        "position": [
+            [
+                1655.3333740234375,
+                8.0
+            ],
+            [
+                1687.3333740234375,
+                48.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.ablekitchen.com/images/cartqty.png"
+    }
+]

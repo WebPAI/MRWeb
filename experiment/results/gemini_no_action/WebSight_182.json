@@ -1,0 +1,124 @@
+[
+    {
+        "position": [
+            [
+                48.0,
+                111.46665954589844
+            ],
+            [
+                90.68333435058594,
+                128.46665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                131.06666564941406
+            ],
+            [
+                89.81666564941406,
+                148.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                150.6666717529297
+            ],
+            [
+                109.35000610351562,
+                167.6666717529297
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                170.26666259765625
+            ],
+            [
+                103.14999389648438,
+                187.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                252.1000061035156
+            ],
+            [
+                47.133331298828125,
+                269.1000061035156
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/car1.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                269.1000061035156
+            ],
+            [
+                47.133331298828125,
+                286.1000061035156
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/car2.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                286.1000061035156
+            ],
+            [
+                47.133331298828125,
+                303.1000061035156
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/car3.jpg"
+    }
+]

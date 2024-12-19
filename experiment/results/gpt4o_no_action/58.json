@@ -1,0 +1,176 @@
+[
+    {
+        "position": [
+            [
+                1057.699951171875,
+                20.0
+            ],
+            [
+                1150.6499481201172,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Find Doctors",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1166.6500244140625,
+                20.0
+            ],
+            [
+                1273.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Consult Online",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1289.0,
+                20.0
+            ],
+            [
+                1356.6666717529297,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Hospitals",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1372.6666259765625,
+                20.0
+            ],
+            [
+                1441.6666259765625,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Surgeries",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1457.6666259765625,
+                20.0
+            ],
+            [
+                1522.133285522461,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Wellness",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1538.13330078125,
+                20.0
+            ],
+            [
+                1607.8999633789062,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Lab Tests",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1623.9000244140625,
+                20.0
+            ],
+            [
+                1656.4000244140625,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1672.4000244140625,
+                20.0
+            ],
+            [
+                1712.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Login",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                230.0
+            ],
+            [
+                336.0,
+                326.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/doctor1.jpg"
+    }
+]

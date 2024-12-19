@@ -1,0 +1,184 @@
+[
+    {
+        "position": [
+            [
+                1635.5833740234375,
+                22.0
+            ],
+            [
+                1728.0000457763672,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "WATCH LIVE",
+        "on_click_jump_to": "https://6abc.com/watch/"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                142.0
+            ],
+            [
+                1314.3999938964844,
+                162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "ON NOW",
+        "on_click_jump_to": "https://6abc.com/watch/live/11064989/"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                182.0
+            ],
+            [
+                1684.683349609375,
+                226.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "DNC Takeaways: Walz's night, Clinton's dig at Trump, Oprah comes home",
+        "on_click_jump_to": "https://6abc.com/post/dnc-day-3-key-takeaways-tim-walzs-night-bill-clintons-dig-trump-oprahs-surprise-appearance-influencers-flexing-clout/15216111/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                888.0
+            ],
+            [
+                252.9166717529297,
+                912.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://6abc.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                920.0
+            ],
+            [
+                252.9166717529297,
+                944.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Weather",
+        "on_click_jump_to": "https://6abc.com/weather/"
+    },
+    {
+        "position": [
+            [
+                1633.88330078125,
+                888.0
+            ],
+            [
+                1727.9999694824219,
+                912.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Philadelphia",
+        "on_click_jump_to": "https://6abc.com/philadelphia/"
+    },
+    {
+        "position": [
+            [
+                1633.88330078125,
+                920.0
+            ],
+            [
+                1727.9999694824219,
+                944.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Pennsylvania",
+        "on_click_jump_to": "https://6abc.com/pennsylvania/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                224.88333129882812,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_icon.png"
+    },
+    {
+        "position": [
+            [
+                232.88333129882812,
+                16.0
+            ],
+            [
+                383.46665954589844,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_desktop-logo.png"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                184.0
+            ],
+            [
+                1216.0,
+                760.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.com/dip/images/1063980_110215-wpvi-needles-in-candy-1230-video.jpg"
+    }
+]

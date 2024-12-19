@@ -1,0 +1,170 @@
+[
+    {
+        "position": [
+            [
+                1422.1666259765625,
+                30.0
+            ],
+            [
+                1495.0332946777344,
+                54.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1511.0333251953125,
+                30.0
+            ],
+            [
+                1581.4499816894531,
+                54.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1597.449951171875,
+                30.0
+            ],
+            [
+                1647.449951171875,
+                54.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1663.449951171875,
+                30.0
+            ],
+            [
+                1727.9999542236328,
+                54.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Pinterest",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                329.66668701171875,
+                169.5
+            ],
+            [
+                445.5833435058594,
+                186.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Leave a Comment",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1258.38330078125,
+                296.0
+            ],
+            [
+                1302.2166290283203,
+                316.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Post 1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1258.38330078125,
+                320.0
+            ],
+            [
+                1304.449966430664,
+                340.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Post 2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                18.0
+            ],
+            [
+                311.9499969482422,
+                66.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                204.0
+            ],
+            [
+                1171.0166625976562,
+                228.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/kids-lifting.jpg"
+    }
+]

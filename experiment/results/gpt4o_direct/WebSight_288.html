@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .background-image {
+            background-image: url('https://images.unsplash.com/photo-1620893749736-346f4a8fe866?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNjZ8&ixlib=rb-4.0.3&w=1600&h=400');
+            background-size: cover;
+            background-position: center;
+            height: 800px;
+        }
+        .small-image {
+            position: absolute;
+            top: 608px;
+            left: 911.88px;
+            width: 96.23px;
+            height: 64px;
+        }
+    </style>
+</head>
+<body class="flex flex-col items-center justify-between min-h-screen">
+
+    <div class="background-image w-full relative">
+        <img class="small-image" src="https://images.unsplash.com/photo-1618329918461-51bb072e0ea5?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNjd8&ixlib=rb-4.0.3&w=200&h=200" alt="Small Image">
+    </div>
+
+    <div class="bg-white w-full py-8 text-center">
+        <ul class="space-y-4">
+            <li class="font-bold">Our Work</li>
+            <li>Client Testimonials</li>
+            <li>Contact Us</li>
+        </ul>
+    </div>
+
+    <footer class="bg-gray-800 w-full py-4 text-center text-white">
+        © 2022 Agency. All rights reserved.
+    </footer>
+
+</body>
+</html>

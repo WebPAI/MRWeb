@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .bg-pattern {
+            background-image: url('https://opus1journal.org/articles/images/bgKA.gif');
+            background-repeat: repeat;
+        }
+        .left-border {
+            background-image: url('https://opus1journal.org/articles/images/leftbgKA.gif');
+            background-repeat: repeat-y;
+        }
+        .right-border {
+            background-image: url('https://opus1journal.org/articles/images/rightbgKA.gif');
+            background-repeat: repeat-y;
+        }
+    </style>
+</head>
+<body>
+    <div class="relative min-h-screen">
+        <!-- Background layers -->
+        <div class="left-border absolute top-0 left-0 w-[471px] h-full"></div>
+        <div class="right-border absolute top-0 right-0 w-[471px] h-full"></div>
+        <div class="bg-pattern mx-auto max-w-[978px] p-8">
+            
+            <!-- Main content -->
+            <div class="bg-[#FFFEF2] p-8">
+                <h1 class="text-center text-xl mb-6">Framing Perceptions</h1>
+                
+                <div class="border border-gray-300 p-4 mb-6">
+                    Since people are risk-averse with respect to gain and risk-seeking with respect to loss, their choices can be easily manipulated by whether an offer is framed as a gain or a loss.
+                </div>
+
+                <p class="mb-4">
+                    Suppose a rare disease would claim 600 lives if we did nothing. We are asked to choose between different policy options:
+                </p>
+
+                <p class="mb-2">A. 200 lives could be saved with certainty.</p>
+                <p class="mb-4">B. 600 lives could be saved with 1/3 chance and 0 lives saved with 2/3 chance.</p>
+
+                <p class="mb-4">
+                    Typically, 72% of us would choose option A even though the 
+                    <a href="javascript:void(0)" class="text-red-600">expected value</a> 
+                    of option B is equivalent to option A.
+                </p>
+
+                <!-- Continue with the rest of the content... -->
+
+                <!-- Footer counter images -->
+                <div class="flex justify-center mt-8">
+                    <img src="https://opus1journal.org/counterimages/bw_00.gif" class="h-[13px]">
+                    <img src="https://opus1journal.org/counterimages/bw_01.gif" class="h-[13px]">
+                    <img src="https://opus1journal.org/counterimages/bw_01.gif" class="h-[13px]">
+                    <img src="https://opus1journal.org/counterimages/bw_07.gif" class="h-[13px]">
+                    <img src="https://opus1journal.org/counterimages/bw_02.gif" class="h-[13px]">
+                    <img src="https://opus1journal.org/counterimages/bw_05.gif" class="h-[13px]">
+                </div>
+
+                <div class="flex justify-center mt-4">
+                    <img src="https://opus1journal.org/articles/images/logobutton.gif" class="h-[50px]">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

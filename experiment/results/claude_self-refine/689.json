@@ -1,0 +1,558 @@
+[
+    {
+        "position": [
+            [
+                1104.0166015625,
+                41.366668701171875
+            ],
+            [
+                1154.949935913086,
+                65.36666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                1154.949951171875,
+                41.366668701171875
+            ],
+            [
+                1221.6499481201172,
+                65.36666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CATALOG",
+        "on_click_jump_to": "file:///product-category/new-arrivals"
+    },
+    {
+        "position": [
+            [
+                1221.6500244140625,
+                41.366668701171875
+            ],
+            [
+                1282.433364868164,
+                65.36666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "PUBLISH",
+        "on_click_jump_to": "file:///publish"
+    },
+    {
+        "position": [
+            [
+                1282.433349609375,
+                41.366668701171875
+            ],
+            [
+                1375.116683959961,
+                65.36666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "MULTIMEDIA",
+        "on_click_jump_to": "file:///multimedia-portfolio"
+    },
+    {
+        "position": [
+            [
+                1375.11669921875,
+                41.366668701171875
+            ],
+            [
+                1418.6333618164062,
+                65.36666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "NEWS",
+        "on_click_jump_to": "file:///news"
+    },
+    {
+        "position": [
+            [
+                1418.63330078125,
+                41.366668701171875
+            ],
+            [
+                1487.7166290283203,
+                65.36666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                1487.7166748046875,
+                41.366668701171875
+            ],
+            [
+                1578.8166809082031,
+                65.36666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "РУССКИЙ",
+        "on_click_jump_to": "file:///multimedia/russian"
+    },
+    {
+        "position": [
+            [
+                1655.36669921875,
+                29.366668701171875
+            ],
+            [
+                1712.0000305175781,
+                77.36666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "0 ITEMS\n$0.00",
+        "on_click_jump_to": "file:///cart"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                133.5
+            ],
+            [
+                137.64999389648438,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "All Multimedia",
+        "on_click_jump_to": "file:///multimedia-portfolio"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                133.5
+            ],
+            [
+                189.9499969482422,
+                178.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Liberty Now",
+        "on_click_jump_to": "file:///multimedia-portfolio/liberty-now"
+    },
+    {
+        "position": [
+            [
+                72.30000305175781,
+                157.5
+            ],
+            [
+                180.1666717529297,
+                178.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Liberty Authors",
+        "on_click_jump_to": "file:///liberty-authors"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                181.5
+            ],
+            [
+                75.38333129882812,
+                202.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Radio",
+        "on_click_jump_to": "file:///radio"
+    },
+    {
+        "position": [
+            [
+                79.76666259765625,
+                181.5
+            ],
+            [
+                142.28334045410156,
+                202.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "TV Spots",
+        "on_click_jump_to": "file:///tv-ads"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                181.5
+            ],
+            [
+                165.31666564941406,
+                226.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "TV Appearances",
+        "on_click_jump_to": "file:///tv-appearances"
+    },
+    {
+        "position": [
+            [
+                35.0,
+                229.5
+            ],
+            [
+                185.63333129882812,
+                250.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Presentations / Other",
+        "on_click_jump_to": "file:///presentations"
+    },
+    {
+        "position": [
+            [
+                536.5,
+                32.0
+            ],
+            [
+                630.5,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "Previous Post",
+        "on_click_jump_to": "file:///multimedia/interview-with-dmitriy-salita-in-english"
+    },
+    {
+        "position": [
+            [
+                1316.066650390625,
+                32.0
+            ],
+            [
+                1383.499984741211,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "Next Post",
+        "on_click_jump_to": "file:///multimedia/dmitriy-salita-part-2-russian"
+    },
+    {
+        "position": [
+            [
+                722.5999755859375,
+                152.0
+            ],
+            [
+                773.5333099365234,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                773.5333251953125,
+                152.0
+            ],
+            [
+                840.2333221435547,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CATALOG",
+        "on_click_jump_to": "file:///product-category/new-arrivals"
+    },
+    {
+        "position": [
+            [
+                840.2333374023438,
+                152.0
+            ],
+            [
+                901.0166625976562,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "PUBLISH",
+        "on_click_jump_to": "file:///publish"
+    },
+    {
+        "position": [
+            [
+                901.0166625976562,
+                152.0
+            ],
+            [
+                993.6999969482422,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "MULTIMEDIA",
+        "on_click_jump_to": "file:///multimedia-portfolio"
+    },
+    {
+        "position": [
+            [
+                993.7000122070312,
+                152.0
+            ],
+            [
+                1037.2166748046875,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "NEWS",
+        "on_click_jump_to": "file:///news"
+    },
+    {
+        "position": [
+            [
+                1037.2166748046875,
+                152.0
+            ],
+            [
+                1106.3000183105469,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                1106.300048828125,
+                152.0
+            ],
+            [
+                1197.4000396728516,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "РУССКИЙ",
+        "on_click_jump_to": "file:///multimedia/russian"
+    },
+    {
+        "position": [
+            [
+                923.5,
+                213.5
+            ],
+            [
+                996.5,
+                229.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "file:///privacy-policy"
+    },
+    {
+        "position": [
+            [
+                418.0,
+                8.0
+            ],
+            [
+                605.5,
+                98.75
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.libertypublishinghouse.com/wp-content/uploads/2016/01/Logo_2016_188.jpg"
+    },
+    {
+        "position": [
+            [
+                1562.816650390625,
+                47.866668701171875
+            ],
+            [
+                1578.816650390625,
+                58.866668701171875
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/png;base64,..."
+    },
+    {
+        "position": [
+            [
+                35.0,
+                296.0
+            ],
+            [
+                206.0,
+                353.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://libertypublishinghouse.com/wp-content/uploads/2016/03/Facebook-300x100.jpg"
+    },
+    {
+        "position": [
+            [
+                1181.4000244140625,
+                158.5
+            ],
+            [
+                1197.4000244140625,
+                169.5
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/png;base64,..."
+    }
+]

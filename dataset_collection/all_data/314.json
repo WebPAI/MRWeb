@@ -1,0 +1,450 @@
+[
+    {
+        "position": [
+            [
+                0.0,
+                132.0
+            ],
+            [
+                78.94999694824219,
+                162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://repository.usd.ac.id/"
+    },
+    {
+        "position": [
+            [
+                78.94999694824219,
+                132.0
+            ],
+            [
+                159.11666870117188,
+                162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://repository.usd.ac.id/information.html"
+    },
+    {
+        "position": [
+            [
+                159.11666870117188,
+                132.0
+            ],
+            [
+                246.31666564941406,
+                162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Browse",
+        "on_click_jump_to": "http://repository.usd.ac.id/view/"
+    },
+    {
+        "position": [
+            [
+                12.0,
+                170.0
+            ],
+            [
+                54.73333740234375,
+                191.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Login",
+        "on_click_jump_to": "http://repository.usd.ac.id/cgi/users/home"
+    },
+    {
+        "position": [
+            [
+                596.0,
+                233.0
+            ],
+            [
+                671.4499969482422,
+                254.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Up a level",
+        "on_click_jump_to": "https://repository.usd.ac.id/view/creators/"
+    },
+    {
+        "position": [
+            [
+                1124.5,
+                261.5
+            ],
+            [
+                1166.5333404541016,
+                282.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            136,
+            136,
+            136
+        ],
+        "text": "Atom",
+        "on_click_jump_to": "http://repository.usd.ac.id/cgi/exportview/creators/Apriyanto=3ATotok_Dwi=3A=3A/Atom/Apriyanto=3ATotok_Dwi=3A=3A.xml"
+    },
+    {
+        "position": [
+            [
+                1198.0,
+                261.5
+            ],
+            [
+                1254.2666625976562,
+                282.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            136,
+            136,
+            136
+        ],
+        "text": "RSS 1.0",
+        "on_click_jump_to": "http://repository.usd.ac.id/cgi/exportview/creators/Apriyanto=3ATotok_Dwi=3A=3A/RSS/Apriyanto=3ATotok_Dwi=3A=3A.rss"
+    },
+    {
+        "position": [
+            [
+                1285.7333984375,
+                261.5
+            ],
+            [
+                1342.0000610351562,
+                282.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            136,
+            136,
+            136
+        ],
+        "text": "RSS 2.0",
+        "on_click_jump_to": "http://repository.usd.ac.id/cgi/exportview/creators/Apriyanto=3ATotok_Dwi=3A=3A/RSS2/Apriyanto=3ATotok_Dwi=3A=3A.xml"
+    },
+    {
+        "position": [
+            [
+                989.433349609375,
+                298.0
+            ],
+            [
+                1069.6333465576172,
+                315.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "No Grouping",
+        "on_click_jump_to": "https://repository.usd.ac.id/view/creators/Apriyanto=3ATotok_Dwi=3A=3A.default.html"
+    },
+    {
+        "position": [
+            [
+                631.566650390625,
+                332.0
+            ],
+            [
+                669.2833251953125,
+                349.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Thesis",
+        "on_click_jump_to": "#group_thesis"
+    },
+    {
+        "position": [
+            [
+                748.7833251953125,
+                448.7999877929687
+            ],
+            [
+                1064.1166381835938,
+                465.7999877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Aplikasi visualisasi fotosintesis berbasis multimedia.",
+        "on_click_jump_to": "http://repository.usd.ac.id/7622/"
+    },
+    {
+        "position": [
+            [
+                161.5500030517578,
+                544.7999877929688
+            ],
+            [
+                203.9499969482422,
+                558.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "EPrints 3",
+        "on_click_jump_to": "http://eprints.org/software/"
+    },
+    {
+        "position": [
+            [
+                337.54998779296875,
+                544.7999877929688
+            ],
+            [
+                552.3499908447266,
+                558.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "School of Electronics and Computer Science",
+        "on_click_jump_to": "http://www.ecs.soton.ac.uk/"
+    },
+    {
+        "position": [
+            [
+                723.7833251953125,
+                544.7999877929688
+            ],
+            [
+                912.4333190917969,
+                558.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "More information and software credits",
+        "on_click_jump_to": "http://repository.usd.ac.id/eprints/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                473.0,
+                129.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.usd.ac.id/images/sitelogo.png"
+    },
+    {
+        "position": [
+            [
+                578.0,
+                236.5
+            ],
+            [
+                592.0,
+                250.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.usd.ac.id/style/images/multi_up.png"
+    },
+    {
+        "position": [
+            [
+                1097.7666015625,
+                266.5
+            ],
+            [
+                1119.7666015625,
+                280.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.usd.ac.id/style/images/feed-icon-14x14.png"
+    },
+    {
+        "position": [
+            [
+                1171.2666015625,
+                266.5
+            ],
+            [
+                1193.2666015625,
+                280.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.usd.ac.id/style/images/feed-icon-14x14.png"
+    },
+    {
+        "position": [
+            [
+                1259.0,
+                266.5
+            ],
+            [
+                1281.0,
+                280.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.usd.ac.id/style/images/feed-icon-14x14.png"
+    },
+    {
+        "position": [
+            [
+                1833.0,
+                544.7999877929688
+            ],
+            [
+                1910.0,
+                573.7999877929688
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.usd.ac.id/images/eprintslogo.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                198.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://repository.usd.ac.id/style/images/logo_background_light.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                132.0
+            ],
+            [
+                1920.0,
+                163.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://repository.usd.ac.id/style/images/bar_glass.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                163.0
+            ],
+            [
+                1920.0,
+                198.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://repository.usd.ac.id/style/images/bar_24px.png"
+    },
+    {
+        "position": [
+            [
+                1856.0,
+                170.0
+            ],
+            [
+                1908.0,
+                191.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://repository.usd.ac.id/style/images/bar_12px.png"
+    },
+    {
+        "position": [
+            [
+                817.61669921875,
+                260.0
+            ],
+            [
+                897.61669921875,
+                284.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://repository.usd.ac.id/style/images/bar_12px.png"
+    },
+    {
+        "position": [
+            [
+                575.0,
+                293.0
+            ],
+            [
+                1345.0,
+                320.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://repository.usd.ac.id/style/images/bar_24px.png"
+    }
+]

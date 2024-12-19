@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white">
+    <!-- Header -->
+    <header class="bg-[#0075C7] text-white p-4">
+        <div class="flex justify-between items-center">
+            <img src="https://synapse.mskcc.org/synapse/assets/synapse_tag-0d09920709c0b95b6c6ed3caa108c1153c9f18ce1a91527709b51136c1e3db46.png" class="h-[71px]" alt="Synapse">
+            <div class="flex items-center">
+                <img src="https://synapse.mskcc.org/synapse/assets/mskflatbar-26f2717478fd3e8e9bddde39a77d7346195c5b5eda3ac95863bd3e1e60c5d934.png" class="h-[73px]" alt="MSK">
+                <nav class="ml-4">
+                    <ul class="flex space-x-4">
+                        <li><a href="#" class="hover:underline">About</a></li>
+                        <li><a href="#" class="hover:underline">FAQ</a></li>
+                        <li><a href="#" class="hover:underline">Reports</a></li>
+                        <li><a href="#" class="hover:underline">Contact Us</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+        
+        <!-- Navigation Menu -->
+        <nav class="mt-8">
+            <ul class="flex space-x-4">
+                <li><a href="#" class="hover:underline">Works</a></li>
+                <li><a href="#" class="hover:underline">Groups</a></li>
+                <li><a href="#" class="hover:underline">People</a></li>
+                <li><a href="#" class="hover:underline">Publications</a></li>
+                <li><a href="#" class="hover:underline">Publishers</a></li>
+                <li><a href="#" class="hover:underline">In Press</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto p-8">
+        <h1 class="text-2xl mb-4">Journal of Urology</h1>
+        <p class="mb-4">Published by <a href="#" class="text-blue-600 hover:underline">Elsevier Science, Inc.</a></p>
+
+        <!-- People Grid -->
+        <div class="grid grid-cols-5 gap-4 mb-8">
+            <div v-for="i in 10" class="w-[81px] h-[106px]">
+                <img src="placeholder.jpg" alt="Profile" class="w-full h-full object-cover">
+            </div>
+        </div>
+
+        <!-- Search Results Section -->
+        <div class="flex gap-8">
+            <!-- Left Sidebar -->
+            <div class="w-1/4">
+                <h2 class="font-bold mb-4">Search Within</h2>
+                <!-- Filter sections here -->
+            </div>
+
+            <!-- Main Content Area -->
+            <div class="w-3/4">
+                <!-- Results header -->
+                <div class="flex justify-between items-center mb-4">
+                    <h3>Results (18)</h3>
+                    <div class="flex items-center gap-2">
+                        <span>Show: 10</span>
+                        <span>Sort By: Year</span>
+                        <span>Order: Descending</span>
+                        <span>Style: Default</span>
+                    </div>
+                </div>
+
+                <!-- Results list -->
+                <!-- List items here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white p-8">
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>

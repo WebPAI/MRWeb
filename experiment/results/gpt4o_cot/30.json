@@ -1,0 +1,510 @@
+[
+    {
+        "position": [
+            [
+                1125.7166748046875,
+                10.0
+            ],
+            [
+                1158.000015258789,
+                30.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "here",
+        "on_click_jump_to": "https://mcrw.org/ccr1"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                71.03334045410156
+            ],
+            [
+                987.9666748046875,
+                103.03334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Morgan County Rural Water Corporation",
+        "on_click_jump_to": "http://mcrw.org/"
+    },
+    {
+        "position": [
+            [
+                344.0,
+                166.06666564941406
+            ],
+            [
+                387.1166687011719,
+                190.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://mcrw.org/"
+    },
+    {
+        "position": [
+            [
+                403.1166687011719,
+                166.06666564941406
+            ],
+            [
+                521.8000030517578,
+                190.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Member Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                537.7999877929688,
+                166.06666564941406
+            ],
+            [
+                660.066650390625,
+                190.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Forms & Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                676.066650390625,
+                166.06666564941406
+            ],
+            [
+                791.7666473388672,
+                190.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News & Notices",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                807.7666625976562,
+                166.06666564941406
+            ],
+            [
+                883.7666625976562,
+                190.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                222.0666656494141
+            ],
+            [
+                1576.0,
+                246.0666656494141
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BILL PAYMENT",
+        "on_click_jump_to": "https://mcrw.org/bill-payment"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                246.0666656494141
+            ],
+            [
+                1576.0,
+                270.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "New Service Request",
+        "on_click_jump_to": "https://mcrw.org/new-service-request-1"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                270.066650390625
+            ],
+            [
+                1576.0,
+                294.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Water Quality Report",
+        "on_click_jump_to": "https://mcrw.org/water-quality-report"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                326.066650390625
+            ],
+            [
+                1576.0,
+                350.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sign Up for Alerts",
+        "on_click_jump_to": "#modal_subscribe"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                382.066650390625
+            ],
+            [
+                1576.0,
+                406.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Unsubscribe",
+        "on_click_jump_to": "https://mcrw.org/unsubscribe.html"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                438.066650390625
+            ],
+            [
+                1576.0,
+                462.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Alliance of Indiana Rural Water",
+        "on_click_jump_to": "https://www.inh2o.org/"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                462.066650390625
+            ],
+            [
+                1576.0,
+                486.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Martinsville, IN",
+        "on_click_jump_to": "https://www.martinsville.in.gov/"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                486.066650390625
+            ],
+            [
+                1576.0,
+                510.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Indiana Rural Water",
+        "on_click_jump_to": "https://www.indianaruralwater.org/"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                510.066650390625
+            ],
+            [
+                1576.0,
+                534.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "National Rural Water Association",
+        "on_click_jump_to": "https://nrwa.org/"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                534.066650390625
+            ],
+            [
+                1576.0,
+                558.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Water Conservation Tips",
+        "on_click_jump_to": "https://wateruseitwisely.com/"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                558.066650390625
+            ],
+            [
+                1576.0,
+                582.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Environmental Protection Agency",
+        "on_click_jump_to": "https://water.epa.gov/drink/index.cfm"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                760.066650390625
+            ],
+            [
+                423.1166687011719,
+                780.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Map",
+        "on_click_jump_to": "https://mcrw.org/location"
+    },
+    {
+        "position": [
+            [
+                625.7000122070312,
+                640.066650390625
+            ],
+            [
+                726.1500091552734,
+                660.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://mcrw.org/privacy"
+    },
+    {
+        "position": [
+            [
+                746.6500244140625,
+                640.066650390625
+            ],
+            [
+                868.9167022705078,
+                660.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "https://mcrw.org/terms"
+    },
+    {
+        "position": [
+            [
+                641.7000122070312,
+                664.066650390625
+            ],
+            [
+                731.7666778564453,
+                684.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Accessibility",
+        "on_click_jump_to": "https://mcrw.org/accessibility"
+    },
+    {
+        "position": [
+            [
+                957.4166870117188,
+                640.066650390625
+            ],
+            [
+                1542.36669921875,
+                660.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Powered by RuralWaterImpact.com - Smart Websites for Smart Water Systems™",
+        "on_click_jump_to": "https://www.ruralwaterimpact.com/"
+    },
+    {
+        "position": [
+            [
+                973.4166870117188,
+                664.066650390625
+            ],
+            [
+                1019.183349609375,
+                684.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Admin",
+        "on_click_jump_to": "https://clients.ruralwaterimpact.com/client/"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                56.0
+            ],
+            [
+                512.0,
+                142.06666564941406
+            ]
+        ],
+        "type": "img",
+        "src": "https://mcrw.org/images/logos_rwi/rwi_699_MCRW_Logo_smaller_size_1352756831_3644.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                814.066650390625
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://mcrw.org/images/backgrounds/RWI_WV_barn_mill_with_waterfall_1400_x_900.jpg"
+    }
+]

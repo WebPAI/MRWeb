@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digitally Obsessed</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body {
+            background-image: url('https://digitallyobsessed.com/styles/stripes.gif');
+            background-repeat: repeat;
+        }
+        .nav-link {
+            @apply px-8 py-6 text-black hover:text-gray-700 text-center flex-1;
+        }
+        .red-link {
+            @apply text-[#990000] hover:underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="max-w-7xl mx-auto">
+        <!-- Header -->
+        <header class="mb-4">
+            <div class="py-2">
+                <img src="https://digitallyobsessed.com/images/newdoclogo.jpg" 
+                     alt="Digitally Obsessed Logo" 
+                     class="w-[366px] h-[50px]">
+            </div>
+            
+            <!-- Navigation -->
+            <nav class="flex justify-between">
+                <a href="https://digitallyobsessed.com/r-reviews.php" class="nav-link">Reviews</a>
+                <a href="https://digitallyobsessed.com/r-interviews.php" class="nav-link">Interviews</a>
+                <a href="https://digitallyobsessed.com/r-articles.php" class="nav-link">Articles</a>
+                <a href="https://digitallyobsessed.com/r-apps.php" class="nav-link">Apps</a>
+                <a href="https://digitallyobsessed.com/r-about.php" class="nav-link">About</a>
+            </nav>
+        </header>
+
+        <!-- Main Content -->
+        <main class="px-4">
+            <!-- External Links Section -->
+            <section class="ml-[360px]">
+                <div class="flex flex-col gap-4">
+                    <a href="https://zarabesque.com/" class="red-link">Zarabesque.com</a>
+                    <a href="http://www.sustiheaven.com/" class="red-link">Susti Heaven</a>
+                    <a href="http://www.brandperfect.com/" class="red-link">Brand Perfect</a>
+                    <a href="http://www.closetnomad.com/" class="red-link">Closet Nomad</a>
+                    <a href="http://www.tiendaholics.com/" class="red-link">Tiendaholics.com</a>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="mt-8 px-4">
+            <div class="flex flex-col items-center gap-2">
+                <a href="https://digitallyobsessed.com/ducu.php" class="red-link">Home</a>
+                <a href="https://digitallyobsessed.com/r-reviews.php" class="red-link">Review Vault</a>
+                <a href="https://digitallyobsessed.com/r-inteviews.php" class="red-link">Interviews</a>
+                <a href="https://digitallyobsessed.com/r-articles.php" class="red-link">Articles</a>
+                <div class="flex gap-4">
+                    <a href="https://digitallyobsessed.com/r-apps.php" class="red-link">Apps</a>
+                    <a href="https://digitallyobsessed.com/r-about.php" class="red-link">About</a>
+                </div>
+                <a href="mailto:webmaster@digitallyobsessed.com" class="red-link">Contact</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

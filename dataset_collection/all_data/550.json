@@ -1,0 +1,366 @@
+[
+    {
+        "position": [
+            [
+                946.816650390625,
+                14.0
+            ],
+            [
+                1074.8499908447266,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            139,
+            34,
+            51
+        ],
+        "text": "For Employers",
+        "on_click_jump_to": "http://mnpera.org/employers"
+    },
+    {
+        "position": [
+            [
+                1104.8499755859375,
+                14.0
+            ],
+            [
+                1183.9999694824219,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            139,
+            34,
+            51
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://mnpera.org/about/contact/"
+    },
+    {
+        "position": [
+            [
+                1428.0,
+                14.5
+            ],
+            [
+                1570.0,
+                51.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "myPERA Login",
+        "on_click_jump_to": "https://member.mnpera.org/MemWeb.dll"
+    },
+    {
+        "position": [
+            [
+                325.0,
+                70.0
+            ],
+            [
+                517.5666656494141,
+                110.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MEMBERS",
+        "on_click_jump_to": "https://mnpera.org/members/"
+    },
+    {
+        "position": [
+            [
+                517.566650390625,
+                70.0
+            ],
+            [
+                808.816650390625,
+                110.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BENEFIT RECIPIENTS",
+        "on_click_jump_to": "https://mnpera.org/retirees/"
+    },
+    {
+        "position": [
+            [
+                808.816650390625,
+                70.0
+            ],
+            [
+                1021.2499847412109,
+                110.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "EMPLOYERS",
+        "on_click_jump_to": "https://mnpera.org/employers/"
+    },
+    {
+        "position": [
+            [
+                1021.25,
+                70.0
+            ],
+            [
+                1231.0333404541016,
+                110.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "RESOURCES",
+        "on_click_jump_to": "https://mnpera.org/employers/resources/"
+    },
+    {
+        "position": [
+            [
+                1231.0333251953125,
+                70.0
+            ],
+            [
+                1428.566650390625,
+                110.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FINANCIAL",
+        "on_click_jump_to": "https://mnpera.org/financial/"
+    },
+    {
+        "position": [
+            [
+                1428.566650390625,
+                70.0
+            ],
+            [
+                1594.999984741211,
+                110.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://mnpera.org/about/"
+    },
+    {
+        "position": [
+            [
+                566.9166870117188,
+                827.0
+            ],
+            [
+                643.0333557128906,
+                844.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://mnpera.org/about/contact/"
+    },
+    {
+        "position": [
+            [
+                664.9833374023438,
+                827.0
+            ],
+            [
+                742.3000030517578,
+                844.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CAREERS",
+        "on_click_jump_to": "https://mnpera.org/careers/"
+    },
+    {
+        "position": [
+            [
+                764.25,
+                827.0
+            ],
+            [
+                1031.5333251953125,
+                844.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "EQUAL OPPORTUNITY EMPLOYER",
+        "on_click_jump_to": "https://mnpera.org/equal-opportunity-employer/"
+    },
+    {
+        "position": [
+            [
+                1053.4833984375,
+                827.0
+            ],
+            [
+                1123.7000579833984,
+                844.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SITEMAP",
+        "on_click_jump_to": "https://mnpera.org/page-sitemap.xml"
+    },
+    {
+        "position": [
+            [
+                1145.6500244140625,
+                827.0
+            ],
+            [
+                1353.0666961669922,
+                844.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DATA PRACTICES & LEGAL",
+        "on_click_jump_to": "https://mnpera.org/data-privacy-legal/"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                14.0
+            ],
+            [
+                580.0,
+                52.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://mnpera.org/wp-content/uploads/logo.png"
+    },
+    {
+        "position": [
+            [
+                920.5,
+                620.0
+            ],
+            [
+                952.5,
+                652.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://mnpera.org/wp-content/uploads/2018/06/facebook-32.png"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                620.0
+            ],
+            [
+                999.5,
+                652.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://mnpera.org/wp-content/uploads/2018/06/twitter-32.png"
+    },
+    {
+        "position": [
+            [
+                1335.050048828125,
+                670.7000122070312
+            ],
+            [
+                1906.050048828125,
+                962.7000122070312
+            ]
+        ],
+        "type": "img",
+        "src": "https://mnpera.org/wp-content/uploads/2018/02/footer-logo.png"
+    },
+    {
+        "position": [
+            [
+                1379.0,
+                21.5
+            ],
+            [
+                1402.0,
+                44.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://mnpera.org/wp-content/themes/pera/i/ico-search.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                269.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://mnpera.org/wp-content/uploads/Header-01-1-e1621548902978.png"
+    }
+]

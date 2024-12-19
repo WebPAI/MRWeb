@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marham - Doctors & Healthcare</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-[#014E78] hover:text-[#014E78]/80;
+        }
+        .primary-button {
+            @apply bg-[#014E78] text-white px-6 py-3 rounded;
+        }
+        .secondary-button {
+            @apply bg-[#1E4059] text-white px-6 py-3 rounded;
+        }
+        .profile-card {
+            @apply bg-white rounded-lg shadow-md p-6 mb-8;
+        }
+        .doctor-image {
+            @apply w-[146.25px] h-[146.25px] rounded-full object-cover;
+        }
+        .doctor-name {
+            @apply text-[#014E78] text-xl font-medium;
+        }
+        .doctor-specialty {
+            @apply text-gray-600 mt-1;
+        }
+        .doctor-stats {
+            @apply flex items-center mt-4;
+        }
+        .doctor-rating {
+            @apply text-[#014E78] font-medium;
+        }
+        .action-buttons {
+            @apply flex flex-col gap-3 mt-4;
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Navigation -->
+    <nav class="bg-white shadow">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center h-14">
+                <div class="flex items-center space-x-8">
+                    <a href="/" class="nav-link">Home</a>
+                    <a href="/surgeries" class="nav-link">Surgeries</a>
+                    <a href="/medicines" class="nav-link">Medicines</a>
+                    <a href="/lab-tests" class="nav-link">Lab Tests</a>
+                    <a href="/blog" class="nav-link">Blog</a>
+                    <a href="/join-as-doctor" class="nav-link">Join as Doctor</a>
+                </div>
+                <div>
+                    <a href="/login" class="nav-link">Login</a>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-8">
+        <!-- Filter Bar -->
+        <div class="flex justify-end space-x-4 mb-8">
+            <button class="primary-button">Clear Filters</button>
+            <button class="primary-button">Doctors Near Me</button>
+            <button class="primary-button">Fee Upto 500</button>
+            <button class="primary-button">Top Reviewed</button>
+            <button class="primary-button">Online Now</button>
+        </div>
+
+        <!-- Doctor Cards -->
+        <div class="grid grid-cols-1 gap-8">
+            <!-- Doctor Card Template -->
+            <div class="profile-card">
+                <div class="flex">
+                    <img src="doctor-image.jpg" alt="Doctor" class="doctor-image">
+                    <div class="ml-6 flex-grow">
+                        <h2 class="doctor-name">Dr. Saba Samreen</h2>
+                        <p class="doctor-specialty">Rheumatologist</p>
+                        <div class="doctor-stats">
+                            <span class="doctor-rating">Reviews: 188</span>
+                        </div>
+                        <div class="flex flex-wrap gap-2 mt-4">
+                            <span class="text-sm text-[#014E78]">Osteoarthritis</span>
+                            <span class="text-sm text-[#014E78]">Rheumatoid Arthritis</span>
+                            <span class="text-sm text-[#014E78]">Systemic Lupus Erythematosus</span>
+                        </div>
+                    </div>
+                    <div class="action-buttons">
+                        <button class="secondary-button">Video Call</button>
+                        <button class="primary-button">View Profile</button>
+                    </div>
+                </div>
+            </div>
+            <!-- Repeat similar structure for other doctor cards -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white mt-16 py-12">
+        <!-- Footer content here -->
+    </footer>
+</body>
+</html>

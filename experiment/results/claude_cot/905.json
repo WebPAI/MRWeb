@@ -1,0 +1,222 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                0.0
+            ],
+            [
+                336.6333312988281,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LOOKASTIC",
+        "on_click_jump_to": "https://lookastic.com/"
+    },
+    {
+        "position": [
+            [
+                1550.550048828125,
+                6.0
+            ],
+            [
+                1639.6333770751953,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SIGN IN",
+        "on_click_jump_to": "file:///signin"
+    },
+    {
+        "position": [
+            [
+                1644.13330078125,
+                6.0
+            ],
+            [
+                1711.9999694824219,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JOIN",
+        "on_click_jump_to": "file:///join"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                56.0
+            ],
+            [
+                381.3999938964844,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "MY WARDROBE TRY IT!",
+        "on_click_jump_to": "file:///wardrobe"
+    },
+    {
+        "position": [
+            [
+                381.3999938964844,
+                56.0
+            ],
+            [
+                433.48333740234375,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "LOOKS",
+        "on_click_jump_to": "file:///looks"
+    },
+    {
+        "position": [
+            [
+                433.48333740234375,
+                56.0
+            ],
+            [
+                495.4166717529297,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "TRENDS",
+        "on_click_jump_to": "file:///trends"
+    },
+    {
+        "position": [
+            [
+                495.4166870117187,
+                56.0
+            ],
+            [
+                558.9833526611328,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "BRANDS",
+        "on_click_jump_to": "file:///brands"
+    },
+    {
+        "position": [
+            [
+                558.9833374023438,
+                56.0
+            ],
+            [
+                654.5,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CELEBRITIES",
+        "on_click_jump_to": "file:///celebrities"
+    },
+    {
+        "position": [
+            [
+                654.5,
+                56.0
+            ],
+            [
+                746.2833404541016,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "OCCASIONS",
+        "on_click_jump_to": "file:///occasions"
+    },
+    {
+        "position": [
+            [
+                746.2833251953125,
+                56.0
+            ],
+            [
+                845.8666534423828,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CONTACT US",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                845.86669921875,
+                56.0
+            ],
+            [
+                907.0500335693359,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "WOMEN",
+        "on_click_jump_to": "file:///women"
+    }
+]

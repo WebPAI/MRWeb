@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage Recreation</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .container {
+            position: relative;
+            width: 1440px;
+            height: 979px;
+            background-color: #f97316; /* Orange background */
+        }
+        .image1 {
+            position: absolute;
+            top: 154.7px;
+            left: 480px;
+            width: 960px;
+            height: 537.6px;
+        }
+        .image2 {
+            position: absolute;
+            top: 251.73px;
+            left: 0;
+            width: 480px;
+            height: 727.27px;
+        }
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #ef4444; /* Red overlay */
+            opacity: 0.5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://images.unsplash.com/photo-1458644267420-66bc8a5f21e4?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NDR8&ixlib=rb-4.0.3&w=800&h=600" alt="Image 1" class="image1">
+        <img src="https://images.unsplash.com/photo-1716798781278-6efc6c432ce3?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NDR8&ixlib=rb-4.0.3&w=100&h=50" alt="Image 2" class="image2">
+        <div class="overlay"></div>
+    </div>
+</body>
+</html>

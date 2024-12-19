@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                848.2833251953125,
+                25.5
+            ],
+            [
+                917.4499816894531,
+                46.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Showcase",
+        "on_click_jump_to": "http://medinahighschool.net/medina-oh/alumni/4719434/brandon-blackburn.html"
+    },
+    {
+        "position": [
+            [
+                933.4500122070312,
+                25.5
+            ],
+            [
+                999.183349609375,
+                46.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://littlebunnyquilts.blogspot.com/2016/01/"
+    },
+    {
+        "position": [
+            [
+                1015.183349609375,
+                25.5
+            ],
+            [
+                1071.7000122070312,
+                46.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "http://www.interface.ru/iservices/training.asp?iId=365504"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?tech"
+    }
+]

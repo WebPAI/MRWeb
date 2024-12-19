@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1707.0999755859375,
+                30.5
+            ],
+            [
+                1749.9999694824219,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://blog.techygeekshome.info/2018/06/cmtrace-bundled-with-configuration-manager-client-install/"
+    },
+    {
+        "position": [
+            [
+                1789.433349609375,
+                30.5
+            ],
+            [
+                1833.000015258789,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.monotrac.com/product-info"
+    },
+    {
+        "position": [
+            [
+                1849.316650390625,
+                30.5
+            ],
+            [
+                1903.999984741211,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://airtycoon2.forumotion.com/t35-historical-mode"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                49.0,
+                66.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1691093325210-8f0f20055f9b?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2Mzd8&ixlib=rb-4.0.3&w=100&h=50"
+    }
+]

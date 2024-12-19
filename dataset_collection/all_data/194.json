@@ -1,0 +1,616 @@
+[
+    {
+        "position": [
+            [
+                410.0,
+                0.0
+            ],
+            [
+                503.0,
+                1018.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://www.nuketown.com/category/blog/"
+    },
+    {
+        "position": [
+            [
+                503.0,
+                0.0
+            ],
+            [
+                655.0,
+                1018.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Books & Print",
+        "on_click_jump_to": "https://www.nuketown.com/category/books/"
+    },
+    {
+        "position": [
+            [
+                655.0,
+                0.0
+            ],
+            [
+                762.0,
+                1018.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Games",
+        "on_click_jump_to": "https://www.nuketown.com/category/games/"
+    },
+    {
+        "position": [
+            [
+                762.0,
+                0.0
+            ],
+            [
+                908.0,
+                1018.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Movies & TV",
+        "on_click_jump_to": "https://www.nuketown.com/category/movies/"
+    },
+    {
+        "position": [
+            [
+                908.0,
+                0.0
+            ],
+            [
+                1068.0,
+                1018.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Music & Audio",
+        "on_click_jump_to": "https://www.nuketown.com/category/music/"
+    },
+    {
+        "position": [
+            [
+                1068.0,
+                0.0
+            ],
+            [
+                1187.0,
+                1018.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Podcasts",
+        "on_click_jump_to": "https://www.nuketown.com/category/podcasts/"
+    },
+    {
+        "position": [
+            [
+                546.0,
+                1303.316650390625
+            ],
+            [
+                630.0,
+                1323.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            89,
+            89,
+            89
+        ],
+        "text": "Ken Newquist",
+        "on_click_jump_to": "https://www.nuketown.com/author/nukehavoc/"
+    },
+    {
+        "position": [
+            [
+                461.0,
+                1487.4166259765625
+            ],
+            [
+                1151.13330078125,
+                1509.4166259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "blog.seattlepi.com: Dungeons & Dragons, Microsoft Surface are a match made in Blackmoor",
+        "on_click_jump_to": "http://blog.seattlepi.com/microsoft/archives/194341.asp?from=blog_last3"
+    },
+    {
+        "position": [
+            [
+                461.0,
+                1513.4166259765625
+            ],
+            [
+                1003.2000122070312,
+                1535.4166259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "KoboldQuarterly.com: The Perfect Table: A Return to D&D SurfaceScapes",
+        "on_click_jump_to": "http://www.koboldquarterly.com/k/article4080.php"
+    },
+    {
+        "position": [
+            [
+                566.75,
+                1998.4166259765625
+            ],
+            [
+                807.7166595458984,
+                2020.4166259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "see Wikipedia for cost estimates",
+        "on_click_jump_to": "http://en.wikipedia.org/wiki/Microsoft_Surface"
+    },
+    {
+        "position": [
+            [
+                410.0,
+                2216.816650390625
+            ],
+            [
+                500.0,
+                2242.816650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            101,
+            101,
+            101
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "https://www.nuketown.com/exploring-dd-battlefields-with-microsoft-surface/?share=facebook"
+    },
+    {
+        "position": [
+            [
+                505.0,
+                2216.816650390625
+            ],
+            [
+                576.0,
+                2242.816650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            101,
+            101,
+            101
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "https://www.nuketown.com/exploring-dd-battlefields-with-microsoft-surface/?share=twitter"
+    },
+    {
+        "position": [
+            [
+                581.0,
+                2216.816650390625
+            ],
+            [
+                654.0,
+                2242.816650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            101,
+            101,
+            101
+        ],
+        "text": "Pocket",
+        "on_click_jump_to": "https://www.nuketown.com/exploring-dd-battlefields-with-microsoft-surface/?share=pocket"
+    },
+    {
+        "position": [
+            [
+                659.0,
+                2216.816650390625
+            ],
+            [
+                727.0,
+                2242.816650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            101,
+            101,
+            101
+        ],
+        "text": "Email",
+        "on_click_jump_to": "mailto:?subject=%5BShared%20Post%5D%20Exploring%20D%26D%20Battlefields%20with%20Microsoft%20Surface&body=https%3A%2F%2Fwww.nuketown.com%2Fexploring-dd-battlefields-with-microsoft-surface%2F&share=email"
+    },
+    {
+        "position": [
+            [
+                431.6666870117187,
+                2388.949951171875
+            ],
+            [
+                504.6666870117187,
+                2408.949951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            89,
+            89,
+            89
+        ],
+        "text": "Game News",
+        "on_click_jump_to": "https://www.nuketown.com/category/games/game-news/"
+    },
+    {
+        "position": [
+            [
+                511.6666870117187,
+                2388.949951171875
+            ],
+            [
+                553.6666870117188,
+                2408.949951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            89,
+            89,
+            89
+        ],
+        "text": "Games",
+        "on_click_jump_to": "https://www.nuketown.com/category/games/"
+    },
+    {
+        "position": [
+            [
+                431.6666870117187,
+                2410.63330078125
+            ],
+            [
+                462.6666870117187,
+                2430.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            89,
+            89,
+            89
+        ],
+        "text": "D&D",
+        "on_click_jump_to": "https://www.nuketown.com/tag/dd/"
+    },
+    {
+        "position": [
+            [
+                431.6666870117187,
+                2432.316650390625
+            ],
+            [
+                770.6666870117188,
+                2452.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            89,
+            89,
+            89
+        ],
+        "text": "Gamer Traveler: Games & Travel Blog Carnival Roundup",
+        "on_click_jump_to": "https://www.nuketown.com/gamer-traveler-games-travel-blog-carnival-roundup/"
+    },
+    {
+        "position": [
+            [
+                431.6666870117187,
+                2454.0
+            ],
+            [
+                616.6666870117188,
+                2474.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            89,
+            89,
+            89
+        ],
+        "text": "The Griffin’s Crier Re-launched",
+        "on_click_jump_to": "https://www.nuketown.com/the-griffins-crier-re-launched/"
+    },
+    {
+        "position": [
+            [
+                1275.0,
+                1435.0
+            ],
+            [
+                1402.8999938964844,
+                1457.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "Red Storm Rising",
+        "on_click_jump_to": "https://www.nuketown.com/red-storm-rising/"
+    },
+    {
+        "position": [
+            [
+                1275.0,
+                1465.5
+            ],
+            [
+                1458.2166595458984,
+                1513.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "Zork – Ready Player One Video Game Replay",
+        "on_click_jump_to": "https://www.nuketown.com/zork-ready-player-one-video-game-replay/"
+    },
+    {
+        "position": [
+            [
+                1275.0,
+                1521.5
+            ],
+            [
+                1416.3333282470703,
+                1543.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "Sins of Our Fathers",
+        "on_click_jump_to": "https://www.nuketown.com/sins-of-our-fathers/"
+    },
+    {
+        "position": [
+            [
+                1275.0,
+                1552.0
+            ],
+            [
+                1359.8833312988281,
+                1574.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "Action Park",
+        "on_click_jump_to": "https://www.nuketown.com/action-park/"
+    },
+    {
+        "position": [
+            [
+                1275.0,
+                1582.5
+            ],
+            [
+                1380.1333312988281,
+                1604.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "The Stone Sky",
+        "on_click_jump_to": "https://www.nuketown.com/the-stone-sky/"
+    },
+    {
+        "position": [
+            [
+                789.9833374023438,
+                2607.75
+            ],
+            [
+                1129.9666748046875,
+                2655.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "Apple Podcasts",
+        "on_click_jump_to": "https://itunes.apple.com/us/podcast/nuketown-radio-active/id1327091738?mt=2&ls=1"
+    },
+    {
+        "position": [
+            [
+                789.9833374023438,
+                2655.75
+            ],
+            [
+                1129.9666748046875,
+                2703.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "Google Podcasts",
+        "on_click_jump_to": "https://www.google.com/podcasts?feed=aHR0cHM6Ly93d3cubnVrZXRvd24uY29tL2ZlZWQvcG9kY2FzdC8"
+    },
+    {
+        "position": [
+            [
+                789.9833374023438,
+                2703.75
+            ],
+            [
+                1129.9666748046875,
+                2751.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "Android",
+        "on_click_jump_to": "https://subscribeonandroid.com/www.nuketown.com/feed/podcast/"
+    },
+    {
+        "position": [
+            [
+                789.9833374023438,
+                2751.75
+            ],
+            [
+                1129.9666748046875,
+                2799.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "by Email",
+        "on_click_jump_to": "https://subscribebyemail.com/www.nuketown.com/feed/podcast/"
+    },
+    {
+        "position": [
+            [
+                789.9833374023438,
+                2799.75
+            ],
+            [
+                1129.9666748046875,
+                2847.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            115,
+            190
+        ],
+        "text": "RSS",
+        "on_click_jump_to": "https://www.nuketown.com/feed/podcast/"
+    },
+    {
+        "position": [
+            [
+                1013.5,
+                3068.5
+            ],
+            [
+                1106.5,
+                3088.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GeneratePress",
+        "on_click_jump_to": "https://generatepress.com/"
+    },
+    {
+        "position": [
+            [
+                450.0,
+                1131.5
+            ],
+            [
+                800.0,
+                1201.5
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20350%2070'%3E%3C/svg%3E"
+    }
+]

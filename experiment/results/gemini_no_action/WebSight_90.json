@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                1606.4000244140625,
+                22.0
+            ],
+            [
+                1649.5166931152344,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1670.0166015625,
+                22.0
+            ],
+            [
+                1716.9332733154297,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Artists",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1737.433349609375,
+                22.0
+            ],
+            [
+                1815.9500122070312,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Exhibitions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1836.449951171875,
+                22.0
+            ],
+            [
+                1903.9999542236328,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Purchase",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                93.98333740234375,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/tesla.png"
+    }
+]

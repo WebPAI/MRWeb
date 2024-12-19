@@ -1,0 +1,236 @@
+[
+    {
+        "position": [
+            [
+                224.0,
+                193.5
+            ],
+            [
+                260.0833282470703,
+                210.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                272.066650390625,
+                193.5
+            ],
+            [
+                354.2666473388672,
+                210.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "casting reels",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                248.0,
+                297.5
+            ],
+            [
+                322.78334045410156,
+                314.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Calcutta TE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                248.0,
+                317.5
+            ],
+            [
+                292.01666259765625,
+                334.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Cardiff",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                248.0,
+                337.5
+            ],
+            [
+                296.0500030517578,
+                354.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Castaic",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                248.0,
+                357.5
+            ],
+            [
+                347.6000061035156,
+                374.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Charter Special",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                248.0,
+                377.5
+            ],
+            [
+                315.3833312988281,
+                394.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Chronarch",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                854.0999755859375,
+                1238.0
+            ],
+            [
+                898.8332977294922,
+                1258.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "TODO",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1112.2833251953125,
+                1349.5
+            ],
+            [
+                1140.0166473388672,
+                1366.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "TOS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                756.5166625976562,
+                1369.5
+            ],
+            [
+                895.2166595458984,
+                1386.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Local Fishing Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                906.5499877929688,
+                1369.5
+            ],
+            [
+                1163.4833374023438,
+                1386.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "How to Start a Charter Fishing Business",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                32.0
+            ],
+            [
+                1712.0,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/tacklefiles_logo.png"
+    }
+]

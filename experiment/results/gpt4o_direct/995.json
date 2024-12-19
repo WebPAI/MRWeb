@@ -1,0 +1,504 @@
+[
+    {
+        "position": [
+            [
+                1360.6666259765625,
+                12.0
+            ],
+            [
+                1392.016616821289,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            229,
+            231,
+            235
+        ],
+        "text": "MPs",
+        "on_click_jump_to": "https://openparliament.ca/politicians/"
+    },
+    {
+        "position": [
+            [
+                1408.0166015625,
+                12.0
+            ],
+            [
+                1437.3832702636719,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            229,
+            231,
+            235
+        ],
+        "text": "Bills",
+        "on_click_jump_to": "https://openparliament.ca/bills/"
+    },
+    {
+        "position": [
+            [
+                1453.38330078125,
+                12.0
+            ],
+            [
+                1513.816635131836,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            251,
+            191,
+            36
+        ],
+        "text": "Debates",
+        "on_click_jump_to": "https://openparliament.ca/debates/"
+    },
+    {
+        "position": [
+            [
+                1529.816650390625,
+                12.0
+            ],
+            [
+                1617.499984741211,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            229,
+            231,
+            235
+        ],
+        "text": "Committees",
+        "on_click_jump_to": "https://openparliament.ca/committees/"
+    },
+    {
+        "position": [
+            [
+                1633.5,
+                12.0
+            ],
+            [
+                1677.1333312988281,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            229,
+            231,
+            235
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://openparliament.ca/about/"
+    },
+    {
+        "position": [
+            [
+                1693.13330078125,
+                12.0
+            ],
+            [
+                1727.9999694824219,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            229,
+            231,
+            235
+        ],
+        "text": "Labs",
+        "on_click_jump_to": "https://openparliament.ca/labs/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                65.5
+            ],
+            [
+                233.14999389648438,
+                82.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://openparliament.ca/"
+    },
+    {
+        "position": [
+            [
+                261.1333312988281,
+                65.5
+            ],
+            [
+                322.1666717529297,
+                82.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "DEBATES",
+        "on_click_jump_to": "https://openparliament.ca/debates/"
+    },
+    {
+        "position": [
+            [
+                350.1499938964844,
+                65.5
+            ],
+            [
+                384.56666564941406,
+                82.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "2008",
+        "on_click_jump_to": "https://openparliament.ca/debates/2008/"
+    },
+    {
+        "position": [
+            [
+                412.5499877929687,
+                65.5
+            ],
+            [
+                542.8499908447266,
+                82.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "MARCH 10TH, 2008",
+        "on_click_jump_to": "https://openparliament.ca/debates/2008/3/10/claude-bachand-6/"
+    },
+    {
+        "position": [
+            [
+                545.9500122070312,
+                162.0
+            ],
+            [
+                762.2333526611328,
+                182.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "See this statement in context.",
+        "on_click_jump_to": "https://openparliament.ca/debates/2008/3/10/claude-bachand-6/"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                218.0
+            ],
+            [
+                718.0333404541016,
+                238.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Claude Bachand",
+        "on_click_jump_to": "https://openparliament.ca/politicians/claude-bachand/"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                328.0
+            ],
+            [
+                1728.0,
+                352.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "See context",
+        "on_click_jump_to": "https://openparliament.ca/debates/2008/3/10/claude-bachand-6/"
+    },
+    {
+        "position": [
+            [
+                1425.699951171875,
+                480.0
+            ],
+            [
+                1503.7166137695312,
+                500.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Debates",
+        "on_click_jump_to": "https://openparliament.ca/debates/"
+    },
+    {
+        "position": [
+            [
+                1425.699951171875,
+                500.0
+            ],
+            [
+                1503.7166137695312,
+                520.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Committees",
+        "on_click_jump_to": "https://openparliament.ca/committees/"
+    },
+    {
+        "position": [
+            [
+                1425.699951171875,
+                520.0
+            ],
+            [
+                1503.7166137695312,
+                540.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Search",
+        "on_click_jump_to": "https://openparliament.ca/search/"
+    },
+    {
+        "position": [
+            [
+                1425.699951171875,
+                540.0
+            ],
+            [
+                1503.7166137695312,
+                560.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Alerts",
+        "on_click_jump_to": "https://openparliament.ca/alerts/"
+    },
+    {
+        "position": [
+            [
+                1519.7166748046875,
+                480.0
+            ],
+            [
+                1556.3000183105469,
+                500.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Bills",
+        "on_click_jump_to": "https://openparliament.ca/bills/"
+    },
+    {
+        "position": [
+            [
+                1519.7166748046875,
+                500.0
+            ],
+            [
+                1556.3000183105469,
+                520.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Votes",
+        "on_click_jump_to": "https://openparliament.ca/votes/"
+    },
+    {
+        "position": [
+            [
+                1572.300048828125,
+                480.0
+            ],
+            [
+                1698.7000427246094,
+                500.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Feedback / Contact",
+        "on_click_jump_to": "https://openparliament.ca/about/"
+    },
+    {
+        "position": [
+            [
+                1572.300048828125,
+                500.0
+            ],
+            [
+                1698.7000427246094,
+                520.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Haiku",
+        "on_click_jump_to": "https://openparliament.ca/labs/haiku/"
+    },
+    {
+        "position": [
+            [
+                1572.300048828125,
+                520.0
+            ],
+            [
+                1698.7000427246094,
+                540.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Developers",
+        "on_click_jump_to": "https://openparliament.ca/api/"
+    },
+    {
+        "position": [
+            [
+                1572.300048828125,
+                540.0
+            ],
+            [
+                1698.7000427246094,
+                560.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "JSON",
+        "on_click_jump_to": "https://api.openparliament.ca/debates/2008/3/10/claude-bachand-6/only/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                8.0
+            ],
+            [
+                399.06666564941406,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://openparliament.ca/static/images/logotype-white-2x.png"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                216.0
+            ],
+            [
+                292.0,
+                341.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://openparliament.ca/media/polpics/thumbnail/claude-bachand-thumb.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                472.0
+            ],
+            [
+                263.1166687011719,
+                520.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://openparliament.ca/static/images/opennorth-160.png"
+    }
+]

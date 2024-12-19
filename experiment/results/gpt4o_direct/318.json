@@ -1,0 +1,270 @@
+[
+    {
+        "position": [
+            [
+                942.2000122070312,
+                70.0
+            ],
+            [
+                985.3166809082031,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/index.aspx"
+    },
+    {
+        "position": [
+            [
+                1005.816650390625,
+                70.0
+            ],
+            [
+                1094.4666442871094,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Trip Reports",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/tripList.aspx"
+    },
+    {
+        "position": [
+            [
+                1114.9666748046875,
+                70.0
+            ],
+            [
+                1206.4500122070312,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Site Reviews",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/siteList.aspx"
+    },
+    {
+        "position": [
+            [
+                1226.949951171875,
+                70.0
+            ],
+            [
+                1282.0332946777344,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Lifelists",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/lifelistList.aspx"
+    },
+    {
+        "position": [
+            [
+                1302.5333251953125,
+                70.0
+            ],
+            [
+                1346.1666564941406,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/help.aspx"
+    },
+    {
+        "position": [
+            [
+                1366.6666259765625,
+                70.0
+            ],
+            [
+                1455.9999542236328,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Contact Info",
+        "on_click_jump_to": "https://www.planetscott.com/contact.aspx"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                1158.0
+            ],
+            [
+                671.3999938964844,
+                1178.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Africa: Egypt and Ethiopia",
+        "on_click_jump_to": "https://www.planetscott.com/trip/21/africa-egypt-and-ethiopia"
+    },
+    {
+        "position": [
+            [
+                484.0,
+                1182.0
+            ],
+            [
+                697.5833282470703,
+                1202.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Around The World in 66 Days",
+        "on_click_jump_to": "https://www.planetscott.com/trip/27/around-the-world-in-66-days"
+    },
+    {
+        "position": [
+            [
+                464.0,
+                1258.0
+            ],
+            [
+                523.2833404541016,
+                1278.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "https://www.planetscott.com/sitemap.xml"
+    },
+    {
+        "position": [
+            [
+                543.7833251953125,
+                1258.0
+            ],
+            [
+                679.7833251953125,
+                1278.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Hackers Challenge",
+        "on_click_jump_to": "https://www.planetscott.com/spammers.aspx"
+    },
+    {
+        "position": [
+            [
+                700.2833251953125,
+                1258.0
+            ],
+            [
+                757.8833160400391,
+                1278.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.planetscott.com/contact.aspx"
+    },
+    {
+        "position": [
+            [
+                1336.433349609375,
+                1256.0
+            ],
+            [
+                1456.000015258789,
+                1280.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "PlanetScott.com",
+        "on_click_jump_to": "http://www.planetscott.com/"
+    },
+    {
+        "position": [
+            [
+                464.0,
+                32.0
+            ],
+            [
+                560.0,
+                128.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/_images/graphics/planetscottlogo2.gif"
+    },
+    {
+        "position": [
+            [
+                464.0,
+                164.0
+            ],
+            [
+                1456.0,
+                908.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/8117/large/eurasian-coot-(fulica-atra).jpg"
+    }
+]

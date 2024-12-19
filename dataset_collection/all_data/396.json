@@ -1,0 +1,1020 @@
+[
+    {
+        "position": [
+            [
+                297.0,
+                201.0
+            ],
+            [
+                412.0,
+                217.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "non-profit groups",
+        "on_click_jump_to": "#np"
+    },
+    {
+        "position": [
+            [
+                800.0,
+                201.0
+            ],
+            [
+                1015.0,
+                217.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "smaller commercial organizations",
+        "on_click_jump_to": "#comm"
+    },
+    {
+        "position": [
+            [
+                1285.0,
+                201.0
+            ],
+            [
+                1367.0,
+                217.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "corporations",
+        "on_click_jump_to": "#corp"
+    },
+    {
+        "position": [
+            [
+                379.0,
+                287.0
+            ],
+            [
+                472.0,
+                303.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "A1 Financing",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.a1-financing.ca/');"
+    },
+    {
+        "position": [
+            [
+                159.0,
+                453.0
+            ],
+            [
+                264.0,
+                469.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "CW Consulting",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.cwconsulting.org/');"
+    },
+    {
+        "position": [
+            [
+                159.0,
+                2484.0
+            ],
+            [
+                345.0,
+                2500.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Kidsland Daycare Centres",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.kidsland-daycares.com/');"
+    },
+    {
+        "position": [
+            [
+                379.0,
+                2687.0
+            ],
+            [
+                612.0,
+                2703.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Children's Mental Health Project",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.fsw.ucalgary.ca/cmhp');"
+    },
+    {
+        "position": [
+            [
+                159.0,
+                2893.0
+            ],
+            [
+                276.0,
+                2909.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Culture Connect",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.culture-connect.com/');"
+    },
+    {
+        "position": [
+            [
+                379.0,
+                3096.0
+            ],
+            [
+                488.0,
+                3112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Clibbon Gallery",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.clibbongallery.com/');"
+    },
+    {
+        "position": [
+            [
+                159.0,
+                3708.0
+            ],
+            [
+                646.0,
+                3724.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Barbara J. Zuppinger, MSW, Counselling, E-Counselling & Mediation",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.ecounselling.ca/');"
+    },
+    {
+        "position": [
+            [
+                159.0,
+                4114.0
+            ],
+            [
+                251.0,
+                4130.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Just For Kids",
+        "on_click_jump_to": "javascript: OpenNewWindow('JustForKids/index.html');"
+    },
+    {
+        "position": [
+            [
+                379.0,
+                4355.0
+            ],
+            [
+                715.0,
+                4371.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Alberta Committee of Citizens with Disabilities",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.accd.net/');"
+    },
+    {
+        "position": [
+            [
+                159.0,
+                4521.0
+            ],
+            [
+                346.0,
+                4537.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Alberta Disabilities Forum",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.adforum.ca/');"
+    },
+    {
+        "position": [
+            [
+                379.0,
+                4687.0
+            ],
+            [
+                860.0,
+                4703.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Mentoring Canada - Fundamentals of Effective Board Involvement",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.mentoringcanada.ca/training/Boards/');"
+    },
+    {
+        "position": [
+            [
+                1196.0,
+                4735.0
+            ],
+            [
+                1465.0,
+                4751.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "second training site was also developed.",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.mentoringcanada.ca/training/Mentors/');"
+    },
+    {
+        "position": [
+            [
+                379.0,
+                5093.0
+            ],
+            [
+                577.0,
+                5109.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Accessible Housing Society",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://www.ahscalgary.ca/');"
+    },
+    {
+        "position": [
+            [
+                159.0,
+                5312.0
+            ],
+            [
+                394.0,
+                5328.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Nature Calgary Bird Study Group",
+        "on_click_jump_to": "javascript: OpenNewWindow('http://birdcomp.fanweb.ca/');"
+    },
+    {
+        "position": [
+            [
+                708.0,
+                5521.0
+            ],
+            [
+                741.0,
+                5534.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://webfoundations.com/index.html"
+    },
+    {
+        "position": [
+            [
+                759.0,
+                5521.0
+            ],
+            [
+                833.0,
+                5534.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Web Services",
+        "on_click_jump_to": "http://webfoundations.com/webservices.html"
+    },
+    {
+        "position": [
+            [
+                851.0,
+                5521.0
+            ],
+            [
+                910.0,
+                5534.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Consulting",
+        "on_click_jump_to": "http://webfoundations.com/consulting.html"
+    },
+    {
+        "position": [
+            [
+                928.0,
+                5521.0
+            ],
+            [
+                972.0,
+                5534.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Training",
+        "on_click_jump_to": "http://webfoundations.com/training.html"
+    },
+    {
+        "position": [
+            [
+                990.0,
+                5521.0
+            ],
+            [
+                1043.0,
+                5534.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Showcase",
+        "on_click_jump_to": "http://webfoundations.com/showcase.html"
+    },
+    {
+        "position": [
+            [
+                1061.0,
+                5521.0
+            ],
+            [
+                1133.0,
+                5534.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Costs & Fees",
+        "on_click_jump_to": "http://webfoundations.com/costs.html"
+    },
+    {
+        "position": [
+            [
+                1151.0,
+                5521.0
+            ],
+            [
+                1230.0,
+                5534.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Getting Ready",
+        "on_click_jump_to": "http://webfoundations.com/preparation.html"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                5521.0
+            ],
+            [
+                1308.0,
+                5534.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "http://webfoundations.com/contact.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                600.0,
+                93.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/banner.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                96.0
+            ],
+            [
+                82.0,
+                116.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/webservices.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                116.0
+            ],
+            [
+                67.0,
+                136.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/consulting.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                136.0
+            ],
+            [
+                58.0,
+                156.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/training.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                156.0
+            ],
+            [
+                80.0,
+                176.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/showcase.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                176.0
+            ],
+            [
+                80.0,
+                196.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/costs.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                196.0
+            ],
+            [
+                84.0,
+                216.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/getting_ready.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                216.0
+            ],
+            [
+                68.0,
+                236.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/contact.gif"
+    },
+    {
+        "position": [
+            [
+                3.0,
+                257.0
+            ],
+            [
+                58.0,
+                277.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/home.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                287.0
+            ],
+            [
+                369.0,
+                437.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show25.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                453.0
+            ],
+            [
+                1847.0,
+                603.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show00.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                619.0
+            ],
+            [
+                369.0,
+                769.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show11.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                822.0
+            ],
+            [
+                1847.0,
+                972.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show17.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                1025.0
+            ],
+            [
+                369.0,
+                1175.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show22.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                1228.0
+            ],
+            [
+                1847.0,
+                1378.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show24.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                1431.0
+            ],
+            [
+                369.0,
+                1581.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show16.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                1634.0
+            ],
+            [
+                1847.0,
+                1784.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show13.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                1837.0
+            ],
+            [
+                369.0,
+                1987.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show12.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                2040.0
+            ],
+            [
+                1847.0,
+                2190.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show15.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                2281.0
+            ],
+            [
+                369.0,
+                2431.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show18.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                2484.0
+            ],
+            [
+                1847.0,
+                2634.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show02.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                2687.0
+            ],
+            [
+                369.0,
+                2840.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show03.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                2893.0
+            ],
+            [
+                1847.0,
+                3043.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show10.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                3096.0
+            ],
+            [
+                369.0,
+                3249.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show14.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                3302.0
+            ],
+            [
+                1847.0,
+                3452.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show05.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                3505.0
+            ],
+            [
+                369.0,
+                3655.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show21.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                3708.0
+            ],
+            [
+                1847.0,
+                3858.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show07.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                3911.0
+            ],
+            [
+                369.0,
+                4061.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show28.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                4114.0
+            ],
+            [
+                1847.0,
+                4264.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show20.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                4355.0
+            ],
+            [
+                369.0,
+                4505.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show27.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                4521.0
+            ],
+            [
+                1847.0,
+                4671.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show26.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                4687.0
+            ],
+            [
+                369.0,
+                4837.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show23.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                4890.0
+            ],
+            [
+                1847.0,
+                5040.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show19.gif"
+    },
+    {
+        "position": [
+            [
+                169.0,
+                5093.0
+            ],
+            [
+                369.0,
+                5243.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show04.gif"
+    },
+    {
+        "position": [
+            [
+                1647.0,
+                5312.0
+            ],
+            [
+                1847.0,
+                5462.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/show01.gif"
+    },
+    {
+        "position": [
+            [
+                776.5,
+                5490.0
+            ],
+            [
+                1239.5,
+                5505.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://webfoundations.com/gfx/hbar.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1912.0,
+                5592.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://webfoundations.com/gfx/bkg.jpg"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                1467.8333740234375,
+                22.0
+            ],
+            [
+                1511.4667053222656,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1527.4666748046875,
+                22.0
+            ],
+            [
+                1557.7166748046875,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1573.7166748046875,
+                22.0
+            ],
+            [
+                1630.3500213623047,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1646.3499755859375,
+                22.0
+            ],
+            [
+                1727.9999694824219,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                265.0,
+                236.0
+            ],
+            [
+                345.0,
+                316.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/person1.jpg"
+    }
+]

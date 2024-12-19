@@ -1,0 +1,156 @@
+[
+    {
+        "position": [
+            [
+                1276.0,
+                16.0
+            ],
+            [
+                1353.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "GET TICKETS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1385.0,
+                16.0
+            ],
+            [
+                1454.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "NOMINEES",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1486.0,
+                16.0
+            ],
+            [
+                1564.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "CATEGORIES",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1596.0,
+                16.0
+            ],
+            [
+                1641.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1673.0,
+                16.0
+            ],
+            [
+                1742.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "SPONSORS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1774.0,
+                16.0
+            ],
+            [
+                1811.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "PRESS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1843.0,
+                16.0
+            ],
+            [
+                1904.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                544.0,
+                52.0
+            ],
+            [
+                640.0,
+                100.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    }
+]

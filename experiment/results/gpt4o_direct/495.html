@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage Recreation</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .background {
+            background-image: url('http://nemmco.com.au/media/images/background.jpg');
+            background-size: cover;
+            background-position: center;
+        }
+        .topmenu-bg {
+            background-image: url('http://nemmco.com.au/media/images/topmenu-bg.jpg');
+            background-size: cover;
+        }
+        .banner-bg {
+            background-image: url('http://nemmco.com.au/media/images/banner-bg.jpg');
+            background-size: cover;
+        }
+        .leftmenu-bg {
+            background-image: url('http://nemmco.com.au/media/images/leftmenu-bg.jpg');
+            background-size: cover;
+        }
+        .footer-bg {
+            background-image: url('http://nemmco.com.au/media/images/footer-bg.jpg');
+            background-size: cover;
+        }
+    </style>
+</head>
+<body class="background min-h-screen flex flex-col">
+    <div class="topmenu-bg h-8 flex items-center">
+        <img src="http://nemmco.com.au/media/images/logo.jpg" alt="Logo" class="h-full">
+    </div>
+    <div class="banner-bg h-24 flex items-center justify-center">
+        <h1 class="text-green-700 font-bold text-lg text-center">
+            From 1 July 2009 NEMMCO ceased operations. NEMMCO's roles and responsibilities have transitioned to the Australian Energy Market Operator (AEMO).
+        </h1>
+    </div>
+    <div class="flex-1 flex items-center justify-center">
+        <div class="text-center">
+            <p>To access the AEMO website please <a href="http://www.aemo.com.au/" class="text-blue-600">click here >></a></p>
+            <p>Some historical documentation and most data sets published by NEMMCO will continue to be available on the AEMO website.</p>
+            <p>For further information please contact the <a href="mailto:infocentre@aemo.com.au" class="text-blue-600">AEMO Information Centre</a> on 1300 361 011 (toll free).</p>
+        </div>
+    </div>
+    <div class="footer-bg h-12"></div>
+</body>
+</html>

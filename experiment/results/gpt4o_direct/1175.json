@@ -1,0 +1,584 @@
+[
+    {
+        "position": [
+            [
+                883.316650390625,
+                353.04998779296875
+            ],
+            [
+                923.9666442871094,
+                373.04998779296875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "home",
+        "on_click_jump_to": "http://tacklefiles.net/"
+    },
+    {
+        "position": [
+            [
+                944.4666748046876,
+                353.04998779296875
+            ],
+            [
+                1036.6666870117188,
+                373.04998779296875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "casting reels",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/index.htm"
+    },
+    {
+        "position": [
+            [
+                436.1666870117187,
+                415.0499877929687
+            ],
+            [
+                548.0000152587891,
+                439.0499877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Calcutta",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_calcutta.php"
+    },
+    {
+        "position": [
+            [
+                436.1666870117187,
+                439.0499877929687
+            ],
+            [
+                548.0000152587891,
+                463.0499877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Calcutta TE",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_calcuttate.php"
+    },
+    {
+        "position": [
+            [
+                436.1666870117187,
+                463.0499877929687
+            ],
+            [
+                548.0000152587891,
+                487.0499877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Cardiff",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_cardiff.php"
+    },
+    {
+        "position": [
+            [
+                436.1666870117187,
+                487.0499877929687
+            ],
+            [
+                548.0000152587891,
+                511.0499877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Castaic",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_castaic.php"
+    },
+    {
+        "position": [
+            [
+                436.1666870117187,
+                511.0499877929687
+            ],
+            [
+                548.0000152587891,
+                535.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Charter Special",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_charterspecial.php"
+    },
+    {
+        "position": [
+            [
+                436.1666870117187,
+                535.0499877929688
+            ],
+            [
+                548.0000152587891,
+                559.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Chronarch",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_chronarch.php"
+    },
+    {
+        "position": [
+            [
+                1420.3333740234375,
+                415.0499877929687
+            ],
+            [
+                1483.8333740234375,
+                439.0499877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Corvalus",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_corvalus.php"
+    },
+    {
+        "position": [
+            [
+                1420.3333740234375,
+                439.0499877929687
+            ],
+            [
+                1483.8333740234375,
+                463.0499877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Curado",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_curado.php"
+    },
+    {
+        "position": [
+            [
+                1420.3333740234375,
+                463.0499877929687
+            ],
+            [
+                1483.8333740234375,
+                487.0499877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Tiagra",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_tiagra.php"
+    },
+    {
+        "position": [
+            [
+                1420.3333740234375,
+                487.0499877929687
+            ],
+            [
+                1483.8333740234375,
+                511.0499877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "TLD",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_tld.php"
+    },
+    {
+        "position": [
+            [
+                1420.3333740234375,
+                511.0499877929687
+            ],
+            [
+                1483.8333740234375,
+                535.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Trinidad",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_trinidad.php"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                633.0499877929688
+            ],
+            [
+                543.5,
+                653.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Corvalus",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_corvalus.php"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                665.0499877929688
+            ],
+            [
+                540.5500030517578,
+                685.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Calcutta",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_calcutta.php"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                697.0499877929688
+            ],
+            [
+                509.8999938964844,
+                717.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "TLD",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/shimano_tld.php"
+    },
+    {
+        "position": [
+            [
+                676.0999755859375,
+                761.0499877929688
+            ],
+            [
+                722.5832977294922,
+                781.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "http://tacklefiles.net/index.php"
+    },
+    {
+        "position": [
+            [
+                743.0833129882812,
+                761.0499877929688
+            ],
+            [
+                784.066650390625,
+                781.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "CAST",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/index.htm"
+    },
+    {
+        "position": [
+            [
+                804.566650390625,
+                761.0499877929688
+            ],
+            [
+                839.8333129882812,
+                781.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "SPIN",
+        "on_click_jump_to": "http://tacklefiles.net/spinningreels/index.htm"
+    },
+    {
+        "position": [
+            [
+                860.3333129882812,
+                761.0499877929688
+            ],
+            [
+                886.6166534423828,
+                781.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "FLY",
+        "on_click_jump_to": "http://tacklefiles.net/flyreels/index.htm"
+    },
+    {
+        "position": [
+            [
+                907.11669921875,
+                761.0499877929688
+            ],
+            [
+                961.11669921875,
+                781.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "http://tacklefiles.net/about.htm"
+    },
+    {
+        "position": [
+            [
+                981.61669921875,
+                761.0499877929688
+            ],
+            [
+                1055.3333587646484,
+                781.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "http://tacklefiles.net/contact.htm"
+    },
+    {
+        "position": [
+            [
+                1075.8333740234375,
+                761.0499877929688
+            ],
+            [
+                1142.7000427246094,
+                781.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "SITEMAP",
+        "on_click_jump_to": "http://tacklefiles.net/sitemap.htm"
+    },
+    {
+        "position": [
+            [
+                1163.199951171875,
+                761.0499877929688
+            ],
+            [
+                1243.8999481201172,
+                781.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "SITEMAP 2",
+        "on_click_jump_to": "http://tacklefiles.net/sitemap2.htm"
+    },
+    {
+        "position": [
+            [
+                699.11669921875,
+                793.0499877929688
+            ],
+            [
+                730.3833618164062,
+                813.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "TOS",
+        "on_click_jump_to": "http://tacklefiles.net/castingreels/tos.htm"
+    },
+    {
+        "position": [
+            [
+                750.88330078125,
+                793.0499877929688
+            ],
+            [
+                906.63330078125,
+                813.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "Local Fishing Reports",
+        "on_click_jump_to": "http://www.reelreports.com/"
+    },
+    {
+        "position": [
+            [
+                927.13330078125,
+                793.0499877929688
+            ],
+            [
+                1220.88330078125,
+                813.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            102,
+            153
+        ],
+        "text": "How To Start A Charter Fishing Business",
+        "on_click_jump_to": "http://www.charterfishingbusiness.com/"
+    },
+    {
+        "position": [
+            [
+                640.0,
+                20.0
+            ],
+            [
+                1280.0,
+                152.8000030517578
+            ]
+        ],
+        "type": "img",
+        "src": "http://tacklefiles.net/images/tackle-files.png"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                172.8000030517578
+            ],
+            [
+                1600.0,
+                331.0500030517578
+            ]
+        ],
+        "type": "img",
+        "src": "http://tacklefiles.net/ads/AD_728x90.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                395.0499877929687
+            ],
+            [
+                1920.0,
+                579.0499877929688
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://tacklefiles.net/images/divider.gif"
+    }
+]

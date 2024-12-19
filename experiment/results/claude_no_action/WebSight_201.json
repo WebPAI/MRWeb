@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                400.0,
+                61.5
+            ],
+            [
+                447.3833312988281,
+                82.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Stories",
+        "on_click_jump_to": "#stories"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                93.5
+            ],
+            [
+                445.3833312988281,
+                114.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Events",
+        "on_click_jump_to": "#events"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                125.5
+            ],
+            [
+                570.0500030517578,
+                146.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Volunteer Opportunities",
+        "on_click_jump_to": "#volunteer"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                164.0
+            ],
+            [
+                1520.0,
+                420.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-tropical-image.jpg"
+    }
+]

@@ -1,0 +1,876 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                232.28334045410156,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://www.dailycomet.com/news/"
+    },
+    {
+        "position": [
+            [
+                248.28334045410156,
+                16.0
+            ],
+            [
+                296.0833282470703,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sports",
+        "on_click_jump_to": "https://www.dailycomet.com/sports/"
+    },
+    {
+        "position": [
+            [
+                312.08331298828125,
+                16.0
+            ],
+            [
+                414.04998779296875,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Entertainment",
+        "on_click_jump_to": "https://www.dailycomet.com/entertainment/"
+    },
+    {
+        "position": [
+            [
+                430.0499877929687,
+                16.0
+            ],
+            [
+                490.78332519531244,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Lifestyle",
+        "on_click_jump_to": "https://www.dailycomet.com/lifestyle/"
+    },
+    {
+        "position": [
+            [
+                506.7833251953125,
+                16.0
+            ],
+            [
+                562.6999816894531,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Opinion",
+        "on_click_jump_to": "https://www.dailycomet.com/opinion/"
+    },
+    {
+        "position": [
+            [
+                578.7000122070312,
+                16.0
+            ],
+            [
+                647.0333557128906,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Advertise",
+        "on_click_jump_to": "https://cm.dailycomet.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=daily_comet&utm_source=local_publication&utm_medium=topnav&utm_campaign=advertise_with_us"
+    },
+    {
+        "position": [
+            [
+                663.0333251953125,
+                16.0
+            ],
+            [
+                737.5499877929688,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Obituaries",
+        "on_click_jump_to": "https://www.dailycomet.com/obituaries/"
+    },
+    {
+        "position": [
+            [
+                753.5499877929688,
+                16.0
+            ],
+            [
+                844.6666564941406,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "eNewspaper",
+        "on_click_jump_to": "https://user.dailycomet.com/user/enewspaper"
+    },
+    {
+        "position": [
+            [
+                860.6666870117188,
+                16.0
+            ],
+            [
+                907.6166839599609,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Legals",
+        "on_click_jump_to": "https://www.dailycomet.com/public-notices"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                602.0
+            ],
+            [
+                564.0,
+                626.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "https://www.gannett.com/careers/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                626.0
+            ],
+            [
+                564.0,
+                650.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Accessibility",
+        "on_click_jump_to": "https://cm.dailycomet.com/accessibility/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                650.0
+            ],
+            [
+                564.0,
+                674.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "https://www.dailycomet.com/sitemap/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                674.0
+            ],
+            [
+                564.0,
+                698.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Legals",
+        "on_click_jump_to": "https://www.dailycomet.com/public-notices"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                698.0
+            ],
+            [
+                564.0,
+                722.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Our Ethical Principles",
+        "on_click_jump_to": "https://cm.dailycomet.com/ethical-conduct/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                722.0
+            ],
+            [
+                564.0,
+                746.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Responsible Disclosure",
+        "on_click_jump_to": "https://www.gannett.com/responsible-disclosure-program/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                746.0
+            ],
+            [
+                564.0,
+                770.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Subscription Terms & Conditions",
+        "on_click_jump_to": "https://cm.dailycomet.com/about-your-subscription/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                770.0
+            ],
+            [
+                564.0,
+                794.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "https://cm.dailycomet.com/terms/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                794.0
+            ],
+            [
+                564.0,
+                818.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://cm.dailycomet.com/privacy/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                818.0
+            ],
+            [
+                564.0,
+                842.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Your Privacy Choices",
+        "on_click_jump_to": "https://cm.dailycomet.com/your-privacy-choices/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                842.0
+            ],
+            [
+                564.0,
+                866.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Staff Directory",
+        "on_click_jump_to": "https://www.dailycomet.com/contact/staff/"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                602.0
+            ],
+            [
+                952.0,
+                626.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://help.dailycomet.com/contact-us"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                626.0
+            ],
+            [
+                952.0,
+                650.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Support Local Business",
+        "on_click_jump_to": "https://supportlocal.usatoday.com/"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                650.0
+            ],
+            [
+                952.0,
+                674.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Advertise Your Business",
+        "on_click_jump_to": "https://cm.dailycomet.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=daily_comet&utm_source=local_publication&utm_medium=menu&utm_campaign=advertise_with_us"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                674.0
+            ],
+            [
+                952.0,
+                698.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Advertising Terms and Conditions",
+        "on_click_jump_to": "https://cm.dailycomet.com/advertising-terms-conditions"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                698.0
+            ],
+            [
+                952.0,
+                722.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Buy and Sell",
+        "on_click_jump_to": "https://adportal.marketplaceadsonline.com/gatehouse-adportal/lahou-classified/index.html"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                722.0
+            ],
+            [
+                952.0,
+                746.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Licensing & Reprints",
+        "on_click_jump_to": "https://imagn.com/licensing-reprints/"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                746.0
+            ],
+            [
+                952.0,
+                770.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Help Center",
+        "on_click_jump_to": "https://help.dailycomet.com/"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                770.0
+            ],
+            [
+                952.0,
+                794.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Subscriber Guide",
+        "on_click_jump_to": "https://cm.dailycomet.com/subscriberguide"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                794.0
+            ],
+            [
+                952.0,
+                818.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Manage Account",
+        "on_click_jump_to": "https://account.dailycomet.com/"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                818.0
+            ],
+            [
+                952.0,
+                842.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Give Feedback",
+        "on_click_jump_to": "https://cm.dailycomet.com/site-feedback/"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                602.0
+            ],
+            [
+                1340.0,
+                626.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Subscribe Today",
+        "on_click_jump_to": "https://subscribe.dailycomet.com/?gps-source=CPSUBFOOTER&itm_medium=onsite&itm_campaign=subfooter&itm_source=subfooter&itm_content=subfooter"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                626.0
+            ],
+            [
+                1340.0,
+                650.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Newsletters",
+        "on_click_jump_to": "https://profile.dailycomet.com/newsletters/manage"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                650.0
+            ],
+            [
+                1340.0,
+                674.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "https://www.facebook.com/dailycomet"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                674.0
+            ],
+            [
+                1340.0,
+                698.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "X",
+        "on_click_jump_to": "https://www.twitter.com/dailycomet"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                698.0
+            ],
+            [
+                1340.0,
+                722.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "eNewspaper",
+        "on_click_jump_to": "https://user.dailycomet.com/user/enewspaper"
+    },
+    {
+        "position": [
+            [
+                1356.0,
+                602.0
+            ],
+            [
+                1728.0,
+                626.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Jobs",
+        "on_click_jump_to": "https://www.dailycomet.com/marketplace/jobs/"
+    },
+    {
+        "position": [
+            [
+                1356.0,
+                626.0
+            ],
+            [
+                1728.0,
+                650.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Cars",
+        "on_click_jump_to": "https://www.dailycomet.com/marketplace/cars/"
+    },
+    {
+        "position": [
+            [
+                1356.0,
+                650.0
+            ],
+            [
+                1728.0,
+                674.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Homes",
+        "on_click_jump_to": "https://www.dailycomet.com/homes"
+    },
+    {
+        "position": [
+            [
+                1356.0,
+                674.0
+            ],
+            [
+                1728.0,
+                698.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Classifieds",
+        "on_click_jump_to": "https://classifieds.dailycomet.com/"
+    },
+    {
+        "position": [
+            [
+                1356.0,
+                698.0
+            ],
+            [
+                1728.0,
+                722.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Pay Your Ad Bill",
+        "on_click_jump_to": "https://www.billeriq.com/ebpp/GHM3824/Login"
+    },
+    {
+        "position": [
+            [
+                1356.0,
+                722.0
+            ],
+            [
+                1728.0,
+                746.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Reviewed.com",
+        "on_click_jump_to": "https://reviewed.usatoday.com/"
+    },
+    {
+        "position": [
+            [
+                1356.0,
+                746.0
+            ],
+            [
+                1728.0,
+                770.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "10Best",
+        "on_click_jump_to": "https://www.10best.com/"
+    },
+    {
+        "position": [
+            [
+                1356.0,
+                770.0
+            ],
+            [
+                1728.0,
+                794.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "LocaliQ Digital Marketing Solutions",
+        "on_click_jump_to": "https://localiq.com/?utm_source=local_publication&utm_medium=footer&utm_campaign=our_partners_link&utm_content=daily_comet&cid=Web_LiQ_Network_PublicationFooter_AdvertiseWithUs_Inquiry"
+    },
+    {
+        "position": [
+            [
+                660.0,
+                88.0
+            ],
+            [
+                1260.0,
+                538.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.dailycomet.com/gcdn/authoring/2009/11/25/NCOU/ghows-DA-3baf1e4d-6f39-40fd-9c74-69ae2a4c798f-53796a6d.jpeg?width=600&height=450&fit=crop&format=pjpg&auto=webp"
+    }
+]

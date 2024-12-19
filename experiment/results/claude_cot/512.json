@@ -1,0 +1,468 @@
+[
+    {
+        "position": [
+            [
+                1530.8333740234375,
+                52.0
+            ],
+            [
+                1603.2500457763672,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "(0) ITEMS",
+        "on_click_jump_to": "file:///cart"
+    },
+    {
+        "position": [
+            [
+                1619.25,
+                52.0
+            ],
+            [
+                1728.0,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Log In/Register",
+        "on_click_jump_to": "file:///login"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                96.0
+            ],
+            [
+                283.1166687011719,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                283.1166687011719,
+                96.0
+            ],
+            [
+                438.1333312988281,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Hot Vendors ▼",
+        "on_click_jump_to": "file:///vendors"
+    },
+    {
+        "position": [
+            [
+                438.1333312988281,
+                96.0
+            ],
+            [
+                553.8166656494141,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "file:///about-us"
+    },
+    {
+        "position": [
+            [
+                553.816650390625,
+                96.0
+            ],
+            [
+                683.4666442871094,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                683.4666748046875,
+                96.0
+            ],
+            [
+                769.7833557128906,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQs",
+        "on_click_jump_to": "file:///faqs"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                169.5
+            ],
+            [
+                230.23333740234375,
+                186.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                246.76666259765625,
+                169.5
+            ],
+            [
+                332.3333282470703,
+                186.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Pegasystems",
+        "on_click_jump_to": "file:///pegasystems"
+    },
+    {
+        "position": [
+            [
+                348.8666687011719,
+                169.5
+            ],
+            [
+                616.5333557128906,
+                186.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "PCBA (Certified Pega Business Architect)",
+        "on_click_jump_to": "file:///pcba"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                1090.0
+            ],
+            [
+                680.6166687011719,
+                1114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                712.61669921875,
+                1090.0
+            ],
+            [
+                780.3000335693359,
+                1114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "file:///about-us"
+    },
+    {
+        "position": [
+            [
+                812.2999877929688,
+                1090.0
+            ],
+            [
+                912.7499847412109,
+                1114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "file:///privacy"
+    },
+    {
+        "position": [
+            [
+                944.75,
+                1090.0
+            ],
+            [
+                983.0666656494141,
+                1114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQs",
+        "on_click_jump_to": "file:///faqs"
+    },
+    {
+        "position": [
+            [
+                1015.066650390625,
+                1090.0
+            ],
+            [
+                1061.3333129882812,
+                1114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DMCA",
+        "on_click_jump_to": "file:///dmca"
+    },
+    {
+        "position": [
+            [
+                1093.3333740234375,
+                1090.0
+            ],
+            [
+                1168.8333740234375,
+                1114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Guarantee",
+        "on_click_jump_to": "file:///guarantee"
+    },
+    {
+        "position": [
+            [
+                1200.8333740234375,
+                1090.0
+            ],
+            [
+                1282.483383178711,
+                1114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                48.0
+            ],
+            [
+                421.71665954589844,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.vcetests.com/assets/site/image/1548236365_logo.png"
+    },
+    {
+        "position": [
+            [
+                425.3333129882813,
+                285.0
+            ],
+            [
+                449.3333129882813,
+                309.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///path/to/pdf-icon.jpg"
+    },
+    {
+        "position": [
+            [
+                948.0,
+                285.0
+            ],
+            [
+                972.0,
+                309.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///path/to/pdf-pt.jpg"
+    },
+    {
+        "position": [
+            [
+                1470.6666259765625,
+                285.0
+            ],
+            [
+                1494.6666259765625,
+                309.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///path/to/software.png"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                498.0
+            ],
+            [
+                704.0,
+                1010.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///path/to/bundle.png"
+    },
+    {
+        "position": [
+            [
+                736.0,
+                542.0
+            ],
+            [
+                760.0,
+                566.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///path/to/check.png"
+    },
+    {
+        "position": [
+            [
+                736.0,
+                574.0
+            ],
+            [
+                760.0,
+                598.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///path/to/check.png"
+    },
+    {
+        "position": [
+            [
+                736.0,
+                606.0
+            ],
+            [
+                760.0,
+                630.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///path/to/check.png"
+    },
+    {
+        "position": [
+            [
+                948.0,
+                1146.0
+            ],
+            [
+                972.0,
+                1170.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///path/to/payment.png"
+    }
+]

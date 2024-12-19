@@ -1,0 +1,156 @@
+[
+    {
+        "position": [
+            [
+                1285.449951171875,
+                21.5
+            ],
+            [
+                1328.3499603271484,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.3499755859375,
+                21.5
+            ],
+            [
+                1396.5166320800781,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Artists",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1420.5166015625,
+                21.5
+            ],
+            [
+                1496.699935913086,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Exhibitions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1520.699951171875,
+                21.5
+            ],
+            [
+                1583.9999542236328,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Purchase",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                98.0
+            ],
+            [
+                460.53334045410156,
+                122.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Featured Artists",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                142.0
+            ],
+            [
+                421.6999969482422,
+                166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Exhibitions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                186.0
+            ],
+            [
+                505.3999938964844,
+                210.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Purchase Information",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                16.0
+            ],
+            [
+                368.0,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.jpg"
+    }
+]

@@ -1,0 +1,304 @@
+[
+    {
+        "position": [
+            [
+                890.6666870117188,
+                42.0
+            ],
+            [
+                933.7833557128906,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.holidaylodges-uk.com/"
+    },
+    {
+        "position": [
+            [
+                954.2833251953124,
+                42.0
+            ],
+            [
+                1064.3333129882812,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "English Lodges",
+        "on_click_jump_to": "https://www.holidaylodges-uk.com/country/England.html"
+    },
+    {
+        "position": [
+            [
+                1084.8333740234375,
+                42.0
+            ],
+            [
+                1202.1333770751953,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Scottish Lodges",
+        "on_click_jump_to": "https://www.holidaylodges-uk.com/country/Scotland.html"
+    },
+    {
+        "position": [
+            [
+                1222.63330078125,
+                42.0
+            ],
+            [
+                1324.5832977294922,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Welsh Lodges",
+        "on_click_jump_to": "https://www.holidaylodges-uk.com/country/Wales.html"
+    },
+    {
+        "position": [
+            [
+                1345.0833740234375,
+                42.0
+            ],
+            [
+                1433.616714477539,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Area Guides",
+        "on_click_jump_to": "https://www.holidaylodges-uk.com/area/index.html"
+    },
+    {
+        "position": [
+            [
+                906.6666870117188,
+                66.0
+            ],
+            [
+                1006.0500183105469,
+                86.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Special offers",
+        "on_click_jump_to": "https://www.holidaylodges-uk.com/special-offers/index.html"
+    },
+    {
+        "position": [
+            [
+                640.433349609375,
+                1004.2833251953124
+            ],
+            [
+                708.7666778564453,
+                1024.2833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Advertise",
+        "on_click_jump_to": "https://www.holidaylodges-uk.com/listings.html"
+    },
+    {
+        "position": [
+            [
+                729.2666625976562,
+                1004.2833251953124
+            ],
+            [
+                825.9166717529297,
+                1024.2833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms of Use",
+        "on_click_jump_to": "https://www.4theuk.com/terms.htm"
+    },
+    {
+        "position": [
+            [
+                846.4166870117188,
+                1004.2833251953124
+            ],
+            [
+                899.2500152587891,
+                1024.2833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy",
+        "on_click_jump_to": "https://www.4theuk.com/privacy.htm"
+    },
+    {
+        "position": [
+            [
+                919.75,
+                1004.2833251953124
+            ],
+            [
+                978.0333404541016,
+                1024.2833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Cookies",
+        "on_click_jump_to": "https://www.4theuk.com/cookies.html"
+    },
+    {
+        "position": [
+            [
+                998.5333251953124,
+                1004.2833251953124
+            ],
+            [
+                1063.749984741211,
+                1024.2833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About us",
+        "on_click_jump_to": "https://www.4theuk.com/about_us.htm"
+    },
+    {
+        "position": [
+            [
+                1084.25,
+                1004.2833251953124
+            ],
+            [
+                1177.3999938964844,
+                1024.2833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Site Network",
+        "on_click_jump_to": "https://www.4theuk.com/sites/index.html"
+    },
+    {
+        "position": [
+            [
+                1197.9000244140625,
+                1004.2833251953124
+            ],
+            [
+                1279.550033569336,
+                1024.2833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://www.4theuk.com/contact.html"
+    },
+    {
+        "position": [
+            [
+                464.0,
+                32.0
+            ],
+            [
+                890.6666870117188,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.holidaylodges-uk.com/images/logo.jpg"
+    },
+    {
+        "position": [
+            [
+                488.0,
+                184.0
+            ],
+            [
+                1432.0,
+                858.2833251953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://imagefolder.co.uk/ccp/siteimage/pics/490c0e9a2d7ee5f5aa6bac0fa515b5c0.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                1042.2833251953125
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.holidaylodges-uk.com/images/logs.jpg"
+    }
+]

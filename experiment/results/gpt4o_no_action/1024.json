@@ -1,0 +1,150 @@
+[
+    {
+        "position": [
+            [
+                1727.6500244140625,
+                20.0
+            ],
+            [
+                1770.7666931152344,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1786.7666015625,
+                20.0
+            ],
+            [
+                1830.3999328613281,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1846.4000244140625,
+                20.0
+            ],
+            [
+                1904.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                305.0
+            ],
+            [
+                1275.8333282470703,
+                325.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Post 1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                337.0
+            ],
+            [
+                1278.066665649414,
+                357.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Post 2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                369.0
+            ],
+            [
+                1278.4499969482422,
+                389.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Post 3",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                157.0
+            ],
+            [
+                1200.0,
+                181.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/image1.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                237.0
+            ],
+            [
+                1200.0,
+                261.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/image2.jpg"
+    }
+]

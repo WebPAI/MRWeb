@@ -1,0 +1,210 @@
+[
+    {
+        "position": [
+            [
+                853.9500122070312,
+                19.0
+            ],
+            [
+                1040.4166870117188,
+                41.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "ESP32 RS485 Input 4",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                718.4833374023438,
+                212.0
+            ],
+            [
+                749.75,
+                232.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "WiFi",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                899.5999755859375,
+                325.0
+            ],
+            [
+                1020.38330078125,
+                345.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Ini link Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                908.8333129882812,
+                357.0
+            ],
+            [
+                1011.1333160400391,
+                377.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Ini link Tik Tok",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                904.88330078125,
+                389.0
+            ],
+            [
+                1015.0832977294922,
+                409.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Ini link Youtube",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                898.6500244140625,
+                421.0
+            ],
+            [
+                1021.3333587646484,
+                441.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Ini link Instagram",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                897.11669921875,
+                453.0
+            ],
+            [
+                1022.86669921875,
+                473.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Ini link WhatsApp",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                876.683349609375,
+                485.0
+            ],
+            [
+                1043.3000183105469,
+                505.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Ini link Telegram Group",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                908.7999877929688,
+                509.0
+            ],
+            [
+                1011.1999816894531,
+                529.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "NGO ECJCare",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                60.0
+            ],
+            [
+                952.0,
+                84.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/image1.jpg"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                60.0
+            ],
+            [
+                1408.0,
+                84.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/image2.jpg"
+    }
+]

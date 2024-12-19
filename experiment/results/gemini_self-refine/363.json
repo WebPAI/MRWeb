@@ -1,0 +1,666 @@
+[
+    {
+        "position": [
+            [
+                8.0,
+                9.600006103515623
+            ],
+            [
+                180.01666259765625,
+                25.600006103515625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Skip to primary navigation",
+        "on_click_jump_to": "#genesis-nav-primary"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                28.800003051757812
+            ],
+            [
+                374.6499938964844,
+                44.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "SHOP: FREE SHIPPING ON U.S. ORDERS OVER $50",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                440.6000061035156
+            ],
+            [
+                95.10000610351562,
+                456.6000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://www.hispaintbrush.com/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                461.7999877929687
+            ],
+            [
+                103.08332824707031,
+                477.7999877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://www.hispaintbrush.com/meet-michele/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                483.0
+            ],
+            [
+                88.89999389648438,
+                499.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "SHOP",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                504.2000122070313
+            ],
+            [
+                91.53334045410156,
+                520.2000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "BLOG",
+        "on_click_jump_to": "https://www.hispaintbrush.com/blog/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                525.4000244140625
+            ],
+            [
+                135.0500030517578,
+                541.4000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "PORTFOLIO",
+        "on_click_jump_to": "https://www.hispaintbrush.com/portfolio/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                546.5999755859375
+            ],
+            [
+                122.25,
+                562.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://www.hispaintbrush.com/contact/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                581.7999877929688
+            ],
+            [
+                47.100006103515625,
+                597.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.hispaintbrush.com/"
+    },
+    {
+        "position": [
+            [
+                59.55000305175781,
+                581.7999877929688
+            ],
+            [
+                96.91667175292969,
+                597.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Prints",
+        "on_click_jump_to": "https://www.hispaintbrush.com/product-category/prints/"
+    },
+    {
+        "position": [
+            [
+                218.1999969482422,
+                1581.4666748046875
+            ],
+            [
+                265.68333435058594,
+                1597.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Charity",
+        "on_click_jump_to": "https://www.hispaintbrush.com/product-category/charity/"
+    },
+    {
+        "position": [
+            [
+                273.16668701171875,
+                1581.4666748046875
+            ],
+            [
+                310.5333557128906,
+                1597.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Prints",
+        "on_click_jump_to": "https://www.hispaintbrush.com/product-category/prints/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                1616.6666259765625
+            ],
+            [
+                111.98333740234376,
+                1632.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "DESCRIPTION",
+        "on_click_jump_to": "#tab-description"
+    },
+    {
+        "position": [
+            [
+                115.98333740234376,
+                1616.6666259765625
+            ],
+            [
+                209.73333740234375,
+                1632.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "REVIEWS (0)",
+        "on_click_jump_to": "#tab-reviews"
+    },
+    {
+        "position": [
+            [
+                228.8999938964844,
+                1706.2666015625
+            ],
+            [
+                293.76666259765625,
+                1722.2666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Notecards",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/indian-girl-with-butterfly-wings-notecards/"
+    },
+    {
+        "position": [
+            [
+                708.7999877929688,
+                1706.2666015625
+            ],
+            [
+                767.4333190917969,
+                1722.2666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "“Alasan”",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/african-boy-art-print/"
+    },
+    {
+        "position": [
+            [
+                798.5333251953125,
+                1706.2666015625
+            ],
+            [
+                902.5166473388672,
+                1722.2666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "“Little Mother”.",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/children-in-el-salvador-art-print/"
+    },
+    {
+        "position": [
+            [
+                79.35000610351562,
+                2097.85009765625
+            ],
+            [
+                437.1666564941406,
+                2121.85009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "WWW.CALCUTTAMERCY.ORG",
+        "on_click_jump_to": "http://www.calcuttamercy.org/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                2757.39990234375
+            ],
+            [
+                1912.0,
+                2886.833236694336
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "African boy standing outside with his hands behind his head.\nAFRICAN BOY ART PRINT\n$35.00",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/african-boy-art-print/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                3190.833251953125
+            ],
+            [
+                1912.0,
+                3320.266586303711
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "painting of girl in blue dress holding her little brother wearing red in El Salvador\nCHILDREN IN EL SALVADOR ART PRINT\n$25.00",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/children-in-el-salvador-art-print/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                3624.2666015625
+            ],
+            [
+                1912.0,
+                3753.699935913086
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Girl holding card with dancing Indian girl with butterfly wings on the front of it.\nINDIAN GIRL WITH BUTTERFLY WINGS NOTECARDS\n$4.00 – $20.00",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/indian-girl-with-butterfly-wings-notecards/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                4057.699951171875
+            ],
+            [
+                1912.0,
+                4187.133285522461
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Watercolor art print of a young girl from India looking up at the viewer\nGIRL FROM INDIA ART PRINT\n$35.00",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/girl-from-india-art-print/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                4206.7333984375
+            ],
+            [
+                95.10000610351562,
+                4222.7333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://www.hispaintbrush.com/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                4227.93310546875
+            ],
+            [
+                111.10000610351562,
+                4243.93310546875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "SEARCH",
+        "on_click_jump_to": "https://www.hispaintbrush.com/search/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                4249.13330078125
+            ],
+            [
+                88.89999389648438,
+                4265.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "SHOP",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                4270.33349609375
+            ],
+            [
+                78.83332824707031,
+                4286.33349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://www.hispaintbrush.com/faq/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                4291.533203125
+            ],
+            [
+                135.11666870117188,
+                4307.533203125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "SUBSCRIBE",
+        "on_click_jump_to": "https://www.hispaintbrush.com/subscribe/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                4312.7333984375
+            ],
+            [
+                122.25,
+                4328.7333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://www.hispaintbrush.com/contact/"
+    },
+    {
+        "position": [
+            [
+                369.9666748046875,
+                4347.93310546875
+            ],
+            [
+                483.7666778564453,
+                4363.93310546875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Pixel Me Designs",
+        "on_click_jump_to": "http://www.pixelmedesigns.com/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                46.399993896484375
+            ],
+            [
+                1008.0,
+                415.3999938964844
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.hispaintbrush.com/wp-content/themes/pmd-hispaint/images/header.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                599.4000244140625
+            ],
+            [
+                608.0,
+                1327.4000244140625
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.hispaintbrush.com/wp-content/uploads/2013/03/Overcome-Michele-Struss-600x728.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                2469.39990234375
+            ],
+            [
+                308.0,
+                2769.39990234375
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.hispaintbrush.com/wp-content/uploads/2013/03/Alasan-Michele-Struss-300x300.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                2902.833251953125
+            ],
+            [
+                308.0,
+                3202.833251953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.hispaintbrush.com/wp-content/uploads/2013/03/Little-Mother-Michele-Struss-300x300.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                3336.2666015625
+            ],
+            [
+                308.0,
+                3636.2666015625
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.hispaintbrush.com/wp-content/uploads/2013/03/Overcome-Michele-Struss-2-300x300.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                3769.699951171875
+            ],
+            [
+                308.0,
+                4069.699951171875
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.hispaintbrush.com/wp-content/uploads/2019/12/Hiding-Hurt-by-Michele-Struss-1-300x300.jpg"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "position": [
+            [
+                209.1833343505859,
+                30.0
+            ],
+            [
+                246.1833343505859,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.buylocalfood.org/directory/listing/seeds-of-solidarity-farm"
+    },
+    {
+        "position": [
+            [
+                266.183349609375,
+                30.0
+            ],
+            [
+                304.183349609375,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://etheses.whiterose.ac.uk/8963/"
+    },
+    {
+        "position": [
+            [
+                324.183349609375,
+                30.0
+            ],
+            [
+                372.183349609375,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://support.dataquestdigital.com.au/hc/en-us/articles/115014456188-DQ-Site-Builder-How-To"
+    },
+    {
+        "position": [
+            [
+                1813.0,
+                24.0
+            ],
+            [
+                1896.0,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Register",
+        "on_click_jump_to": "https://www.shawnhubbard.com/communities/lincolnpark.html"
+    }
+]

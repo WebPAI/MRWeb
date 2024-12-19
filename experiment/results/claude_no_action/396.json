@@ -1,0 +1,62 @@
+[
+    {
+        "position": [
+            [
+                856.5,
+                560.5
+            ],
+            [
+                894.5,
+                579.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                914.5,
+                560.5
+            ],
+            [
+                962.5,
+                579.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                982.5,
+                560.5
+            ],
+            [
+                1063.5,
+                579.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    }
+]

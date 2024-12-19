@@ -1,0 +1,830 @@
+[
+    {
+        "position": [
+            [
+                864.36669921875,
+                16.0
+            ],
+            [
+                1055.6333618164062,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "THE WINE SNOB.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                810.0,
+                66.0
+            ],
+            [
+                856.4833374023438,
+                86.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                872.4833374023438,
+                66.0
+            ],
+            [
+                953.8666687011719,
+                86.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT ME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                969.86669921875,
+                66.0
+            ],
+            [
+                1110.0000305175781,
+                86.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FREELANCE WORK",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                968.0
+            ],
+            [
+                542.2833251953125,
+                992.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "<-- Thirty Oregon Wines in Thirty Days: Day 4",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1373.1666259765625,
+                968.0
+            ],
+            [
+                1711.9999389648438,
+                992.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Thirty Oregon Wines in Thirty Days: Day 6! -->",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1074.0
+            ],
+            [
+                279.3999938964844,
+                1094.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Pingback:",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1306.0
+            ],
+            [
+                1430.1499938964844,
+                1326.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "My Tweets",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1658.0
+            ],
+            [
+                1411.5333404541016,
+                1678.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Bargain!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1690.0
+            ],
+            [
+                1438.1333312988281,
+                1710.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Big-n-nasty",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1722.0
+            ],
+            [
+                1415.5333404541016,
+                1742.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Bubbles!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1754.0
+            ],
+            [
+                1420.3666687011719,
+                1774.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "California",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1786.0
+            ],
+            [
+                1439.5500030517578,
+                1806.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Chardonnay",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1818.0
+            ],
+            [
+                1439.9833374023438,
+                1838.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Francophilia",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1850.0
+            ],
+            [
+                1418.6499938964844,
+                1870.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Holidays!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1882.0
+            ],
+            [
+                1423.3833312988281,
+                1902.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Italia OPC",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1914.0
+            ],
+            [
+                1405.9833374023438,
+                1934.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Oregon",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1946.0
+            ],
+            [
+                1429.9666595458984,
+                1966.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Oregon 30",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                1978.0
+            ],
+            [
+                1498.683334350586,
+                1998.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "in 30 Oregon whites",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2010.0
+            ],
+            [
+                1444.0166625976562,
+                2030.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Oregon wine",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2042.0
+            ],
+            [
+                1479.4499969482422,
+                2062.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Pacific Northwest",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2074.0
+            ],
+            [
+                1458.1166687011719,
+                2094.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Pink Pinot Gris",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2106.0
+            ],
+            [
+                1423.75,
+                2126.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Pinot Noir",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2138.0
+            ],
+            [
+                1408.4666595458984,
+                2158.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Riesling",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2170.0
+            ],
+            [
+                1387.9166717529297,
+                2190.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Rose",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2202.0
+            ],
+            [
+                1476.8833312988281,
+                2222.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Southern Oregon",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2234.0
+            ],
+            [
+                1392.5,
+                2254.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Spain",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2266.0
+            ],
+            [
+                1464.2666625976562,
+                2286.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Summer whites",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2298.0
+            ],
+            [
+                1393.6499938964844,
+                2318.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Syrah",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2330.0
+            ],
+            [
+                1435.683334350586,
+                2350.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Tempranillo",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2362.0
+            ],
+            [
+                1458.2333374023438,
+                2382.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Uncategorized",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2394.0
+            ],
+            [
+                1412.2833404541016,
+                2414.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "US-of-A",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2426.0
+            ],
+            [
+                1444.4499969482422,
+                2446.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "weird blends",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2458.0
+            ],
+            [
+                1445.8500061035156,
+                2478.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "weird grapes",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2490.0
+            ],
+            [
+                1583.1999969482422,
+                2510.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Willamette Wine Sale Goodness",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2606.0
+            ],
+            [
+                1442.5166625976562,
+                2626.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "August 2017",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2638.0
+            ],
+            [
+                1438.0333404541016,
+                2658.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "March 2016",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2670.0
+            ],
+            [
+                1467.566665649414,
+                2690.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "December 2015",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2702.0
+            ],
+            [
+                1467.2333374023438,
+                2722.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "November 2015",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                2734.0
+            ],
+            [
+                1451.7333374023438,
+                2754.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "October 2015",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                296.0
+            ],
+            [
+                809.5999755859375,
+                320.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/deponte_cellars.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                528.0
+            ],
+            [
+                809.5999755859375,
+                552.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/grapes.jpg"
+    }
+]

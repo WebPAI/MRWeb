@@ -1,0 +1,358 @@
+[
+    {
+        "position": [
+            [
+                1426.0,
+                38.5
+            ],
+            [
+                1467.0,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Sign in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1478.0,
+                38.5
+            ],
+            [
+                1536.0,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                128.5
+            ],
+            [
+                456.0,
+                147.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "institutional",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                148.5
+            ],
+            [
+                436.0,
+                167.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "personal",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                168.5
+            ],
+            [
+                488.0,
+                187.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "not a subscriber?",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                252.5
+            ],
+            [
+                422.0,
+                271.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "library",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                272.5
+            ],
+            [
+                453.0,
+                291.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "free articles",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                292.5
+            ],
+            [
+                483.0,
+                311.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "audio interviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                312.5
+            ],
+            [
+                432.0,
+                331.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "podcast",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                332.5
+            ],
+            [
+                421.0,
+                351.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "artists",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                352.5
+            ],
+            [
+                493.0,
+                371.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "subjects & genres",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                372.5
+            ],
+            [
+                457.0,
+                391.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "publications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                392.5
+            ],
+            [
+                425.0,
+                411.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "writers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                384.0,
+                477.5
+            ],
+            [
+                485.0,
+                496.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "advanced search",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1376.0,
+                173.5
+            ],
+            [
+                1479.0,
+                192.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Advanced search",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1376.0,
+                330.0
+            ],
+            [
+                1400.0,
+                354.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/facebook.png"
+    },
+    {
+        "position": [
+            [
+                1408.0,
+                330.0
+            ],
+            [
+                1432.0,
+                354.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/instagram.png"
+    },
+    {
+        "position": [
+            [
+                1440.0,
+                330.0
+            ],
+            [
+                1464.0,
+                354.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/twitter.png"
+    },
+    {
+        "position": [
+            [
+                1472.0,
+                330.0
+            ],
+            [
+                1496.0,
+                354.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/spotify.png"
+    }
+]

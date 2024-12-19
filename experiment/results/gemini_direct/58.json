@@ -1,0 +1,256 @@
+[
+    {
+        "position": [
+            [
+                1242.11669921875,
+                18.0
+            ],
+            [
+                1311.11669921875,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Surgeries",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1327.11669921875,
+                18.0
+            ],
+            [
+                1400.9167022705078,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Medicines",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1416.9166259765625,
+                18.0
+            ],
+            [
+                1486.6832885742188,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Lab Tests",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1502.683349609375,
+                18.0
+            ],
+            [
+                1535.183349609375,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1551.183349609375,
+                18.0
+            ],
+            [
+                1656.4000091552734,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Join as Doctor",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1672.4000244140625,
+                18.0
+            ],
+            [
+                1712.0000305175781,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Login",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                323.0
+            ],
+            [
+                505.43333435058594,
+                345.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Dr. Saba Samreen",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                416.0
+            ],
+            [
+                404.78334045410156,
+                456.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Reviews\n188",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                472.0
+            ],
+            [
+                440.3999938964844,
+                492.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Osteoarthritis",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                448.3999938964844,
+                472.0
+            ],
+            [
+                581.1499938964844,
+                492.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Rheumatoid Arthritis",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                589.1500244140625,
+                472.0
+            ],
+            [
+                791.9666900634766,
+                492.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Systemic Lupus Erythematosus",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                799.9666748046875,
+                472.0
+            ],
+            [
+                885.8333435058594,
+                492.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Osteoporosis",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                320.0
+            ],
+            [
+                328.0,
+                416.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_direct/doctor_placeholder.jpg"
+    }
+]

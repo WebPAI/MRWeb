@@ -1,0 +1,130 @@
+[
+    {
+        "position": [
+            [
+                1256.88330078125,
+                24.0
+            ],
+            [
+                1311.0166320800781,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Join Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1331.5166015625,
+                24.0
+            ],
+            [
+                1417.6832733154297,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Real Stories",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1438.183349609375,
+                24.0
+            ],
+            [
+                1526.2666778564453,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Student Life",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1546.7666015625,
+                24.0
+            ],
+            [
+                1637.1832733154297,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Get Involved",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1657.683349609375,
+                24.0
+            ],
+            [
+                1728.000015258789,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Attending",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                100.0
+            ],
+            [
+                1728.0,
+                356.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/squirrel.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                568.0
+            ],
+            [
+                1728.0,
+                760.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/phoenix.jpg"
+    }
+]

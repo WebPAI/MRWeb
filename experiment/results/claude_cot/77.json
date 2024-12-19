@@ -1,0 +1,176 @@
+[
+    {
+        "position": [
+            [
+                1502.0333251953125,
+                33.5
+            ],
+            [
+                1545.1499786376953,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://ptsail.org/"
+    },
+    {
+        "position": [
+            [
+                1561.1500244140625,
+                33.5
+            ],
+            [
+                1610.5166931152344,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Racing",
+        "on_click_jump_to": "https://ptsail.org/racing-2/"
+    },
+    {
+        "position": [
+            [
+                1626.5166015625,
+                33.5
+            ],
+            [
+                1691.5499420166016,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "https://ptsail.org/calendar/"
+    },
+    {
+        "position": [
+            [
+                1707.550048828125,
+                33.5
+            ],
+            [
+                1790.8167114257812,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Join/Renew",
+        "on_click_jump_to": "https://ptsail.org/join-renew/"
+    },
+    {
+        "position": [
+            [
+                1806.816650390625,
+                33.5
+            ],
+            [
+                1850.4499816894531,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1866.449951171875,
+                33.5
+            ],
+            [
+                1903.9999542236328,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Links",
+        "on_click_jump_to": "https://ptsail.org/links/"
+    },
+    {
+        "position": [
+            [
+                1472.0833740234375,
+                155.0
+            ],
+            [
+                1534.3500518798828,
+                179.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Previous",
+        "on_click_jump_to": "https://ptsail.org/2011/09/11/americas-cup-world-series-plymouth-race-2/"
+    },
+    {
+        "position": [
+            [
+                1550.3499755859375,
+                155.0
+            ],
+            [
+                1583.9999694824219,
+                179.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Next",
+        "on_click_jump_to": "https://ptsail.org/2011/09/15/fall-nightcap-series-starts-sunday-september-18th/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                157.0,
+                83.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/uploads/2019/02/LogoCutout3-75px.png"
+    }
+]

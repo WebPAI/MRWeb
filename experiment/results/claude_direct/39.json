@@ -1,0 +1,296 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                24.0
+            ],
+            [
+                251.11666870117188,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.eweek.com/"
+    },
+    {
+        "position": [
+            [
+                267.1166687011719,
+                16.0
+            ],
+            [
+                382.1333312988281,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Networking",
+        "on_click_jump_to": "https://www.eweek.com/networking/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                124.0
+            ],
+            [
+                271.1999969482422,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Jeff Burt",
+        "on_click_jump_to": "https://www.eweek.com/author/jeff-burt/"
+    },
+    {
+        "position": [
+            [
+                1640.0,
+                114.0
+            ],
+            [
+                1868.5500030517578,
+                158.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "9 Best Artificial Intelligence (AI) 3D Generators...",
+        "on_click_jump_to": "https://www.eweek.com/artificial-intelligence/best-ai-3d-generators/"
+    },
+    {
+        "position": [
+            [
+                1640.0,
+                178.0
+            ],
+            [
+                1812.933334350586,
+                222.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "RingCentral Expands Its Collaboration Platform",
+        "on_click_jump_to": "https://www.eweek.com/cloud/ringcentral-expands-its-collaboration-platform/"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                322.0
+            ],
+            [
+                816.5666656494141,
+                342.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About eWeek",
+        "on_click_jump_to": "https://www.eweek.com/about/"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                354.0
+            ],
+            [
+                923.1333312988281,
+                374.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Subscribe to our Newsletter",
+        "on_click_jump_to": "https://www.eweek.com/subscribe-to-our-newsletter/"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                386.0
+            ],
+            [
+                809.75,
+                406.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Latest News",
+        "on_click_jump_to": "https://www.eweek.com/news/"
+    },
+    {
+        "position": [
+            [
+                692.0166625976562,
+                473.0
+            ],
+            [
+                816.5833282470703,
+                497.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "PRIVACY POLICY",
+        "on_click_jump_to": "file:///privacy"
+    },
+    {
+        "position": [
+            [
+                832.5833129882812,
+                473.0
+            ],
+            [
+                885.2999877929688,
+                497.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "TERMS",
+        "on_click_jump_to": "file:///terms"
+    },
+    {
+        "position": [
+            [
+                901.2999877929688,
+                473.0
+            ],
+            [
+                955.2999877929688,
+                497.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                971.2999877929688,
+                473.0
+            ],
+            [
+                1045.0166473388672,
+                497.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                1061.0166015625,
+                473.0
+            ],
+            [
+                1145.0999450683594,
+                497.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "ADVERTISE",
+        "on_click_jump_to": "file:///advertise"
+    },
+    {
+        "position": [
+            [
+                1161.0999755859375,
+                473.0
+            ],
+            [
+                1227.9666290283203,
+                497.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "SITEMAP",
+        "on_click_jump_to": "file:///sitemap"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                276.0
+            ],
+            [
+                688.0,
+                356.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_direct/logo.svg"
+    }
+]

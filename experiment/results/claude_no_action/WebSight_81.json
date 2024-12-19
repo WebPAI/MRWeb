@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                1417.566650390625,
+                19.5
+            ],
+            [
+                1460.4666442871094,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1488.8499755859375,
+                19.5
+            ],
+            [
+                1550.816635131836,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Products",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1579.199951171875,
+                19.5
+            ],
+            [
+                1644.9332885742188,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1673.316650390625,
+                19.5
+            ],
+            [
+                1727.999984741211,
+                40.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                584.0,
+                92.0
+            ],
+            [
+                1336.0,
+                116.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/sneaker-image.jpg"
+    }
+]

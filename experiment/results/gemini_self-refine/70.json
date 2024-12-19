@@ -1,0 +1,504 @@
+[
+    {
+        "position": [
+            [
+                442.0,
+                412.2166748046875
+            ],
+            [
+                517.1166687011719,
+                452.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/"
+    },
+    {
+        "position": [
+            [
+                533.11669921875,
+                412.2166748046875
+            ],
+            [
+                608.7500305175781,
+                452.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/about-us.html"
+    },
+    {
+        "position": [
+            [
+                624.75,
+                412.2166748046875
+            ],
+            [
+                793.1166687011719,
+                452.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Shop, Dine & More",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/p/shop-dine-more.html"
+    },
+    {
+        "position": [
+            [
+                809.11669921875,
+                412.2166748046875
+            ],
+            [
+                931.4000244140625,
+                452.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Membership",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/membership-info.html"
+    },
+    {
+        "position": [
+            [
+                947.4000244140624,
+                412.2166748046875
+            ],
+            [
+                1044.433364868164,
+                452.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/meetings.html"
+    },
+    {
+        "position": [
+            [
+                1060.433349609375,
+                412.2166748046875
+            ],
+            [
+                1152.9000091552734,
+                452.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sponsor",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/sponsorship.html"
+    },
+    {
+        "position": [
+            [
+                1168.9000244140625,
+                412.2166748046875
+            ],
+            [
+                1249.4000244140625,
+                452.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Events",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/events.html"
+    },
+    {
+        "position": [
+            [
+                1265.4000244140625,
+                412.2166748046875
+            ],
+            [
+                1356.5833587646484,
+                452.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/downtown-project.html"
+    },
+    {
+        "position": [
+            [
+                1372.5833740234375,
+                412.2166748046875
+            ],
+            [
+                1477.983383178711,
+                452.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Hist. Sites",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/historic-sites.html"
+    },
+    {
+        "position": [
+            [
+                514.5999755859375,
+                822.2166748046875
+            ],
+            [
+                660.5166320800781,
+                842.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "www.deanbank.com",
+        "on_click_jump_to": "http://www.deanbank.com/"
+    },
+    {
+        "position": [
+            [
+                880.6500244140625,
+                1134.2166748046875
+            ],
+            [
+                1079.8500366210938,
+                1154.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "www.franklinfoodpantry.org",
+        "on_click_jump_to": "http://www.franklinfoodpantry.org/"
+    },
+    {
+        "position": [
+            [
+                280.3500061035156,
+                1227.2166748046875
+            ],
+            [
+                315.71665954589844,
+                1247.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "2013",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/search/label/2013"
+    },
+    {
+        "position": [
+            [
+                324.6499938964844,
+                1227.2166748046875
+            ],
+            [
+                399.53334045410156,
+                1247.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "food elves",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/search/label/food%20elves"
+    },
+    {
+        "position": [
+            [
+                408.4666748046875,
+                1227.2166748046875
+            ],
+            [
+                491.40000915527344,
+                1247.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "food pantry",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/search/label/food%20pantry"
+    },
+    {
+        "position": [
+            [
+                500.3333129882813,
+                1227.2166748046875
+            ],
+            [
+                596.5166473388672,
+                1247.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Holiday Stroll",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/search/label/Holiday%20Stroll"
+    },
+    {
+        "position": [
+            [
+                605.4500122070312,
+                1227.2166748046875
+            ],
+            [
+                702.0500183105469,
+                1247.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "press release",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/search/label/press%20release"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                1281.2166748046875
+            ],
+            [
+                307.48333740234375,
+                1305.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Newer Post",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/2013/11/franklin-food-elves-coming-soon.html"
+    },
+    {
+        "position": [
+            [
+                680.6500244140625,
+                1281.2166748046875
+            ],
+            [
+                723.7666931152344,
+                1305.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/"
+    },
+    {
+        "position": [
+            [
+                1096.949951171875,
+                1281.2166748046875
+            ],
+            [
+                1173.5666198730469,
+                1305.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Older Post",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/2013/11/2013-holiday-stroll-flyer.html"
+    },
+    {
+        "position": [
+            [
+                1237.566650390625,
+                734.2166748046875
+            ],
+            [
+                1325.1833190917969,
+                770.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Donate",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1237.566650390625,
+                1210.2166748046875
+            ],
+            [
+                1463.1833190917969,
+                1230.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "downtown.franklin@yahoo.com",
+        "on_click_jump_to": "mailto:downtown.franklin@yahoo.com"
+    },
+    {
+        "position": [
+            [
+                1237.566650390625,
+                1326.2166748046875
+            ],
+            [
+                1436.7666473388672,
+                1346.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "www.franklinfoodpantry.org",
+        "on_click_jump_to": "http://www.franklinfoodpantry.org/"
+    },
+    {
+        "position": [
+            [
+                1061.3333740234375,
+                1414.2166748046875
+            ],
+            [
+                1116.8500518798828,
+                1434.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            96,
+            165,
+            250
+        ],
+        "text": "Blogger",
+        "on_click_jump_to": "https://www.blogger.com/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                0.0
+            ],
+            [
+                1712.0,
+                396.2166748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://2.bp.blogspot.com/_ICD_gdq0sdY/TGH6J1QjzyI/AAAAAAAAAno/eQFuraWWfUE/S930-R/FInal-DTPS.gif"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                1196.2166748046875
+            ],
+            [
+                242.0,
+                1209.2166748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://img1.blogblog.com/img/icon18_email.gif"
+    },
+    {
+        "position": [
+            [
+                1237.566650390625,
+                780.2166748046875
+            ],
+            [
+                1552.566650390625,
+                1044.2166748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjBmwxdsTussWjN8oyy6Kopc6tNRX0lhn7kZxIHN92ujGNoezh_rsowxLSPKqnHX70n4YVAT8h5Co-J2rBzL6Xd3R_oT6qGe7Nrj2FqNCvgKBqIw49kcbv2ldVpFR3MR60OjybaSMoKEYg06uJ2a1Rj3FX3BpMDqS7ydZB8Qtyq_hU9ie9G--5ZaYAuLAmc=s315"
+    }
+]

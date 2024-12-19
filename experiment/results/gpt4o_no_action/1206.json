@@ -1,0 +1,266 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                270.5500030517578,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Restaurant",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                286.54998779296875,
+                16.0
+            ],
+            [
+                322.3999786376953,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Lodě",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                338.3999938964844,
+                16.0
+            ],
+            [
+                395.9499969482422,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Penzion",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                411.9500122070313,
+                16.0
+            ],
+            [
+                473.05001831054693,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Poukazy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                489.0499877929687,
+                16.0
+            ],
+            [
+                553.0499877929688,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Kontakty",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1652.38330078125,
+                16.0
+            ],
+            [
+                1671.4166412353516,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FB",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1679.4166259765625,
+                16.0
+            ],
+            [
+                1704.3999481201172,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "TW",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1712.4000244140625,
+                16.0
+            ],
+            [
+                1728.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "IG",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.183349609375,
+                614.0
+            ],
+            [
+                1033.2666778564453,
+                634.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Joomla!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                244.0
+            ],
+            [
+                693.3333129882812,
+                268.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/wedding-table.jpg"
+    },
+    {
+        "position": [
+            [
+                709.3333129882812,
+                244.0
+            ],
+            [
+                1210.6666564941406,
+                268.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/hot-cold-buffet.jpg"
+    },
+    {
+        "position": [
+            [
+                1226.6666259765625,
+                244.0
+            ],
+            [
+                1727.9999389648438,
+                268.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/boat-parties.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                308.0
+            ],
+            [
+                693.3333129882812,
+                332.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/garden-parties.jpg"
+    },
+    {
+        "position": [
+            [
+                709.3333129882812,
+                308.0
+            ],
+            [
+                1210.6666564941406,
+                332.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/corporate-parties.jpg"
+    },
+    {
+        "position": [
+            [
+                1226.6666259765625,
+                308.0
+            ],
+            [
+                1727.9999389648438,
+                332.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/coffee-break.jpg"
+    }
+]

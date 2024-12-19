@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                1601.75,
+                12.0
+            ],
+            [
+                1644.8666687011719,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            249,
+            115,
+            22
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1660.86669921875,
+                12.0
+            ],
+            [
+                1722.9167022705078,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            249,
+            115,
+            22
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1738.9166259765625,
+                12.0
+            ],
+            [
+                1798.0999603271484,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            249,
+            115,
+            22
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1814.0999755859375,
+                12.0
+            ],
+            [
+                1903.9999694824219,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            249,
+            115,
+            22
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                52.08332824707031,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image.png"
+    }
+]

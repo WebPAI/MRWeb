@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1494.4666748046875,
+                20.0
+            ],
+            [
+                1631.250015258789,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Vacation Packages",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1647.25,
+                20.0
+            ],
+            [
+                1737.3833312988281,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Destinations",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1753.38330078125,
+                20.0
+            ],
+            [
+                1887.9999694824219,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Customer Reviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                16.0
+            ],
+            [
+                64.0,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/logo.png"
+    }
+]

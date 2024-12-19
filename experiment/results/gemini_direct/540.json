@@ -1,0 +1,682 @@
+[
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22591.80078125
+            ],
+            [
+                66.81666564941406,
+                22607.80078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "WiFi",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7325092314827836674"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22615.0
+            ],
+            [
+                114.08332824707031,
+                22631.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Output LED",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7331035399994838274"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22638.19921875
+            ],
+            [
+                151.03334045410156,
+                22654.19921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Input Push Button",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7331035399994838274"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22684.599609375
+            ],
+            [
+                127.43333435058594,
+                22700.599609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Mifare RC522",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7379767053152046353"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22707.80078125
+            ],
+            [
+                139.0,
+                22723.80078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Mifare SL025M",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7380330729110113553"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22731.0
+            ],
+            [
+                265.6333312988281,
+                22747.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "ADC (Analog-to-Digital Converter)",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7333630611480939777"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22754.19921875
+            ],
+            [
+                161.63333129882812,
+                22770.19921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "I2C LCD HD44780",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7367766009207442689"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22777.400390625
+            ],
+            [
+                107.43333435058594,
+                22793.400390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "HuskyLens",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7398324891314834705"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22800.599609375
+            ],
+            [
+                105.18333435058594,
+                22816.599609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "I2C OLED",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7394616066049117457"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22823.80078125
+            ],
+            [
+                128.3000030517578,
+                22839.80078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Output Buzzer",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7377696069368515856"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22847.0
+            ],
+            [
+                100.78334045410156,
+                22863.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "DC Motor",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7369256400049933585"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22870.19921875
+            ],
+            [
+                115.89999389648438,
+                22886.19921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Servo Motor",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7390529398610365713"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22893.400390625
+            ],
+            [
+                179.4499969482422,
+                22909.400390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "MAX7219 Dot Matrix",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7377696069368515856"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22916.599609375
+            ],
+            [
+                109.25,
+                22932.599609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Web Server",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7325463836813774081"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22939.80078125
+            ],
+            [
+                106.98333740234375,
+                22955.80078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "NTP Clock",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7325838070673181953"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22963.0
+            ],
+            [
+                115.0,
+                22979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "http Request",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7392387592508935440"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                22986.19921875
+            ],
+            [
+                94.75,
+                23002.19921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Telegram",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7393141790775315728"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                23009.400390625
+            ],
+            [
+                102.98333740234375,
+                23025.400390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "WhatsApp",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7393267957184417041"
+    },
+    {
+        "position": [
+            [
+                34.55000305175781,
+                23032.599609375
+            ],
+            [
+                168.3333282470703,
+                23048.599609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Ultrasonic HC-SR04",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7386446562907475217"
+    },
+    {
+        "position": [
+            [
+                189.6666717529297,
+                23032.599609375
+            ],
+            [
+                300.31666564941406,
+                23048.599609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Grove Ultrasonic",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com/video/7386469200950299905"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                23106.0
+            ],
+            [
+                120.88333129882812,
+                23122.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Ini link Facebook",
+        "on_click_jump_to": "https://www.facebook.com/shahrulnizamcom"
+    },
+    {
+        "position": [
+            [
+                124.88333129882812,
+                23106.0
+            ],
+            [
+                225.88333129882812,
+                23122.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Ini link Tik Tok",
+        "on_click_jump_to": "https://www.tiktok.com/@shahrulnizam.com"
+    },
+    {
+        "position": [
+            [
+                229.88333129882812,
+                23106.0
+            ],
+            [
+                334.06666564941406,
+                23122.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Ini link Youtube",
+        "on_click_jump_to": "https://www.youtube.com/@shahrulnizamdotcom/shorts"
+    },
+    {
+        "position": [
+            [
+                338.066650390625,
+                23106.0
+            ],
+            [
+                452.74998474121094,
+                23122.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Ini link Instagram",
+        "on_click_jump_to": "https://www.instagram.com/shahrulnizamcom"
+    },
+    {
+        "position": [
+            [
+                456.75,
+                23106.0
+            ],
+            [
+                575.8666687011719,
+                23122.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Ini link WhatsApp",
+        "on_click_jump_to": "https://api.whatsapp.com/send?phone=601110325641"
+    },
+    {
+        "position": [
+            [
+                579.86669921875,
+                23106.0
+            ],
+            [
+                735.6333618164062,
+                23122.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Ini link Telegram Group",
+        "on_click_jump_to": "https://t.me/+VWvB4caNM5xqh9TM"
+    },
+    {
+        "position": [
+            [
+                739.63330078125,
+                23106.0
+            ],
+            [
+                841.38330078125,
+                23122.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "NGO ECJCares",
+        "on_click_jump_to": "https://ecjcares.onpay.my/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                8.0
+            ],
+            [
+                4008.0,
+                2258.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://shahrulnizam.com/download/Input-4-Top.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                2263.60009765625
+            ],
+            [
+                4008.0,
+                4513.60009765625
+            ]
+        ],
+        "type": "img",
+        "src": "https://shahrulnizam.com/download/Relay-4-Top.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                4519.2001953125
+            ],
+            [
+                4008.0,
+                6769.2001953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://shahrulnizam.com/download/Relay-8-Top.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                6774.7998046875
+            ],
+            [
+                4008.0,
+                9024.7998046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://shahrulnizam.com/download/Lora-Relay-4-Top.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                9030.400390625
+            ],
+            [
+                4008.0,
+                11280.400390625
+            ]
+        ],
+        "type": "img",
+        "src": "https://shahrulnizam.com/download/GPS-Tracker-Top.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                11286.0
+            ],
+            [
+                4008.0,
+                13536.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://shahrulnizam.com/download/Input-4-Bottom.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                13541.599609375
+            ],
+            [
+                4008.0,
+                15791.599609375
+            ]
+        ],
+        "type": "img",
+        "src": "https://shahrulnizam.com/download/Relay-4-Bottom.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                15797.2001953125
+            ],
+            [
+                4008.0,
+                18047.2001953125
+            ]
+        ],
+        "type": "img",
+        "src": "https://shahrulnizam.com/download/Relay-8-Bottom.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                18052.80078125
+            ],
+            [
+                4008.0,
+                20302.80078125
+            ]
+        ],
+        "type": "img",
+        "src": "https://shahrulnizam.com/download/Lora-Relay-4-Bottom.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                20308.400390625
+            ],
+            [
+                4008.0,
+                22558.400390625
+            ]
+        ],
+        "type": "img",
+        "src": "https://shahrulnizam.com/download/GPS-Tracker-Bottom.jpg"
+    }
+]

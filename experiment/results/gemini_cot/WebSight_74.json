@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                272.0
+            ],
+            [
+                59.116668701171875,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            168,
+            85,
+            247
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.stu2.net/projects/bev2/index.php"
+    },
+    {
+        "position": [
+            [
+                75.11666870117188,
+                272.0
+            ],
+            [
+                118.75,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            168,
+            85,
+            247
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://sakaryakontor.com/world-map-with-equator-and-prime-meridian-lines/"
+    },
+    {
+        "position": [
+            [
+                134.75,
+                272.0
+            ],
+            [
+                192.35000610351562,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            168,
+            85,
+            247
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.infoholicresearch.com/press-release/artificial-intelligence-and-cognitive-systems-in-bfsi-to-reach-21-89-billion"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://source.unsplash.com/random/1600x900/?food"
+    },
+    {
+        "position": [
+            [
+                1810.0,
+                16.0
+            ],
+            [
+                1904.0,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1500509356004-46b18c90ea71?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NDB8&ixlib=rb-4.0.3&w=100&h=100"
+    }
+]

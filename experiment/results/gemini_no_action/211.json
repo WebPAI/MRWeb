@@ -1,0 +1,180 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                629.0
+            ],
+            [
+                291.48333740234375,
+                653.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Newer Post",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                688.5333251953125,
+                629.0
+            ],
+            [
+                731.6499786376953,
+                653.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1128.7166748046875,
+                629.0
+            ],
+            [
+                1205.3333435058594,
+                653.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Older Post",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                672.25,
+                663.0
+            ],
+            [
+                841.8999938964844,
+                683.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Post Comments (Atom)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                821.3333129882812,
+                72.0
+            ],
+            [
+                885.3333129882812,
+                136.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/microscope.jpg"
+    },
+    {
+        "position": [
+            [
+                901.3333129882812,
+                72.0
+            ],
+            [
+                965.3333129882812,
+                136.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/books.jpg"
+    },
+    {
+        "position": [
+            [
+                981.3333129882812,
+                72.0
+            ],
+            [
+                1045.3333129882812,
+                136.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/computer.jpg"
+    },
+    {
+        "position": [
+            [
+                1061.3333740234375,
+                72.0
+            ],
+            [
+                1125.3333740234375,
+                136.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/phone.jpg"
+    },
+    {
+        "position": [
+            [
+                1141.3333740234375,
+                72.0
+            ],
+            [
+                1205.3333740234375,
+                136.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/compass.jpg"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                444.0
+            ],
+            [
+                256.0,
+                476.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/blogger.png"
+    },
+    {
+        "position": [
+            [
+                1221.3333740234375,
+                176.0
+            ],
+            [
+                1712.0000610351562,
+                200.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/chris.jpg"
+    }
+]

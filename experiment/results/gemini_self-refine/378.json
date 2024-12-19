@@ -1,0 +1,332 @@
+[
+    {
+        "position": [
+            [
+                182.25,
+                9.600006103515623
+            ],
+            [
+                282.76666259765625,
+                25.600006103515625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "WordPress.com",
+        "on_click_jump_to": "https://wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                28.800003051757812
+            ],
+            [
+                77.76666259765625,
+                44.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Get started",
+        "on_click_jump_to": "https://wordpress.com/start/?ref=marketing_bar"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                408.2000122070313
+            ],
+            [
+                223.11666870117188,
+                424.2000122070313
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "soundssweetnews.wordpress.com",
+        "on_click_jump_to": "https://soundssweetnews.wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                427.3999938964844
+            ],
+            [
+                76.44999694824219,
+                443.3999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Customize",
+        "on_click_jump_to": "https://soundssweetnews.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fsoundssweetnews.wordpress.com%2F2015%2F07%2F20%2Fmotivational-monday-follow-my-dreams%2F"
+    },
+    {
+        "position": [
+            [
+                90.05000305175781,
+                427.3999938964844
+            ],
+            [
+                153.1666717529297,
+                443.3999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "https://soundssweetnews.wordpress.com/2015/07/20/motivational-monday-follow-my-dreams/"
+    },
+    {
+        "position": [
+            [
+                166.76666259765625,
+                427.3999938964844
+            ],
+            [
+                237.88333129882812,
+                443.3999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Subscribed",
+        "on_click_jump_to": "https://soundssweetnews.wordpress.com/2015/07/20/motivational-monday-follow-my-dreams/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                446.6000061035156
+            ],
+            [
+                57.350006103515625,
+                462.6000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Sign up",
+        "on_click_jump_to": "https://wordpress.com/start/"
+    },
+    {
+        "position": [
+            [
+                70.94999694824219,
+                446.6000061035156
+            ],
+            [
+                113.16667175292969,
+                462.6000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsoundssweetnews.wordpress.com%2F2015%2F07%2F20%2Fmotivational-monday-follow-my-dreams%2F&signup_flow=account"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                465.7999877929687
+            ],
+            [
+                103.58332824707033,
+                481.7999877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Copy shortlink",
+        "on_click_jump_to": "https://wp.me/p5vIqp-fY"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                485.0
+            ],
+            [
+                129.78334045410156,
+                501.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Report this content",
+        "on_click_jump_to": "https://wordpress.com/abuse/?report_url=https://soundssweetnews.wordpress.com/2015/07/20/motivational-monday-follow-my-dreams/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                504.2000122070313
+            ],
+            [
+                138.13333129882812,
+                520.2000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "View post in Reader",
+        "on_click_jump_to": "https://wordpress.com/read/blogs/81440621/posts/990"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                523.4000244140625
+            ],
+            [
+                148.01666259765625,
+                539.4000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Manage subscriptions",
+        "on_click_jump_to": "https://subscribe.wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                542.5999755859375
+            ],
+            [
+                115.56666564941406,
+                558.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Collapse this bar",
+        "on_click_jump_to": "https://soundssweetnews.wordpress.com/2015/07/20/motivational-monday-follow-my-dreams/"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                121.39999389648438
+            ],
+            [
+                308.0,
+                345.3999938964844
+            ]
+        ],
+        "type": "img",
+        "src": "https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/4617.jpg?w=300&h=225"
+    },
+    {
+        "position": [
+            [
+                312.0,
+                46.399993896484375
+            ],
+            [
+                526.0,
+                345.3999938964844
+            ]
+        ],
+        "type": "img",
+        "src": "https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/funny-every-morning-you-have-two-choices-continue-sleep-with-your-dreams-or-wake-up-and-chase-them-011.jpg?w=214&h=300"
+    },
+    {
+        "position": [
+            [
+                530.0,
+                147.39999389648438
+            ],
+            [
+                830.0,
+                345.3999938964844
+            ]
+        ],
+        "type": "img",
+        "src": "https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/courage-quote-from-john-odonohue-700x462.jpg?w=300&h=198"
+    },
+    {
+        "position": [
+            [
+                834.0,
+                109.39999389648438
+            ],
+            [
+                1070.0,
+                345.3999938964844
+            ]
+        ],
+        "type": "img",
+        "src": "https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/0ac748da81f81e704a9e141e5b71eab7.jpg?w=768"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                351.0
+            ],
+            [
+                58.0,
+                401.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://secure.gravatar.com/blavatar/3b2a139efe03ac706fd3e22bfa0eb7747fa870868a10abd64a211c81b4188a67?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png"
+    }
+]

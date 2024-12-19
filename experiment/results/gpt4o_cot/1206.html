@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .custom-bg {
+            background-color: #f6eed7;
+        }
+        .custom-text {
+            color: #f6eed7;
+        }
+        .custom-text-dark {
+            color: #000000;
+        }
+        .custom-text-gray {
+            color: #cccccc;
+        }
+    </style>
+</head>
+<body class="bg-[#f6eed7]">
+
+    <!-- Header -->
+    <header class="flex justify-between items-center p-4 bg-[#3b2a1a]">
+        <nav class="flex space-x-8">
+            <a href="https://www.usemika.cz/cs/restaurant" class="custom-text">Restaurant</a>
+            <a href="https://www.usemika.cz/cs/lode" class="custom-text">Lodě</a>
+            <a href="https://www.motylilouka.cz/cs" class="custom-text">Penzion</a>
+            <a href="https://www.usemika.cz/cs/darkovy-poukaz" class="custom-text">Poukazy</a>
+            <a href="https://www.usemika.cz/cs/kontakty" class="custom-text">Kontakty</a>
+        </nav>
+        <div class="flex space-x-4">
+            <img src="https://www.usemika.cz/images/icon.fb.svg" alt="Facebook" class="w-8 h-8">
+            <img src="https://www.usemika.cz/images/icon.ta.svg" alt="TripAdvisor" class="w-8 h-8">
+            <img src="https://www.usemika.cz/images/icon.map.svg" alt="Map" class="w-8 h-8">
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="p-8">
+        <h1 class="text-center text-3xl font-bold mb-8">Catering</h1>
+        <div class="grid grid-cols-3 gap-8 mb-8">
+            <img src="https://www.usemika.cz/images/docs/catering.svatby.jpg" alt="Wedding Table" class="w-full h-auto">
+            <img src="https://www.usemika.cz/images/docs/catering.bufet.jpg" alt="Hot & Cold Buffet" class="w-full h-auto">
+            <div class="relative">
+                <img src="https://www.usemika.cz/images/docs/catering.lod.jpg" alt="Boat Parties" class="w-full h-auto">
+                <a href="https://www.usemika.cz/en/lode" class="absolute bottom-4 left-4 custom-text-dark">More Info</a>
+            </div>
+            <img src="https://www.usemika.cz/images/docs/catering.outdoor.jpg" alt="Garden Parties" class="w-full h-auto">
+            <img src="https://www.usemika.cz/images/docs/catering.naplavka.jpg" alt="Corporate Parties" class="w-full h-auto">
+            <img src="https://www.usemika.cz/images/docs/catering.coffeebreak.jpg" alt="Coffee Break" class="w-full h-auto">
+        </div>
+
+        <!-- References Section -->
+        <h2 class="text-center text-2xl font-bold mb-4">References</h2>
+        <div class="grid grid-cols-2 gap-4">
+            <div>
+                <a href="https://www.usemika.cz/cs/restaurant" class="custom-text-gray">Restaurant</a>
+                <a href="https://www.usemika.cz/cs/restaurant/o-nas" class="custom-text-gray">Náš příběh</a>
+                <a href="https://www.usemika.cz/cs/restaurant/denni-menu" class="custom-text-gray">Denní menu</a>
+                <a href="https://www.usemika.cz/cs/restaurant/jidelni-listek" class="custom-text-gray">Jídelní lístek</a>
+                <a href="https://www.usemika.cz/cs/restaurant/napojovy-listek" class="custom-text-gray">Nápojový lístek</a>
+                <a href="https://www.usemika.cz/cs/restaurant/svatby" class="custom-text-gray">Svatby</a>
+                <a href="https://www.usemika.cz/cs/restaurant/catering" class="custom-text-gray">Catering</a>
+                <a href="https://www.usemika.cz/cs/restaurant/voucher" class="custom-text-gray">Dárkový poukaz</a>
+            </div>
+            <div>
+                <a href="https://www.usemika.cz/cs/lode" class="custom-text-gray">Lodě</a>
+                <a href="https://www.usemika.cz/cs/lode/vltava" class="custom-text-gray">Plavba po Vltavě</a>
+                <a href="https://www.usemika.cz/cs/lode/cenik" class="custom-text-gray">Ceník</a>
+                <a href="https://www.usemika.cz/cs/lode/nastupni-misto" class="custom-text-gray">Nástupní místo</a>
+                <a href="https://www.usemika.cz/cs/lode/galerie" class="custom-text-gray">Galerie</a>
+                <a href="https://www.usemika.cz/cs/lode/booking" class="custom-text-gray">Rezervace</a>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-[#3b2a1a] p-8 text-center text-white">
+        <div class="flex justify-center space-x-8 mb-4">
+            <a href="https://www.usemika.cz/cs/kontakty" class="custom-text-gray">Kontakty</a>
+            <a href="tel:+420221965610" class="custom-text-gray">+420 221 965 610</a>
+            <a href="mailto:office@usemika.cz" class="custom-text-gray">office@usemika.cz</a>
+        </div>
+        <div class="flex justify-center space-x-4">
+            <img src="https://www.usemika.cz/images/icon.fb.svg" alt="Facebook" class="w-8 h-8">
+            <img src="https://www.usemika.cz/images/icon.ta.svg" alt="TripAdvisor" class="w-8 h-8">
+            <img src="https://www.usemika.cz/images/icon.map.svg" alt="Map" class="w-8 h-8">
+        </div>
+    </footer>
+
+</body>
+</html>

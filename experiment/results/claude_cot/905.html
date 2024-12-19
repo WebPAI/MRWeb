@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lookastic</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-[#5C5B5B] px-4 py-2 hover:text-black;
+        }
+        .category-link {
+            @apply text-black hover:underline block py-1;
+        }
+        .product-card {
+            @apply flex flex-col items-center mb-8;
+        }
+        .product-image {
+            @apply w-[200px] h-[250px] object-cover mb-4;
+        }
+        .product-brand {
+            @apply text-sm font-medium mb-1;
+        }
+        .product-name {
+            @apply text-sm mb-1;
+        }
+        .product-price {
+            @apply text-sm;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="bg-[#40A667] text-white">
+        <div class="container mx-auto flex justify-between items-center px-4">
+            <a href="https://lookastic.com/" class="text-2xl py-3">LOOKASTIC</a>
+            <div>
+                <a href="/signin" class="px-4 py-3">SIGN IN</a>
+                <a href="/join" class="px-4 py-3">JOIN</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="border-b">
+        <div class="container mx-auto flex items-center px-4">
+            <a href="/wardrobe" class="nav-link">MY WARDROBE TRY IT!</a>
+            <a href="/looks" class="nav-link">LOOKS</a>
+            <a href="/trends" class="nav-link">TRENDS</a>
+            <a href="/brands" class="nav-link">BRANDS</a>
+            <a href="/celebrities" class="nav-link">CELEBRITIES</a>
+            <a href="/occasions" class="nav-link">OCCASIONS</a>
+            <a href="/contact" class="nav-link">CONTACT US</a>
+            <a href="/women" class="nav-link">WOMEN</a>
+        </div>
+    </nav>
+
+    <!-- Recommendation Banner -->
+    <div class="bg-blue-100 p-4 text-center my-4">
+        <p class="text-blue-600 mb-2">Get Personal Outfit Recommendations</p>
+        <p class="text-sm text-gray-600 mb-2">Outfit & shopping recommendations based on your own wardrobe</p>
+        <button class="bg-[#40A667] text-white px-6 py-2 rounded">
+            SEE MY RECOMMENDATIONS NOW
+        </button>
+        <p class="text-xs text-gray-500 mt-2">No sign up required!</p>
+    </div>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 flex">
+        <!-- Sidebar -->
+        <aside class="w-64">
+            <div class="mb-6">
+                <h3 class="font-medium mb-2">CATEGORY</h3>
+                <!-- Category links -->
+                <div class="space-y-1">
+                    <!-- Add all category links here -->
+                </div>
+            </div>
+        </aside>
+
+        <!-- Product Grid -->
+        <div class="flex-1">
+            <div class="flex mb-6">
+                <button class="flex-1 bg-navy text-white py-3">SHOP IT</button>
+                <button class="flex-1 bg-gray-100 text-gray-700 py-3">OUTFITS</button>
+            </div>
+            
+            <div class="grid grid-cols-3 gap-8">
+                <!-- Product cards would go here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 mt-12 py-8">
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>

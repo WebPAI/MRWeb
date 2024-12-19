@@ -1,0 +1,170 @@
+[
+    {
+        "position": [
+            [
+                937.0,
+                30.0
+            ],
+            [
+                978.0,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "O NÁS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1002.0,
+                30.0
+            ],
+            [
+                1094.0,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "STREET DANCE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1118.0,
+                30.0
+            ],
+            [
+                1208.0,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DISCO DANCE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                30.0
+            ],
+            [
+                1341.0,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTEMPORARY",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1365.0,
+                30.0
+            ],
+            [
+                1461.0,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JABLONEC N.N.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1485.0,
+                30.0
+            ],
+            [
+                1581.0,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LÉTO S TAKTEM",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1605.0,
+                30.0
+            ],
+            [
+                1728.0,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ONLINE PŘIHLÁŠKA",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                276.25,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                176.0
+            ],
+            [
+                496.0,
+                368.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/image1.jpg"
+    }
+]

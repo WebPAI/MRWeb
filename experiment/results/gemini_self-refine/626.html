@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digitally Obsessed</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-repeat" style="background-image: url('https://digitallyobsessed.com/styles/stripes.gif');">
+    <div class="container mx-auto px-4">
+        <div class="flex flex-col items-center">
+            <img src="https://digitallyobsessed.com/images/newdoclogo.jpg" alt="Digitally Obsessed Logo" class="mt-12">
+            <div class="flex mt-6">
+                <a href="https://digitallyobsessed.com/r-reviews.php" class="bg-yellow-500 text-black font-bold py-2 px-4 rounded-l-lg">Reviews</a>
+                <a href="https://digitallyobsessed.com/r-interviews.php" class="bg-red-600 text-white font-bold py-2 px-4">Interviews</a>
+                <a href="https://digitallyobsessed.com/r-articles.php" class="bg-yellow-700 text-white font-bold py-2 px-4">Articles</a>
+                <a href="https://digitallyobsessed.com/r-apps.php" class="bg-green-800 text-white font-bold py-2 px-4">Apps</a>
+                <a href="https://digitallyobsessed.com/r-about.php" class="bg-teal-600 text-white font-bold py-2 px-4 rounded-r-lg">About</a>
+            </div>
+            <div class="text-center mt-4 text-sm">the review site with a difference since 1999</div>
+            <div class="mt-12 text-left">
+                <div class="font-bold">Visit:</div>
+                <a href="https://zarabesque.com/" class="text-red-600">Zarabesque.com</a><br>
+                <a href="http://www.sustiheaven.com/" class="text-red-600">Susti Heaven</a><br>
+                <a href="http://www.brandperfect.com/" class="text-red-600">Brand Perfect</a><br>
+                <a href="http://www.closetnomad.com/" class="text-red-600">Closet Nomad</a><br>
+                <a href="http://www.tiendaholics.com/" class="text-red-600">Tiendaholics.com</a>
+            </div>
+            <div class="mt-48 text-left">
+                <pre class="whitespace-pre-wrap">
+                    &lt;?
+                    $query = "SELECT * FROM biblog where ID=$ID";
+                    $connection = mysql_connect();
+                    if(!$connection)
+                    die(mysql_error());
+                    &gt;
+                    &lt;?
+                    $num_rows = mysql_num_rows($result);
+                    if ($num_rows &gt; 0) {
+                    $i = 0;
+                    while ($i &lt; $num_rows) {
+                    $data = mysql_fetch_array($result);
+                    $row[$i]['ID'] = $data['ID'];
+                    $row[$i]['title'] = $data['title'];
+                    $row[$i]['secondtitle'] = $data['secondtitle'];
+                    $row[$i]['studio'] = $data['studio'];
+                    $row[$i]['status'] = $data['status'];
+                    $row[$i]['subhead'] = $data['subhead'];
+                    $row[$i]['studio'] = substr($studio,0,15);
+                    $row[$i]['year'] = $data['year'];
+                    $row[$i]['quote'] = $data['quote'];
+                    $row[$i]['quoted'] = $data['quoted'];
+                    $row[$i]['recommendation'] = $data['recommendation'];
+                    $row[$i]['whatdate'] = $data['whatdate'];
+                    $whatdate = strtotime($whatdate);
+                    $whatdate = date("F j, Y, g:i a", $whatdate);
+                    $row[$i]['whatdate'] = $whatdate;
+                    $row[$i]['cast'] = $data['cast'];
+                    $row[$i]['director'] = $data['director'];
+                    $row[$i]['mpaa'] = $data['mpaa'];
+                    $row[$i]['ratingfor'] = $data['ratingfor'];
+                    $row[$i]['ratinginfo'] = $data['ratinginfo'];
+                    $row[$i]['runtime'] = $data['runtime'];
+                    $thissrc = $row[$i]['source'];
+                    $row[$i]['type'] = $data['type'];
+                    $row[$i]['url'] = $data['url'];
+                    $thisurl = $row[$i]['url'];
+                    $row[$i]['releasedate'] = $data['releasedate'];
+                    $row[$i]['genres'] = $data['genres'];
+                    $genres = explode(", ", $genres);
+                    $row[$i]['moviegrade'] = $data['moviegrade'];
+                    $row[$i]['dvdgrade'] = $data['dvdgrade'];
+                    $row[$i]['ldvdgrade'] = $data['ldvdgrade'];
+                    $row[$i]['blurb'] = $data['blurb'];
+                    $blurb = nl2br($blurb);
+                    $row[$i]['body'] = $data['body'];
+                    $row[$i]['techinfo'] = $data['techinfo'];
+                    $row[$i]['buyinginfo'] = $data['buyinginfo'];
+                    $row[$i]['byline'] = $data['byline'];
+                    $row[$i]['keywords'] = $data['keywords'];
+                    $row[$i]['coverart'] = $data['coverart'];
+                    $still = $row[$i]['still'];
+                    $row[$i]['amazon'] = $data['amazon'];
+                    $amazon = trim($amazon);
+                    $upc = $row[$i]['upc'];
+                    // get author info
+                    $saquery = "SELECT firstname, last_name, ID FROM authors where ID=$byline";
+                    $saconnection = mysql_connect();
+                    &gt;
+                    &lt;?
+                    $snum_rows = mysql_num_rows($saresult);
+                    if ($snum_rows &gt; 0) {
+                    $sk = 0;
+                    while ($sk &lt; $snum_rows) {
+                    $sadata = mysql_fetch_array($saresult);
+                    $sarow[$sk]['ID'] = $sadata['ID'];
+                    $sarow[$sk]['firstname'] = $sadata['firstname'];
+                    $sarow[$sk]['last_name'] = $sadata['last_name'];
+                    $firstname = $sarow[$sk]['firstname'];
+                    $lastname = $sarow[$sk]['last_name'];
+                    $whatdate = $sarow[$sk]['whatdate'];
+                    }
+                    }
+                    echo "
+                    &lt;?
+                    $secondtitle;
+                    ?&gt;
+                    $studio;
+                    $year
+                    $cast;
+                    $director
+                    Date: $whatdate
+                    $mpaa for $ratingfor
+                    $ratinginfo
+                    Run Time: $runtime
+                    &lt;? if($quote!=\" \") { echo \"
+                    \"$quote\"
+                    \"; } echo \"
+                    &lt;? if($coverart !=\"\"){ echo \"
+                    &lt;? } echo \"
+                    &lt;? if($amazon !=\"\"){ echo \"
+                    Buy Now @ Amazon
+                    \"; } echo \"
+                    &lt;? if($still !=\"\"){ echo \"
+                    &lt;? } echo \"
+                    &lt;? if($amazon !=\"\"){ echo \"
+                    Buy Now @ Amazon
+                    \"; } echo \"
+                    &lt;? if($recommendation !=\"\"){ echo \"
+                    &lt;br&gt;
+                    $recommendation
+                    \"; } ?&gt;
+                    &lt;? if($status != \"new\"){
+                    $techinfo = explode(\", \", $techinfo);
+                    $count = count($techinfo);
+                    $sn = 0;
+                    while ($sn &lt; $count) {
+                    if($searchtech[$sn] == \"A\") { echo \"
+                    \"; }
+                    elseif($searchtech[$sn] == \"K\") { echo \"
+                    \"; }
+                    elseif($searchtech[$sn] == \"5.1\") { echo \"
+                    \"; }
+                    elseif($searchtech[$sn] == \"DTS\") { echo \"
+                    \"; }
+                    elseif($searchtech[$sn] == \"E\") { echo \"
+                    \"; }
+                    elseif($searchtech[$sn] == \"HD\") { echo \"
+                    &lt;BR&gt;
+                    \"; }
+                    elseif($searchtech[$sn] == \"BR\") { echo \"
+                    &lt;BR&gt;
+                    \"; } else { echo \"
+                    \" . $searchtech[$sn] . \"
+                    \"; }
+                    $sn++; }
+                    if($blurb != \"\") { echo \"
+                    $blurb &lt;br&gt;
+                    \"; } echo \"
+                    Movie Grade: $moviegrade
+                    &lt;br&gt;
+                    DVD Grade: $dvdgrade
+                    &lt;br&gt;
+                    &lt;? if($thissrc != \"\") { echo \"
+                    &lt;I&gt;$source&lt;/I&gt;
+                    \"; } echo \"
+                    \"; echo \"
+                    $sitelink; echo \"
+                    \"; echo \"
+                    &lt;? } ?&gt;
+                </pre>
+            </div>
+            <div class="mt-48 text-left text-sm text-red-600">
+                <a href="https://digitallyobsessed.com/ducu.php">Home</a> |
+                <a href="https://digitallyobsessed.com/r-reviews.php">Review Vault</a> |
+                <a href="https://digitallyobsessed.com/r-inteviews.php">Interviews</a> |
+                <a href="https://digitallyobsessed.com/r-articles.php">Articles</a> |
+                <a href="https://digitallyobsessed.com/r-apps.php">Apps</a> |
+                <a href="https://digitallyobsessed.com/r-about.php">About</a> |
+                <a href="mailto:webmaster@digitallyobsessed.com">Contact</a><br>
+                © Copyright 1999-2019
+            </div>
+        </div>
+    </div>
+</body>
+</html>

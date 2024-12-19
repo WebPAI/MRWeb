@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                1545.4166259765625,
+                45.0
+            ],
+            [
+                1611.1499481201172,
+                69.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "file:///about-us"
+    },
+    {
+        "position": [
+            [
+                1635.1500244140625,
+                45.0
+            ],
+            [
+                1712.0000305175781,
+                69.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contact-us"
+    },
+    {
+        "position": [
+            [
+                1600.8333740234375,
+                221.0
+            ],
+            [
+                1712.0000457763672,
+                245.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Login / Register",
+        "on_click_jump_to": "file:///login"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                302.5
+            ],
+            [
+                250.89999389648438,
+                323.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                93.0
+            ],
+            [
+                1712.0,
+                189.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/logo.png"
+    },
+    {
+        "position": [
+            [
+                1410.7166748046875,
+                229.0
+            ],
+            [
+                1442.7166748046875,
+                261.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/cart-icon.png"
+    }
+]

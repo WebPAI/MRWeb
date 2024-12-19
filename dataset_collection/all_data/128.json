@@ -1,0 +1,396 @@
+[
+    {
+        "position": [
+            [
+                167.93333435058594,
+                114.0
+            ],
+            [
+                257.4499969482422,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Date view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/date.php"
+    },
+    {
+        "position": [
+            [
+                605.683349609375,
+                114.0
+            ],
+            [
+                716.0666809082031,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Thread view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/index.php"
+    },
+    {
+        "position": [
+            [
+                1106.8333740234375,
+                114.0
+            ],
+            [
+                1222.2000427246094,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Subject view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/subject.php"
+    },
+    {
+        "position": [
+            [
+                1610.816650390625,
+                114.0
+            ],
+            [
+                1719.883316040039,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Author view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/author.php"
+    },
+    {
+        "position": [
+            [
+                150.0,
+                179.0
+            ],
+            [
+                477.0,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Beman Dawes: \"Version 1.18.1 posted on web site\"",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5721.php"
+    },
+    {
+        "position": [
+            [
+                177.0,
+                194.6999969482422
+            ],
+            [
+                602.0,
+                209.6999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "jsiek_at_[hidden]: \"Re: [boost] graph: different node/edge types?\"",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5719.php"
+    },
+    {
+        "position": [
+            [
+                151.0,
+                210.3999938964844
+            ],
+            [
+                502.0,
+                225.3999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "David Abrahams: \"Re: [boost] GCC 2.95.2 and <limits>\"",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5726.php"
+    },
+    {
+        "position": [
+            [
+                94.0,
+                226.1000061035156
+            ],
+            [
+                445.0,
+                241.1000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "David Abrahams: \"Re: [boost] GCC 2.95.2 and <limits>\"",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5726.php"
+    },
+    {
+        "position": [
+            [
+                85.0,
+                309.79998779296875
+            ],
+            [
+                204.0,
+                324.79998779296875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "http://gcc.gnu.org/",
+        "on_click_jump_to": "http://gcc.gnu.org/"
+    },
+    {
+        "position": [
+            [
+                150.0,
+                434.7999877929687
+            ],
+            [
+                477.0,
+                449.7999877929687
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Beman Dawes: \"Version 1.18.1 posted on web site\"",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5721.php"
+    },
+    {
+        "position": [
+            [
+                177.0,
+                450.5
+            ],
+            [
+                602.0,
+                465.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "jsiek_at_[hidden]: \"Re: [boost] graph: different node/edge types?\"",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5719.php"
+    },
+    {
+        "position": [
+            [
+                151.0,
+                466.2000122070313
+            ],
+            [
+                502.0,
+                481.2000122070313
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "David Abrahams: \"Re: [boost] GCC 2.95.2 and <limits>\"",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5726.php"
+    },
+    {
+        "position": [
+            [
+                94.0,
+                481.8999938964844
+            ],
+            [
+                445.0,
+                496.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "David Abrahams: \"Re: [boost] GCC 2.95.2 and <limits>\"",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/5726.php"
+    },
+    {
+        "position": [
+            [
+                167.93333435058594,
+                515.5999755859375
+            ],
+            [
+                257.4499969482422,
+                535.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Date view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/date.php"
+    },
+    {
+        "position": [
+            [
+                605.683349609375,
+                515.5999755859375
+            ],
+            [
+                716.0666809082031,
+                535.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Thread view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/index.php"
+    },
+    {
+        "position": [
+            [
+                1106.8333740234375,
+                515.5999755859375
+            ],
+            [
+                1222.2000427246094,
+                535.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Subject view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/subject.php"
+    },
+    {
+        "position": [
+            [
+                1610.816650390625,
+                515.5999755859375
+            ],
+            [
+                1719.883316040039,
+                535.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Author view",
+        "on_click_jump_to": "https://lists.boost.org/Archives/boost/2000/10/author.php"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                553.5999755859375
+            ],
+            [
+                44.0,
+                568.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "Boost",
+        "on_click_jump_to": "http://lists.boost.org/mailman/listinfo.cgi/boost"
+    },
+    {
+        "position": [
+            [
+                114.0,
+                553.5999755859375
+            ],
+            [
+                698.0,
+                568.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            255
+        ],
+        "text": "bdawes at acm.org, gregod at cs.rpi.edu, cpdaniel at pacbell.net, john at johnmaddock.co.uk",
+        "on_click_jump_to": "mailto:boost-owner@lists.boost.org"
+    },
+    {
+        "position": [
+            [
+                15.0,
+                15.0
+            ],
+            [
+                292.0,
+                101.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://lists.boost.org/boost/images/boost.png"
+    }
+]

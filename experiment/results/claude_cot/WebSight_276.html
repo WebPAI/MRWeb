@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Estate Website</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white min-h-screen">
+    <!-- Header/Navigation -->
+    <header class="p-6 flex justify-between items-center">
+        <!-- Search Bar -->
+        <div class="flex-1">
+            <input type="text" 
+                   placeholder="Search properties..." 
+                   class="p-2 border border-gray-300 rounded-md w-64">
+        </div>
+        
+        <!-- Navigation Links -->
+        <nav class="space-x-4">
+            <a href="#" class="text-violet-500 hover:text-violet-600">Home</a>
+            <a href="#" class="text-violet-500 hover:text-violet-600">About</a>
+            <a href="#" class="text-violet-500 hover:text-violet-600">Contact</a>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-6 flex gap-8">
+        <!-- Property Image -->
+        <div class="w-1/2">
+            <img src="https://images.unsplash.com/photo-1648840887119-a9d33c964054?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNTl8&ixlib=rb-4.0.3&w=300&h=200" 
+                 alt="Property" 
+                 class="w-full h-auto rounded-lg">
+        </div>
+
+        <!-- Property Listings -->
+        <div class="w-1/2">
+            <h2 class="text-2xl font-bold mb-4">Properties for Sale</h2>
+            <ul class="space-y-2">
+                <li>123 Main St, Anytown USA</li>
+                <li>456 Oak St, Anytown USA</li>
+                <li>789 Pine St, Anytown USA</li>
+            </ul>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="mt-8 p-6">
+        <div class="flex justify-between items-center">
+            <div>
+                <p>123 Real Estate St, Anytown USA</p>
+                <p>(123) 456-7890</p>
+            </div>
+            <div class="space-x-4">
+                <a href="#" class="text-violet-500 hover:text-violet-600">Facebook</a>
+                <a href="#" class="text-violet-500 hover:text-violet-600">Twitter</a>
+                <a href="#" class="text-violet-500 hover:text-violet-600">Instagram</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

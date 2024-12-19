@@ -1,0 +1,204 @@
+[
+    {
+        "position": [
+            [
+                1159.13330078125,
+                26.0
+            ],
+            [
+                1202.2499694824219,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1222.75,
+                26.0
+            ],
+            [
+                1290.433334350586,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1310.933349609375,
+                26.0
+            ],
+            [
+                1418.1500091552734,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Area Coverage",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1438.6500244140625,
+                26.0
+            ],
+            [
+                1468.9000244140625,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1489.4000244140625,
+                26.0
+            ],
+            [
+                1551.4500274658203,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1571.949951171875,
+                26.0
+            ],
+            [
+                1633.8999481201172,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Location",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1654.4000244140625,
+                26.0
+            ],
+            [
+                1712.0000305175781,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                212.0,
+                594.0
+            ],
+            [
+                437.81666564941406,
+                614.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Scrap Metal Dealers in Melrose",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                244.0833282470703,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                104.0
+            ],
+            [
+                1216.0,
+                360.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/header-image.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                524.0
+            ],
+            [
+                1216.0,
+                548.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/cable-image.jpg"
+    }
+]

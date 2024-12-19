@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Information Page</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <header class="relative">
+        <!-- Top navigation bar -->
+        <div class="bg-[url('headerbg.jpg')] h-28">
+            <div class="flex justify-end p-2">
+                <a href="#" class="text-gray-600 px-2">sign in</a>
+                <a href="/member_registration.php" class="text-white px-2">Registration</a>
+            </div>
+            <div class="flex justify-end">
+                <a href="/member_registration.php" class="text-gray-600 text-sm">sign up now</a>
+            </div>
+        </div>
+
+        <!-- Main navigation -->
+        <nav class="bg-blue-800 text-white">
+            <div class="container mx-auto">
+                <ul class="flex space-x-4 p-4">
+                    <li><a href="/" class="hover:text-blue-200">Home</a></li>
+                    <li><a href="/profile.php" class="hover:text-blue-200">Profile</a></li>
+                    <li><a href="#" class="hover:text-blue-200">Symptoms</a></li>
+                    <li><a href="#" class="hover:text-blue-200">Wellness</a></li>
+                    <li><a href="#" class="hover:text-blue-200">My Blog</a></li>
+                    <li><a href="#" class="hover:text-blue-200">GPS</a></li>
+                    <li><a href="/medical_tourism.php" class="hover:text-blue-200">Medical Tourism</a></li>
+                    <li><a href="/contactus.php" class="hover:text-blue-200">Contact Us</a></li>
+                </ul>
+            </div>
+        </nav>
+    </header>
+
+    <main class="container mx-auto grid grid-cols-12 gap-4 mt-8">
+        <!-- Left sidebar -->
+        <aside class="col-span-3">
+            <div class="bg-gray-50 p-4 rounded shadow">
+                <h2 class="font-bold mb-4">Symptoms</h2>
+                <ul class="space-y-2">
+                    <li><a href="#" class="text-gray-600 hover:text-blue-500">Abdominal Pain</a></li>
+                    <li><a href="#" class="text-gray-600 hover:text-blue-500">Chest Pain</a></li>
+                    <li><a href="#" class="text-gray-600 hover:text-blue-500">Dyspnea</a></li>
+                    <!-- More symptoms... -->
+                </ul>
+            </div>
+        </aside>
+
+        <!-- Main content -->
+        <div class="col-span-6">
+            <!-- Content sections here -->
+        </div>
+
+        <!-- Right sidebar -->
+        <aside class="col-span-3">
+            <!-- Additional widgets -->
+        </aside>
+    </main>
+
+    <footer class="mt-8 bg-gray-100 p-4">
+        <!-- Footer content -->
+    </footer>
+</body>
+</html>

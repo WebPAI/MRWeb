@@ -1,0 +1,36 @@
+[
+    {
+        "position": [
+            [
+                889.3333129882812,
+                535.5
+            ],
+            [
+                1030.6666564941406,
+                583.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Enroll Now",
+        "on_click_jump_to": "http://awfreeman.blogspot.com/2011/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?campus"
+    }
+]

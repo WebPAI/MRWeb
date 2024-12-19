@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                808.36669921875,
+                128.5
+            ],
+            [
+                861.9833679199219,
+                155.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://en.wikipedia.org/wiki/Stock_Windmill"
+    },
+    {
+        "position": [
+            [
+                877.9833374023438,
+                128.5
+            ],
+            [
+                929.0500030517578,
+                155.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "http://www.sawdustanddirt.com/2015/04/just-pictures.html"
+    },
+    {
+        "position": [
+            [
+                945.0499877929688,
+                128.5
+            ],
+            [
+                1027.2166442871094,
+                155.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://multitipurposeroom.com/2016/03/07/sweet-augustine/"
+    },
+    {
+        "position": [
+            [
+                1043.2166748046875,
+                128.5
+            ],
+            [
+                1111.616683959961,
+                155.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://harcourts.co.nz/Property/862464/HF180912/1-4-Ti-Nana-Crescent"
+    },
+    {
+        "position": [
+            [
+                736.4500122070312,
+                32.0
+            ],
+            [
+                800.4500122070312,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1486428128344-5413e434ad35?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjU3MTl8&ixlib=rb-4.0.3&w=300&h=200"
+    }
+]

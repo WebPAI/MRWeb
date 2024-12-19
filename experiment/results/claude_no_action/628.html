@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DiagnosisDude</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white">
+    <div class="max-w-4xl mx-auto px-4">
+        <!-- Header -->
+        <header class="py-4">
+            <h1 class="text-3xl font-bold text-center">DiagnosisDude</h1>
+            <nav class="flex justify-center space-x-4 mt-2">
+                <a href="#" class="hover:underline">HOME</a>
+                <a href="#" class="hover:underline">ABOUT</a>
+                <a href="#" class="hover:underline">REFERENCE TABLES (SCROLL)</a>
+                <a href="#" class="hover:underline">WELCOME</a>
+            </nav>
+        </header>
+
+        <!-- Main Content -->
+        <main class="mt-8">
+            <h2 class="text-xl font-bold mb-4">Acute Hepatitis</h2>
+
+            <ol class="list-decimal ml-6 space-y-4">
+                <li>Common S/s: anorexia, nausea, vomiting, fever, malaise. Maybe jaundice</li>
+                <li>Dx by increased ALT & AST, often >1,000 IU
+                    <ul class="list-disc ml-6 mt-2">
+                        <li>If ALT/AST ↑ disproportionately to ALT/AST, suspect Biliary Disease (get image)</li>
+                        <li>Acute Pancreatitis can mimic hepatitis: order serum Lipase</li>
+                        <li>If painless jaundice, consider pancreatic cancer (CT), hemolytic anemia (CBC)</li>
+                    </ul>
+                </li>
+                <li>Prothrombin Time defines severity (1-1.5 OK; >1.6 severe)</li>
+            </ol>
+
+            <h3 class="text-lg font-bold mt-6 mb-4">DIFFERENTIAL DIAGNOSIS OF ACUTE HEPATITIS</h3>
+
+            <div class="space-y-6">
+                <!-- Hepatitis Types -->
+                <div>
+                    <h4 class="font-bold">Hepatitis A</h4>
+                    <ul class="list-disc ml-6">
+                        <li>HepA IgM antibody = Acute Hep A</li>
+                        <li class="ml-6">Total Hep A Ab pos, IgM neg = already immune</li>
+                    </ul>
+                </div>
+
+                <!-- Repeat similar structure for other hepatitis types and conditions -->
+                <!-- ... -->
+
+                <div>
+                    <h4 class="font-bold">Toxins</h4>
+                    <ul class="list-disc ml-6">
+                        <li>History: Meds, Environmental, Lead, Mushrooms, etc.</li>
+                    </ul>
+                </div>
+
+                <div>
+                    <h4 class="font-bold">Wilson's Disease (very rare)</h4>
+                    <ul class="list-disc ml-6">
+                        <li>Low serum ceruloplasmin</li>
+                    </ul>
+                </div>
+            </div>
+        </main>
+
+        <!-- Sidebar -->
+        <aside class="mt-8 border-t pt-4">
+            <div class="mb-6">
+                <h3 class="font-bold mb-2">A BLOG FOR:</h3>
+                <p class="text-sm">Nurse Practitioner, Physician Assistant, and Medical Student; (Graduate Young, Old, Retired its fine!);<br>
+                Allied & opposition Health Professions;<br>
+                and maybe some Patient (lawyers too?)</p>
+            </div>
+
+            <div class="mb-6">
+                <h3 class="font-bold mb-2">FOLLOW BLOG VIA EMAIL</h3>
+                <p class="text-sm mb-2">Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+                <input type="email" class="border p-2 w-full mb-2" placeholder="Email Address">
+                <button class="bg-blue-500 text-white px-4 py-2 rounded">Follow</button>
+            </div>
+        </aside>
+    </div>
+</body>
+</html>

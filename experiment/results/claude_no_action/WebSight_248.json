@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                865.4166870117188,
+                112.0
+            ],
+            [
+                908.3166809082031,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                932.316650390625,
+                112.0
+            ],
+            [
+                975.8833160400391,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                999.88330078125,
+                112.0
+            ],
+            [
+                1054.566635131836,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                942.13330078125,
+                32.0
+            ],
+            [
+                977.8499755859375,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    }
+]

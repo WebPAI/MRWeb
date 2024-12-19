@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                1468.5833740234375,
+                47.5
+            ],
+            [
+                1506.8167114257812,
+                64.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://aftco.com/collections/fishing-tackle/products/bbshdguide"
+    },
+    {
+        "position": [
+            [
+                1526.75,
+                47.5
+            ],
+            [
+                1565.5500030517578,
+                64.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://thirtyfifty.co.uk/shop_winedetails.asp?wineid=1447&winename=Domaine%20Montrose%20Merlot%20C%C3%B4tes%20de%20Thongue%20IGP%20France%202016"
+    },
+    {
+        "position": [
+            [
+                1585.4833984375,
+                47.5
+            ],
+            [
+                1640.8167266845703,
+                64.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "https://www.campusrent.com/kalamazoo-valley-community-college-apartments.cfm"
+    },
+    {
+        "position": [
+            [
+                1660.75,
+                47.5
+            ],
+            [
+                1712.0,
+                64.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://www.teamtap.com.au/teams.html"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                32.0
+            ],
+            [
+                256.0,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczNTV8&ixlib=rb-4.0.3&w=100&h=100"
+    }
+]

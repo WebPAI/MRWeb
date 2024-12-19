@@ -1,0 +1,130 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                15.0
+            ],
+            [
+                377.53334045410156,
+                43.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "KiaPartsPeople.com",
+        "on_click_jump_to": "http://kiapartspeople.com/"
+    },
+    {
+        "position": [
+            [
+                779.4666748046875,
+                17.0
+            ],
+            [
+                822.5833435058594,
+                41.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://kiapartspeople.com/"
+    },
+    {
+        "position": [
+            [
+                838.5833129882812,
+                17.0
+            ],
+            [
+                896.1833190917969,
+                41.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                912.183349609375,
+                17.0
+            ],
+            [
+                955.8166809082031,
+                41.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                971.816650390625,
+                17.0
+            ],
+            [
+                1042.383316040039,
+                41.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Cart",
+        "on_click_jump_to": "http://kiapartspeople.com/cartshow"
+    },
+    {
+        "position": [
+            [
+                754.0,
+                74.0
+            ],
+            [
+                1166.0,
+                138.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://kiapartspeople.com/images/Kia/Kia_logo.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                154.0
+            ],
+            [
+                1920.0,
+                1186.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://kiapartspeople.com/images/Kia/Kia-Sportage_splash_banner_left.jpg"
+    }
+]

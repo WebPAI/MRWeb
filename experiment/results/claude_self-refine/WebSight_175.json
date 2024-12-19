@@ -1,0 +1,36 @@
+[
+    {
+        "position": [
+            [
+                894.5333251953125,
+                390.25
+            ],
+            [
+                1025.4666442871094,
+                430.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Learn More",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://source.unsplash.com/random/1600x900/?education"
+    }
+]

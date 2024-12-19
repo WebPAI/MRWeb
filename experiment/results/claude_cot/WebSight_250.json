@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                1457.5999755859375,
+                36.0
+            ],
+            [
+                1500.7166290283203,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://aftco.com/collections/fishing-tackle/products/bbshdguide"
+    },
+    {
+        "position": [
+            [
+                1516.7166748046875,
+                36.0
+            ],
+            [
+                1560.3500213623047,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://thirtyfifty.co.uk/shop_winedetails.asp?wineid=1447&winename=Domaine%20Montrose%20Merlot%20C%C3%B4tes%20de%20Thongue%20IGP%20France%202016"
+    },
+    {
+        "position": [
+            [
+                1576.3499755859375,
+                36.0
+            ],
+            [
+                1638.3999633789062,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "https://www.campusrent.com/kalamazoo-valley-community-college-apartments.cfm"
+    },
+    {
+        "position": [
+            [
+                1654.4000244140625,
+                36.0
+            ],
+            [
+                1712.0000305175781,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://www.teamtap.com.au/teams.html"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                272.0,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1599305445671-ac291c95aaa9?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczNTV8&ixlib=rb-4.0.3&w=100&h=100"
+    }
+]

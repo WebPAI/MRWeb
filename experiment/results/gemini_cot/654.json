@@ -1,0 +1,402 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                251.11666870117188,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.amreading.com/"
+    },
+    {
+        "position": [
+            [
+                267.1166687011719,
+                16.0
+            ],
+            [
+                419.3666687011719,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Gifts for Book Lovers",
+        "on_click_jump_to": "https://www.amreading.com/category/book-lovers/gifts/"
+    },
+    {
+        "position": [
+            [
+                435.3666687011719,
+                16.0
+            ],
+            [
+                526.5500030517578,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Bookshelves",
+        "on_click_jump_to": "https://www.amreading.com/category/bookshelf/"
+    },
+    {
+        "position": [
+            [
+                542.5499877929688,
+                16.0
+            ],
+            [
+                654.6166534423828,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Literary Quotes",
+        "on_click_jump_to": "https://www.amreading.com/category/quotes/"
+    },
+    {
+        "position": [
+            [
+                670.61669921875,
+                16.0
+            ],
+            [
+                745.7333679199219,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Book Lists",
+        "on_click_jump_to": "https://www.amreading.com/category/lists/"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                104.0
+            ],
+            [
+                367.18333435058594,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "AMREADING",
+        "on_click_jump_to": "https://www.amreading.com/"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                184.0
+            ],
+            [
+                270.48333740234375,
+                208.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://www.amreading.com/"
+    },
+    {
+        "position": [
+            [
+                286.48333740234375,
+                184.0
+            ],
+            [
+                340.48333740234375,
+                208.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://www.amreading.com/about/"
+    },
+    {
+        "position": [
+            [
+                356.48333740234375,
+                184.0
+            ],
+            [
+                481.0500030517578,
+                208.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PRIVACY POLICY",
+        "on_click_jump_to": "https://www.amreading.com/privacy-policy/"
+    },
+    {
+        "position": [
+            [
+                497.0499877929687,
+                184.0
+            ],
+            [
+                786.2666625976562,
+                208.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DIGITAL MILLENNIUM COPYRIGHT ACT",
+        "on_click_jump_to": "https://www.amreading.com/digital-millennium-copyright-act/"
+    },
+    {
+        "position": [
+            [
+                231.0666656494141,
+                302.0
+            ],
+            [
+                363.8833312988281,
+                322.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Lacey Kupfer Wulf",
+        "on_click_jump_to": "https://www.amreading.com/author/lwulf/"
+    },
+    {
+        "position": [
+            [
+                300.58331298828125,
+                334.0
+            ],
+            [
+                383.38331604003906,
+                354.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Book Clubs",
+        "on_click_jump_to": "https://www.amreading.com/category/grab-bag/book-clubs/"
+    },
+    {
+        "position": [
+            [
+                392.316650390625,
+                334.0
+            ],
+            [
+                467.4333190917969,
+                354.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Book Lists",
+        "on_click_jump_to": "https://www.amreading.com/category/lists/"
+    },
+    {
+        "position": [
+            [
+                476.3666687011719,
+                334.0
+            ],
+            [
+                565.4499969482422,
+                354.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Book Lovers",
+        "on_click_jump_to": "https://www.amreading.com/category/book-lovers/"
+    },
+    {
+        "position": [
+            [
+                574.38330078125,
+                334.0
+            ],
+            [
+                684.2999725341797,
+                354.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Bookshelf Porn",
+        "on_click_jump_to": "https://www.amreading.com/category/bookshelf/"
+    },
+    {
+        "position": [
+            [
+                693.2333374023438,
+                334.0
+            ],
+            [
+                746.3666687011719,
+                354.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Ebooks",
+        "on_click_jump_to": "https://www.amreading.com/category/ebooks/"
+    },
+    {
+        "position": [
+            [
+                755.2999877929688,
+                334.0
+            ],
+            [
+                866.5499877929688,
+                354.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Human Interest",
+        "on_click_jump_to": "https://www.amreading.com/category/grab-bag/human-interest/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                366.0
+            ],
+            [
+                310.4166717529297,
+                402.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.amreading.com%2F2017%2F01%2F07%2F10-disadvantages-of-being-a-bookworm-and-how-to-fix-them%2F"
+    },
+    {
+        "position": [
+            [
+                322.91668701171875,
+                366.0
+            ],
+            [
+                404.91668701171875,
+                402.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "https://twitter.com/intent/tweet?text=10%20Disadvantages%20Of%20Being%20A%20Bookworm%20And%20How%20To%20%22Fix%22%20Them&url=https://www.amreading.com/?p=30561&via=AmReadingDotCom"
+    },
+    {
+        "position": [
+            [
+                417.4166870117187,
+                366.0
+            ],
+            [
+                513.9666748046875,
+                402.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Pinterest",
+        "on_click_jump_to": "#"
+    }
+]

@@ -1,0 +1,276 @@
+[
+    {
+        "position": [
+            [
+                538.9000244140625,
+                18.0
+            ],
+            [
+                585.3833618164062,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/"
+    },
+    {
+        "position": [
+            [
+                617.38330078125,
+                18.0
+            ],
+            [
+                726.9499664306641,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "OUR LIFEBOAT",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/our-lifeboat/"
+    },
+    {
+        "position": [
+            [
+                758.9500122070312,
+                18.0
+            ],
+            [
+                883.6333465576172,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MEET THE TEAM",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/meet-the-team/"
+    },
+    {
+        "position": [
+            [
+                915.63330078125,
+                18.0
+            ],
+            [
+                1027.1166381835938,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET INVOLVED",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/get-involved/"
+    },
+    {
+        "position": [
+            [
+                1059.11669921875,
+                18.0
+            ],
+            [
+                1104.9500274658203,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "NEWS",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/news/"
+    },
+    {
+        "position": [
+            [
+                1136.949951171875,
+                18.0
+            ],
+            [
+                1180.2832946777344,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SHOP",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/get-involved/"
+    },
+    {
+        "position": [
+            [
+                1212.2833251953125,
+                18.0
+            ],
+            [
+                1285.999984741211,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/contact/"
+    },
+    {
+        "position": [
+            [
+                1318.0,
+                18.0
+            ],
+            [
+                1381.0833282470703,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DONATE",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/get-involved/"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                958.0
+            ],
+            [
+                685.4499969482422,
+                978.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Posted in Press Release",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/category/press-release/"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                1070.0
+            ],
+            [
+                734.5833282470703,
+                1090.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "contact@stabbslifeboat.org.uk",
+        "on_click_jump_to": "mailto:contact@stabbslifeboat.org.uk"
+    },
+    {
+        "position": [
+            [
+                734.5833129882812,
+                1094.0
+            ],
+            [
+                834.8666534423828,
+                1114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy policy",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/wp-content/uploads/2023/09/Privacy-Policy-web-wording-St-Abbs-Lifeboat.pdf"
+    },
+    {
+        "position": [
+            [
+                734.5833129882812,
+                1118.0
+            ],
+            [
+                810.816650390625,
+                1162.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms and conditions",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/wp-content/uploads/2023/09/TCs-website-St-Abbs-lifeboat.pdf"
+    },
+    {
+        "position": [
+            [
+                1063.5166015625,
+                1182.0
+            ],
+            [
+                1372.9666137695312,
+                1202.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Kreative Technology, Berwick-upon-Tweed",
+        "on_click_jump_to": "https://kreative-technology.co.uk/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                384.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://stabbslifeboat.org.uk/wp-content/uploads/2015/11/Tea-Cakes-1024x540.jpg"
+    }
+]

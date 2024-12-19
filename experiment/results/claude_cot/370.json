@@ -1,0 +1,150 @@
+[
+    {
+        "position": [
+            [
+                1115.1500244140625,
+                26.083328247070312
+            ],
+            [
+                1230.86669921875,
+                50.08332824707031
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Blog Categories",
+        "on_click_jump_to": "http://www.delsol.com/blog"
+    },
+    {
+        "position": [
+            [
+                1262.86669921875,
+                26.083328247070312
+            ],
+            [
+                1322.7500305175781,
+                50.08332824707031
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Fan Mail",
+        "on_click_jump_to": "https://blog.delsol.com/fan-mail/"
+    },
+    {
+        "position": [
+            [
+                1354.75,
+                26.083328247070312
+            ],
+            [
+                1468.0333404541016,
+                50.08332824707031
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Store Locations",
+        "on_click_jump_to": "http://www.delsol.com/stores.html"
+    },
+    {
+        "position": [
+            [
+                1500.0333251953125,
+                26.083328247070312
+            ],
+            [
+                1568.0333251953125,
+                50.08332824707031
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Media Kit",
+        "on_click_jump_to": "https://blog.delsol.com/wp-content/uploads/2024/01/DelSol_MediaKit_2024.pdf"
+    },
+    {
+        "position": [
+            [
+                1600.0333251953125,
+                26.083328247070312
+            ],
+            [
+                1711.999984741211,
+                50.08332824707031
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About Our Blog",
+        "on_click_jump_to": "https://blog.delsol.com/about/"
+    },
+    {
+        "position": [
+            [
+                260.0,
+                178.1666717529297
+            ],
+            [
+                345.46665954589844,
+                202.1666717529297
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Scott.Brady",
+        "on_click_jump_to": "https://blog.delsol.com/author/scott-brady/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                368.0,
+                60.16667175292969
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.delsol.com/wp-content/uploads/2022/12/imageonline-co-whitebackgroundremoved_1_1624297182__06649.webp"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                172.1666717529297
+            ],
+            [
+                244.0,
+                208.1666717529297
+            ]
+        ],
+        "type": "img",
+        "src": "https://secure.gravatar.com/avatar/e07701aeba183022d776869a1ddb3e9c?s=36&d=mm&r=g"
+    }
+]

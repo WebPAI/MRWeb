@@ -1,0 +1,572 @@
+[
+    {
+        "position": [
+            [
+                1093.0,
+                34.5
+            ],
+            [
+                1150.0,
+                48.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Free Trial",
+        "on_click_jump_to": "https://www.3dsellers.com/signup"
+    },
+    {
+        "position": [
+            [
+                1174.0,
+                34.5
+            ],
+            [
+                1209.0,
+                48.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Login",
+        "on_click_jump_to": "https://www.3dsellers.com/login"
+    },
+    {
+        "position": [
+            [
+                1233.0,
+                34.5
+            ],
+            [
+                1331.0,
+                48.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "3Dsellers Home",
+        "on_click_jump_to": "https://www.3dsellers.com/"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                257.79998779296875
+            ],
+            [
+                573.0,
+                280.1999816894531
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "All Collections",
+        "on_click_jump_to": "https://help.3dsellers.com/en/"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                537.2000122070312
+            ],
+            [
+                1427.0,
+                640.0000152587891
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Overview of eBay Feedback Reminder - (How to get more feedback)\nFeedback Reminder has remained one of the most popular 3Dsellers tools for over a decade. Learn how to utilize this powerful application.",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/4516070-overview-of-ebay-feedback-reminder-how-to-get-more-feedback"
+    },
+    {
+        "position": [
+            [
+                505.0,
+                698.0
+            ],
+            [
+                1415.0,
+                725.2833404541016
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Sending Feedback Reminders",
+        "on_click_jump_to": "https://help.3dsellers.com/en/collections/2459717-sending-feedback-reminders"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                764.2833251953125
+            ],
+            [
+                1427.0,
+                841.4833221435547
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "How are feedback reminders sent to buyers? With email or eBay?\nFeedback Reminders are delivered with eBay's messaging system",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/2101500-how-are-feedback-reminders-sent-to-buyers-with-email-or-ebay"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                841.4833374023438
+            ],
+            [
+                1427.0,
+                918.6833343505859
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Does eBay allow sending reminders to buyers?\nAbsolutely. Feedback Reminder sends a message to your buyer about their order.",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/2101555-does-ebay-allow-sending-reminders-to-buyers"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                918.683349609375
+            ],
+            [
+                1427.0,
+                995.8833465576172
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "How to stop sending feedback reminders\nTurn off feedback reminders with this on/off button",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/2101584-how-to-stop-sending-feedback-reminders"
+    },
+    {
+        "position": [
+            [
+                505.0,
+                1053.88330078125
+            ],
+            [
+                1415.0,
+                1081.1666412353516
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Leave Feedback to Buyers",
+        "on_click_jump_to": "https://help.3dsellers.com/en/collections/2459718-leave-feedback-to-buyers"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                1120.1666259765625
+            ],
+            [
+                1427.0,
+                1197.3666229248047
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "How to automatically leave feedback to eBay buyers\nAutomatically leave custom feedback messages to buyers at certain times",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/2101540-how-to-automatically-leave-feedback-to-ebay-buyers"
+    },
+    {
+        "position": [
+            [
+                505.0,
+                1255.36669921875
+            ],
+            [
+                1415.0,
+                1282.6500244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "eBay Feedback Alerts",
+        "on_click_jump_to": "https://help.3dsellers.com/en/collections/2459721-ebay-feedback-alerts"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                1321.6500244140625
+            ],
+            [
+                1427.0,
+                1398.8500366210938
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Get alerts for positive, neutral, and negative feedback\nGet an email notification when you receive certain kinds of feedback.",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/2101556-get-alerts-for-positive-neutral-and-negative-feedback"
+    },
+    {
+        "position": [
+            [
+                505.0,
+                1456.8499755859375
+            ],
+            [
+                1415.0,
+                1484.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Error",
+        "on_click_jump_to": "https://help.3dsellers.com/en/collections/892923-error"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                1523.13330078125
+            ],
+            [
+                1427.0,
+                1625.9333038330078
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Feedback link doesn't work? The buyer is not able to leave feedback?\nFeedback Reminder (& Auto Messages/Shipping Tracker) can send direct link to leave feedback. Here's what do do if buyer says \"not working\"",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/4438799-feedback-link-doesn-t-work-the-buyer-is-not-able-to-leave-feedback"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                1625.933349609375
+            ],
+            [
+                1427.0,
+                1728.7333526611328
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Reminder not sent - Error: \"Seller token invalid\"\nIf your eBay auth token expires and feedback reminders don't send, you can re-send them with the \"Resend Reminders\" button.",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/3904994-reminder-not-sent-error-seller-token-invalid"
+    },
+    {
+        "position": [
+            [
+                505.0,
+                1786.7333984375
+            ],
+            [
+                1415.0,
+                1814.0167236328125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "General Information",
+        "on_click_jump_to": "https://help.3dsellers.com/en/collections/892917-general-information"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                1853.0166015625
+            ],
+            [
+                1427.0,
+                1930.2165985107422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Can I track the results of using feedback reminders? {{update content}}\nRead here how you can track the results of using feedback reminders",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/2101538-can-i-track-the-results-of-using-feedback-reminders-update-content"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                1930.2166748046875
+            ],
+            [
+                1427.0,
+                2007.4166870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "What are the best practices for improving my feedback on eBay?\nRead here what are the best practices for improving your feedback on eBay",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/2101478-what-are-the-best-practices-for-improving-my-feedback-on-ebay"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                2007.4166259765625
+            ],
+            [
+                1427.0,
+                2084.6166229248047
+            ]
+        ],
+        "type": "a",
+        "color": [
+            26,
+            26,
+            26
+        ],
+        "text": "Why should I care about my feedback score?\nRead here why you should care about your eBay feedback score and how to improve it",
+        "on_click_jump_to": "https://help.3dsellers.com/en/articles/2101477-why-should-i-care-about-my-feedback-score"
+    },
+    {
+        "position": [
+            [
+                643.0,
+                2315.316650390625
+            ],
+            [
+                854.0,
+                2334.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            146,
+            155,
+            165
+        ],
+        "text": "The Ultimate eBay Selling Software",
+        "on_click_jump_to": "https://www.3dsellers.com/"
+    },
+    {
+        "position": [
+            [
+                878.0,
+                2315.316650390625
+            ],
+            [
+                1045.0,
+                2334.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            146,
+            155,
+            165
+        ],
+        "text": "Can't find the answer here?",
+        "on_click_jump_to": "https://help.3dsellers.com/cdn-cgi/l/email-protection"
+    },
+    {
+        "position": [
+            [
+                1069.0,
+                2315.316650390625
+            ],
+            [
+                1120.0,
+                2334.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            146,
+            155,
+            165
+        ],
+        "text": "Youtube",
+        "on_click_jump_to": "https://www.youtube.com/@3dsellers"
+    },
+    {
+        "position": [
+            [
+                1144.0,
+                2315.316650390625
+            ],
+            [
+                1185.0,
+                2334.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            146,
+            155,
+            165
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "https://twitter.com/3DSellers"
+    },
+    {
+        "position": [
+            [
+                1209.0,
+                2315.316650390625
+            ],
+            [
+                1277.0,
+                2334.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            146,
+            155,
+            165
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://www.3dsellers.com/contact-us"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                24.0
+            ],
+            [
+                672.0,
+                59.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://downloads.intercomcdn.com/i/o/224483/d899108c02659bb4b9a1fca6/084e99b6664234b651e31789ec875f4c.png"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                312.20001220703125
+            ],
+            [
+                520.0,
+                352.20001220703125
+            ]
+        ],
+        "type": "img",
+        "src": "https://intercom.help/3dsellers/assets/svg/icon:chat-star/2d72e9"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                460.2000122070313
+            ],
+            [
+                504.0,
+                484.2000122070313
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.intercomassets.com/avatars/2007876/square_128/profile-pic_%2817%29-1639674898.png"
+    },
+    {
+        "position": [
+            [
+                872.2166748046875,
+                2241.61669921875
+            ],
+            [
+                1047.7666778564453,
+                2273.61669921875
+            ]
+        ],
+        "type": "img",
+        "src": "https://downloads.intercomcdn.com/i/o/224483/d899108c02659bb4b9a1fca6/084e99b6664234b651e31789ec875f4c.png"
+    },
+    {
+        "position": [
+            [
+                952.0,
+                2352.0166015625
+            ],
+            [
+                968.0,
+                2368.0166015625
+            ]
+        ],
+        "type": "img",
+        "src": "https://intercom.help/3dsellers/assets/svg/icon:social-linkedin/909aa5"
+    }
+]

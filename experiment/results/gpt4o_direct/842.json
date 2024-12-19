@@ -1,0 +1,144 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                345.58331298828125
+            ],
+            [
+                472.5,
+                365.58331298828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "What to Ask the Person in the Mirror",
+        "on_click_jump_to": "http://www.amazon.com/What-Ask-Person-Mirror-Questions/dp/1422170012"
+    },
+    {
+        "position": [
+            [
+                1242.6666259765625,
+                321.58331298828125
+            ],
+            [
+                1366.133285522461,
+                341.58331298828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Learn About TEC",
+        "on_click_jump_to": "http://www.tecmidwest.com/about-tec.cfm"
+    },
+    {
+        "position": [
+            [
+                1242.6666259765625,
+                345.58331298828125
+            ],
+            [
+                1347.266616821289,
+                365.58331298828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "TEC Programs",
+        "on_click_jump_to": "http://www.tecmidwest.com/program-details.cfm"
+    },
+    {
+        "position": [
+            [
+                1242.6666259765625,
+                369.5833129882813
+            ],
+            [
+                1334.9332885742188,
+                389.5833129882813
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact TEC",
+        "on_click_jump_to": "mailto:info@tecmidwest.com?subject=Learn About TEC From Sam's Blog"
+    },
+    {
+        "position": [
+            [
+                1242.6666259765625,
+                565.5833129882812
+            ],
+            [
+                1337.4999542236328,
+                585.5833129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "SAM KELLER",
+        "on_click_jump_to": "https://www.blogger.com/profile/06901589774544382486"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                1712.0,
+                251.5833282470703
+            ]
+        ],
+        "type": "img",
+        "src": "http://1.bp.blogspot.com/_tJMW7Ckh2Xw/S6eJ7T566cI/AAAAAAAAAFM/Io-v8ZA96bA/S1600-R/tec_banner_v3.jpg"
+    },
+    {
+        "position": [
+            [
+                1242.6666259765625,
+                475.5833129882813
+            ],
+            [
+                1309.6666259765625,
+                555.5833129882812
+            ]
+        ],
+        "type": "img",
+        "src": "http://3.bp.blogspot.com/_m98EU-n2Yeo/S6qRnUkVvlI/AAAAAAAAAAM/e0abU3UTB7E/S220-s80/Sam-Keller+TEC.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                619.5833129882812
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.tecmidwest.com/images/bg-page.jpg"
+    }
+]

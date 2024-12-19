@@ -1,0 +1,492 @@
+[
+    {
+        "position": [
+            [
+                740.0833129882812,
+                38.5
+            ],
+            [
+                787.1499786376953,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "O NÁS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                815.11669921875,
+                38.5
+            ],
+            [
+                928.86669921875,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "STREET DANCE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                956.8333129882812,
+                38.5
+            ],
+            [
+                1058.999984741211,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DISCO DANCE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1086.9666748046875,
+                38.5
+            ],
+            [
+                1214.5333557128906,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTEMPORARY",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1242.5,
+                38.5
+            ],
+            [
+                1358.1166687011719,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JABLONEC N.N.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1386.0833740234375,
+                38.5
+            ],
+            [
+                1505.233383178711,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LÉTO S TAKTEM",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1533.199951171875,
+                30.5
+            ],
+            [
+                1711.9999542236328,
+                65.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "ONLINE PŘIHLÁŠKA",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                317.6666717529297,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                236.0
+            ],
+            [
+                566.0,
+                260.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image1.jpg"
+    },
+    {
+        "position": [
+            [
+                590.0,
+                236.0
+            ],
+            [
+                948.0,
+                260.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image2.jpg"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                236.0
+            ],
+            [
+                1330.0,
+                260.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image3.jpg"
+    },
+    {
+        "position": [
+            [
+                1354.0,
+                236.0
+            ],
+            [
+                1712.0,
+                260.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image4.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                284.0
+            ],
+            [
+                566.0,
+                308.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image5.jpg"
+    },
+    {
+        "position": [
+            [
+                590.0,
+                284.0
+            ],
+            [
+                948.0,
+                308.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image6.jpg"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                284.0
+            ],
+            [
+                1330.0,
+                308.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image7.jpg"
+    },
+    {
+        "position": [
+            [
+                1354.0,
+                284.0
+            ],
+            [
+                1712.0,
+                308.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image8.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                332.0
+            ],
+            [
+                566.0,
+                356.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image9.jpg"
+    },
+    {
+        "position": [
+            [
+                590.0,
+                332.0
+            ],
+            [
+                948.0,
+                356.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image10.jpg"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                332.0
+            ],
+            [
+                1330.0,
+                356.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image11.jpg"
+    },
+    {
+        "position": [
+            [
+                1354.0,
+                332.0
+            ],
+            [
+                1712.0,
+                356.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image12.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                380.0
+            ],
+            [
+                566.0,
+                404.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image13.jpg"
+    },
+    {
+        "position": [
+            [
+                590.0,
+                380.0
+            ],
+            [
+                948.0,
+                404.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image14.jpg"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                380.0
+            ],
+            [
+                1330.0,
+                404.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image15.jpg"
+    },
+    {
+        "position": [
+            [
+                1354.0,
+                380.0
+            ],
+            [
+                1712.0,
+                404.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image16.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                428.0
+            ],
+            [
+                566.0,
+                452.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image17.jpg"
+    },
+    {
+        "position": [
+            [
+                590.0,
+                428.0
+            ],
+            [
+                948.0,
+                452.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image18.jpg"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                428.0
+            ],
+            [
+                1330.0,
+                452.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image19.jpg"
+    },
+    {
+        "position": [
+            [
+                1354.0,
+                428.0
+            ],
+            [
+                1712.0,
+                452.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image20.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                476.0
+            ],
+            [
+                566.0,
+                500.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image21.jpg"
+    },
+    {
+        "position": [
+            [
+                590.0,
+                476.0
+            ],
+            [
+                948.0,
+                500.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image22.jpg"
+    },
+    {
+        "position": [
+            [
+                972.0,
+                476.0
+            ],
+            [
+                1330.0,
+                500.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image23.jpg"
+    },
+    {
+        "position": [
+            [
+                1354.0,
+                476.0
+            ],
+            [
+                1712.0,
+                500.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image24.jpg"
+    }
+]

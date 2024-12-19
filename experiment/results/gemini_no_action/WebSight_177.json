@@ -1,0 +1,44 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                216.0
+            ],
+            [
+                688.0,
+                472.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/doctor.jpg"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                216.0
+            ],
+            [
+                1200.0,
+                472.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/injection.jpg"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                216.0
+            ],
+            [
+                1712.0,
+                472.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/comprehensive_care.jpg"
+    }
+]

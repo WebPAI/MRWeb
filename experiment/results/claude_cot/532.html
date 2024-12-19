@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TAKT Liberec</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="relative h-[150px] bg-cover bg-center" style="background-image: url('https://www.takt-lbc.com/wp-content/uploads/2023/03/header_bg-1-1.png')">
+        <!-- Logo -->
+        <div class="absolute left-[280px] top-0">
+            <img src="https://www.takt-lbc.com/wp-content/uploads/2023/03/logoweb.svg" 
+                 class="w-[150px] h-[150px]" alt="Logo">
+        </div>
+
+        <!-- Navigation Menu -->
+        <nav class="absolute top-[65px] left-[464px] text-white">
+            <a href="#" class="px-4">O NÁS</a>
+            <a href="#" class="px-4">STREET DANCE</a>
+            <a href="#" class="px-4">DISCO DANCE</a>
+            <a href="#" class="px-4">CONTEMPORARY</a>
+            <a href="#" class="px-4">JABLONEC N.N.</a>
+            <a href="https://www.takt-lbc.com/leto-s-taktem-2/" class="px-4">LÉTO S TAKTEM</a>
+            <a href="#" class="px-4">ONLINE PŘIHLÁŠKA</a>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4">
+        <!-- Breadcrumb -->
+        <div class="text-right my-4">
+            <a href="https://www.takt-lbc.com/" class="text-white">HOME</a>
+        </div>
+
+        <!-- Gallery Grid -->
+        <div class="grid grid-cols-5 gap-8">
+            <!-- Gallery items -->
+            <!-- Each gallery item follows this pattern -->
+            <a href="[link]" class="block relative group">
+                <img src="[image-src]" class="w-full h-[160px] object-cover" alt="">
+                <div class="absolute bottom-0 left-0 right-0 bg-black bg-opacity-70 text-white p-2 text-sm">
+                    [text]
+                    <div class="text-xs">[fotek count]</div>
+                </div>
+            </a>
+            <!-- Repeat for each gallery item -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-black text-gray-400 mt-16 py-8">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between">
+                <!-- Logo -->
+                <div>
+                    <img src="https://www.takt-lbc.com/wp-content/uploads/2023/03/logo2-1-1.png" 
+                         class="w-[170px]" alt="Footer Logo">
+                </div>
+                
+                <!-- Contact Info -->
+                <div>
+                    <a href="mailto:takt-lbc@seznam.cz" class="block">takt-lbc@seznam.cz</a>
+                    <a href="tel:+420777256959" class="block">+420 777 256 959</a>
+                </div>
+
+                <!-- Partner Logos -->
+                <div class="flex flex-col gap-4">
+                    <img src="[partner-logo-1]" class="h-12" alt="Partner Logo">
+                    <img src="[partner-logo-2]" class="h-12" alt="Partner Logo">
+                    <!-- Add other partner logos -->
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                836.7333374023438,
+                454.0
+            ],
+            [
+                879.8500061035156,
+                474.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                895.8499755859375,
+                454.0
+            ],
+            [
+                939.4833068847656,
+                474.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                955.4833374023438,
+                454.0
+            ],
+            [
+                1083.2666625976562,
+                474.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Vogel Family Tree",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1242.6666259765625,
+                592.0
+            ],
+            [
+                1469.949951171875,
+                612.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Rainbow Plumbob Image Dump",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                52.0
+            ],
+            [
+                1920.0,
+                436.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/your-image-url.jpg"
+    }
+]

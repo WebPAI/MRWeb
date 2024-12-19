@@ -1,0 +1,216 @@
+[
+    {
+        "position": [
+            [
+                980.0166625976562,
+                36.0
+            ],
+            [
+                1023.1333312988281,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/"
+    },
+    {
+        "position": [
+            [
+                1039.13330078125,
+                36.0
+            ],
+            [
+                1082.7666320800781,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/about-us.html"
+    },
+    {
+        "position": [
+            [
+                1098.7666015625,
+                36.0
+            ],
+            [
+                1235.1332702636719,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Shop, Dine & More",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/p/shop-dine-more.html"
+    },
+    {
+        "position": [
+            [
+                1251.13330078125,
+                36.0
+            ],
+            [
+                1341.4166412353516,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Membership",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/membership-info.html"
+    },
+    {
+        "position": [
+            [
+                1357.4166259765625,
+                36.0
+            ],
+            [
+                1422.449951171875,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/meetings.html"
+    },
+    {
+        "position": [
+            [
+                1438.449951171875,
+                36.0
+            ],
+            [
+                1498.9166259765625,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sponsor",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/sponsorship.html"
+    },
+    {
+        "position": [
+            [
+                1514.9166259765625,
+                36.0
+            ],
+            [
+                1563.4166259765625,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Events",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/events.html"
+    },
+    {
+        "position": [
+            [
+                1579.4166259765625,
+                36.0
+            ],
+            [
+                1638.5999603271484,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/downtown-project.html"
+    },
+    {
+        "position": [
+            [
+                1654.5999755859375,
+                36.0
+            ],
+            [
+                1727.9999694824219,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Hist. Sites",
+        "on_click_jump_to": "http://www.franklindowntownpartnership.org/p/historic-sites.html"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                198.0
+            ],
+            [
+                294.3500061035156,
+                218.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Read more",
+        "on_click_jump_to": "https://www.franklindowntownpartnership.org/2013/11/2013-food-elves-press-release.html"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                434.93333435058594,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://2.bp.blogspot.com/_ICD_gdq0sdY/TGH6J1QjzyI/AAAAAAAAAno/eQFuraWWfUE/S930-R/FInal-DTPS.gif"
+    }
+]

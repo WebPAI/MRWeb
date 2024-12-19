@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>eeHealthBook</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif; /* Approximated font */
+        }
+        .shadow-box {
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2); /* Approximated shadow */
+        }
+        .link-gray {
+            color: #666;
+        }
+        .link-blue {
+            color: #0299ff;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+
+    <div class="container mx-auto px-4">
+
+        <!-- Header -->
+        <div class="relative w-full h-28 bg-cover bg-center" style="background-image: url('http://www.eehealthbook.com/templates/images/headerbg.jpg')">
+            <img src="http://www.eehealthbook.com/templates/images/logo.jpg" alt="Logo" class="absolute top-0 left-1/4 w-1/2 h-full">
+            <div class="absolute top-6 right-4 text-white">
+                <a href="#" class="text-gray-400 mr-2">sign in</a> /
+                <a href="http://www.eehealthbook.com/member_registration.php" class="text-white">Registration</a>
+                <br>
+                <a href="http://www.eehealthbook.com/member_registration.php" class="text-gray-400">sign up now</a>
+            </div>
+        </div>
+
+        <!-- Navigation -->
+        <div class="w-full bg-cover bg-center py-2 text-white" style="background-image: url('http://www.eehealthbook.com/templates/images/navbg.jpg')">
+            <div class="flex justify-center space-x-4">
+                <a href="http://www.eehealthbook.com/" class="hover:underline">Home</a>
+                <a href="http://www.eehealthbook.com/profile.php" class="hover:underline">Profile</a>
+                <a href="#" class="hover:underline">Symptoms</a>
+                <a href="#" class="hover:underline">Wellness</a>
+                <a href="#" class="hover:underline">My Blog</a>
+                <a href="#" class="hover:underline">GPS</a>
+                <a href="http://www.eehealthbook.com/medical_tourism.php" class="hover:underline">Medical Tourism</a>
+                <a href="http://www.eehealthbook.com/contactus.php" class="hover:underline">Contact Us</a>
+            </div>
+            <div class="flex justify-center space-x-4 mt-1 text-sm">
+                <a href="http://www.eehealthbook.com/news_list.php" class="hover:underline">News</a>
+                <a href="http://www.eehealthbook.com/expert_panel.php" class="hover:underline">Expert Panel</a>
+                <a href="#" class="hover:underline">Expert Opinion</a>
+                <a href="http://www.eehealthbook.com/photo_gallery.php" class="hover:underline">Photo Gallery</a>
+                <a href="#" class="hover:underline">Videos</a>
+                <a href="#" class="hover:underline">Exhibitions</a>
+                <a href="#" class="hover:underline">Testimonials</a>
+                <a href="http://www.eehealthbook.com/affiliation.php" class="hover:underline">Affiliation</a>
+                <a href="#" class="hover:underline">FAQs</a>
+            </div>
+        </div>
+
+
+        <!-- Content -->
+        <div class="flex mt-4">
+
+            <!-- Left Sidebar -->
+            <div class="w-1/3 pr-4">
+                <div class="shadow-box bg-white p-4">
+                    <h2 class="font-bold text-gray-700 mb-2">Symptoms</h2>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=czE=" class="link-gray block mb-1 hover:underline">Abdominal Pain</a>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=czI=" class="link-gray block mb-1 hover:underline">Chest Pain</a>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=czM=" class="link-gray block mb-1 hover:underline">Dyspnea</a>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=czQ=" class="link-gray block mb-1 hover:underline">Fever</a>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=czU=" class="link-gray block mb-1 hover:underline">Headache</a>
+                    <a href="#" class="link-gray block mb-4 hover:underline">More</a>
+
+                    <h2 class="font-bold text-gray-700 mb-2">Wellness</h2>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=dzE=" class="link-gray block mb-1 hover:underline">Breastfeeding</a>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=dzI=" class="link-gray block mb-1 hover:underline">Exercise</a>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=dzM=" class="link-gray block mb-1 hover:underline">Hair Care</a>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=dzQ=" class="link-gray block mb-1 hover:underline">Skin Care</a>
+                    <a href="http://www.eehealthbook.com/health_topic.php?id=dzU=" class="link-gray block mb-1 hover:underline">Healthy Eating</a>
+                    <a href="#" class="link-gray block mb-4 hover:underline">More</a>
+
+                    <h2 class="font-bold text-gray-700 mb-2">GPS</h2>
+                    <a href="#" class="link-gray block mb-1 hover:underline">Find a Doctor</a>
+                    <a href="#" class="link-gray block mb-1 hover:underline">Find a Hospital</a>
+                    <div class="flex mt-4">
+                        <div class="w-12 h-12 bg-gray-200 mr-2"></div> <div class="w-12 h-12 bg-gray-200"></div>
+                    </div>
+                </div>
+
+                <!-- ... (rest of the left sidebar content - images and links) -->
+            </div>
+
+
+            <!-- Main Content Area -->
+            <div class="w-2/3">
+                <div class="shadow-box bg-white p-4 mb-4">
+                    <h1 class="text-xl font-bold mb-2">The human camera: eye</h1>
+                    <p class="text-gray-700 mb-2">Reviewed by</p>
+                    <p class="font-bold mb-4">Dr. Pradip Chauhan</p>
+
+                    <h2 class="font-bold text-gray-700 mb-2">Introduction:</h2>
+                    <p class="text-gray-700 mb-4">The human eye has been called the most complex organ in our body. It's amazing that something so small can have so many working parts. But when you consider how difficult the task of providing vision really is, perhaps it's no wonder after all.</p>
+
+                    <h2 class="font-bold text-gray-700 mb-2">How the Human Eye Works</h2>
+                    <p class="text-gray-700 mb-4">The human eye is like a camera. Light comes in through the cornea, a clear cover that is like the glass of a camera's aperture. The pupil, an opening that opens and closes a little like a camera shutter, controls the amount of light coming in. The light focuses on the retina, a series of light sensitive cells lining the back of the eye. The retina acts like camera film, reacting to the incoming light and sending a record of it via the optic nerve to the brain. Other parts of the human eye play a supporting role in the main activity of sight:</p>
+                    <ul class="text-gray-700 list-disc pl-6 mb-4">
+                        <li>Some carry fluids (such as tears and blood) to lubricate or nourish the eye.</li>
+                        <li>Others are muscles that allow the eye to move.</li>
+                        <li>Some parts protect the eye from injury (such as the lids and the epithelium of the cornea).</li>
+                        <li>And some are messengers, sending sensory information to the brain (such as the pain-sensing nerves in the cornea and the optic nerve behind the retina.</li>
+                    </ul>
+                    <p class="text-gray-700 mb-4">As a conscious sense organ the eye allows vision. Rod and cone cells in the retina allow conscious light perception and vision including color differentiation and the perception of depth. The human eye can distinguish about 16 million colors.</p>
+
+                    <h2 class="font-bold text-gray-700 mb-2">Structure:</h2>
+                    <p class="text-gray-700 mb-4">Human eye is divided in two main part front part is called cornea and back part is called sclera attached with cornea. Inner side is aqueous humor. Lens and muscles are present. The dimensions differ among adults by only one or two millimeters. The vertical measure, generally less than the horizontal distance, is about 24 mm among adults, at birth about 16-17 mm. (about 0.65 inch) The eyeball grows rapidly, increasing to 22.5-23 mm (approx. 0.89 in) by the age of three years. From then to age 13, the eye attains its full size. The volume is 6.5 ml (0.4 cu. in.) and the weight is 7.5 g. (0.25 oz.) Human eye vision is determined by brain area near occipital lobe. Eye is protected by anti bacterial material fluished over the cornea, eye brows, and eye lids.</p>
+                </div>
+
+                <!-- ... (rest of the main content area - images, links, and text) -->
+
+            </div>
+        </div>
+
+
+        <!-- Footer -->
+        <div class="mt-8 text-gray-500 text-sm">
+            <!-- ... (footer content - links and text) -->
+        </div>
+
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,50 @@
+[
+    {
+        "position": [
+            [
+                1312.0,
+                608.0
+            ],
+            [
+                1422.6499938964844,
+                644.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Order Now",
+        "on_click_jump_to": "https://www.rosenbauer.com/nl/int/rosenbauer-world/producten/loeschsysteme/werfer/rm60"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1280.0,
+                1924.816650390625
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1488477181946-6428a0291777?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjU3NDJ8&ixlib=rb-4.0.3&w=300&h=200"
+    },
+    {
+        "position": [
+            [
+                1312.0,
+                32.0
+            ],
+            [
+                1362.0,
+                82.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1621461133947-f63381c2f7f8?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjU3NDN8&ixlib=rb-4.0.3&w=100&h=50"
+    }
+]

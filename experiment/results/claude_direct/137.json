@@ -1,0 +1,280 @@
+[
+    {
+        "position": [
+            [
+                1024.2333984375,
+                127.0
+            ],
+            [
+                1070.1333923339844,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1102.13330078125,
+                127.0
+            ],
+            [
+                1176.949966430664,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "ABOUT US",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1208.949951171875,
+                127.0
+            ],
+            [
+                1325.4332885742188,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "PRIVACY POLICY",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1357.433349609375,
+                127.0
+            ],
+            [
+                1446.1666870117188,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "SEND EMAIL",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1478.1666259765625,
+                127.0
+            ],
+            [
+                1545.4332885742188,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "SITE MAP",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1577.433349609375,
+                127.0
+            ],
+            [
+                1656.500015258789,
+                151.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "VIEW CART",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                279.5,
+                267.0
+            ],
+            [
+                430.5,
+                339.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Acrylic Heart Keychains & Necklaces",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                279.5,
+                347.0
+            ],
+            [
+                430.5,
+                395.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Laser Engraved Heart Keepsake",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                279.5,
+                403.0
+            ],
+            [
+                430.5,
+                427.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Bracelets - Childrens",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                263.5,
+                59.0
+            ],
+            [
+                616.5,
+                107.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://p10.secure.hostingprod.com/@aandlengraving.com/ssl/images/logo-img.jpg"
+    },
+    {
+        "position": [
+            [
+                1584.5,
+                59.0
+            ],
+            [
+                1612.5,
+                87.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://p10.secure.hostingprod.com/@aandlengraving.com/ssl/images/twitter-icon.jpg"
+    },
+    {
+        "position": [
+            [
+                1628.5,
+                59.0
+            ],
+            [
+                1656.5,
+                87.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://p10.secure.hostingprod.com/@aandlengraving.com/ssl/images/facebook-icon.jpg"
+    },
+    {
+        "position": [
+            [
+                478.5,
+                263.0
+            ],
+            [
+                1067.5,
+                783.7166748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://s.turbifycdn.com/aah/yhst-14180509303680/gold-two-tone-cufflink-set-46.jpg"
+    },
+    {
+        "position": [
+            [
+                231.5,
+                0.0
+            ],
+            [
+                1688.5,
+                27.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://p10.secure.hostingprod.com/@aandlengraving.com/ssl/images/header-top-curve.jpg"
+    },
+    {
+        "position": [
+            [
+                231.5,
+                123.0
+            ],
+            [
+                1688.5,
+                155.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://p10.secure.hostingprod.com/@aandlengraving.com/ssl/images/menu-bg.jpg"
+    },
+    {
+        "position": [
+            [
+                263.5,
+                171.0
+            ],
+            [
+                446.5,
+                443.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://p10.secure.hostingprod.com/@aandlengraving.com/ssl/images/left-menu-bg.jpg"
+    }
+]

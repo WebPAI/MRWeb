@@ -1,0 +1,118 @@
+[
+    {
+        "position": [
+            [
+                1553.800048828125,
+                1679.7166748046875
+            ],
+            [
+                1644.800048828125,
+                1693.7166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            252,
+            217,
+            59
+        ],
+        "text": "Hakkimizca",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1644.800048828125,
+                1679.7166748046875
+            ],
+            [
+                1783.0000457763672,
+                1693.7166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            252,
+            217,
+            59
+        ],
+        "text": "Gizlilik Sozlesmesi",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1783.0,
+                1679.7166748046875
+            ],
+            [
+                1865.0,
+                1693.7166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            252,
+            217,
+            59
+        ],
+        "text": "Kurallar &",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1121.6500244140625,
+                80.0
+            ],
+            [
+                1621.6500244140625,
+                528.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://i0.wp.com/bonuscdn.org/img/roket.png"
+    },
+    {
+        "position": [
+            [
+                420.0,
+                751.0
+            ],
+            [
+                720.0,
+                1051.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://i0.wp.com/bonuscdn.org/img/bilyoner.png"
+    },
+    {
+        "position": [
+            [
+                810.0,
+                751.0
+            ],
+            [
+                1110.0,
+                1051.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://i0.wp.com/bonuscdn.org/img/nesine.png"
+    },
+    {
+        "position": [
+            [
+                1254.0,
+                751.0
+            ],
+            [
+                1446.0,
+                943.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://i0.wp.com/bonuscdn.org/img/misli.png"
+    }
+]

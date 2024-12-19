@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CAA Proceedings</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white font-sans">
+
+    <div class="container mx-auto px-4">
+        <div class="flex justify-between items-center py-2">
+            <div class="flex space-x-4 text-gray-500 text-sm">
+                <a href="http://caa-international.org/">CAA International</a>
+                <a href="http://caaconference.org/">CAA Conference</a>
+                <a href="http://journal.caa-international.org/">CAA Journal</a>
+                <a href="https://members.caa-international.org/">Members</a>
+            </div>
+        </div>
+
+        <img src="https://proceedings.caaconference.org/wp-content/themes/caa-pink/images/header-int.png" alt="CAA Logo" class="w-full">
+
+        <div class="bg-gray-300 py-2 px-4 mt-4">
+            <a href="https://proceedings.caaconference.org/" class="text-white font-bold">Home</a>
+        </div>
+
+        <div class="mt-4">
+            <h1 class="text-2xl font-bold">Hypermedia and Archaeological Publication: The Wadi Ziqlab Project</h1>
+            <p class="mt-2">Author(s): Banning, E.B.</p>
+            <p class="mt-2">Full reference:</p>
+            <p class="mt-2">Banning, E.B. 1993. Hypermedia and Archaeological Publication: The Wadi Ziqlab Project, in: Andresen, J., T. Madsen and I. Scollar (eds.), Computing the Past. Computer Applications and Quantitative Methods in Archaeology. CAA92. Aarhus University Press, Aarhus, pp. 441-448.</p>
+
+            <div class="border border-pink-500 p-4 mt-4">
+                <p class="font-bold">By downloading this paper, you agree to the following conditions of use:</p>
+                <ul class="list-disc ml-6">
+                    <li>Personal use: Users are only allowed to download the paper for personal use. He or she is not allowed to copy the paper, or substantial parts thereof, for other purposes. Users are not allowed to make any commercial use of the paper, for instance by selling it.</li>
+                    <li>Copyrights of third parties must always be respected.</li>
+                    <li>Bibliographic reference of the paper: When papers are cited in publications, this must be indicated by the correct bibliographic reference.</li>
+                </ul>
+            </div>
+
+            <div class="mt-4">
+                <p>Downloadable file: <a href="http://proceedings.caaconference.org/files/1992/48_Banning_CAA_1992.pdf" class="text-pink-500">48_Banning_CAA_1992.pdf</a></p>
+                <p class="mt-2">Year of publication: 1993</p>
+                <p class="mt-2">Year of CAA: <a href="https://proceedings.caaconference.org/year/1992/" class="text-pink-500">1992</a></p>
+                <p class="mt-2">Theme: <a href="https://proceedings.caaconference.org/theme/visualisation-hypermedia-education/" class="text-pink-500">Visualisation, Hypermedia & Education</a></p>
+            </div>
+        </div>
+
+        <div class="mt-8">
+            <input type="text" placeholder="Search proceedings" class="border border-gray-300 px-2 py-1">
+            <button class="bg-green-500 text-white px-4 py-1 ml-2">Search</button>
+        </div>
+
+        <div class="mt-8">
+            <p class="font-bold">Year of CAA</p>
+            <div class="flex flex-wrap text-sm">
+                <!-- Add year links here -->
+                </div>
+        </div>
+    </div>
+
+    <script>
+        const yearLinks = [
+            // ... (year link data from the JSON)
+        ];
+
+        const yearLinksContainer = document.querySelector('.flex.flex-wrap.text-sm');
+
+        yearLinks.forEach(link => {
+            const a = document.createElement('a');
+            a.href = link.on_click_jump_to;
+            a.textContent = link.text;
+            a.classList.add('mr-2', 'mb-2'); // Add margin for spacing
+            yearLinksContainer.appendChild(a);
+        });
+    </script>
+
+</body>
+</html>

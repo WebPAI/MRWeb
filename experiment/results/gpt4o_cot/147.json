@@ -1,0 +1,164 @@
+[
+    {
+        "position": [
+            [
+                830.38330078125,
+                400.0
+            ],
+            [
+                953.7333068847656,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "storiesbywilliams",
+        "on_click_jump_to": "https://storiesbywilliams.com/author/storiesbywilliams/"
+    },
+    {
+        "position": [
+            [
+                969.7333374023438,
+                400.0
+            ],
+            [
+                1014.3333282470703,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Books",
+        "on_click_jump_to": "https://storiesbywilliams.com/category/books-2/"
+    },
+    {
+        "position": [
+            [
+                1030.3333740234375,
+                400.0
+            ],
+            [
+                1089.6000518798828,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reviews",
+        "on_click_jump_to": "https://storiesbywilliams.com/tag/reviews/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                548.0
+            ],
+            [
+                1392.0,
+                572.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            5,
+            150,
+            105
+        ],
+        "text": "About Me",
+        "on_click_jump_to": "https://storiesbywilliams.com/about/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                580.0
+            ],
+            [
+                1392.0,
+                604.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            5,
+            150,
+            105
+        ],
+        "text": "Advice for Aspiring Writers",
+        "on_click_jump_to": "https://storiesbywilliams.com/advise-for-aspiring-writers/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                612.0
+            ],
+            [
+                1392.0,
+                636.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            5,
+            150,
+            105
+        ],
+        "text": "Articles by Matt Williams",
+        "on_click_jump_to": "https://storiesbywilliams.com/articles/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                652.0
+            ],
+            [
+                568.0,
+                692.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://storiesbywilliams.files.wordpress.com/2012/04/cyberpunk_2-1680x1050.jpg?w=40&h=40&crop=1"
+    },
+    {
+        "position": [
+            [
+                584.0,
+                652.0
+            ],
+            [
+                624.0,
+                692.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://storiesbywilliams.files.wordpress.com/2012/09/bama_3.jpg?w=40&h=40&crop=1"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                384.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://storiesbywilliams.com/wp-content/uploads/2011/11/dune_misc1.jpg?w=249&"
+    }
+]

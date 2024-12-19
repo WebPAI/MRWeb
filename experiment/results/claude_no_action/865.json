@@ -1,0 +1,286 @@
+[
+    {
+        "position": [
+            [
+                1092.0,
+                20.0
+            ],
+            [
+                1146.6333312988281,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Insights",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1170.63330078125,
+                20.0
+            ],
+            [
+                1227.2166290283203,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Content",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1251.2166748046875,
+                20.0
+            ],
+            [
+                1315.6333465576172,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Institutes",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1339.63330078125,
+                20.0
+            ],
+            [
+                1444.6666412353516,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Partner with us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1468.6666259765625,
+                20.0
+            ],
+            [
+                1532.449951171875,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1556.449951171875,
+                20.0
+            ],
+            [
+                1624.7832946777344,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1648.7833251953125,
+                20.0
+            ],
+            [
+                1711.999984741211,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "EXPLORE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                210.5
+            ],
+            [
+                527.2833251953125,
+                255.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Data will reveal gold medallists of the climate transition",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                350.5
+            ],
+            [
+                525.3500061035156,
+                395.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Despite the odds: Ukraine's economic reform progress",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                490.5
+            ],
+            [
+                534.0833129882812,
+                535.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Understanding a new generation of AlgoTrade risks and regulation",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                254.31666564941406,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/omfif-logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                177.0
+            ],
+            [
+                552.0,
+                201.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/gold-medal.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                317.0
+            ],
+            [
+                552.0,
+                341.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/ukraine.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                457.0
+            ],
+            [
+                552.0,
+                481.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/meeting.jpg"
+    },
+    {
+        "position": [
+            [
+                584.0,
+                197.0
+            ],
+            [
+                1712.0,
+                221.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/bitcoin-header.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                802.0
+            ],
+            [
+                1712.0,
+                834.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/omfif-logo.png"
+    }
+]

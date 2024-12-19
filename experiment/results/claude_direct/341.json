@@ -1,0 +1,248 @@
+[
+    {
+        "position": [
+            [
+                1221.0,
+                134.0
+            ],
+            [
+                1271.0,
+                158.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            74,
+            148
+        ],
+        "text": "1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1279.0,
+                134.0
+            ],
+            [
+                1329.0,
+                158.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            74,
+            148
+        ],
+        "text": "2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1221.0,
+                190.0
+            ],
+            [
+                1619.0,
+                214.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            74,
+            148
+        ],
+        "text": "SHOWATCH",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1221.0,
+                230.0
+            ],
+            [
+                1619.0,
+                254.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            74,
+            148
+        ],
+        "text": "DEVWATCH",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1221.0,
+                270.0
+            ],
+            [
+                1619.0,
+                294.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            74,
+            148
+        ],
+        "text": "MOVIEWATCH",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1221.0,
+                326.0
+            ],
+            [
+                1619.0,
+                374.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            74,
+            148
+        ],
+        "text": "Hulu Announces October 18th Release Date for Highly Anticipated Original Series \"Rivals\"",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                29.0
+            ],
+            [
+                339.0,
+                53.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/global/logo.gif"
+    },
+    {
+        "position": [
+            [
+                1181.0,
+                5.0
+            ],
+            [
+                1205.0,
+                29.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/myfuton-email.gif"
+    },
+    {
+        "position": [
+            [
+                1301.0,
+                5.0
+            ],
+            [
+                1325.0,
+                29.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thefutoncritic.com/images/password.gif"
+    },
+    {
+        "position": [
+            [
+                275.0,
+                0.0
+            ],
+            [
+                1645.0,
+                82.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/bg-header.jpg"
+    },
+    {
+        "position": [
+            [
+                275.0,
+                82.0
+            ],
+            [
+                1645.0,
+                118.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/bg-nav-bar.gif"
+    },
+    {
+        "position": [
+            [
+                275.0,
+                82.0
+            ],
+            [
+                332.0,
+                118.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/nav-home.gif"
+    },
+    {
+        "position": [
+            [
+                332.0,
+                82.0
+            ],
+            [
+                439.0,
+                118.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/nav-breaking-news.gif"
+    },
+    {
+        "position": [
+            [
+                439.0,
+                82.0
+            ],
+            [
+                519.0,
+                118.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/nav-shows-az.gif"
+    },
+    {
+        "position": [
+            [
+                275.0,
+                390.0
+            ],
+            [
+                1645.0,
+                418.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.thefutoncritic.com/images/global/bg-footer.jpg"
+    }
+]

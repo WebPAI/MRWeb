@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lookastic</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-white text-gray-800">
+    <!-- Header -->
+    <header class="bg-green-600 text-white p-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <div class="text-lg font-bold">LOOKASTIC</div>
+            <nav class="space-x-4">
+                <a href="#" class="hover:underline">MY WARDROBE</a>
+                <a href="#" class="hover:underline">LOOKS</a>
+                <a href="#" class="hover:underline">TRENDS</a>
+                <a href="#" class="hover:underline">BRANDS</a>
+                <a href="#" class="hover:underline">CELEBRITIES</a>
+                <a href="#" class="hover:underline">OCCASIONS</a>
+                <a href="#" class="hover:underline">CONTACT US</a>
+                <a href="#" class="hover:underline">WOMEN</a>
+            </nav>
+            <div>
+                <input type="text" placeholder="Search" class="p-1 rounded">
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto mt-8">
+        <!-- Banner -->
+        <div class="bg-blue-100 p-4 text-center">
+            <h2 class="text-xl font-bold">Get Personal Outfit Recommendations</h2>
+            <p>Outfit & shopping recommendations based on your own wardrobe</p>
+            <button class="bg-green-600 text-white px-4 py-2 mt-2">SEE MY RECOMMENDATIONS NOW</button>
+        </div>
+
+        <!-- Product Section -->
+        <section class="mt-8">
+            <h3 class="text-2xl font-bold">Shoes by Rag & Bone</h3>
+            <div class="flex space-x-4 mt-4">
+                <!-- Sidebar -->
+                <aside class="w-1/4">
+                    <h4 class="font-bold">CATEGORY</h4>
+                    <ul class="mt-2 space-y-1">
+                        <li><a href="#" class="hover:underline">Rag & Bone Tops</a></li>
+                        <li><a href="#" class="hover:underline">Rag & Bone Shirts</a></li>
+                        <!-- Add more categories as needed -->
+                    </ul>
+                </aside>
+
+                <!-- Products -->
+                <div class="w-3/4 grid grid-cols-3 gap-4">
+                    <!-- Product Item -->
+                    <div class="border p-4">
+                        <img src="shoe1.jpg" alt="Shoe 1" class="w-full">
+                        <h5 class="font-bold mt-2">RAG & BONE</h5>
+                        <p>Python Effect Mules</p>
+                        <p class="text-red-600">$321</p>
+                    </div>
+                    <!-- Repeat for other products -->
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 text-center p-4 mt-8">
+        <p>© 2023 Lookastic. All rights reserved.</p>
+        <nav class="space-x-4">
+            <a href="#" class="hover:underline">Products Archive</a>
+            <a href="#" class="hover:underline">Contact us</a>
+            <a href="#" class="hover:underline">Terms of Service</a>
+            <a href="#" class="hover:underline">Privacy Policy</a>
+            <a href="#" class="hover:underline">Copyright</a>
+            <a href="#" class="hover:underline">Affiliate Disclosure</a>
+        </nav>
+    </footer>
+</body>
+</html>

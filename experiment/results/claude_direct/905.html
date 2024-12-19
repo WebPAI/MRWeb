@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lookastic</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-[#5C5B5B] px-4 py-2 hover:text-black;
+        }
+        .category-link {
+            @apply text-black hover:underline block py-1;
+        }
+        .product-card {
+            @apply w-[200px] mx-4 mb-8;
+        }
+        .product-image {
+            @apply w-full h-[250px] object-cover mb-2;
+        }
+        .product-brand {
+            @apply text-sm font-medium mb-1;
+        }
+        .product-name {
+            @apply text-sm mb-1;
+        }
+        .product-price {
+            @apply text-sm;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header>
+        <div class="bg-[#41B883] h-12 flex items-center justify-between px-4">
+            <a href="https://lookastic.com/" class="text-white text-xl font-bold">LOOKASTIC</a>
+            <div>
+                <a href="/sign-in" class="text-white px-4">SIGN IN</a>
+                <a href="/join" class="text-white px-4">JOIN</a>
+            </div>
+        </div>
+        
+        <!-- Navigation -->
+        <nav class="border-b flex items-center px-4 h-10">
+            <a href="#" class="nav-link">MY WARDROBE TRY IT!</a>
+            <a href="#" class="nav-link">LOOKS</a>
+            <a href="#" class="nav-link">TRENDS</a>
+            <a href="#" class="nav-link">BRANDS</a>
+            <a href="#" class="nav-link">CELEBRITIES</a>
+            <a href="#" class="nav-link">OCCASIONS</a>
+            <a href="#" class="nav-link">CONTACT US</a>
+            <a href="#" class="nav-link">WOMEN</a>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 mt-8">
+        <!-- Recommendation Banner -->
+        <div class="bg-blue-100 p-4 mb-8 rounded flex justify-between items-center">
+            <p>Get Personal Outfit Recommendations</p>
+            <button class="bg-[#41B883] text-white px-6 py-2 rounded">
+                SEE MY RECOMMENDATIONS NOW
+            </button>
+        </div>
+
+        <!-- Shop/Outfits Tabs -->
+        <div class="flex border-b mb-8">
+            <button class="bg-navy text-white px-8 py-3 rounded-t">SHOP IT</button>
+            <button class="text-gray-600 px-8 py-3">OUTFITS</button>
+        </div>
+
+        <!-- Product Grid -->
+        <div class="flex flex-wrap -mx-4">
+            <!-- Product cards would be repeated here -->
+            <div class="product-card">
+                <img src="product1.jpg" class="product-image">
+                <p class="product-brand">RAG & BONE</p>
+                <p class="product-name">Python Effect Mules</p>
+                <p class="product-price">$382</p>
+            </div>
+            <!-- More product cards... -->
+        </div>
+
+        <!-- Pagination -->
+        <div class="flex justify-center gap-2 mt-8">
+            <button class="px-4 py-2 border rounded">1</button>
+            <button class="px-4 py-2 border rounded">2</button>
+            <button class="px-4 py-2 border rounded">3</button>
+            <!-- More pagination buttons... -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="mt-16 border-t pt-8 px-4">
+        <div class="flex justify-end gap-4 text-sm text-gray-600">
+            <a href="#">Contact us</a>
+            <a href="#">Terms of Service</a>
+            <a href="#">Privacy Policy</a>
+            <a href="#">Copyright</a>
+            <a href="#">Affiliate Disclosure</a>
+        </div>
+    </footer>
+</body>
+</html>

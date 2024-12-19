@@ -1,0 +1,366 @@
+[
+    {
+        "position": [
+            [
+                1124.8333740234375,
+                30.0
+            ],
+            [
+                1190.8333740234375,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "ABOUT US",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1206.8333740234375,
+                30.0
+            ],
+            [
+                1265.8333740234375,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "SITE MAP",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1281.8333740234375,
+                30.0
+            ],
+            [
+                1331.8333740234375,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "SEARCH",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1347.8333740234375,
+                30.0
+            ],
+            [
+                1389.8333740234375,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "LOGIN",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                89.5
+            ],
+            [
+                541.9666595458984,
+                110.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Products",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                605.9666748046875,
+                89.5
+            ],
+            [
+                644.6500091552734,
+                110.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                708.6500244140625,
+                89.5
+            ],
+            [
+                787.4666900634766,
+                110.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Downloads",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                851.4666748046875,
+                89.5
+            ],
+            [
+                914.7666778564453,
+                110.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Purchase",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                978.7666625976562,
+                89.5
+            ],
+            [
+                1035.4833374023438,
+                110.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Support",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                472.0,
+                193.5
+            ],
+            [
+                519.6999969482422,
+                214.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Emex J",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                472.0,
+                225.5
+            ],
+            [
+                608.0833282470703,
+                246.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "High Speed Verifier",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                472.0,
+                257.5
+            ],
+            [
+                606.1833343505859,
+                278.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Mailing List Wizard",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                472.0,
+                289.5
+            ],
+            [
+                602.6166687011719,
+                310.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Outlook Extractors",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                472.0,
+                321.5
+            ],
+            [
+                583.3833312988281,
+                342.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "IMAP Extractors",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                464.0,
+                16.0
+            ],
+            [
+                587.4833374023438,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/emma-labs-logo.png"
+    },
+    {
+        "position": [
+            [
+                1405.8333740234375,
+                32.0
+            ],
+            [
+                1456.0000457763672,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/en-flag.png"
+    },
+    {
+        "position": [
+            [
+                472.0,
+                144.0
+            ],
+            [
+                692.0,
+                168.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/facebook-button.png"
+    },
+    {
+        "position": [
+            [
+                716.0,
+                376.0
+            ],
+            [
+                763.7166595458984,
+                392.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/twitter.png"
+    },
+    {
+        "position": [
+            [
+                771.7166748046875,
+                376.0
+            ],
+            [
+                798.2833557128906,
+                392.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/rss.png"
+    },
+    {
+        "position": [
+            [
+                806.2833251953125,
+                376.0
+            ],
+            [
+                844.066650390625,
+                392.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/email.png"
+    }
+]

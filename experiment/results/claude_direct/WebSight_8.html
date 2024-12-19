@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Construction Company</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-white px-4 py-2 hover:text-gray-200 transition duration-300;
+        }
+        .banner-image {
+            height: 384px; /* 512px - 128px */
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="bg-pink-500">
+        <div class="container mx-auto px-4">
+            <!-- Logo and Navigation -->
+            <nav class="flex items-center justify-end py-4">
+                <!-- Logo -->
+                <div class="absolute left-1/2 transform -translate-x-1/2">
+                    <img src="https://images.unsplash.com/photo-1444808190483-152526f5a268?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjU3MTR8&ixlib=rb-4.0.3&w=300&h=100" 
+                         alt="Logo" 
+                         class="w-[60px] h-[40px] object-cover">
+                </div>
+                
+                <!-- Navigation Links -->
+                <div class="flex space-x-4">
+                    <a href="https://www.weat.org/water-news/2018/waternews-10-12-18" 
+                       class="nav-link">Home</a>
+                    <a href="http://www.spicerorchards.com/plan-a-party.html" 
+                       class="nav-link">About</a>
+                    <a href="http://qie.com/barber+colman/5719-XX2XX" 
+                       class="nav-link">Services</a>
+                    <a href="https://www.gadarchitecture.com/en/agoras" 
+                       class="nav-link">Projects</a>
+                    <a href="http://www.pastpages.org/screenshot/3368337/" 
+                       class="nav-link">Contact</a>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Banner Image -->
+    <div class="banner-image w-full"
+         style="background-image: url('https://source.unsplash.com/random/1600x900/?construction');">
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-pink-500 text-white py-6">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center">
+                <div>
+                    <h3 class="font-bold">Construction Company</h3>
+                    <p>123 Main St, Anytown, USA</p>
+                    <p>Phone: (123) 456-7890</p>
+                    <p>Email: info@constructioncompany.com</p>
+                </div>
+                <div>
+                    <p>Follow us on:</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

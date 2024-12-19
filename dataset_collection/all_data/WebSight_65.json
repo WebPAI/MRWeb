@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                955.0
+            ],
+            [
+                58.899993896484375,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.lumenearth.net/troubleshooting"
+    },
+    {
+        "position": [
+            [
+                932.316650390625,
+                955.0
+            ],
+            [
+                975.8833160400391,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://libellus.tech/pennsylvania-permits-halted-for-texas-based-pipeline-company"
+    },
+    {
+        "position": [
+            [
+                1849.316650390625,
+                955.0
+            ],
+            [
+                1903.999984741211,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://paul-ryan.info/engine/how-to-drain-engine-oil-and-remove-filter"
+    },
+    {
+        "position": [
+            [
+                810.0,
+                465.5
+            ],
+            [
+                1110.0,
+                665.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1445375011782-2384686778a0?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2MzZ8&ixlib=rb-4.0.3&w=300&h=200"
+    }
+]

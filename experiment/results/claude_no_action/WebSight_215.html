@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Store</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="py-4 px-6 flex justify-between items-center border-b border-gray-200">
+        <div>
+            <h1 class="text-xl font-medium">E-commerce Store</h1>
+        </div>
+        <nav>
+            <ul class="flex space-x-6">
+                <li><a href="#" class="text-gray-600 hover:text-gray-900">Home</a></li>
+                <li><a href="#" class="text-gray-600 hover:text-gray-900">Products</a></li>
+                <li><a href="#" class="text-gray-600 hover:text-gray-900">About</a></li>
+                <li><a href="#" class="text-gray-600 hover:text-gray-900">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-6 py-8">
+        <div class="grid grid-cols-4 gap-8">
+            <!-- Sidebar -->
+            <div class="col-span-1">
+                <div class="mb-6">
+                    <h2 class="text-lg font-medium mb-4">Filters</h2>
+                </div>
+                <div>
+                    <h2 class="text-lg font-medium">Sorting</h2>
+                </div>
+            </div>
+
+            <!-- Product Section -->
+            <div class="col-span-3">
+                <div class="mb-8">
+                    <h2 class="text-lg font-medium mb-4">Featured Products</h2>
+                </div>
+                <div>
+                    <h2 class="text-lg font-medium">Products</h2>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="border-t border-gray-200 mt-12">
+        <div class="container mx-auto px-6 py-8">
+            <div class="flex justify-between items-center">
+                <!-- Social Links -->
+                <div class="flex space-x-4">
+                    <a href="#" class="text-gray-600 hover:text-gray-900">Facebook</a>
+                    <a href="#" class="text-gray-600 hover:text-gray-900">Twitter</a>
+                    <a href="#" class="text-gray-600 hover:text-gray-900">Instagram</a>
+                </div>
+
+                <!-- Newsletter -->
+                <div class="flex items-center space-x-2">
+                    <input type="email" placeholder="Enter your email" class="px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-purple-500">
+                    <button class="px-4 py-2 bg-purple-500 text-white rounded-md hover:bg-purple-600 focus:outline-none focus:ring-2 focus:ring-purple-500">
+                        Subscribe
+                    </button>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

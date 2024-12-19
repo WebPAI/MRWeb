@@ -1,0 +1,244 @@
+[
+    {
+        "position": [
+            [
+                1313.86669921875,
+                22.0
+            ],
+            [
+                1375.6000366210938,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            161,
+            191
+        ],
+        "text": "JOIN US",
+        "on_click_jump_to": "https://blogs.coventry.ac.uk/uncovered/category/join-in/"
+    },
+    {
+        "position": [
+            [
+                1407.5999755859375,
+                22.0
+            ],
+            [
+                1515.1499633789062,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            161,
+            191
+        ],
+        "text": "REAL STORIES",
+        "on_click_jump_to": "https://blogs.coventry.ac.uk/uncovered/category/real-stories/"
+    },
+    {
+        "position": [
+            [
+                1547.1500244140625,
+                22.0
+            ],
+            [
+                1655.5333709716797,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            161,
+            191
+        ],
+        "text": "STUDENT LIFE",
+        "on_click_jump_to": "https://blogs.coventry.ac.uk/uncovered/category/student-life-in-coventry/"
+    },
+    {
+        "position": [
+            [
+                1687.5333251953125,
+                22.0
+            ],
+            [
+                1799.0166473388672,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            161,
+            191
+        ],
+        "text": "GET INVOLVED",
+        "on_click_jump_to": "https://blogs.coventry.ac.uk/uncovered/category/get-involved/"
+    },
+    {
+        "position": [
+            [
+                1831.0166015625,
+                22.0
+            ],
+            [
+                1919.9999389648438,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            161,
+            191
+        ],
+        "text": "#TRENDING",
+        "on_click_jump_to": "https://blogs.coventry.ac.uk/uncovered/category/trending/"
+    },
+    {
+        "position": [
+            [
+                120.0,
+                511.1000061035156
+            ],
+            [
+                204.03334045410156,
+                536.1000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            161,
+            191
+        ],
+        "text": "PHOENIX",
+        "on_click_jump_to": "http://www.thephoenixcoventry.co.uk/"
+    },
+    {
+        "position": [
+            [
+                120.0,
+                585.5999755859375
+            ],
+            [
+                176.01666259765625,
+                609.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            161,
+            191
+        ],
+        "text": "burgers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                184.01666259765625,
+                585.5999755859375
+            ],
+            [
+                280.0,
+                609.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            161,
+            191
+        ],
+        "text": "Chinese food",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                120.0,
+                657.5999755859375
+            ],
+            [
+                499.5333251953125,
+                681.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            169,
+            187,
+            210
+        ],
+        "text": "← GREAT BRITISH BAKE OFF: ITALIAN HERB BREAD",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1353.316650390625,
+                657.5999755859375
+            ],
+            [
+                1800.0,
+                681.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            169,
+            187,
+            210
+        ],
+        "text": "FOOD UNCOVERED: THE STAPLES TO GET YOU STARTED →",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                24.0
+            ],
+            [
+                356.0,
+                133.60000610351562
+            ]
+        ],
+        "type": "img",
+        "src": "http://blogs.coventry.ac.uk/uncovered/wp-content/uploads/sites/7/2015/09/Uncovered-Logo.png"
+    },
+    {
+        "position": [
+            [
+                120.0,
+                157.60000610351562
+            ],
+            [
+                565.0,
+                461.6000061035156
+            ]
+        ],
+        "type": "img",
+        "src": "https://blogs.coventry.ac.uk/uncovered/wp-content/uploads/sites/7/2016/10/ezgif-3863404068.gif"
+    },
+    {
+        "position": [
+            [
+                1870.0,
+                49.0
+            ],
+            [
+                1904.0,
+                74.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://api.ning.com/files/dr2jDpSXWFhyuoGJ4YR5Fu-PwuqLz70YxRaUcpdKNxf2HI5ECzddyx3NHuPz-MB4ujGS4rEtdtS-aQoFlQrtv*XwVOu*AvC8/searchicon.png"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "position": [
+            [
+                400.4666748046875,
+                22.0
+            ],
+            [
+                514.7166748046875,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "WordPress.com",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1164.433349609375,
+                806.683349609375
+            ],
+            [
+                1400.6666870117188,
+                823.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "🔗 soundsweetnews.wordpress.com",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1416.6666259765625,
+                806.683349609375
+            ],
+            [
+                1507.949951171875,
+                823.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "⚙ Customize",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1523.949951171875,
+                806.683349609375
+            ],
+            [
+                1615.7166137695312,
+                823.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "🔓 Subscribe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                851.0
+            ],
+            [
+                1712.0,
+                871.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Copy shortlink",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                879.0
+            ],
+            [
+                1712.0,
+                899.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Report this content",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                907.0
+            ],
+            [
+                1712.0,
+                927.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "View post in Reader",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                935.0
+            ],
+            [
+                1712.0,
+                955.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Manage subscriptions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                963.0
+            ],
+            [
+                1712.0,
+                983.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Collapse this bar",
+        "on_click_jump_to": "#"
+    }
+]

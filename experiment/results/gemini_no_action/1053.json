@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                8.0
+            ],
+            [
+                446.75,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "ReviewOn.MODERN UNBIASED REVIEWS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1459.4166259765625,
+                10.0
+            ],
+            [
+                1505.8999481201172,
+                30.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1521.9000244140625,
+                10.0
+            ],
+            [
+                1669.8333587646484,
+                30.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "PRODUCT REVIEWS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1685.8333740234375,
+                10.0
+            ],
+            [
+                1728.0000457763672,
+                30.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "BLOG",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                124.0
+            ],
+            [
+                1712.0,
+                148.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/scarcity_mindset_image.jpg"
+    }
+]

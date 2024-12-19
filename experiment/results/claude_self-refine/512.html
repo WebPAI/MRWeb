@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VCE Tests</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        brown: {
+                            500: '#8B4513',
+                            700: '#674027',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        .nav-item {
+            @apply text-white px-4 py-2 hover:text-gray-200;
+        }
+        .product-card {
+            @apply border border-gray-200 rounded-lg p-6 flex flex-col items-center;
+        }
+        .cart-button {
+            @apply bg-brown-500 text-white px-6 py-2 rounded-md flex items-center gap-2;
+        }
+        .breadcrumb-link {
+            @apply text-gray-600 hover:text-gray-800;
+        }
+        .special-discount {
+            @apply bg-brown-500 text-white text-sm px-4 py-1;
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+    <!-- Special Discount Banner -->
+    <div class="special-discount text-center">
+        Special 30% Discount - Ends In: 00:00:00 Coupon code: SAVE30
+        <button class="float-right">×</button>
+    </div>
+
+    <!-- Header -->
+    <header class="bg-white py-4 px-8 flex justify-between items-center border-b">
+        <img src="https://www.vcetests.com/assets/site/image/1548236365_logo.png" alt="VCE Tests Logo" class="h-8">
+        <div class="flex items-center gap-4">
+            <a href="/cart" class="text-gray-700">(0) ITEMS</a>
+            <a href="/login" class="text-gray-700">Log In/Register</a>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="bg-brown-700">
+        <div class="container mx-auto">
+            <ul class="flex px-8">
+                <li><a href="/" class="nav-item">Home</a></li>
+                <li><a href="/vendors" class="nav-item">Hot Vendors ▼</a></li>
+                <li><a href="/about-us" class="nav-item">About Us</a></li>
+                <li><a href="/contact" class="nav-item">Contact Us</a></li>
+                <li><a href="/faqs" class="nav-item">FAQs</a></li>
+                <li class="ml-auto">
+                    <input type="text" placeholder="Search" class="px-4 py-1 rounded-md my-2">
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Breadcrumb -->
+    <div class="container mx-auto px-8 py-4 text-sm">
+        <a href="/" class="breadcrumb-link">Home</a> &gt;
+        <a href="/pegasystems" class="breadcrumb-link">Pegasystems</a> &gt;
+        <a href="/pcba" class="breadcrumb-link">PCBA (Certified Pega Business Architect)</a>
+    </div>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-8">
+        <h1 class="text-2xl font-semibold mb-8">PURCHASE PEGACPBA73V1 PRODUCTS INDIVIDUALLY</h1>
+
+        <!-- Product Grid -->
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
+            <!-- Product 1 -->
+            <div class="product-card">
+                <img src="/path-to-product-image.jpg" alt="Questions & Answers" class="w-48 mb-4">
+                <h3 class="text-lg mb-2">Questions & Answers</h3>
+                <p class="text-red-600 font-bold mb-4">PRICE: $69</p>
+                <button class="cart-button">
+                    <img src="/path-to-cart-icon.png" alt="Cart" class="w-4">
+                    Add To Cart
+                </button>
+            </div>
+            <!-- Additional product cards... -->
+        </div>
+
+        <!-- Bundle Section -->
+        <div class="bg-gray-50 p-8 rounded-lg">
+            <!-- Bundle content... -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-brown-700 text-white mt-16">
+        <div class="container mx-auto py-6 px-8">
+            <div class="flex justify-center space-x-6">
+                <a href="/" class="hover:text-gray-200">Home</a>
+                <a href="/about-us" class="hover:text-gray-200">About Us</a>
+                <a href="/privacy-policy" class="hover:text-gray-200">Privacy Policy</a>
+                <a href="/faqs" class="hover:text-gray-200">FAQs</a>
+                <a href="/dmca" class="hover:text-gray-200">DMCA</a>
+                <a href="/guarantee" class="hover:text-gray-200">Guarantee</a>
+                <a href="/contact" class="hover:text-gray-200">Contact Us</a>
+            </div>
+            <div class="flex justify-center mt-6">
+                <img src="/path-to-payment-methods.png" alt="Payment Methods" class="h-8">
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

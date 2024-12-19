@@ -1,0 +1,378 @@
+[
+    {
+        "position": [
+            [
+                538.9000244140625,
+                400.0
+            ],
+            [
+                585.3833618164062,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/"
+    },
+    {
+        "position": [
+            [
+                617.38330078125,
+                400.0
+            ],
+            [
+                726.9499664306641,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "OUR LIFEBOAT",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/our-lifeboat/"
+    },
+    {
+        "position": [
+            [
+                758.9500122070312,
+                400.0
+            ],
+            [
+                883.6333465576172,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MEET THE TEAM",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/meet-the-team/"
+    },
+    {
+        "position": [
+            [
+                915.63330078125,
+                400.0
+            ],
+            [
+                1027.1166381835938,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET INVOLVED",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/get-involved/"
+    },
+    {
+        "position": [
+            [
+                1059.11669921875,
+                400.0
+            ],
+            [
+                1104.9500274658203,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "NEWS",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/news/"
+    },
+    {
+        "position": [
+            [
+                1136.949951171875,
+                400.0
+            ],
+            [
+                1180.2832946777344,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SHOP",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/get-involved/"
+    },
+    {
+        "position": [
+            [
+                1212.2833251953125,
+                400.0
+            ],
+            [
+                1285.999984741211,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/contact/"
+    },
+    {
+        "position": [
+            [
+                1318.0,
+                400.0
+            ],
+            [
+                1381.0833282470703,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DONATE",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/get-involved/"
+    },
+    {
+        "position": [
+            [
+                280.1000061035156,
+                862.0
+            ],
+            [
+                381.4499969482422,
+                882.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            43,
+            123,
+            185
+        ],
+        "text": "Press Release",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/category/press-release/"
+    },
+    {
+        "position": [
+            [
+                844.4666748046875,
+                1481.3333740234375
+            ],
+            [
+                907.5500183105469,
+                1505.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            30,
+            71
+        ],
+        "text": "DONATE",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/get-involved/"
+    },
+    {
+        "position": [
+            [
+                939.5499877929688,
+                1481.3333740234375
+            ],
+            [
+                1013.2666473388672,
+                1505.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            30,
+            71
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/contact/"
+    },
+    {
+        "position": [
+            [
+                1045.2666015625,
+                1481.3333740234375
+            ],
+            [
+                1075.5166015625,
+                1505.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            30,
+            71
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/faq/"
+    },
+    {
+        "position": [
+            [
+                848.7000122070312,
+                1547.3333740234375
+            ],
+            [
+                1071.2833557128906,
+                1567.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            30,
+            71
+        ],
+        "text": "contact@stabbslifeboat.org.uk",
+        "on_click_jump_to": "mailto:contact@stabbslifeboat.org.uk"
+    },
+    {
+        "position": [
+            [
+                829.5999755859375,
+                1611.3333740234375
+            ],
+            [
+                929.88330078125,
+                1631.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            30,
+            71
+        ],
+        "text": "Privacy policy",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/wp-content/uploads/2023/09/Privacy-Policy-web-wording-St-Abbs-Lifeboat.pdf"
+    },
+    {
+        "position": [
+            [
+                934.38330078125,
+                1611.3333740234375
+            ],
+            [
+                1090.3999633789062,
+                1631.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            30,
+            71
+        ],
+        "text": "Terms and conditions",
+        "on_click_jump_to": "https://stabbslifeboat.org.uk/wp-content/uploads/2023/09/TCs-website-St-Abbs-lifeboat.pdf"
+    },
+    {
+        "position": [
+            [
+                1063.5166015625,
+                1651.3333740234375
+            ],
+            [
+                1372.9666137695312,
+                1671.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            30,
+            71
+        ],
+        "text": "Kreative Technology, Berwick-upon-Tweed",
+        "on_click_jump_to": "https://kreative-technology.co.uk/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                384.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://stabbslifeboat.org.uk/wp-content/uploads/2015/11/Tea-Cakes-1024x540.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                916.0
+            ],
+            [
+                709.3333129882812,
+                1417.3333129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://stabbslifeboat.org.uk/wp-content/uploads/bb-plugin/cache/20240727_190618-300x169-landscape-38ac260f7932b469a9d547424aa5de94-.jpg"
+    },
+    {
+        "position": [
+            [
+                709.3333129882812,
+                916.0
+            ],
+            [
+                1210.6666564941406,
+                1417.3333129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://stabbslifeboat.org.uk/wp-content/uploads/2023/05/Support-St-Abbs-Lifeboat-Logo-250-x-250.png"
+    },
+    {
+        "position": [
+            [
+                1210.6666259765625,
+                916.0
+            ],
+            [
+                1711.9999389648438,
+                1417.3333129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://epic-shirley.77-237-248-110.plesk.page/wp-content/uploads/2023/05/St-Abbs-Lifeboat-Donation.png"
+    }
+]

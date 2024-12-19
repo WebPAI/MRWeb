@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                216.0,
+                16.0
+            ],
+            [
+                258.8999938964844,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                282.8999938964844,
+                16.0
+            ],
+            [
+                326.46665954589844,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                350.4666748046875,
+                16.0
+            ],
+            [
+                405.15000915527344,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                768.0,
+                488.0
+            ],
+            [
+                1152.0,
+                744.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/modern-buildings.jpg"
+    }
+]

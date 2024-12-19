@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                1737.4166259765625,
+                8.0
+            ],
+            [
+                1803.1499481201172,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            60,
+            60,
+            60
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "file:///about-us"
+    },
+    {
+        "position": [
+            [
+                1819.1500244140625,
+                8.0
+            ],
+            [
+                1896.0000305175781,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            60,
+            60,
+            60
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contact-us"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                185.5
+            ],
+            [
+                250.89999389648438,
+                206.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                56.0
+            ],
+            [
+                397.76666259765625,
+                152.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_direct/logo.png"
+    },
+    {
+        "position": [
+            [
+                1428.6666259765625,
+                92.0
+            ],
+            [
+                1452.6666259765625,
+                116.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_direct/cart-icon.png"
+    }
+]

@@ -1,0 +1,940 @@
+[
+    {
+        "position": [
+            [
+                1375.0,
+                57.5
+            ],
+            [
+                1426.0,
+                69.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            227,
+            227,
+            227
+        ],
+        "text": "MAKE IT",
+        "on_click_jump_to": "https://www.cnbc.com/make-it/"
+    },
+    {
+        "position": [
+            [
+                1538.9666748046875,
+                56.5
+            ],
+            [
+                1563.9666748046875,
+                68.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            227,
+            227,
+            227
+        ],
+        "text": "USA",
+        "on_click_jump_to": "https://www.cnbc.com/?region=usa"
+    },
+    {
+        "position": [
+            [
+                1579.9666748046875,
+                56.5
+            ],
+            [
+                1607.9666748046875,
+                70.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            227,
+            227,
+            227
+        ],
+        "text": "INTL",
+        "on_click_jump_to": "https://www.cnbc.com/world/"
+    },
+    {
+        "position": [
+            [
+                1427.0,
+                12.5
+            ],
+            [
+                1502.0,
+                26.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "WATCHLIST",
+        "on_click_jump_to": "https://www.cnbc.com/watchlist/"
+    },
+    {
+        "position": [
+            [
+                1557.0,
+                18.0
+            ],
+            [
+                1605.0,
+                30.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SIGN IN",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                424.98333740234375,
+                260.0
+            ],
+            [
+                473.98333740234375,
+                275.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            47,
+            108
+        ],
+        "text": "BONDS",
+        "on_click_jump_to": "https://www.cnbc.com/bonds/"
+    },
+    {
+        "position": [
+            [
+                629.0499877929688,
+                5508.35009765625
+            ],
+            [
+                947.5499877929688,
+                5528.35009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            32,
+            119,
+            182
+        ],
+        "text": "Are Asia's markets facing a 'hike hissy'?",
+        "on_click_jump_to": "https://www.cnbc.com/2015/06/09/are-asias-markets-facing-a-hike-hissy.html"
+    },
+    {
+        "position": [
+            [
+                534.9666748046875,
+                5723.64990234375
+            ],
+            [
+                773.2000122070312,
+                5743.64990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            32,
+            119,
+            182
+        ],
+        "text": "Aberdeen Asset Management",
+        "on_click_jump_to": "https://www.cnbc.com/quotes/01KG-GB/"
+    },
+    {
+        "position": [
+            [
+                988.3499755859376,
+                10705.7333984375
+            ],
+            [
+                1114.4666290283203,
+                10725.7333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            32,
+            119,
+            182
+        ],
+        "text": "Morgan Stanley",
+        "on_click_jump_to": "https://www.cnbc.com/quotes/MS/"
+    },
+    {
+        "position": [
+            [
+                534.9666748046875,
+                10932.9169921875
+            ],
+            [
+                809.2666625976562,
+                10952.9169921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            32,
+            119,
+            182
+        ],
+        "text": "Japanese government bond yields",
+        "on_click_jump_to": "https://www.cnbc.com/quotes/JP10Y-JP/"
+    },
+    {
+        "position": [
+            [
+                534.9666748046875,
+                11100.3330078125
+            ],
+            [
+                1122.5,
+                11150.216339111328
+            ]
+        ],
+        "type": "a",
+        "color": [
+            32,
+            119,
+            182
+        ],
+        "text": "Negative rates turn eurozone's banking topsy-turvy",
+        "on_click_jump_to": "http://www.ft.com/intl/cms/s/2/876ed63c-fa1b-11e4-a41c-00144feab7de.html"
+    },
+    {
+        "position": [
+            [
+                534.9666748046875,
+                11160.099609375
+            ],
+            [
+                871.3000183105469,
+                11180.099609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            32,
+            119,
+            182
+        ],
+        "text": "Negative rates pose corporate conundrum",
+        "on_click_jump_to": "http://www.ft.com/intl/cms/s/0/2e5bd5c6-fa21-11e4-b432-00144feab7de.html"
+    },
+    {
+        "position": [
+            [
+                534.9666748046875,
+                11189.9833984375
+            ],
+            [
+                999.0,
+                11209.9833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            32,
+            119,
+            182
+        ],
+        "text": "Emerging markets suffer biggest weekly outflow in 7 years",
+        "on_click_jump_to": "http://www.ft.com/intl/cms/s/0/4a952518-10a5-11e5-ad5a-00144feabdc0.html"
+    },
+    {
+        "position": [
+            [
+                805.183349609375,
+                11465.0498046875
+            ],
+            [
+                846.183349609375,
+                11485.0498046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            32,
+            119,
+            182
+        ],
+        "text": "GAM",
+        "on_click_jump_to": "https://www.cnbc.com/quotes/GAM-CH/"
+    },
+    {
+        "position": [
+            [
+                629.0499877929688,
+                11590.7001953125
+            ],
+            [
+                1016.38330078125,
+                11610.7001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            32,
+            119,
+            182
+        ],
+        "text": "What the bond rout means for emerging markets",
+        "on_click_jump_to": "https://www.cnbc.com/2015/06/05/what-the-bond-rout-means-for-emerging-markets.html"
+    },
+    {
+        "position": [
+            [
+                1029.36669921875,
+                11943.533203125
+            ],
+            [
+                1065.4167022705078,
+                11963.533203125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            32,
+            119,
+            182
+        ],
+        "text": "euro",
+        "on_click_jump_to": "https://www.cnbc.com/quotes/"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                4720.10009765625
+            ],
+            [
+                470.0,
+                4736.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Subscribe to CNBC PRO",
+        "on_click_jump_to": "https://www.cnbc.com/application/pro/?__source=pro|globalfooter"
+    },
+    {
+        "position": [
+            [
+                531.61669921875,
+                4720.10009765625
+            ],
+            [
+                703.61669921875,
+                4736.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Subscribe to Investing Club",
+        "on_click_jump_to": "https://www.cnbc.com/investingclub/subscribe?__source=investingclub|globalfooter"
+    },
+    {
+        "position": [
+            [
+                748.2333374023438,
+                4720.10009765625
+            ],
+            [
+                878.2333374023438,
+                4736.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Licensing & Reprints",
+        "on_click_jump_to": "https://www.cnbc.com/cnbc-reprints/"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                4756.10009765625
+            ],
+            [
+                411.0,
+                4772.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CNBC Councils",
+        "on_click_jump_to": "https://www.cnbccouncils.com/"
+    },
+    {
+        "position": [
+            [
+                531.61669921875,
+                4756.10009765625
+            ],
+            [
+                661.61669921875,
+                4772.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Supply Chain Values",
+        "on_click_jump_to": "https://corporate.comcast.com/values/integrity"
+    },
+    {
+        "position": [
+            [
+                748.2333374023438,
+                4756.10009765625
+            ],
+            [
+                864.2333374023438,
+                4772.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CNBC on Peacock",
+        "on_click_jump_to": "https://www.peacocktv.com/?cid=20200101evergreensymdisp009&utm_source=cnbc&utm_medium=symphony_editorial_brandawareness_footerlink&utm_campaign=20200101evergreen&utm_term=na&utm_content=na_na/"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                4792.10009765625
+            ],
+            [
+                446.0,
+                4808.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Join the CNBC Panel",
+        "on_click_jump_to": "https://cnbcrsh.qualtrics.com/jfe/form/SV_dgRx5X1nYC0YjNI?Origin=cnbc"
+    },
+    {
+        "position": [
+            [
+                531.61669921875,
+                4792.10009765625
+            ],
+            [
+                630.61669921875,
+                4808.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Digital Products",
+        "on_click_jump_to": "https://www.cnbc.com/digital-products/"
+    },
+    {
+        "position": [
+            [
+                748.2333374023438,
+                4792.10009765625
+            ],
+            [
+                844.2333374023438,
+                4808.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News Releases",
+        "on_click_jump_to": "https://www.cnbc.com/cnbc-news-releases/"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                4828.10009765625
+            ],
+            [
+                431.0,
+                4844.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Closed Captioning",
+        "on_click_jump_to": "https://www.cnbc.com/closed-captioning/"
+    },
+    {
+        "position": [
+            [
+                531.61669921875,
+                4828.10009765625
+            ],
+            [
+                604.61669921875,
+                4844.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Corrections",
+        "on_click_jump_to": "https://www.cnbc.com/corrections/"
+    },
+    {
+        "position": [
+            [
+                748.2333374023438,
+                4828.10009765625
+            ],
+            [
+                827.2333374023438,
+                4844.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About CNBC",
+        "on_click_jump_to": "https://www.cnbc.com/about-cnbc-international/"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                4864.10009765625
+            ],
+            [
+                384.0,
+                4880.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Internships",
+        "on_click_jump_to": "https://www.cnbc.com/cnbc-internship-program/"
+    },
+    {
+        "position": [
+            [
+                531.61669921875,
+                4864.10009765625
+            ],
+            [
+                586.61669921875,
+                4880.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Site Map",
+        "on_click_jump_to": "https://www.cnbc.com/site-map/"
+    },
+    {
+        "position": [
+            [
+                748.2333374023438,
+                4864.10009765625
+            ],
+            [
+                820.2333374023438,
+                4880.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Ad Choices",
+        "on_click_jump_to": "https://www.nbcuniversal.com/privacy/cookies"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                4900.10009765625
+            ],
+            [
+                366.0,
+                4916.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "https://www.cnbc.com/cnbc-careers-and-employment/"
+    },
+    {
+        "position": [
+            [
+                531.61669921875,
+                4900.10009765625
+            ],
+            [
+                559.61669921875,
+                4916.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Help",
+        "on_click_jump_to": "https://help.cnbc.com/"
+    },
+    {
+        "position": [
+            [
+                748.2333374023438,
+                4900.10009765625
+            ],
+            [
+                797.2333374023438,
+                4916.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://help.cnbc.com/contact/"
+    },
+    {
+        "position": [
+            [
+                958.38330078125,
+                4812.36669921875
+            ],
+            [
+                1108.5832977294922,
+                4852.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET IN TOUCH",
+        "on_click_jump_to": "https://www.cnbc.com/news-tips/"
+    },
+    {
+        "position": [
+            [
+                1316.683349609375,
+                4812.36669921875
+            ],
+            [
+                1464.7833557128906,
+                4852.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SIGN UP NOW",
+        "on_click_jump_to": "https://www.cnbc.com/sign-up-for-cnbc-newsletters/"
+    },
+    {
+        "position": [
+            [
+                958.38330078125,
+                4924.36669921875
+            ],
+            [
+                1156.0832977294922,
+                4964.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PLEASE CONTACT US",
+        "on_click_jump_to": "https://together.nbcuni.com/advertise/?utm_source=cnbc&utm_medium=referral&utm_campaign=property_ad_pages"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                5004.36669921875
+            ],
+            [
+                402.0,
+                5021.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://www.nbcuniversal.com/privacy?intake=CNBC"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                5004.36669921875
+            ],
+            [
+                510.0,
+                5021.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CA Notice",
+        "on_click_jump_to": "https://www.nbcuniversal.com/privacy/california-consumer-privacy-act?intake=CNBC"
+    },
+    {
+        "position": [
+            [
+                533.0,
+                5004.36669921875
+            ],
+            [
+                638.0,
+                5021.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "https://www.cnbc.com/terms"
+    },
+    {
+        "position": [
+            [
+                524.0,
+                5046.36669921875
+            ],
+            [
+                663.0,
+                5058.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "A Division of NBCUniversal",
+        "on_click_jump_to": "https://www.nbcuniversal.com/"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                5095.36669921875
+            ],
+            [
+                1604.9833984375,
+                5112.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Market Data Terms of Use and Disclaimers",
+        "on_click_jump_to": "https://www.cnbc.com/market-data-terms-of-service/"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                13.0
+            ],
+            [
+                471.0,
+                37.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg"
+    },
+    {
+        "position": [
+            [
+                315.0,
+                4656.60009765625
+            ],
+            [
+                445.0,
+                4678.766754150391
+            ]
+        ],
+        "type": "img",
+        "src": "https://static-redesign.cnbcfm.com/dist/7821ea3cb72f88388591.svg"
+    },
+    {
+        "position": [
+            [
+                427.5,
+                5120.36669921875
+            ],
+            [
+                492.5,
+                5142.133361816406
+            ]
+        ],
+        "type": "img",
+        "src": "https://static-redesign.cnbcfm.com/dist/09c161b9810767a7849e.svg"
+    },
+    {
+        "position": [
+            [
+                777.2000122070312,
+                5727.64990234375
+            ],
+            [
+                789.2000122070312,
+                5739.64990234375
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/png;base64,"
+    },
+    {
+        "position": [
+            [
+                1118.4666748046875,
+                10709.7333984375
+            ],
+            [
+                1130.4666748046875,
+                10721.7333984375
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/png;base64,"
+    },
+    {
+        "position": [
+            [
+                813.2666625976562,
+                10936.9169921875
+            ],
+            [
+                825.2666625976562,
+                10948.9169921875
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/png;base64,"
+    },
+    {
+        "position": [
+            [
+                850.183349609375,
+                11469.0498046875
+            ],
+            [
+                862.183349609375,
+                11481.0498046875
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/png;base64,"
+    }
+]

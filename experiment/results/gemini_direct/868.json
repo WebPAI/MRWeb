@@ -1,0 +1,176 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                320.6333312988281,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "CAA International",
+        "on_click_jump_to": "http://caa-international.org/"
+    },
+    {
+        "position": [
+            [
+                336.6333312988281,
+                8.0
+            ],
+            [
+                443.56666564941406,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "CAA Conference",
+        "on_click_jump_to": "http://caaconference.org/"
+    },
+    {
+        "position": [
+            [
+                459.566650390625,
+                8.0
+            ],
+            [
+                539.4666442871094,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "CAA Journal",
+        "on_click_jump_to": "http://journal.caa-international.org/"
+    },
+    {
+        "position": [
+            [
+                555.4666748046875,
+                8.0
+            ],
+            [
+                615.9666748046875,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Members",
+        "on_click_jump_to": "https://members.caa-international.org/"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                282.433349609375
+            ],
+            [
+                269.71665954589844,
+                302.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://proceedings.caaconference.org/"
+    },
+    {
+        "position": [
+            [
+                345.7833251953125,
+                668.433349609375
+            ],
+            [
+                545.2833251953125,
+                688.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "48_Banning_CAA_1992.pdf",
+        "on_click_jump_to": "http://proceedings.caaconference.org/files/1992/48_Banning_CAA_1992.pdf"
+    },
+    {
+        "position": [
+            [
+                304.23333740234375,
+                732.433349609375
+            ],
+            [
+                340.3999938964844,
+                752.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "1992",
+        "on_click_jump_to": "https://proceedings.caaconference.org/year/1992/"
+    },
+    {
+        "position": [
+            [
+                267.08331298828125,
+                764.433349609375
+            ],
+            [
+                547.4166564941406,
+                784.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Visualisation, Hypermedia & Education",
+        "on_click_jump_to": "https://proceedings.caaconference.org/theme/visualisation-hypermedia-education/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                36.0
+            ],
+            [
+                1712.0,
+                256.43333435058594
+            ]
+        ],
+        "type": "img",
+        "src": "https://proceedings.caaconference.org/wp-content/themes/caa-pink/images/header-int.png"
+    }
+]

@@ -1,0 +1,230 @@
+[
+    {
+        "position": [
+            [
+                798.2999877929688,
+                10.0
+            ],
+            [
+                1121.6833190917969,
+                30.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "FREE SHIPPING ON U.S. ORDERS OVER $50",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                72.0
+            ],
+            [
+                1408.0,
+                216.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "HIS PAINTBRUSH",
+        "on_click_jump_to": "https://www.hispaintbrush.com/"
+    },
+    {
+        "position": [
+            [
+                706.4166870117188,
+                265.0
+            ],
+            [
+                752.9000091552734,
+                289.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://www.hispaintbrush.com/"
+    },
+    {
+        "position": [
+            [
+                784.9000244140625,
+                265.0
+            ],
+            [
+                838.9000244140625,
+                289.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://www.hispaintbrush.com/meet-michele/"
+    },
+    {
+        "position": [
+            [
+                870.9000244140625,
+                265.0
+            ],
+            [
+                914.2333679199219,
+                289.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "SHOP",
+        "on_click_jump_to": "https://www.hispaintbrush.com/shop/"
+    },
+    {
+        "position": [
+            [
+                946.2333374023438,
+                265.0
+            ],
+            [
+                988.3999938964844,
+                289.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "BLOG",
+        "on_click_jump_to": "https://www.hispaintbrush.com/blog/"
+    },
+    {
+        "position": [
+            [
+                1020.4000244140624,
+                265.0
+            ],
+            [
+                1107.86669921875,
+                289.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "PORTFOLIO",
+        "on_click_jump_to": "https://www.hispaintbrush.com/portfolio/"
+    },
+    {
+        "position": [
+            [
+                1139.86669921875,
+                265.0
+            ],
+            [
+                1213.5833587646484,
+                289.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://www.hispaintbrush.com/contact/"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                323.5
+            ],
+            [
+                550.2333374023438,
+                340.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                562.2166748046875,
+                323.5
+            ],
+            [
+                599.4666748046875,
+                340.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Prints",
+        "on_click_jump_to": "file:///prints"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                358.0
+            ],
+            [
+                944.0,
+                882.1666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.hispaintbrush.com/wp-content/uploads/2013/03/Overcome-Michele-Struss-600x728.jpg"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                72.0
+            ],
+            [
+                1408.0,
+                216.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/header.jpg"
+    }
+]

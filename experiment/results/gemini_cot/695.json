@@ -1,0 +1,654 @@
+[
+    {
+        "position": [
+            [
+                1432.449951171875,
+                54.0
+            ],
+            [
+                1503.1832885742188,
+                74.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "ABOUT US",
+        "on_click_jump_to": "https://www.emmalabs.com/about/"
+    },
+    {
+        "position": [
+            [
+                1519.183349609375,
+                54.0
+            ],
+            [
+                1582.500015258789,
+                74.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "SITE MAP",
+        "on_click_jump_to": "https://www.emmalabs.com/map/map.php"
+    },
+    {
+        "position": [
+            [
+                1598.5,
+                54.0
+            ],
+            [
+                1653.8333282470703,
+                74.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "SEARCH",
+        "on_click_jump_to": "https://www.emmalabs.com/map/search.php"
+    },
+    {
+        "position": [
+            [
+                1669.8333740234375,
+                54.0
+            ],
+            [
+                1712.0000457763672,
+                74.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "LOGIN",
+        "on_click_jump_to": "https://www.emmalabs.com/auth.php?backurl=%2Fnews%2F4771.html"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                140.0
+            ],
+            [
+                297.26666259765625,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Products",
+        "on_click_jump_to": "https://www.emmalabs.com/"
+    },
+    {
+        "position": [
+            [
+                583.3499755859375,
+                140.0
+            ],
+            [
+                623.63330078125,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://www.emmalabs.com/news/"
+    },
+    {
+        "position": [
+            [
+                909.7166748046876,
+                140.0
+            ],
+            [
+                989.9000091552736,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Downloads",
+        "on_click_jump_to": "https://www.emmalabs.com/downloads/"
+    },
+    {
+        "position": [
+            [
+                1275.9833984375,
+                140.0
+            ],
+            [
+                1343.5334014892578,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Purchase",
+        "on_click_jump_to": "https://www.emmalabs.com/purchase/"
+    },
+    {
+        "position": [
+            [
+                1629.63330078125,
+                140.0
+            ],
+            [
+                1687.9999694824219,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Support",
+        "on_click_jump_to": "https://www.emmalabs.com/support/"
+    },
+    {
+        "position": [
+            [
+                256.0,
+                314.0
+            ],
+            [
+                309.6166687011719,
+                334.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Emex 3",
+        "on_click_jump_to": "https://www.emmalabs.com/aee/"
+    },
+    {
+        "position": [
+            [
+                256.0,
+                338.0
+            ],
+            [
+                396.8333282470703,
+                358.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "High Speed Verifier",
+        "on_click_jump_to": "https://www.emmalabs.com/hsv/"
+    },
+    {
+        "position": [
+            [
+                256.0,
+                362.0
+            ],
+            [
+                393.21665954589844,
+                382.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Mailing List Wizard",
+        "on_click_jump_to": "https://www.emmalabs.com/mlw/"
+    },
+    {
+        "position": [
+            [
+                256.0,
+                386.0
+            ],
+            [
+                391.5,
+                406.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Outlook Extractors",
+        "on_click_jump_to": "https://www.emmalabs.com/oe/"
+    },
+    {
+        "position": [
+            [
+                256.0,
+                410.0
+            ],
+            [
+                372.53334045410156,
+                430.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "IMAP Extractors",
+        "on_click_jump_to": "https://www.emmalabs.com/imape/"
+    },
+    {
+        "position": [
+            [
+                626.4166870117188,
+                353.0
+            ],
+            [
+                982.8000183105469,
+                373.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "http://www.smi-online.co.uk/emailstrategies2.asp",
+        "on_click_jump_to": "http://www.smi-online.co.uk/emailstrategies2.asp"
+    },
+    {
+        "position": [
+            [
+                1285.050048828125,
+                1001.0
+            ],
+            [
+                1641.4333801269531,
+                1021.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "http://www.smi-online.co.uk/emailstrategies2.asp",
+        "on_click_jump_to": "http://www.smi-online.co.uk/emailstrategies2.asp"
+    },
+    {
+        "position": [
+            [
+                650.4166870117188,
+                1145.0
+            ],
+            [
+                1683.8167114257812,
+                1189.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "http://www.smi-online.co.uk/ehealthcare3.asp",
+        "on_click_jump_to": "http://www.smi-online.co.uk/ehealthcare3.asp"
+    },
+    {
+        "position": [
+            [
+                650.4166870117188,
+                1193.0
+            ],
+            [
+                1653.7333374023438,
+                1237.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "http://www.smi-online.co.uk/sportandmoney2.asp",
+        "on_click_jump_to": "http://www.smi-online.co.uk/sportandmoney2.asp"
+    },
+    {
+        "position": [
+            [
+                650.4166870117188,
+                1241.0
+            ],
+            [
+                1607.86669921875,
+                1285.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "http://www.smi-online.co.uk/onlinerecruitment2.asp",
+        "on_click_jump_to": "http://www.smi-online.co.uk/onlinerecruitment2.asp"
+    },
+    {
+        "position": [
+            [
+                650.4166870117188,
+                1289.0
+            ],
+            [
+                1668.3833618164062,
+                1333.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "http://www.smi-online.co.uk/highbandwidth3.asp",
+        "on_click_jump_to": "http://www.smi-online.co.uk/highbandwidth3.asp"
+    },
+    {
+        "position": [
+            [
+                781.11669921875,
+                1361.0
+            ],
+            [
+                1110.4833679199219,
+                1381.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "http://www.smi-online.co.uk/ecommerce1.asp",
+        "on_click_jump_to": "http://www.smi-online.co.uk/ecommerce1.asp"
+    },
+    {
+        "position": [
+            [
+                1262.699951171875,
+                1401.0
+            ],
+            [
+                1611.9332885742188,
+                1421.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "http://www.smi-online.co.uk/companyprofile.asp",
+        "on_click_jump_to": "http://www.smi-online.co.uk/companyprofile.asp"
+    },
+    {
+        "position": [
+            [
+                1360.61669921875,
+                1689.0
+            ],
+            [
+                1561.7166900634766,
+                1709.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "feedback@smi-online.co.uk",
+        "on_click_jump_to": "mailto:feedback@smi-online.co.uk"
+    },
+    {
+        "position": [
+            [
+                1052.38330078125,
+                1769.0
+            ],
+            [
+                1258.4666290283203,
+                1789.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "marketing@smi-online.co.uk",
+        "on_click_jump_to": "mailto:marketing@smi-online.co.uk"
+    },
+    {
+        "position": [
+            [
+                1291.5833740234375,
+                1809.0
+            ],
+            [
+                1488.5333862304688,
+                1829.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "ycasside@smi-online.co.uk",
+        "on_click_jump_to": "mailto:ycasside@smi-online.co.uk"
+    },
+    {
+        "position": [
+            [
+                1677.7333984375,
+                1863.0
+            ],
+            [
+                1688.0000610351562,
+                1887.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "«",
+        "on_click_jump_to": "https://www.emmalabs.com/news/"
+    },
+    {
+        "position": [
+            [
+                988.2999877929688,
+                1945.0
+            ],
+            [
+                1102.566650390625,
+                1965.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "No Spam Policy",
+        "on_click_jump_to": "https://www.emmalabs.com/legal/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                503.83331298828125,
+                112.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/logo.jpg"
+    },
+    {
+        "position": [
+            [
+                1546.0,
+                288.0
+            ],
+            [
+                1569.0,
+                311.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.emmalabs.com/images/follow_twitter.gif"
+    },
+    {
+        "position": [
+            [
+                1577.0,
+                288.0
+            ],
+            [
+                1600.0,
+                311.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.emmalabs.com/images/follow_rss.gif"
+    },
+    {
+        "position": [
+            [
+                1608.0,
+                288.0
+            ],
+            [
+                1688.0,
+                311.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.emmalabs.com/images/rss20.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                1967.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_page.jpg"
+    },
+    {
+        "position": [
+            [
+                660.0,
+                50.0
+            ],
+            [
+                1676.0,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_top.gif"
+    },
+    {
+        "position": [
+            [
+                660.0,
+                57.0
+            ],
+            [
+                1676.0,
+                1698.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_center.gif"
+    },
+    {
+        "position": [
+            [
+                660.0,
+                1698.0
+            ],
+            [
+                1676.0,
+                1776.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_bottom.gif"
+    }
+]

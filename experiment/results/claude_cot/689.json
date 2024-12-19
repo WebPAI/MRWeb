@@ -1,0 +1,530 @@
+[
+    {
+        "position": [
+            [
+                1018.9500122070312,
+                52.0
+            ],
+            [
+                1072.9500122070312,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            173
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://libertypublishinghouse.com/about/"
+    },
+    {
+        "position": [
+            [
+                1096.949951171875,
+                52.0
+            ],
+            [
+                1167.8332824707031,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            173
+        ],
+        "text": "CATALOG",
+        "on_click_jump_to": "https://libertypublishinghouse.com/product-category/new-arrivals/"
+    },
+    {
+        "position": [
+            [
+                1191.8333740234375,
+                52.0
+            ],
+            [
+                1257.550048828125,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            173
+        ],
+        "text": "PUBLISH",
+        "on_click_jump_to": "https://libertypublishinghouse.com/publish/"
+    },
+    {
+        "position": [
+            [
+                1281.550048828125,
+                52.0
+            ],
+            [
+                1376.4000396728516,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            173
+        ],
+        "text": "MULTIMEDIA",
+        "on_click_jump_to": "https://libertypublishinghouse.com/multimedia-portfolio/"
+    },
+    {
+        "position": [
+            [
+                1400.4000244140625,
+                52.0
+            ],
+            [
+                1446.2333679199219,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            173
+        ],
+        "text": "NEWS",
+        "on_click_jump_to": "https://libertypublishinghouse.com/news/"
+    },
+    {
+        "position": [
+            [
+                1470.2333984375,
+                52.0
+            ],
+            [
+                1543.9500579833984,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            173
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://libertypublishinghouse.com/contact/"
+    },
+    {
+        "position": [
+            [
+                1567.949951171875,
+                52.0
+            ],
+            [
+                1643.1666259765625,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            173
+        ],
+        "text": "РУССКИЙ",
+        "on_click_jump_to": "https://libertypublishinghouse.com/multimedia/%d0%b4%d0%bc%d0%b8%d1%82%d1%80%d0%b8%d0%b9-%d1%81%d0%b0%d0%bb%d0%b8%d1%82%d0%b0-%d1%87%d0%b0%d1%81%d1%82%d1%8c-1/"
+    },
+    {
+        "position": [
+            [
+                1667.1666259765625,
+                40.0
+            ],
+            [
+                1727.9999542236328,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            173
+        ],
+        "text": "0 ITEMS\n$0.00",
+        "on_click_jump_to": "https://libertypublishinghouse.com/cart/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                264.75
+            ],
+            [
+                240.0,
+                288.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "All Multimedia",
+        "on_click_jump_to": "https://libertypublishinghouse.com/multimedia-portfolio/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                304.75
+            ],
+            [
+                240.0,
+                328.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Liberty Now",
+        "on_click_jump_to": "https://libertypublishinghouse.com/multimedia-portfolio/liberty-now/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                344.75
+            ],
+            [
+                240.0,
+                368.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Liberty Authors",
+        "on_click_jump_to": "https://libertypublishinghouse.com/liberty-authors/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                384.75
+            ],
+            [
+                240.0,
+                408.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Radio",
+        "on_click_jump_to": "https://libertypublishinghouse.com/radio/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                424.75
+            ],
+            [
+                240.0,
+                448.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "TV Spots",
+        "on_click_jump_to": "https://libertypublishinghouse.com/tv-ads/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                464.75
+            ],
+            [
+                240.0,
+                488.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "TV Appearances",
+        "on_click_jump_to": "https://libertypublishinghouse.com/tv-appearances/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                504.75
+            ],
+            [
+                240.0,
+                528.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Presentations / Other",
+        "on_click_jump_to": "https://libertypublishinghouse.com/presentations/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                32.0
+            ],
+            [
+                291.0,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "Previous Post",
+        "on_click_jump_to": "https://libertypublishinghouse.com/multimedia/interview-with-dmitriy-salita-in-english/"
+    },
+    {
+        "position": [
+            [
+                1657.61669921875,
+                32.0
+            ],
+            [
+                1728.0000305175781,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "Next Post",
+        "on_click_jump_to": "https://libertypublishinghouse.com/multimedia/dmitriy-salita-part-2-russian/"
+    },
+    {
+        "position": [
+            [
+                671.88330078125,
+                264.0
+            ],
+            [
+                725.88330078125,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                741.88330078125,
+                264.0
+            ],
+            [
+                812.7666320800781,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "CATALOG",
+        "on_click_jump_to": "file:///catalog"
+    },
+    {
+        "position": [
+            [
+                828.7666625976562,
+                264.0
+            ],
+            [
+                894.4833374023438,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "PUBLISH",
+        "on_click_jump_to": "file:///publish"
+    },
+    {
+        "position": [
+            [
+                910.4833374023438,
+                264.0
+            ],
+            [
+                1005.3333282470703,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "MULTIMEDIA",
+        "on_click_jump_to": "file:///multimedia"
+    },
+    {
+        "position": [
+            [
+                1021.3333129882812,
+                264.0
+            ],
+            [
+                1067.1666564941406,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "NEWS",
+        "on_click_jump_to": "file:///news"
+    },
+    {
+        "position": [
+            [
+                1083.1666259765625,
+                264.0
+            ],
+            [
+                1156.883285522461,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                1172.88330078125,
+                264.0
+            ],
+            [
+                1248.0999755859375,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "РУССКИЙ",
+        "on_click_jump_to": "file:///russian"
+    },
+    {
+        "position": [
+            [
+                909.7666625976562,
+                322.0
+            ],
+            [
+                1010.2166595458984,
+                342.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://libertypublishinghouse.com/privacy-policy/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                390.3333282470703,
+                112.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.libertypublishinghouse.com/wp-content/uploads/2016/01/Logo_2016_188.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                152.0
+            ],
+            [
+                432.0,
+                232.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://libertypublishinghouse.com/wp-content/uploads/2016/03/Facebook-300x100.jpg"
+    }
+]

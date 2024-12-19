@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>keyes - baseliner 1.0</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles for specific colors */
+        .nav-link {
+            color: rgb(119, 135, 151);
+        }
+        .blue-link {
+            color: rgb(16, 127, 201);
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Header with logo and social icons -->
+    <header class="relative w-full">
+        <div class="max-w-6xl mx-auto px-4">
+            <div class="flex justify-between items-center">
+                <img src="https://keyes.ie/images/logo.png" alt="keyes" class="w-[120px] h-[41px]">
+                <div class="flex gap-5">
+                    <div class="w-8 h-8 bg-[url('https://keyes.ie/images/keyes.png')] bg-cover"></div>
+                    <div class="w-8 h-8 bg-[url('https://keyes.ie/images/keyes.png')] bg-cover"></div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="w-full py-8">
+        <div class="max-w-6xl mx-auto px-4">
+            <ul class="flex justify-center space-x-10">
+                <li><a href="https://keyes.ie/" class="nav-link">HOME</a></li>
+                <li><a href="https://keyes.ie/python/" class="nav-link">PYTHON</a></li>
+                <li><a href="https://keyes.ie/things/" class="nav-link">THINGS</a></li>
+                <li><a href="https://keyes.ie/archive/" class="nav-link">ARCHIVE</a></li>
+                <li><a href="https://keyes.ie/about/" class="nav-link">ABOUT</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="max-w-6xl mx-auto px-4">
+        <h1 class="text-3xl font-bold mb-8">baseliner 1.0</h1>
+        
+        <p class="mb-6">
+            The overlay in 
+            <a href="https://keyes.ie/things/baseliner" class="blue-link">Baseliner 1.0</a>
+            now indicates it
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events" class="blue-link">does not want to be a target of mouse events</a>.
+            When Baseliner is open, it's possible to interact with the page beneath.
+        </p>
+
+        <p class="mb-6">
+            The 
+            <a href="https://keyes.ie/things/baseliner" class="blue-link">bookmarklet</a>
+            has been updated to use 1.0. This version has been tested in the latest
+            Safari, Firefox, and Chrome on OS X 10.10. Baseliner 1.0 is enabled on this page, so you can
+            test whether it works in your browser of choice.
+        </p>
+
+        <footer class="text-sm text-gray-600 mt-16">
+            © 2010 – 2020 John Keyes.
+        </footer>
+    </main>
+</body>
+</html>

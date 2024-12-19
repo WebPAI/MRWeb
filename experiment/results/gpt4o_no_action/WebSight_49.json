@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                1602.816650390625,
+                30.0
+            ],
+            [
+                1646.4499816894531,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1662.449951171875,
+                30.0
+            ],
+            [
+                1724.4999542236328,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1740.5,
+                30.0
+            ],
+            [
+                1830.3999938964844,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1846.4000244140625,
+                30.0
+            ],
+            [
+                1904.0000305175781,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                52.08332824707031,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                544.0,
+                216.0
+            ],
+            [
+                1376.0,
+                472.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/about-image.jpg"
+    }
+]

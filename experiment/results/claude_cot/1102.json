@@ -1,0 +1,244 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                28.0
+            ],
+            [
+                127.33332824707033,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Homepage",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                127.33332824707033,
+                28.0
+            ],
+            [
+                256.23333740234375,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Current issue",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/current-issue"
+    },
+    {
+        "position": [
+            [
+                256.23333740234375,
+                28.0
+            ],
+            [
+                342.48333740234375,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Archive",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/magarchive"
+    },
+    {
+        "position": [
+            [
+                342.48333740234375,
+                28.0
+            ],
+            [
+                457.68333435058594,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "For authors",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/rules-for-authors"
+    },
+    {
+        "position": [
+            [
+                457.683349609375,
+                28.0
+            ],
+            [
+                595.6500091552734,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Editorial Board",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/editorial"
+    },
+    {
+        "position": [
+            [
+                595.6500244140625,
+                28.0
+            ],
+            [
+                693.1500244140625,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contacts",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/contacts"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                161.5
+            ],
+            [
+                1173.683349609375,
+                214.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Blood coagulation parameters in rats with acute radiation syndrome receiving activated carbon as a preventive remedy",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2019/04/blood-coagulation-parameters-in-rats-with-acute-radiation-syndrome-receiving-activated-carbon-as-a-preventive-remedy.html"
+    },
+    {
+        "position": [
+            [
+                1121.5833740234375,
+                234.0
+            ],
+            [
+                1200.0000457763672,
+                254.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Read More",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                160.0
+            ],
+            [
+                1712.0,
+                208.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "The Gerty Cori phenomenon: the first woman Nobel laureate in Physiology and Medicine",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                821.4500122070312,
+                340.0
+            ],
+            [
+                1098.5500183105469,
+                357.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "© 2024 The Ukrainian Biochemical Journal",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                145.3333282470703,
+                20.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Ukrbiochem2400.png"
+    },
+    {
+        "position": [
+            [
+                1785.0333251953125,
+                8.0
+            ],
+            [
+                1903.999984741211,
+                20.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Biochem_banner2.jpg"
+    },
+    {
+        "position": [
+            [
+                1847.2666015625,
+                44.0
+            ],
+            [
+                1903.9999389648438,
+                68.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/icons/ua.png"
+    }
+]

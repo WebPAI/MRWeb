@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                40.0,
+                104.0
+            ],
+            [
+                80.83332824707031,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "http://www.mansmith.net/index.php/page/books"
+    },
+    {
+        "position": [
+            [
+                896.4000244140625,
+                104.0
+            ],
+            [
+                974.6833648681641,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Order Now",
+        "on_click_jump_to": "https://corporatedir.com/canada/company/234567012896-braebon-medical-corporation"
+    },
+    {
+        "position": [
+            [
+                1790.2666015625,
+                104.0
+            ],
+            [
+                1879.9999389648438,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Book a Truck",
+        "on_click_jump_to": "https://miiskin.com/faq/"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                40.0
+            ],
+            [
+                84.0,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1514995669114-6081e934b693?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNTZ8&ixlib=rb-4.0.3&w=300&h=200"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                388.0
+            ],
+            [
+                677.3333129882812,
+                580.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1536014019466-da3e69c19fe9?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNTZ8&ixlib=rb-4.0.3&w=300&h=200"
+    }
+]

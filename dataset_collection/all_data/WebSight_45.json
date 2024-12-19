@@ -1,0 +1,50 @@
+[
+    {
+        "position": [
+            [
+                212.0,
+                20.0
+            ],
+            [
+                393.3000030517578,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "Tech Company",
+        "on_click_jump_to": "https://www.furniturevillage.co.uk/halston-large-round-side-table/HA-LST-LDHD1-001.html"
+    },
+    {
+        "position": [
+            [
+                212.0,
+                20.0
+            ],
+            [
+                252.0,
+                60.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1503328427499-d92d1ac3d174?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjU3NDB8&ixlib=rb-4.0.3&w=100&h=100"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                80.0
+            ],
+            [
+                1920.0,
+                464.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?tech"
+    }
+]

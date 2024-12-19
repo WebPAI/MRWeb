@@ -1,0 +1,136 @@
+[
+    {
+        "position": [
+            [
+                1675.0,
+                16.0
+            ],
+            [
+                1770.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Past Exhibitions",
+        "on_click_jump_to": "file:///past-exhibitions"
+    },
+    {
+        "position": [
+            [
+                1786.0,
+                16.0
+            ],
+            [
+                1857.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Artists' Bios",
+        "on_click_jump_to": "file:///artists-bios"
+    },
+    {
+        "position": [
+            [
+                1873.0,
+                16.0
+            ],
+            [
+                1904.0,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Shop",
+        "on_click_jump_to": "file:///shop"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                32.0
+            ],
+            [
+                127.0,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Past Exhibitions",
+        "on_click_jump_to": "file:///past-exhibitions"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                60.0
+            ],
+            [
+                127.0,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Artists' Bios",
+        "on_click_jump_to": "file:///artists-bios"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                88.0
+            ],
+            [
+                127.0,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Shop",
+        "on_click_jump_to": "file:///shop"
+    },
+    {
+        "position": [
+            [
+                880.0,
+                485.5
+            ],
+            [
+                1040.0,
+                509.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-your-image.jpg"
+    }
+]

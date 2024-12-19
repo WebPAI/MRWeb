@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fashion Website</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .gradient-bg {
+            background: linear-gradient(120deg, #4caf50 0%, #8bc34a 100%);
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Hero Section -->
+    <div class="relative w-full h-screen gradient-bg overflow-hidden">
+        <div class="absolute inset-0 flex items-center justify-center">
+            <img 
+                src="fashion-model.jpg" 
+                alt="Fashion model"
+                class="w-auto h-full object-cover opacity-90"
+            >
+        </div>
+    </div>
+
+    <!-- Content Grid -->
+    <div class="container mx-auto px-6 py-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        <!-- Features Section -->
+        <div class="space-y-4">
+            <h2 class="text-2xl font-semibold">Features</h2>
+            <p class="text-gray-600 leading-relaxed">
+                Our e-commerce store offers a wide range of high-quality products at competitive prices. We have a wide selection of clothing, accessories, and home decor items. We also offer fast and reliable shipping and excellent customer service.
+            </p>
+        </div>
+
+        <!-- Products Section -->
+        <div class="space-y-4">
+            <h2 class="text-2xl font-semibold">Products</h2>
+            <p class="text-gray-600 leading-relaxed">
+                We have a wide variety of products to choose from. Whether you're looking for clothing, accessories, home decor, or something else, we've got it all! All of our products are high-quality and come with a satisfaction guarantee.
+            </p>
+        </div>
+
+        <!-- Latest Deals Section -->
+        <div class="space-y-4">
+            <h2 class="text-2xl font-semibold">Latest Deals</h2>
+            <p class="text-gray-600 leading-relaxed">
+                Check out our latest deals and discounts. We regularly have sales and promotions on our products. Don't miss out on these great deals.
+            </p>
+        </div>
+    </div>
+
+    <!-- Search and Filters Section -->
+    <div class="container mx-auto px-6 py-8">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+            <!-- Search -->
+            <div class="space-y-4">
+                <h2 class="text-2xl font-semibold">Search</h2>
+                <input 
+                    type="text" 
+                    placeholder="Search..." 
+                    class="w-full p-3 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-green-500"
+                >
+            </div>
+
+            <!-- Filters -->
+            <div class="space-y-4">
+                <h2 class="text-2xl font-semibold">Filters</h2>
+                <!-- Add filter components here -->
+            </div>
+        </div>
+
+        <!-- Testimonials -->
+        <div class="mt-12">
+            <h2 class="text-2xl font-semibold mb-6">Testimonials</h2>
+            <!-- Add testimonial components here -->
+        </div>
+    </div>
+</body>
+</html>

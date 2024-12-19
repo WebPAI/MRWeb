@@ -1,0 +1,286 @@
+[
+    {
+        "position": [
+            [
+                1630.3333740234375,
+                38.0
+            ],
+            [
+                1673.9667053222656,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/about"
+    },
+    {
+        "position": [
+            [
+                1694.4666748046875,
+                38.0
+            ],
+            [
+                1724.7166748046875,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/faq"
+    },
+    {
+        "position": [
+            [
+                1745.2166748046875,
+                38.0
+            ],
+            [
+                1801.8500213623047,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reports",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/yearly_report"
+    },
+    {
+        "position": [
+            [
+                1822.3499755859375,
+                38.0
+            ],
+            [
+                1903.9999694824219,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/contact"
+    },
+    {
+        "position": [
+            [
+                1366.816650390625,
+                132.0
+            ],
+            [
+                1519.999984741211,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Elsevier Science, Inc.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publishers/1116-Elsevier_Science_Inc"
+    },
+    {
+        "position": [
+            [
+                420.0,
+                534.4666748046875
+            ],
+            [
+                476.9166717529297,
+                554.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Surgery",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/20"
+    },
+    {
+        "position": [
+            [
+                420.0,
+                558.4666748046875
+            ],
+            [
+                476.8333282470703,
+                578.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/126"
+    },
+    {
+        "position": [
+            [
+                420.0,
+                642.4666748046875
+            ],
+            [
+                464.25,
+                662.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Russo",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/1519"
+    },
+    {
+        "position": [
+            [
+                420.0,
+                666.4666748046875
+            ],
+            [
+                475.0500030517578,
+                686.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Sandhu",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/85"
+    },
+    {
+        "position": [
+            [
+                983.75,
+                754.4666748046875
+            ],
+            [
+                1033.75,
+                774.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "https://www.twitter.com/MSKLibrary"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                447.76666259765625,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/synapse_tag-0d09920709c0b95b6c6ed3caa108c1153c9f18ce1a91527709b51136c1e3db46.png"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                192.0
+            ],
+            [
+                611.1999969482422,
+                472.4666748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1200/original/russo_paul.jpg?1407346719"
+    },
+    {
+        "position": [
+            [
+                627.2000122070312,
+                192.0
+            ],
+            [
+                838.4000091552734,
+                472.4666748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1206/original/sandhu_jaspreet.jpg?1408567337"
+    },
+    {
+        "position": [
+            [
+                854.4000244140625,
+                192.0
+            ],
+            [
+                1065.6000366210938,
+                472.4666748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1311/original/eastham_james.jpg?1408047752"
+    },
+    {
+        "position": [
+            [
+                1081.5999755859375,
+                192.0
+            ],
+            [
+                1292.7999725341797,
+                472.4666748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1047/original/coleman_jonathan.jpg?1408567499"
+    },
+    {
+        "position": [
+            [
+                1308.800048828125,
+                192.0
+            ],
+            [
+                1520.0000457763672,
+                472.4666748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1104/original/herr_harry.jpg?1411482502"
+    }
+]

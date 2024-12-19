@@ -1,0 +1,124 @@
+[
+    {
+        "position": [
+            [
+                420.23333740234375,
+                26.0
+            ],
+            [
+                512.6499938964844,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "WATCH LIVE",
+        "on_click_jump_to": "https://6abc.com/watch/"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                150.0
+            ],
+            [
+                1314.3999938964844,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "ON NOW",
+        "on_click_jump_to": "https://6abc.com/watch/live/11064989/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                898.0
+            ],
+            [
+                235.11666870117188,
+                918.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://6abc.com/"
+    },
+    {
+        "position": [
+            [
+                255.61666870117188,
+                898.0
+            ],
+            [
+                316.53334045410156,
+                918.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Weather",
+        "on_click_jump_to": "https://6abc.com/weather/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                380.23333740234375,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_desktop-logo.png"
+    },
+    {
+        "position": [
+            [
+                1710.0,
+                26.0
+            ],
+            [
+                1728.0,
+                46.0
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIyMCI+PHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTEuMzcgMTIuNDM4YTUuNDI2IDUuNDI2IDAgMSAxLTcuNDUyLTcuODg2IDUuNDI2IDUuNDI2IDAgMCAxIDcuNDUyIDcuODg1bTEuNzQtOS4yNzhDMTAuMjczLjIgNS40ODguMTEgMi40MjQgMi45NnMtMy4yNDYgNy41NjItLjQwNyAxMC41MjJjMi42MSAyLjcyIDYuODYgMy4wMTUgOS45MS44MzJsNC42MSA0LjgwNEwxOCAxNy43NTdsLTQuNjA4LTQuODA0YzIuMzg2LTIuODc1IDIuMzI4LTcuMDc0LS4yOC05Ljc5NCIvPjwvc3ZnPg=="
+    },
+    {
+        "position": [
+            [
+                192.0,
+                192.0
+            ],
+            [
+                1216.0,
+                768.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.com/dip/images/1063980_110215-wpvi-needles-in-candy-1230-video.jpg"
+    }
+]

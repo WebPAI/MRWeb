@@ -1,0 +1,3775 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- 
+ single html processed by https://github.com/zTrix/webpage2html
+ title: 
+      Timeline – CHICKEN Scheme
+    
+ url: http://bugs.call-cc.org/timeline?from=2010-05-06T08%3A28%3A04%2B02%3A00&amp;precision=second
+ date: Thu Aug 22 16:41:57 2024
+--><head>
+
+
+
+<!--[if IE]><script type="text/javascript">
+      if (/^#__msie303:/.test(window.location.hash))
+        window.location.replace(window.location.hash.replace(/^#__msie303:/, '#'));
+    </script><![endif]-->
+
+
+
+
+
+<style data-href="/chrome/common/css/trac.css" rel="stylesheet" type="text/css">/* -*- coding: utf-8 -*- */
+html { overflow-y: scroll }
+body {
+ background: #fff;
+ color: #000;
+ margin: 10px;
+ padding: 0;
+}
+body, th, tr {
+ font: normal 13px Verdana,Arial,'Bitstream Vera Sans',Helvetica,sans-serif;
+}
+h1, h2, h3, h4 {
+ font-family: Arial,Verdana,'Bitstream Vera Sans',Helvetica,sans-serif;
+ font-weight: bold;
+ letter-spacing: -0.018em;
+ page-break-after: avoid;
+}
+h1 { font-size: 19px; margin: .15em 1em 0.5em 0 }
+h2 { font-size: 16px }
+h3 { font-size: 14px }
+hr { border: none;  border-top: 1px solid #ccb; margin: 2em 0 }
+address { font-style: normal }
+img { border: none }
+
+.underline { text-decoration: underline }
+ol.loweralpha { list-style-type: lower-alpha }
+ol.upperalpha { list-style-type: upper-alpha }
+ol.lowerroman { list-style-type: lower-roman }
+ol.upperroman { list-style-type: upper-roman }
+ol.arabic     { list-style-type: decimal }
+
+/* Link styles */
+:link, :visited {
+ text-decoration: none;
+ color: #b00;
+ border-bottom: 1px dotted #bbb;
+}
+:link:hover, :visited:hover { background-color: #eee; color: #555 }
+h1 :link, h1 :visited ,h2 :link, h2 :visited, h3 :link, h3 :visited,
+h4 :link, h4 :visited, h5 :link, h5 :visited, h6 :link, h6 :visited {
+ color: inherit;
+}
+
+/* Heading anchors */
+.anchor:link, .anchor:visited {
+ border: none;
+ color: #d7d7d7;
+ font-size: .8em;
+ vertical-align: text-top;
+}
+* > .anchor:link, * > .anchor:visited {
+ visibility: hidden;
+}
+h1:hover .anchor, h2:hover .anchor, h3:hover .anchor,
+h4:hover .anchor, h5:hover .anchor, h6:hover .anchor,
+span:hover .anchor {
+ visibility: visible;
+}
+
+h1:target, h2:target, h3:target, h4:target, h5:target, h6:target,
+span:target {
+ background: #ffb;
+ box-shadow: .1em .1em .4em .1em #DDA;
+ border-radius: .2em;
+}
+
+/* option anchors in TracIni macro */
+.tracini table.wiki tbody tr:target { background: #ffb }
+.tracini .tracini-option { border: none; position: relative }
+.tracini .tracini-option:link:hover, .tracini .tracini-option:visited:hover {
+ background-color: transparent;
+}
+.tracini tr[id]:hover .tracini-option:before {
+ content: "\00b6";
+ position: absolute;
+ display: block;
+ left: -1em;
+ width: 1em;
+ color: #d7d7d7;
+ z-index: 1;
+}
+
+@media screen {
+ a.ext-link .icon {
+  background: url(http://bugs.call-cc.org/chrome/common/extlink.gif) left center no-repeat;
+  padding-left: 15px;
+ }
+ a.mail-link .icon {
+  background: url(http://bugs.call-cc.org/chrome/common/envelope.png) left center no-repeat;
+  padding-left: 16px;
+ }
+ a.trac-rawlink, a.trac-ziplink {
+  background: url(http://bugs.call-cc.org/chrome/common/download.png) right center no-repeat;
+  padding-right: 16px;
+  border-bottom: none;
+ }
+}
+
+/* Forms */
+input, textarea, select, .trac-button { margin: 2px }
+/* Avoid respect to system font settings for controls on Firefox, #11607 */
+input, select, button {
+ font-family: Arial,Verdana,'Bitstream Vera Sans',Helvetica,sans-serif;
+ font-size: 100%;
+}
+/* Avoid to inherit white-space of its parent element for IE 11, #11376 */
+textarea { white-space: pre-wrap }
+input, select, .trac-button { vertical-align: middle }
+input[type=button], input[type=submit], input[type=reset], .trac-button {
+ background: #eee;
+ color: #222;
+ border: 1px outset #eee;
+ border-radius: .3em;
+ box-shadow: .1em .1em .4em 0 #888;
+ padding: .1em .5em .2em;
+ text-shadow: .04em .04em #ddd;
+ cursor: pointer;
+}
+input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover,
+.trac-button:hover {
+ background: #f6f6f6;
+ box-shadow: .1em .1em .6em 0 #999;
+ text-shadow: .04em .04em #fcfcfc;
+}
+input[type=button]:active, input[type=submit]:active, input[type=reset]:active,
+.trac-button:active, .inlinebuttons a:active {
+ position: relative;
+ top: .1em;
+ left: .1em;
+}
+input[type=button][disabled], input[type=submit][disabled],
+input[type=reset][disabled], .trac-button[disabled] {
+ background: #f6f6f6;
+ border-style: solid;
+ color: #999;
+}
+input[type=text], input.textwidget, textarea {
+ border: 1px solid #d7d7d7;
+ border-radius: .3em;
+}
+input[type=text], input.textwidget { padding: .25em .5em }
+input[type=text]:focus, input.textwidget:focus, textarea:focus {
+ border: 1px solid #886;
+}
+option { border-bottom: 1px dotted #d7d7d7 }
+fieldset {
+ border: 1px solid #d7d7d7;
+ border-radius: .4em;
+ margin: 1em 0;
+ background: #F7F7F0;
+ box-shadow: .1em .1em 1em 0 #E7E7E7 inset;
+ padding: 1em;
+}
+p.hint, span.hint, span.trac-datetimehint {
+ color: #666;
+ font-size: 85%;
+ font-style: italic;
+ margin: .5em 0;
+ padding-left: 1em;
+}
+span.hint { vertical-align: middle; }
+p.help { color: #666; font-size: 90%; margin: 1em .5em .5em; }
+legend {
+ color: #999;
+ margin-left: .6em;
+ padding: 0 .25em;
+ font-size: 90%;
+ font-weight: bold;
+}
+label.disabled, .disabled span.hint, .disabled p.help, .disabled legend,
+.disabled input, .disabled select, .readonly span.hint, .readonly p.help {
+ color: #d7d7d7
+}
+.buttons { margin: .5em .5em .5em 0 }
+.buttons form, .buttons form div { display: inline }
+.buttons input { margin: 1em .5em .1em 0 }
+
+.inlinebuttons input,
+.inlinebuttons .trac-button,
+.inlinebuttons a {
+ border: 1px solid #ddd;
+ border-radius: 1em;
+ height: 1.6em;
+ padding: 0 .4em .1em;
+ font-size: 70%;
+ box-shadow: none;
+ margin: 0 .1em .1em;
+ background: none;
+ color: #808080;
+ cursor: pointer;
+}
+.uisymbols .inlinebuttons input[type=button],
+.uisymbols .inlinebuttons input[type=submit],
+.uisymbols .inlinebuttons .trac-button,
+.uisymbols .inlinebuttons a {
+ font-size: 100%;
+}
+.inlinebuttons input[type=button]:hover,
+.inlinebuttons input[type=submit]:hover,
+.inlinebuttons .trac-button:hover,
+.inlinebuttons a:hover {
+ background: #f6f6f6;
+ color: #333;
+ text-shadow: .04em .04em #fcfcfc;
+ box-shadow: .1em .1em .6em 0 #999;
+}
+input[type=button].trac-delete,
+input[type=submit].trac-delete,
+.trac-button.trac-delete {
+ color: #d31313;
+}
+input[type=button].trac-delete:hover,
+input[type=submit].trac-delete:hover,
+.trac-button.trac-delete:hover {
+ color: #e31313;
+}
+textarea.trac-fullwidth, input.trac-fullwidth, button.trac-fullwidth {
+ -moz-box-sizing: border-box;
+ box-sizing: border-box;
+ margin-left: 0;
+ margin-right: 0;
+ width: 100%;
+}
+textarea.trac-fullwidth { padding: 2px; }
+/* Resource edit forms (detailed view) */
+form.mod { margin: 1em 0 }
+form.mod .field { margin: .5em 0; }
+form.mod .field.description { margin-top: 1em; }
+form.mod .field label { padding-left: .2em }
+form.mod #changeinfo .field { margin: 0.25em 0 0.75em 0 }
+form.mod #changeinfo .options { padding: 0 0 0.5em 1em }
+
+/* Header */
+#header hr { display: none }
+#header h1 { margin: 1.5em 0 -1.5em; padding: 0 }
+#header img { border: none; margin: 0 0 -3em }
+#header :link, #header :visited, #header :link:hover, #header :visited:hover {
+ background: transparent;
+ color: #555;
+ margin-bottom: 2px;
+ border: none;
+ padding: 0;
+}
+#header h1 :link:hover, #header h1 :visited:hover { color: #000 }
+
+/* Quick search */
+#search {
+ clear: both;
+ font-size: 10px;
+ height: 2.2em;
+ margin: 0 0 1em;
+ text-align: right;
+}
+#search input { font-size: 10px }
+#search label { display: none }
+
+/* Navigation */
+.nav h2, .nav hr { display: none }
+.nav ul {
+ font-size: 10px;
+ list-style: none;
+ margin: 0;
+ padding: 0;
+ text-align: right;
+}
+.nav li {
+ border-right: 1px solid #d7d7d7;
+ display: inline-block;
+ padding: 0 .75em;
+ white-space: nowrap;
+}
+.nav li.last { border-right: none }
+
+/* Meta navigation bar */
+#metanav {
+ padding-top: .3em;
+}
+#metanav form.trac-logout {
+ display: inline;
+ margin: 0;
+ padding: 0;
+}
+#metanav form.trac-logout button {
+ margin: 0;
+ padding: 0;
+ border: 0;
+ outline: 0;
+ background: transparent;
+ font-family: inherit;
+ font-size: 100%;
+ color: #b00;
+ border-bottom: 1px dotted #bbb;
+ cursor: pointer;
+}
+#metanav form.trac-logout button::-moz-focus-inner { border: 0; padding: 0 }
+#metanav form.trac-logout button:hover { background-color: #eee; color: #555 }
+#metanav form.trac-logout button:active { position: static }
+
+/* Main navigation bar */
+#mainnav {
+ font: normal 10px verdana,'Bitstream Vera Sans',helvetica,arial,sans-serif;
+ box-shadow: 0 .5em 1.5em #eee;
+ border: 1px solid #e4e4e4;
+ border-radius: .5em;
+ margin: .66em 0 .33em;
+}
+#mainnav li {
+ background: white url(http://bugs.call-cc.org/chrome/common/topbar_gradient.png) 0 0;
+ border: 1px solid #e4e4e4;
+ margin: -1px .3em 0 -.4em;
+ padding: .3em 0;
+}
+
+#mainnav .first, #mainnav .first :link {
+ border-top-left-radius: .5em;
+ border-bottom-left-radius: .5em;
+}
+#mainnav .last, #mainnav .last :link {
+ border-top-right-radius: .5em;
+ border-bottom-right-radius: .5em;
+ margin-right: 0;
+}
+
+#mainnav :link, #mainnav :visited {
+ border-bottom: none;
+ box-shadow: 0 .1em .3em 0 #999;
+ color: #000;
+ padding: .3em 20px;
+}
+
+#mainnav li:hover {
+ border: 1px solid #666;
+}
+#mainnav :link:hover, #mainnav :visited:hover {
+ background: #000 url(http://bugs.call-cc.org/chrome/common/topbar_gradient2.png) 0 0 repeat-x;
+ color: #eee;
+ box-shadow: 0 .1em .6em 0 #666;
+}
+
+#mainnav .active {
+ border: 1px solid #666;
+}
+#mainnav .active :link, #mainnav .active :visited {
+ background: #000 url(http://bugs.call-cc.org/chrome/common/topbar_gradient2.png) 0 0 repeat-x;
+ color: #eee;
+ text-shadow: 1px 0 #eee;
+}
+
+/* Context-dependent navigation links */
+#ctxtnav {
+ min-height: 1em;
+ padding: .4em 0;
+}
+#ctxtnav li ul {
+ background: #f7f7f7;
+ color: #ccc;
+ border: 1px solid;
+ padding: 0;
+ display: inline;
+ margin: 0;
+}
+#ctxtnav li li { padding: 0; }
+#ctxtnav li li :link, #ctxtnav li li :visited { padding: 0 1em }
+#ctxtnav li li :link:hover, #ctxtnav li li :visited:hover {
+ background: #bba;
+ color: #fff;
+}
+
+.trac-nav, .trac-topnav {
+ float: right;
+ font-size: 80%;
+}
+.trac-topnav {
+ margin-top: 14px;
+}
+
+/* Alternate links */
+#altlinks {
+ clear: both;
+ margin-top: .4em;
+ text-align: center;
+}
+#altlinks h3 { font-size: 12px; letter-spacing: normal; margin: 0 }
+#altlinks ul { list-style: none; margin: 0; padding: 0 }
+#altlinks li {
+ border-right: 1px solid #d7d7d7;
+ display: inline;
+ font-size: 11px;
+ line-height: 1.5;
+ padding: 0 1em;
+ white-space: nowrap;
+}
+#altlinks li.last { border-right: none }
+#altlinks li :link, #altlinks li :visited {
+ background-repeat: no-repeat;
+ color: #666;
+ border: none;
+ padding: 0 0 2px;
+}
+#altlinks li a.ics {
+ background: url(http://bugs.call-cc.org/chrome/common/ics.png) left center no-repeat;
+ padding-left: 22px;
+}
+#altlinks li a.rss {
+ background: url(http://bugs.call-cc.org/chrome/common/feed.png) left center no-repeat;
+ padding-left: 20px;
+}
+
+/* Footer */
+#footer {
+ clear: both;
+ color: #bbb;
+ font-size: 10px;
+ height: 31px;
+ padding: .25em 0;
+}
+#footer :link, #footer :visited { color: #bbb; }
+#footer hr { display: none }
+#footer #tracpowered { border: 0; float: left }
+#footer #tracpowered:hover { background: transparent }
+#footer p { margin: 0 }
+#footer p.left {
+ float: left;
+ margin-left: 1em;
+ padding: 0 1em;
+ border-left: 1px solid #d7d7d7;
+ border-right: 1px solid #d7d7d7;
+}
+#footer p.right {
+ float: right;
+ text-align: right;
+}
+
+/* Container for all the elements in the page, usually single child of the body element */
+#content {
+ position: relative; /* reference for absolute positioning of children */
+}
+
+/* Information content */
+div.trac-content {
+ padding: .5em 1em;
+ margin: .3em auto;
+ border: 1px solid #e4e4e4;
+ border-radius: .5em;
+ box-shadow: .2em .3em 1.5em #eee;
+}
+
+/* Author info */
+.trac-author-anonymous, .trac-author-none {
+ font-style: italic;
+}
+.trac-author-user {
+ font-weight: bold;
+ color: #666;
+}
+
+/* Help links */
+.uinohelp #help { display: none }
+#help {
+ clear: both;
+ color: #999;
+ font-size: 90%;
+ margin: 1em;
+ text-align: right;
+}
+#help :link, #help :visited { cursor: help }
+#help hr { display: none }
+
+/* Datepicker hints */
+.trac-nodatetimehint .trac-datetimehint { display: none }
+
+/* Section folding */
+.foldable :link, .foldable :visited {
+ background: url(http://bugs.call-cc.org/chrome/common/expanded.png) 4px 50% no-repeat;
+ border: none;
+ border-radius: .3em;
+ box-shadow: .1em .1em .3em 0 #bbb;
+ color: #222;
+ text-shadow: .04em .04em #fcfcfc;
+ padding: .3em .5em .3em 20px;
+}
+.foldable :link:hover, .foldable :visited:hover { background-color: transparent }
+.collapsed > .foldable :link, .collapsed > .foldable :visited {
+ background-image: url(http://bugs.call-cc.org/chrome/common/collapsed.png);
+}
+.collapsed > div, .collapsed > table, .collapsed > ul, .collapsed > dl { display: none }
+fieldset > legend.foldable :link, fieldset > legend.foldable :visited {
+ color: #666;
+ font-size: 110%;
+ text-shadow: .04em .04em #ddd;
+}
+.collapsed legend.foldable { background: white }
+
+.expander {
+ background: url(http://bugs.call-cc.org/chrome/common/expander_normal.png) 0 50% no-repeat;
+ cursor: pointer;
+ padding-left: 8px;
+ margin-left: 4px;
+}
+.expander:hover {
+ background: url(http://bugs.call-cc.org/chrome/common/expander_normal_hover.png) 0 50% no-repeat;
+}
+.expander.expanded {
+ background: url(http://bugs.call-cc.org/chrome/common/expander_open.png) 0 50% no-repeat;
+ padding-left: 12px;
+ margin-left: 0;
+}
+.expander.expanded:hover {
+ background: url(http://bugs.call-cc.org/chrome/common/expander_open_hover.png) 0 50% no-repeat;
+}
+
+/* Section with count */
+h2 .trac-count, h3 .trac-count {
+ margin-left: .2em;
+ vertical-align: baseline;
+ color: #999;
+ font-size: 90%;
+ font-weight: normal;
+}
+
+/* Page preferences form */
+#prefs {
+ background: #f7f7f0;
+ border: 1px outset #eee;
+ border-radius: 1em;
+ box-shadow: .2em .2em .7em 0 #777;
+ float: right;
+ font-size: 9px;
+ padding: .8em;
+ position: relative;
+ margin: 0 1em 1em;
+}
+#prefs input, #prefs select { font-size: 9px; vertical-align: middle }
+#prefs fieldset {
+ background: transparent;
+ border: none;
+ box-shadow: none;
+ margin: .5em;
+ padding: 0;
+}
+#prefs fieldset legend {
+ background: transparent;
+ color: #000;
+ font-size: 9px;
+ font-weight: normal;
+ margin: 0 0 0 -1.5em;
+ padding: 0;
+}
+#prefs .buttons { text-align: right }
+
+/* Version information (browser, wiki, attachments) */
+#info {
+ margin: 1em 0 0 0;
+ background: #f7f7f0;
+ border: 1px solid #d7d7d7;
+ border-collapse: collapse;
+ border-spacing: 0;
+ clear: both;
+ width: 100%;
+}
+#info th, #info td { font-size: 85%; padding: 2px .5em; vertical-align: top }
+#info th { font-weight: bold; text-align: left }
+#info td.message { width: 100% }
+#info .message ul { padding: 0; margin: 0 2em }
+#info .message p { margin: 0; padding: 0 }
+a.trac-diff:after { content: "â" }
+
+/* Wiki */
+.wikipage { padding-left: 18px }
+.wikipage h1, .wikipage h2, .wikipage h3 { margin-left: -18px }
+.wikipage table h1, .wikipage table h2, .wikipage table h3 { margin-left: 0px }
+div.compact > p:first-child { margin-top: 0 }
+div.compact > p:last-child { margin-bottom: 0 }
+
+/* Delete */
+#delete-confirm li { list-style-type: square; }
+
+/* Styles related to RTL support */
+.rtl { direction: rtl; }
+.rtl div.wiki-toc { float: left; }
+.rtl .wiki-toc ul ul, .wiki-toc ol ol { padding-right: 1.2em }
+
+a.missing:link, a.missing:visited, a.missing, span.missing,
+a.forbidden, span.forbidden { color: #998 }
+a.missing:hover { color: #000 }
+a.closed:link, a.closed:visited, span.closed { text-decoration: line-through }
+
+/* User-selectable styles for blocks */
+.important {
+ background: #fcb;
+ border: 1px dotted #d00;
+ color: #500;
+ padding: 0 .5em 0 .5em;
+ margin: .5em;
+}
+
+dl.wiki dt { font-weight: bold }
+dl.compact dt { float: left; padding-right: .5em }
+dl.compact dd { margin: 0; padding: 0 }
+
+pre.wiki, pre.literal-block {
+ background: #f7f7f7;
+ border: 1px solid #d7d7d7;
+ box-shadow: 0 0 1em #eee;
+ border-radius: .3em;
+ margin: 1em 1.75em;
+ padding: .25em;
+ overflow: auto;
+}
+
+div.wiki-code {
+ margin: 1em 1.75em;
+}
+
+code, tt {
+ color: #600;
+ border: 1px solid #edc;
+ border-radius: .25em;
+ padding: 0 0.3em;
+ background: #fafafa;
+}
+
+blockquote.citation {
+ margin: -0.6em 0 0 0;
+ border-style: solid;
+ border-width: 0 0 0 2px;
+ padding-left: .5em;
+ border-color: #b44;
+}
+.citation blockquote.citation { border-color: #4b4; }
+.citation .citation blockquote.citation { border-color: #44b; }
+.citation .citation .citation blockquote.citation { border-color: #c55; }
+
+table.wiki {
+ border: 1px solid #ccc;
+ border-collapse: collapse;
+ border-spacing: 0;
+ box-shadow: 0 0 1em #eee; /* from pre.wiki */
+}
+table.wiki td { border: 1px solid #ccc;  padding: .1em .25em; }
+table.wiki th {
+ border: 1px solid #bbb;
+ padding: .1em .25em;
+ background-color: #f7f7f7;
+}
+table.wiki tbody tr.even { background-color: #fcfcfc }
+table.wiki tbody tr.odd { background-color: #f7f7f7 }
+
+.wikitoolbar {
+ margin-top: 0.3em;
+ border: solid #d7d7d7;
+ border-width: 1px 1px 1px 0;
+ height: 18px;
+ width: 234px;
+}
+.wikitoolbar :link, .wikitoolbar :visited {
+ background: transparent url(http://bugs.call-cc.org/chrome/common/edit_toolbar.png) no-repeat;
+ border: 1px solid #fff;
+ border-left-color: #d7d7d7;
+ cursor: default;
+ display: block;
+ float: left;
+ width: 24px;
+ height: 16px;
+}
+.wikitoolbar :link:hover, .wikitoolbar :visited:hover {
+ background-color: transparent;
+ border: 1px solid #fb2;
+}
+.wikitoolbar a#em { background-position: 0 0 }
+.wikitoolbar a#strong { background-position: 0 -16px }
+.wikitoolbar a#heading { background-position: 0 -32px }
+.wikitoolbar a#link { background-position: 0 -48px }
+.wikitoolbar a#code { background-position: 0 -64px }
+.wikitoolbar a#hr { background-position: 0 -80px }
+.wikitoolbar a#np { background-position: 0 -96px }
+.wikitoolbar a#br { background-position: 0 -112px }
+.wikitoolbar a#img { background-position: 0 -128px }
+
+/* Textarea resizer */
+div.trac-resizable { display: inline-table; width: 100% }
+div.trac-resizable > div { display: table-cell }
+div.trac-resizable textarea { display: block; margin-bottom: 0 }
+div.trac-grip {
+ height: 5px;
+ overflow: hidden;
+ background: #eee url(http://bugs.call-cc.org/chrome/common/grip.png) no-repeat center 1px;
+ border: 1px solid #ddd;
+ border-top-width: 0;
+ cursor: s-resize;
+}
+
+/* Styles for the list of attachments. */
+#attachments > div.attachments {
+ padding: 0 0 1em 1em;
+}
+#attachments dl.attachments { margin-left: 2em; padding: 0 }
+#attachments dt { display: list-item; list-style: square; }
+#attachments dd { font-style: italic; margin-left: 0; padding-left: 0; }
+#attachments p {
+ margin-left: 2em;
+ font-size: 90%;
+ color: #666;
+}
+#attachments > div.attachments > p {
+ float: right;
+ margin: .4em 0;
+}
+#attachments span.trac-author { font-style: italic; }
+
+.attachment #preview { margin-top: 1em }
+
+/* Styles for tabular listings such as those used for displaying directory
+   contents and report results. */
+table.listing {
+ clear: both;
+ border-bottom: 1px solid #d7d7d7;
+ border-collapse: collapse;
+ border-spacing: 0;
+ box-shadow: .2em .3em 1.5em #eee; /* from .trac-content */
+ margin-top: 1em;
+ width: 100%;
+}
+table.listing th { text-align: left; padding: 0 1em .1em 0; font-size: 12px }
+table.listing th.sel, table.listing td.sel { text-align: center; width: 1% }
+table.listing thead tr { background: #f7f7f0 }
+table.listing thead th {
+ border: 1px solid #d7d7d7;
+ border-bottom-color: #999;
+ font-size: 11px;
+ font-weight: bold;
+ padding: 2px .5em;
+ vertical-align: bottom;
+ white-space: nowrap;
+}
+table.listing thead th :link:hover, table.listing thead th :visited:hover {
+ background-color: transparent;
+}
+table.listing thead th a { border: none; padding-right: 12px }
+table.listing th.asc a, table.listing th.desc a {
+ font-weight: bold;
+ background-position: 100% 50%;
+ background-repeat: no-repeat;
+}
+table.listing th.asc a { background-image: url(http://bugs.call-cc.org/chrome/common/asc.png) }
+table.listing th.desc a { background-image: url(http://bugs.call-cc.org/chrome/common/desc.png) }
+table.listing tbody td, table.listing tbody th {
+ border: 1px dotted #ddd;
+ padding: .3em .5em;
+ vertical-align: top;
+}
+table.listing tbody td a:hover, table.listing tbody th a:hover {
+ background-color: transparent;
+}
+table.listing tbody tr { border-top: 1px solid #ddd }
+table.listing tbody tr.even { background-color: #fcfcfc }
+table.listing tbody tr.odd { background-color: #f7f7f7 }
+table.listing tbody tr:hover td { background: #eed !important }
+table.listing tbody tr.focus { background: #ddf !important }
+
+table.listing pre { white-space: pre-wrap }
+
+/* Styles for the page history table
+   (extends the styles for "table.listing") */
+#fieldhist td { padding: 0 .5em }
+#fieldhist td.date, #fieldhist td.diff, #fieldhist td.version,
+#fieldhist td.author {
+ white-space: nowrap;
+}
+#fieldhist td.version { text-align: center }
+#fieldhist td.comment { width: 100% }
+#fieldhist .inlinebuttons {
+ display: none;
+ float: right;
+}
+.uisymbols #fieldhist .inlinebuttons a { font-size: 85% }
+
+/* Auto-completion interface */
+.suggestions { background: #fff; border: 1px solid #886; color: #222; }
+.suggestions ul {
+ font-family: sans-serif;
+ max-height: 20em;
+ min-height: 3em;
+ list-style: none;
+ margin: 0;
+ overflow: auto;
+ padding: 0;
+ width: 440px;
+}
+* html .suggestions ul { height: 10em; }
+.suggestions li { background: #fff; cursor: pointer; padding: 2px 5px }
+.suggestions li.selected { background: #b9b9b9 }
+
+/* Styles for the error page */
+#content.error .message, div.system-message {
+ background: #fdc;
+ border: 2px solid #d00;
+ color: #500;
+ padding: .5em;
+ margin: 1em 0;
+}
+#content.error div.message pre, div.system-message pre {
+ margin-left: 1em;
+ overflow: hidden;
+ white-space: pre-wrap;
+}
+
+div.system-message p { margin: 0 }
+div.system-message p.system-message-title { font-weight: bold; }
+
+/* rst errors are less emphasized */
+span.system-message {
+ float: left;
+ background: #fdc;
+ padding: 0.2em;
+ margin: 1px;
+ border-radius: 0.25em;
+}
+
+/* whole-page admonitions in theme.html */
+div.system-message {
+ border-radius: .5em;
+ /* taken from #prefs */
+ box-shadow: .2em .2em .7em 0 #777;
+}
+
+#warning.system-message, .warning.system-message {
+ background: #ffb;
+ border: 1px solid #500;
+}
+#warning.system-message li { list-style-type: square; }
+
+#notice.system-message, .notice.system-message {
+ background: #dfd;
+ border: 1px solid #500;
+}
+#notice.system-message li { list-style-type: square; }
+
+div.system-message .trac-close-msg {
+ display: none; /* hidden when no Javascript available */
+ float: right;
+ font-size: 80%;
+ /* taken from .inlinebuttons */
+ border: 1px solid #ddd;
+ border-radius: 1em;
+ height: 1.6em;
+ padding: 0 .4em .1em;
+ box-shadow: none;
+ margin: 0 .1em .1em 0;
+ background: none;
+ color: #999;
+ /* taken from trac-delete */
+ color: #d31313;
+ /* override */
+ height: 1.4em;
+}
+div.system-message .trac-close-msg:hover {
+ /* taken from .inlinebuttons */
+ background: #f6f6f6;
+ color: #333;
+ text-shadow: .04em .04em #fcfcfc;
+ box-shadow: .1em .1em .6em 0 #999;
+}
+.uisymbols div.system-message .trac-close-msg > span {
+ display: none;
+}
+.uisymbols div.system-message .trac-close-msg:after {
+ content: "x"; /* or &ndash; "â"; */
+}
+
+/* error.html page */
+#content.error form.newticket { display: inline; }
+#content.error form.newticket textarea { display: none; }
+
+#content.error #traceback { margin-left: 1em; }
+#content.error #traceback :link, #content.error #traceback :visited {
+  border: none;
+}
+#content.error #tbtoggle { font-size: 80%; }
+#content.error #traceback div { margin-left: 1em; }
+#content.error #traceback h3 { font-size: 95%; margin: .5em 0 0; }
+#content.error #traceback :link var, #content.error #traceback :visited var {
+  font-family: monospace;
+  font-style: normal;
+  font-weight: bold;
+}
+#content.error #traceback span.file { color: #666; font-size: 85%; }
+#content.error #traceback ul { list-style: none; margin: .5em 0; padding: 0; }
+#content.error #traceback table.code td { white-space: pre; font-size: 90%; }
+#content.error #traceback table.code tr.current td { background: #e6e6e6; }
+#content.error #traceback table { margin: .5em 0 1em;  }
+#content.error #traceback th, #content.error #traceback td {
+  font-size: 85%; padding: 1px;
+}
+#content.error #traceback th var {
+  font-family: monospace;
+  font-style: normal;
+}
+#content.error #traceback td code { white-space: pre; }
+#content.error #traceback pre { font-size: 95%; }
+
+#content .paging { margin: 0 0 2em; padding: .5em 0 0;
+  font-size: 85%; line-height: 2em; text-align: center;
+}
+#content .paging .current {
+  padding: .1em .3em;
+  border: 1px solid #333;
+  background: #999; color: #fff;
+}
+
+#content .paging :link, #content .paging :visited {
+  padding: .1em .3em;
+  border: 1px solid #666;
+  background: transparent; color: #666;
+}
+#content .paging :link:hover, #content .paging :visited:hover {
+  background: #999; color: #fff;  border-color: #333;
+}
+#content .paging .previous a,
+#content .paging .next a {
+  font-size: 150%; font-weight: bold; border: none;
+}
+#content .paging .previous a:hover,
+#content .paging .next a:hover {
+  background: transparent; color: #666;
+}
+
+#content h2 .numresults { color: #666; font-size: 90%; }
+
+/* Styles for the About page */
+#content.about a.logo { border: none; float: right; margin-left: 2em; }
+#content.about a.logo img { display: block; }
+#content.about #python-logo img { width: 140px; height: 56px; }
+#content.about p.copyright { color: #999; font-size: 90%; }
+
+/* Styles for environment info (error and about pages) */
+#environmentinfo h2 { margin-top: 2em; }
+#environmentinfo table { margin: 1em; width: auto; }
+#environmentinfo table th, #environmentinfo table td { border: 1px solid #ddd; font-size: 90%; }
+#environmentinfo table th { background: #f7f7f7; font-weight: bold; white-space: nowrap; }
+#environmentinfo table td.file { color: #666; }
+#environmentinfo table tr.disabled th,
+#environmentinfo table tr.disabled td { color: #999; }
+#environmentinfo #config th, #content.about #config td { padding: 3px; }
+#environmentinfo #config tr.modified { background: #ffd; }
+#environmentinfo #config tr.modified td.value { font-style: italic; }
+#environmentinfo #config td.doc { padding: 3px 1em; }
+
+/* Styles for jquery-ui */
+.trac-placeholder { background: #eed }
+
+/* Styles for search word highlighting */
+@media screen {
+ .searchword0 { background: #ff9 }
+ .searchword1 { background: #cfc }
+ .searchword2 { background: #cff }
+ .searchword3 { background: #ccf }
+ .searchword4 { background: #fcf }
+}
+
+@media print {
+ #header, #altlinks, #footer, #help, #warning, #notice { display: none }
+ .nav, form, .buttons form, form .buttons, form .inlinebuttons,
+ .noprint, .trac-nav, .trac-topnav,
+ #attachments > div.attachments > p {
+  display: none;
+ }
+ form.printableform { display: block }
+ div.code pre { white-space: pre-wrap }
+ :link, :visited { border-bottom: none }
+ div.trac-content { box-shadow: none }
+ .foldable :link, .foldable :visited {
+  text-shadow: none;
+  box-shadow: none;
+ }
+}
+</style>
+<style data-href="/chrome/common/css/timeline.css" rel="stylesheet" type="text/css">/* Timeline */
+
+.timeline #prefs fieldset label { display: block }
+.timeline #prefs .buttons { margin-top: -1.6em }
+
+.timeline h2 {
+ background: #f7f7f7;
+ border-bottom: 1px solid #d7d7d7;
+ font-size: 105%;
+ margin: 2em 0 .5em;
+ padding: .4em;
+ box-shadow: 1px 1px .5em 0 #ccc;
+ border-radius: .1em;
+}
+.timeline dl {
+ line-height: 1.3em;
+ margin-left: 1em;
+}
+.timeline dl.unread {
+ margin-left: 0.38em;
+ border-left: 0.31em solid #c0f0c0;
+ padding-left: 0.31em;
+}
+
+.timeline dt { background: 3px 4px no-repeat; padding: 0 }
+.timeline dt :link, .timeline dt :visited {
+ background: 3px 3px no-repeat;
+ border: none;
+ color: #000;
+ padding: 0 4px 2px 22px;
+}
+.timeline dt>:link, .timeline dt>:visited {
+ background-position: 3px 4px;  /* Hide from IE/Win */
+}
+.timeline dt :link:hover, .timeline dt :visited:hover {
+ background-color: #eed;
+ color: #000;
+}
+.timeline dt em {
+ border-bottom: 1px dotted #bbb;
+ color: #b00;
+ font-style: normal;
+ text-decoration: none;
+}
+.timeline dt .time { color: #999; font-size: 80%; }
+.timeline dt .trac-author { color: #666; }
+.timeline dt.highlight { background-color: #ffa; }
+.timeline dd {
+ font-size: 80%;
+ margin: 0 0 .75em 5.8em;
+ padding: 0;
+ color: #776;
+}
+
+/* Apply icon background-image twice to avoid hover-flicker in IE/Win */
+.timeline dt.changeset, .timeline dt.changeset a {
+ background-image: url(http://bugs.call-cc.org/chrome/common/changeset.png) !important
+}
+.timeline dt.newticket, .timeline dt.newticket a {
+ background-image: url(http://bugs.call-cc.org/chrome/common/newticket.png) !important
+}
+.timeline dt.reopenedticket, .timeline dt.reopenedticket a {
+ background-image: url(http://bugs.call-cc.org/chrome/common/newticket.png) !important
+}
+.timeline dt.editedticket, .timeline dt.editedticket a {
+ background-image: url(http://bugs.call-cc.org/chrome/common/editedticket.png) !important
+}
+.timeline dt.closedticket, .timeline dt.closedticket a {
+ background-image: url(http://bugs.call-cc.org/chrome/common/closedticket.png) !important
+}
+.timeline dt.batchmodify, .timeline dt.batchmodify a {
+ background-image: url(http://bugs.call-cc.org/chrome/common/batchmodify.png) !important
+}
+.timeline dt.wiki, .timeline dt.wiki a {
+ background-image: url(http://bugs.call-cc.org/chrome/common/wiki.png) !important
+}
+.timeline dt.milestone, .timeline dt.milestone a {
+ background-image: url(http://bugs.call-cc.org/chrome/common/milestone.png) !important
+}
+.timeline dt.attachment, .timeline dt.attachment a {
+ background-image: url(http://bugs.call-cc.org/chrome/common/attachment.png) !important
+}
+
+/* styles for the 'changeset_long_messages' option */
+.timeline dd.changeset p { margin: 0; padding: 0 }
+.timeline dd.changeset ul { padding-left: 15px; }
+
+/* Styles for the 'changeset_show_files' option */
+.timeline dd.changeset .changes {
+ color: #aaa;
+ font-size: 90%;
+ margin-left: 0;
+ padding-left: 0;
+ list-style-type: none;
+}
+.timeline dd.changeset .changes li div {
+ border: 1px solid #999;
+ display: inline-block;
+ margin: 0 .5em 0 0;
+ width: .8em;
+ height: .8em;
+ vertical-align: middle;
+}
+.timeline dd.changeset .changes li span {
+ margin-right: .8em;
+}
+.timeline dd.changeset .changes .add    { background: #bfb }
+.timeline dd.changeset .changes .delete { background: #f88 }
+.timeline dd.changeset .changes .edit   { background: #fd8 }
+.timeline dd.changeset .changes .copy   { background: #88f }
+.timeline dd.changeset .changes .move   { background: #ccc }
+.timeline dt.changeset .branch,
+.timeline dt.changeset .tag,
+.timeline dt.changeset .trac-bookmark {
+ color: #777;
+ font-size: 80%;
+ background: #f6f6f6;
+ border: 1px solid #ddd;
+ margin: 0 0 0 .5em;
+ padding: 0 .2em;
+}
+.timeline dt.changeset .head {
+ background: #d0ffd0;
+ border: 1px solid #9d9;
+}
+.timeline dt.changeset .tag {
+ background: #ffa;
+ border: 1px solid #fe0;
+}
+.timeline dt.changeset .trac-bookmark {
+ background: #bdf;
+ border: 1px solid #9ae;
+}
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+<div id="banner">
+<div id="header">
+<a data-href="https://www.call-cc.org/" href="https://www.call-cc.org/" id="logo"><img alt="Chicken Scheme" data-src="https://wiki.call-cc.org/chicken-mini-logo.png" height="80" src="https://wiki.call-cc.org/chicken-mini-logo.png" width="80"></a>
+</div>
+<form action="/search" id="search" method="get">
+<div>
+
+<input id="proj-search" name="q" size="18" type="text" value="">
+<input type="submit" value="Search">
+</div>
+</form>
+<div class="nav" id="metanav">
+<ul>
+<li class="first"><a data-href="/login" href="http://bugs.call-cc.org/login">Login</a></li><li><a data-href="/prefs" href="http://bugs.call-cc.org/prefs">Preferences</a></li><li><a data-href="/wiki/TracGuide" href="http://bugs.call-cc.org/wiki/TracGuide">Help/Guide</a></li><li class="last"><a data-href="/about" href="http://bugs.call-cc.org/about">About Trac</a></li>
+</ul>
+</div>
+</div>
+<div class="nav" id="mainnav">
+<ul>
+<li class="first"><a data-href="/wiki" href="http://bugs.call-cc.org/wiki">Wiki</a></li><li class="active"><a data-href="/timeline" href="http://bugs.call-cc.org/timeline">Timeline</a></li><li><a data-href="/roadmap" href="http://bugs.call-cc.org/roadmap">Roadmap</a></li><li><a data-href="/browser" href="http://bugs.call-cc.org/browser">Browse Source</a></li><li><a data-href="/report" href="http://bugs.call-cc.org/report">View Tickets</a></li><li class="last"><a data-href="/search" href="http://bugs.call-cc.org/search">Search</a></li>
+</ul>
+</div>
+<div id="main">
+<div class="nav" id="ctxtnav">
+
+<ul>
+<li class="first"><span>← <a class="prev" data-href="/timeline?from=2010-04-05&amp;daysback=30&amp;authors=" href="http://bugs.call-cc.org/timeline?from=2010-04-05&amp;daysback=30&amp;authors=" title="Previous Period">Previous Period</a></span></li><li class="last"><span><a class="next" data-href="/timeline?from=2010-06-06&amp;daysback=30&amp;authors=" href="http://bugs.call-cc.org/timeline?from=2010-06-06&amp;daysback=30&amp;authors=" title="Next Period">Next Period</a> →</span></li>
+</ul>
+
+</div>
+<div class="timeline" id="content">
+<h1>Timeline</h1>
+<form action="" id="prefs" method="get">
+<div><label>View changes from <input class="trac-datepicker" id="fromdate" name="from" size="10" type="text" value="05/06/10"></label> 
+<label>going back <input name="daysback" size="3" type="text" value="30"> days</label><br>
+<label>by author <input name="authors" size="16" type="text" value=""></label></div>
+<fieldset>
+<label>
+<input checked="checked" name="milestone" type="checkbox"> Milestones completed
+        </label><label>
+<input checked="checked" name="ticket" type="checkbox"> Tickets opened and closed
+        </label><label>
+<input checked="checked" name="changeset" type="checkbox"> Repository changesets
+        </label><label>
+<input checked="checked" name="wiki" type="checkbox"> Wiki changes
+        </label>
+</fieldset>
+<div class="buttons">
+<input name="update" type="submit" value="Update">
+</div>
+</form>
+<h2>05/06/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/18010/project" href="http://bugs.call-cc.org/changeset/18010/project">
+<span class="time">21:45</span> Changeset in project <em>[18010]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: Handle nowiki tags inside signatures
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/18009/project" href="http://bugs.call-cc.org/changeset/18009/project">
+<span class="time">20:55</span> Changeset in project <em>[18009]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Add changelog for intarweb
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/18008/project" href="http://bugs.call-cc.org/changeset/18008/project">
+<span class="time">20:53</span> Changeset in project <em>[18008]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Don't titlecase attributes (unless it's for [set-]cookie headers). …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/18007/project" href="http://bugs.call-cc.org/changeset/18007/project">
+<span class="time">20:06</span> Changeset in project <em>[18007]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/bb: fix bb:add signature
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/18006/project" href="http://bugs.call-cc.org/changeset/18006/project">
+<span class="time">20:04</span> Changeset in project <em>[18006]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: Concatenate table string fragments, fixing inline …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/18005/project" href="http://bugs.call-cc.org/changeset/18005/project">
+<span class="time">10:23</span> Changeset in project <em>[18005]</em> by <span class="trac-author">azul</span>
+</a>
+</dt>
+<dd class="changeset">
+              release 1.4 with fix.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/18004/project" href="http://bugs.call-cc.org/changeset/18004/project">
+<span class="time">08:28</span> Changeset in project <em>[18004]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Tag the trunk from just before the git migration
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/18003/project" href="http://bugs.call-cc.org/changeset/18003/project">
+<span class="time">00:11</span> Changeset in project <em>[18003]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc: support (well, pass) sub/sup/big/small; correctly drop @ …
+            </dd>
+</dl>
+<h2>05/05/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/18002/project" href="http://bugs.call-cc.org/changeset/18002/project">
+<span class="time">20:15</span> Changeset in project <em>[18002]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Update documentation to use different syntax for lists of procedure …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/18001/project" href="http://bugs.call-cc.org/changeset/18001/project">
+<span class="time">19:31</span> Changeset in project <em>[18001]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Yet another fix for &lt;tags&gt;.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/18000/project" href="http://bugs.call-cc.org/changeset/18000/project">
+<span class="time">19:15</span> Changeset in project <em>[18000]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Added &lt;examples&gt; tag (thanks to Jim for the tip).
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17999/project" href="http://bugs.call-cc.org/changeset/17999/project">
+<span class="time">18:19</span> Changeset in project <em>[17999]</em> by <span class="trac-author">azul</span>
+</a>
+</dt>
+<dd class="changeset">
+              Bug fix.  Sometimes char=? will raiser error if not given a character, …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17998/project" href="http://bugs.call-cc.org/changeset/17998/project">
+<span class="time">16:27</span> Changeset in project <em>[17998]</em> by <span class="trac-author">Moritz Heidkamp</span>
+</a>
+</dt>
+<dd class="changeset">
+              use spiffy's own send-request now
+            </dd>
+</dl>
+<h2>05/04/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17997/project" href="http://bugs.call-cc.org/changeset/17997/project">
+<span class="time">12:49</span> Changeset in project <em>[17997]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              awful (trunk)
+* support for spiffy-request-vars (trunk)
+* …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17996/project" href="http://bugs.call-cc.org/changeset/17996/project">
+<span class="time">09:50</span> Changeset in project <em>[17996]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc: Add repository-modification-time
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/229" href="http://bugs.call-cc.org/ticket/229">
+<span class="time">09:39</span> Ticket <em title="enhancement: implement apply-hack for ARM CPUs (new)">#229</em> (implement apply-hack for ARM CPUs) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+              May be tricky, since there exist various versions and ABIs, but would …
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/228" href="http://bugs.call-cc.org/ticket/228">
+<span class="time">09:37</span> Ticket <em title="enhancement: avoid recompilation of regular expressions, at least for simple cases (new)">#228</em> (avoid recompilation of regular expressions, at least for simple cases) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+              Compiler syntax for <code>string-(search|match)[-positions]</code> with literal …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17995/project" href="http://bugs.call-cc.org/changeset/17995/project">
+<span class="time">08:29</span> Changeset in project <em>[17995]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              imported historic version of chicken (0.1071)
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17994/project" href="http://bugs.call-cc.org/changeset/17994/project">
+<span class="time">08:23</span> Changeset in project <em>[17994]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              imported historic version of chicken (1.79)
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17993/project" href="http://bugs.call-cc.org/changeset/17993/project">
+<span class="time">07:43</span> Changeset in project <em>[17993]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              added 0xab to svn-users.txt
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17992/project" href="http://bugs.call-cc.org/changeset/17992/project">
+<span class="time">07:42</span> Changeset in project <em>[17992]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              added 0xab to auth-file generator
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17991/project" href="http://bugs.call-cc.org/changeset/17991/project">
+<span class="time">01:08</span> Changeset in project <em>[17991]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              spiffy-request-vars (trunk)
+* syntax changes
+* added `as-list', …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17990/project" href="http://bugs.call-cc.org/changeset/17990/project">
+<span class="time">01:03</span> Changeset in project <em>[17990]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              spiffy-request-vars: adding tag dir for version 0.5
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17989/project" href="http://bugs.call-cc.org/changeset/17989/project">
+<span class="time">01:02</span> Changeset in project <em>[17989]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              spiffy-request-vars: moving code to trunk.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17988/project" href="http://bugs.call-cc.org/changeset/17988/project">
+<span class="time">00:57</span> Changeset in project <em>[17988]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              spiffy-request-vars: adding trunk &amp; tags dirs.
+            </dd>
+</dl>
+<h2>05/03/10: </h2>
+<dl>
+<dt class="newticket">
+<a data-href="/ticket/227" href="http://bugs.call-cc.org/ticket/227">
+<span class="time">14:51</span> Ticket <em title="task: add cross-development chapter to manual (new)">#227</em> (add cross-development chapter to manual) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+<a class="ext-link" data-href="http://chicken.wiki.br/cross-compilation" href="http://chicken.wiki.br/cross-compilation"><span class="icon">​</span>http://chicken.wiki.br/cross-compilation</a> may be a start.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17987/project" href="http://bugs.call-cc.org/changeset/17987/project">
+<span class="time">14:34</span> Changeset in project <em>[17987]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              created tag for 1.79
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17986/project" href="http://bugs.call-cc.org/changeset/17986/project">
+<span class="time">13:42</span> Changeset in project <em>[17986]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Jeffrey Schwab (208.50.113.3) through svnwiki:
+ …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17985/project" href="http://bugs.call-cc.org/changeset/17985/project">
+<span class="time">12:27</span> Changeset in project <em>[17985]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              pop3 doc for <a class="changeset" data-href="/changeset/4/project" href="http://bugs.call-cc.org/changeset/4/project" title="added missing files">r4</a>
+</dd>
+<dt class="changeset">
+<a data-href="/changeset/17984/project" href="http://bugs.call-cc.org/changeset/17984/project">
+<span class="time">09:03</span> Changeset in project <em>[17984]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              tagged 1.3
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17983/project" href="http://bugs.call-cc.org/changeset/17983/project">
+<span class="time">09:01</span> Changeset in project <em>[17983]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              ported to chicken4
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17982/project" href="http://bugs.call-cc.org/changeset/17982/project">
+<span class="time">08:59</span> Changeset in project <em>[17982]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              porting pop3 to chicken4
+            </dd>
+</dl>
+<h2>05/02/10: </h2>
+<dl>
+<dt class="closedticket">
+<a data-href="/ticket/224#comment:6" href="http://bugs.call-cc.org/ticket/224">
+<span class="time">01:16</span> Ticket <em title="defect: map allows non-list arguments (closed: fixed)">#224</em> (map allows non-list arguments) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: In 22699fd729e2b1e08e8bdb2d6a5d640382d209d8 (experimental), a check …
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/226" href="http://bugs.call-cc.org/ticket/226">
+<span class="time">00:26</span> Ticket <em title="enhancement: register `chicken-MAJOR.MINOR` feature identifier (new)">#226</em> (register `chicken-MAJOR.MINOR` feature identifier) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+              This would make it easier to conditionalize code for a particular version.
+            </dd>
+<dt class="closedticket">
+<a data-href="/ticket/223#comment:2" href="http://bugs.call-cc.org/ticket/223">
+<span class="time">00:25</span> Ticket <em title="defect: unbound proc error in alist->hash-table (closed: fixed)">#223</em> (unbound proc error in alist-&gt;hash-table) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: Fixed in 4eb791fc459977e8f1780d74763ca2359f4bb523 (master). Also …
+            </dd>
+<dt class="closedticket">
+<a data-href="/ticket/225#comment:1" href="http://bugs.call-cc.org/ticket/225">
+<span class="time">00:23</span> Ticket <em title="enhancement: Add a predicate for port open/closed status (slot 8) (closed: fixed)">#225</em> (Add a predicate for port open/closed status (slot 8)) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: Applied in 6eda778123408d57e78e6e87935dd7c588df724c (experimental).
+ …
+            </dd>
+</dl>
+<h2>05/01/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17981/project" href="http://bugs.call-cc.org/changeset/17981/project">
+<span class="time">23:36</span> Changeset in project <em>[17981]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              tagged bb 1.27
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17980/project" href="http://bugs.call-cc.org/changeset/17980/project">
+<span class="time">23:35</span> Changeset in project <em>[17980]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              added tests to bb
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17979/project" href="http://bugs.call-cc.org/changeset/17979/project">
+<span class="time">22:20</span> Changeset in project <em>[17979]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              updated user page
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/225" href="http://bugs.call-cc.org/ticket/225">
+<span class="time">15:31</span> Ticket <em title="enhancement: Add a predicate for port open/closed status (slot 8) (new)">#225</em> (Add a predicate for port open/closed status (slot 8)) created by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="newticket">
+              Currently there's no way to check if a port is open or closed besides …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17978/project" href="http://bugs.call-cc.org/changeset/17978/project">
+<span class="time">14:27</span> Changeset in project <em>[17978]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Fix problem with code that would close the output port to indicate EOF …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17977/project" href="http://bugs.call-cc.org/changeset/17977/project">
+<span class="time">01:03</span> Changeset in project <em>[17977]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc: ensure node keys are sorted on all platforms
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17976/project" href="http://bugs.call-cc.org/changeset/17976/project">
+<span class="time">00:45</span> Changeset in project <em>[17976]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc, chicken-doc-admin: bugfix for repo creation
+            </dd>
+</dl>
+<h2>04/30/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17975/project" href="http://bugs.call-cc.org/changeset/17975/project">
+<span class="time">22:47</span> Changeset in project <em>[17975]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: v0.3.4
+* Update for repository objects, shared …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17974/project" href="http://bugs.call-cc.org/changeset/17974/project">
+<span class="time">22:37</span> Changeset in project <em>[17974]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc v0.3.5:
+* Delayed id and path string cache
+* Delayed node …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17973/project" href="http://bugs.call-cc.org/changeset/17973/project">
+<span class="time">16:21</span> Changeset in project <em>[17973]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Fix logic in explanation; it's localhost that is allowed, all others …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17972/project" href="http://bugs.call-cc.org/changeset/17972/project">
+<span class="time">14:55</span> Changeset in project <em>[17972]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              bb for release 4
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17971/project" href="http://bugs.call-cc.org/changeset/17971/project">
+<span class="time">14:49</span> Changeset in project <em>[17971]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              bb for chicken 4
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/224" href="http://bugs.call-cc.org/ticket/224">
+<span class="time">08:16</span> Ticket <em title="defect: map allows non-list arguments (new)">#224</em> (map allows non-list arguments) created by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="newticket">
+              If the first list argument to map is not actually a list, map will …
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/223" href="http://bugs.call-cc.org/ticket/223">
+<span class="time">08:12</span> Ticket <em title="defect: unbound proc error in alist->hash-table (new)">#223</em> (unbound proc error in alist-&gt;hash-table) created by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="newticket">
+              This error goes away if you use data-structures along with srfi-69.
+$ …
+            </dd>
+</dl>
+<h2>04/29/10: </h2>
+<dl>
+<dt class="newticket">
+<a data-href="/ticket/222" href="http://bugs.call-cc.org/ticket/222">
+<span class="time">21:33</span> Ticket <em title="enhancement: Export `ssax:warn' (new)">#222</em> (Export `ssax:warn') created by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="newticket">
+              The warning messages from ssax are annoying and not having …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17970/project" href="http://bugs.call-cc.org/changeset/17970/project">
+<span class="time">19:01</span> Changeset in project <em>[17970]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              spiffy: revert flush before sendfile; now handled by sendfile 1.6.2
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17969/project" href="http://bugs.call-cc.org/changeset/17969/project">
+<span class="time">19:00</span> Changeset in project <em>[17969]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              sendfile: tag 1.6.2
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17968/project" href="http://bugs.call-cc.org/changeset/17968/project">
+<span class="time">19:00</span> Changeset in project <em>[17968]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              sendfile: v1.6.2 Flush output prior to doing non-buffered send
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/221" href="http://bugs.call-cc.org/ticket/221">
+<span class="time">15:17</span> Ticket <em title="enhancement: defstruct could use compiler-syntax to speed up instance creation (new)">#221</em> (defstruct could use compiler-syntax to speed up instance creation) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+              By defining a compiler-macro on the constructor, keyword arguments can …
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/220" href="http://bugs.call-cc.org/ticket/220">
+<span class="time">12:54</span> Ticket <em title="enhancement: call-with-values rewrite rule for known producer with single-valued body (new)">#220</em> (call-with-values rewrite rule for known producer with single-valued body) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+<code>(call-with-values K P F)</code> with <code>P</code> having a lambda as known value and …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17967/project" href="http://bugs.call-cc.org/changeset/17967/project">
+<span class="time">12:40</span> Changeset in project <em>[17967]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              awful.scm (trunk)
+* support for regex-based page paths
+* …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17966/project" href="http://bugs.call-cc.org/changeset/17966/project">
+<span class="time">12:38</span> Changeset in project <em>[17966]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              awful.meta (trunk): require spiffy-request-vars 0.5 or newer
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17965/project" href="http://bugs.call-cc.org/changeset/17965/project">
+<span class="time">12:37</span> Changeset in project <em>[17965]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              awful.setup (trunk): use "-O3 -lambda-lift" instead of "-O2"
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17964/project" href="http://bugs.call-cc.org/changeset/17964/project">
+<span class="time">12:29</span> Changeset in project <em>[17964]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Adding tag dir for awful version 0.17.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17963/project" href="http://bugs.call-cc.org/changeset/17963/project">
+<span class="time">12:27</span> Changeset in project <em>[17963]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Adding tags dir for awful.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17962/project" href="http://bugs.call-cc.org/changeset/17962/project">
+<span class="time">10:56</span> Changeset in project <em>[17962]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              spiffy: sendfile bypasses TCP buffering, so flush headers beforehand
+            </dd>
+</dl>
+<h2>04/28/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17961/project" href="http://bugs.call-cc.org/changeset/17961/project">
+<span class="time">22:23</span> Changeset in project <em>[17961]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              update spiffy doc
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17960/project" href="http://bugs.call-cc.org/changeset/17960/project">
+<span class="time">21:03</span> Changeset in project <em>[17960]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              spiffy: flush output after response to allow TCP buffering;
+send …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17959/project" href="http://bugs.call-cc.org/changeset/17959/project">
+<span class="time">14:53</span> Changeset in project <em>[17959]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17958/project" href="http://bugs.call-cc.org/changeset/17958/project">
+<span class="time">12:41</span> Changeset in project <em>[17958]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (201.40.180.93) through svnwiki:
+Updated …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17957/project" href="http://bugs.call-cc.org/changeset/17957/project">
+<span class="time">12:39</span> Changeset in project <em>[17957]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              spiffy-request-vars: `with-request-vars' can also accepts a getter …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17956/project" href="http://bugs.call-cc.org/changeset/17956/project">
+<span class="time">08:40</span> Changeset in project <em>[17956]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              integrated Dickey's article into wiki page for yasos
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/219" href="http://bugs.call-cc.org/ticket/219">
+<span class="time">08:40</span> Ticket <em title="defect: reexport with renaming fails when import libraries are used (new)">#219</em> (reexport with renaming fails when import libraries are used) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+              In the following code <code>s2</code> in the expansion of <code>s1</code> will not be found …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17955/project" href="http://bugs.call-cc.org/changeset/17955/project">
+<span class="time">08:31</span> Changeset in project <em>[17955]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              yasos and miscmacros updates
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17954/project" href="http://bugs.call-cc.org/changeset/17954/project">
+<span class="time">08:27</span> Changeset in project <em>[17954]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              tagged miscmacros 2.9
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17953/project" href="http://bugs.call-cc.org/changeset/17953/project">
+<span class="time">08:27</span> Changeset in project <em>[17953]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              bumped miscmacros version
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17952/project" href="http://bugs.call-cc.org/changeset/17952/project">
+<span class="time">08:26</span> Changeset in project <em>[17952]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              inc! and dec! return new value
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17951/project" href="http://bugs.call-cc.org/changeset/17951/project">
+<span class="time">08:24</span> Changeset in project <em>[17951]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              tagged yasos 1.2
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17950/project" href="http://bugs.call-cc.org/changeset/17950/project">
+<span class="time">08:23</span> Changeset in project <em>[17950]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              simplification and bugfixes in yasos egg
+            </dd>
+</dl>
+<h2>04/27/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17949/project" href="http://bugs.call-cc.org/changeset/17949/project">
+<span class="time">22:55</span> Changeset in project <em>[17949]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/intarweb: Surgery for chicken-doc
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17948/project" href="http://bugs.call-cc.org/changeset/17948/project">
+<span class="time">21:51</span> Changeset in project <em>[17948]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17947/project" href="http://bugs.call-cc.org/changeset/17947/project">
+<span class="time">21:25</span> Changeset in project <em>[17947]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/uri-common: update definition tags
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17946/project" href="http://bugs.call-cc.org/changeset/17946/project">
+<span class="time">19:12</span> Changeset in project <em>[17946]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Fixed commented example (<code>(use udp)' instead of </code>(require 'udp)').  No …
+            </dd>
+<dt class="closedticket">
+<a data-href="/ticket/217#comment:2" href="http://bugs.call-cc.org/ticket/217">
+<span class="time">15:25</span> Ticket <em title="defect: peek-char works incorrectly for tcp ports (closed: fixed)">#217</em> (peek-char works incorrectly for tcp ports) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: Fixed in 4d285bb430f150d5fd881b89f1aab255b43c57d5 (experimental). …
+            </dd>
+<dt class="closedticket">
+<a data-href="/ticket/209#comment:4" href="http://bugs.call-cc.org/ticket/209">
+<span class="time">15:23</span> Ticket <em title="task: Chicken allows for shadowing syntax in a way disallowed by R5RS/sec.5.3 (closed: fixed)">#209</em> (Chicken allows for shadowing syntax in a way disallowed by R5RS/sec.5.3) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: See 9fd71180ce4c45d5b81051f1e942ef135450a9f8 and …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17945/project" href="http://bugs.call-cc.org/changeset/17945/project">
+<span class="time">10:01</span> Changeset in project <em>[17945]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              man/4/Unit library: Tag fixnum/flonum limits as &lt;constant&gt;
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17944/project" href="http://bugs.call-cc.org/changeset/17944/project">
+<span class="time">09:17</span> Changeset in project <em>[17944]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              man/4/Supported language: remove extraneous ws
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17943/project" href="http://bugs.call-cc.org/changeset/17943/project">
+<span class="time">09:13</span> Changeset in project <em>[17943]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              man/4/Foreign\ type\ specifiers: &lt; must be escaped in table HTML
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17942/project" href="http://bugs.call-cc.org/changeset/17942/project">
+<span class="time">07:17</span> Changeset in project <em>[17942]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/args: Update for chicken-doc
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17941/project" href="http://bugs.call-cc.org/changeset/17941/project">
+<span class="time">03:39</span> Changeset in project <em>[17941]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              internet-message release 3.1
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17940/project" href="http://bugs.call-cc.org/changeset/17940/project">
+<span class="time">03:33</span> Changeset in project <em>[17940]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              updated internet-message doc
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17939/project" href="http://bugs.call-cc.org/changeset/17939/project">
+<span class="time">03:32</span> Changeset in project <em>[17939]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              internet-message: some more parsing combinators exported
+            </dd>
+</dl>
+<h2>04/26/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17938/project" href="http://bugs.call-cc.org/changeset/17938/project">
+<span class="time">20:59</span> Changeset in project <em>[17938]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              man/4: Add Exceptions manual page
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17937/project" href="http://bugs.call-cc.org/changeset/17937/project">
+<span class="time">20:52</span> Changeset in project <em>[17937]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: tag 0.3.3
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17936/project" href="http://bugs.call-cc.org/changeset/17936/project">
+<span class="time">20:51</span> Changeset in project <em>[17936]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin v0.3.3
+* Add 'chicken exceptions' manual node
+* …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17935/project" href="http://bugs.call-cc.org/changeset/17935/project">
+<span class="time">20:18</span> Changeset in project <em>[17935]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Document send-response in trunk
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17934/project" href="http://bugs.call-cc.org/changeset/17934/project">
+<span class="time">19:56</span> Changeset in project <em>[17934]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/Unit extras: Comment on randomness quality of RANDOM.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17933/project" href="http://bugs.call-cc.org/changeset/17933/project">
+<span class="time">19:52</span> Changeset in project <em>[17933]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Add new send-response procedure to provide an easier-to-use interface …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17932/project" href="http://bugs.call-cc.org/changeset/17932/project">
+<span class="time">18:35</span> Changeset in project <em>[17932]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Credits to Moritz.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17931/project" href="http://bugs.call-cc.org/changeset/17931/project">
+<span class="time">18:33</span> Changeset in project <em>[17931]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Updated docs for version 0.4.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17930/project" href="http://bugs.call-cc.org/changeset/17930/project">
+<span class="time">18:29</span> Changeset in project <em>[17930]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              spiffy-request-vars 0.4
+* `with-request-vars*' resurrected.  For the …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17929/project" href="http://bugs.call-cc.org/changeset/17929/project">
+<span class="time">15:59</span> Changeset in project <em>[17929]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (189.114.111.55) through svnwiki:
+Awful …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17928/project" href="http://bugs.call-cc.org/changeset/17928/project">
+<span class="time">15:05</span> Changeset in project <em>[17928]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17927/project" href="http://bugs.call-cc.org/changeset/17927/project">
+<span class="time">14:57</span> Changeset in project <em>[17927]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * [mpfi] Removed procedures that has strange semantics and did not
+  …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17926/project" href="http://bugs.call-cc.org/changeset/17926/project">
+<span class="time">14:56</span> Changeset in project <em>[17926]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17925/project" href="http://bugs.call-cc.org/changeset/17925/project">
+<span class="time">13:12</span> Changeset in project <em>[17925]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              unitconv release 2.0
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17924/project" href="http://bugs.call-cc.org/changeset/17924/project">
+<span class="time">13:11</span> Changeset in project <em>[17924]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              updated unitconv documentation
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17923/project" href="http://bugs.call-cc.org/changeset/17923/project">
+<span class="time">12:41</span> Changeset in project <em>[17923]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              created branch with changes from Andrei Barbu
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17922/project" href="http://bugs.call-cc.org/changeset/17922/project">
+<span class="time">12:38</span> Changeset in project <em>[17922]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              updates on website index
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17921/project" href="http://bugs.call-cc.org/changeset/17921/project">
+<span class="time">09:21</span> Changeset in project <em>[17921]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              pyffi release 2.15
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17920/project" href="http://bugs.call-cc.org/changeset/17920/project">
+<span class="time">09:20</span> Changeset in project <em>[17920]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              update pyffi version and doc
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17919/project" href="http://bugs.call-cc.org/changeset/17919/project">
+<span class="time">09:19</span> Changeset in project <em>[17919]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              pyffi change: do not convert getattr return result to scheme value
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17918/project" href="http://bugs.call-cc.org/changeset/17918/project">
+<span class="time">09:18</span> Changeset in project <em>[17918]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              varsubst save
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17917/project" href="http://bugs.call-cc.org/changeset/17917/project">
+<span class="time">09:16</span> Changeset in project <em>[17917]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              removed some debugging message from formular
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17916/project" href="http://bugs.call-cc.org/changeset/17916/project">
+<span class="time">09:15</span> Changeset in project <em>[17916]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              corrected sigm version
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17915/project" href="http://bugs.call-cc.org/changeset/17915/project">
+<span class="time">09:13</span> Changeset in project <em>[17915]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              fixes in with-units module
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17914/project" href="http://bugs.call-cc.org/changeset/17914/project">
+<span class="time">08:57</span> Changeset in project <em>[17914]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              man/Extensions: procedure tag
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17913/project" href="http://bugs.call-cc.org/changeset/17913/project">
+<span class="time">08:42</span> Changeset in project <em>[17913]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/gopher,phricken: remove extraneous section headers
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17912/project" href="http://bugs.call-cc.org/changeset/17912/project">
+<span class="time">08:18</span> Changeset in project <em>[17912]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              Unit extras: def tag pretty-print-width
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17911/project" href="http://bugs.call-cc.org/changeset/17911/project">
+<span class="time">03:47</span> Changeset in project <em>[17911]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              agrep release 1.0
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17910/project" href="http://bugs.call-cc.org/changeset/17910/project">
+<span class="time">03:47</span> Changeset in project <em>[17910]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              one more fix to agrep doc
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17909/project" href="http://bugs.call-cc.org/changeset/17909/project">
+<span class="time">03:41</span> Changeset in project <em>[17909]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              corrected a definition list in the agrep doc
+            </dd>
+</dl>
+<h2>04/25/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17908/project" href="http://bugs.call-cc.org/changeset/17908/project">
+<span class="time">13:21</span> Changeset in project <em>[17908]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Add small note about in-list procedure
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17907/project" href="http://bugs.call-cc.org/changeset/17907/project">
+<span class="time">13:20</span> Changeset in project <em>[17907]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Add docs for newly exported type-parsers and type-unparsers
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17906/project" href="http://bugs.call-cc.org/changeset/17906/project">
+<span class="time">13:17</span> Changeset in project <em>[17906]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Update documentation for the new version (3.5)
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17905/project" href="http://bugs.call-cc.org/changeset/17905/project">
+<span class="time">12:49</span> Changeset in project <em>[17905]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Tag postgresql 3.5
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17904/project" href="http://bugs.call-cc.org/changeset/17904/project">
+<span class="time">12:30</span> Changeset in project <em>[17904]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Export make-composite-parser, too
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17903/project" href="http://bugs.call-cc.org/changeset/17903/project">
+<span class="time">12:14</span> Changeset in project <em>[17903]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              I don't think adding a per-command type parsers/unparsers override is …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17902/project" href="http://bugs.call-cc.org/changeset/17902/project">
+<span class="time">12:10</span> Changeset in project <em>[17902]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Update copyright year
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17901/project" href="http://bugs.call-cc.org/changeset/17901/project">
+<span class="time">12:09</span> Changeset in project <em>[17901]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Get rid of the current-type-unparsers parameter, pass the connection …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17900/project" href="http://bugs.call-cc.org/changeset/17900/project">
+<span class="time">06:04</span> Changeset in project <em>[17900]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              added agrep documentation
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17899/project" href="http://bugs.call-cc.org/changeset/17899/project">
+<span class="time">05:49</span> Changeset in project <em>[17899]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              initial import of approximate grep library
+            </dd>
+</dl>
+<h2>04/24/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17898/project" href="http://bugs.call-cc.org/changeset/17898/project">
+<span class="time">09:06</span> Changeset in project <em>[17898]</em> by <span class="trac-author">certainty</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for certainty (82.82.130.212) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17897/project" href="http://bugs.call-cc.org/changeset/17897/project">
+<span class="time">09:05</span> Changeset in project <em>[17897]</em> by <span class="trac-author">certainty</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for certainty (82.82.130.212) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17896/project" href="http://bugs.call-cc.org/changeset/17896/project">
+<span class="time">08:58</span> Changeset in project <em>[17896]</em> by <span class="trac-author">certainty</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for certainty (82.82.130.212) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17895/project" href="http://bugs.call-cc.org/changeset/17895/project">
+<span class="time">08:24</span> Changeset in project <em>[17895]</em> by <span class="trac-author">certainty</span>
+</a>
+</dt>
+<dd class="changeset">
+              version bump and new tag
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17894/project" href="http://bugs.call-cc.org/changeset/17894/project">
+<span class="time">08:23</span> Changeset in project <em>[17894]</em> by <span class="trac-author">certainty</span>
+</a>
+</dt>
+<dd class="changeset">
+              enabled authentication as md5 is now available. Adjusted dependencies …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17893/project" href="http://bugs.call-cc.org/changeset/17893/project">
+<span class="time">06:23</span> Changeset in project <em>[17893]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.161.212) through svnwiki:
+            </dd>
+</dl>
+<h2>04/23/10: </h2>
+<dl>
+<dt class="newticket">
+<a data-href="/ticket/218" href="http://bugs.call-cc.org/ticket/218">
+<span class="time">23:17</span> Ticket <em title="defect: random not random (new)">#218</em> (random not random) created by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="newticket">
+              So rand() is completely subpar at generating random numbers in two …
+            </dd>
+<dt class="closedticket">
+<a data-href="/ticket/216#comment:1" href="http://bugs.call-cc.org/ticket/216">
+<span class="time">19:10</span> Ticket <em title="enhancement: consider `begin` variant with toplevel semantics that can be used locally (closed: fixed)">#216</em> (consider `begin` variant with toplevel semantics that can be used locally) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: aded in 4722762d (experimental).
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/217" href="http://bugs.call-cc.org/ticket/217">
+<span class="time">14:45</span> Ticket <em title="defect: peek-char works incorrectly for tcp ports (new)">#217</em> (peek-char works incorrectly for tcp ports) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+              When using <code>peek-char</code> on a TCP port, the unread character is not seen …
+            </dd>
+<dt class="closedticket">
+<a data-href="/ticket/214#comment:1" href="http://bugs.call-cc.org/ticket/214">
+<span class="time">14:41</span> Ticket <em title="defect: NEWS for 4.4.5 and 4.4.6 are the same (closed: fixed)">#214</em> (NEWS for 4.4.5 and 4.4.6 are the same) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: Yes, that's correct - the change was not a user-visible one. I added …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17892/project" href="http://bugs.call-cc.org/changeset/17892/project">
+<span class="time">12:26</span> Changeset in project <em>[17892]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              nemo release 3.3
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17891/project" href="http://bugs.call-cc.org/changeset/17891/project">
+<span class="time">12:22</span> Changeset in project <em>[17891]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              nemo version set to 3.3
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17890/project" href="http://bugs.call-cc.org/changeset/17890/project">
+<span class="time">12:21</span> Changeset in project <em>[17890]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              nemo: added another script for plotting test results
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17889/project" href="http://bugs.call-cc.org/changeset/17889/project">
+<span class="time">12:08</span> Changeset in project <em>[17889]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              nemo: more uniform code generaton for octave and nmodl
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17888/project" href="http://bugs.call-cc.org/changeset/17888/project">
+<span class="time">12:07</span> Changeset in project <em>[17888]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              nemo: example update
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17887/project" href="http://bugs.call-cc.org/changeset/17887/project">
+<span class="time">02:41</span> Changeset in project <em>[17887]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.161.212) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17886/project" href="http://bugs.call-cc.org/changeset/17886/project">
+<span class="time">02:41</span> Changeset in project <em>[17886]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.161.212) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17885/project" href="http://bugs.call-cc.org/changeset/17885/project">
+<span class="time">02:40</span> Changeset in project <em>[17885]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.161.212) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17884/project" href="http://bugs.call-cc.org/changeset/17884/project">
+<span class="time">02:35</span> Changeset in project <em>[17884]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * mpfi:
+ - fixed conflicting identifier names
+ - fixed worng order in …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17883/project" href="http://bugs.call-cc.org/changeset/17883/project">
+<span class="time">02:33</span> Changeset in project <em>[17883]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.161.212) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17882/project" href="http://bugs.call-cc.org/changeset/17882/project">
+<span class="time">01:53</span> Changeset in project <em>[17882]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.161.212) through svnwiki:
+            </dd>
+</dl>
+<h2>04/22/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17881/project" href="http://bugs.call-cc.org/changeset/17881/project">
+<span class="time">15:27</span> Changeset in project <em>[17881]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * Initial import of MPFI
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17880/project" href="http://bugs.call-cc.org/changeset/17880/project">
+<span class="time">02:57</span> Changeset in project <em>[17880]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Added mpfi dir and perms for Jeronimo.
+            </dd>
+<dt class="closedticket">
+<a data-href="/ticket/163#comment:3" href="http://bugs.call-cc.org/ticket/163">
+<span class="time">02:38</span> Ticket <em title="defect: sha2 digest procedures break when attempt to encode #f (closed: fixed)">#163</em> (sha2 digest procedures break when attempt to encode #f) closed by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: I've contacted Daishi and he said the patch looks ok.  He asked me to …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17879/project" href="http://bugs.call-cc.org/changeset/17879/project">
+<span class="time">01:57</span> Changeset in project <em>[17879]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (201.40.174.153) through svnwiki:
+Updated …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17878/project" href="http://bugs.call-cc.org/changeset/17878/project">
+<span class="time">01:54</span> Changeset in project <em>[17878]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              sha2: releasing version 2.0.1
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17877/project" href="http://bugs.call-cc.org/changeset/17877/project">
+<span class="time">01:53</span> Changeset in project <em>[17877]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              sha2: fix for <a class="closed ticket" data-href="/ticket/163" href="http://bugs.call-cc.org/ticket/163" title="#163: defect: sha2 digest procedures break when attempt to encode #f (closed: fixed)">#163</a>. sha2 procedures check whether the arguments are strings
+            </dd>
+</dl>
+<h2>04/21/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17876/project" href="http://bugs.call-cc.org/changeset/17876/project">
+<span class="time">10:40</span> Changeset in project <em>[17876]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              release 1.4 of salmonella
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17875/project" href="http://bugs.call-cc.org/changeset/17875/project">
+<span class="time">10:39</span> Changeset in project <em>[17875]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              salmonella version set to 1.4
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17874/project" href="http://bugs.call-cc.org/changeset/17874/project">
+<span class="time">10:39</span> Changeset in project <em>[17874]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              made a fix to salmonella to use separate values for binary version and …
+            </dd>
+</dl>
+<h2>04/20/10: </h2>
+<dl>
+<dt class="closedticket">
+<a data-href="/ticket/213#comment:1" href="http://bugs.call-cc.org/ticket/213">
+<span class="time">12:37</span> Ticket <em title="defect: csc compilation fails on cygwin (closed: fixed)">#213</em> (csc compilation fails on cygwin) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: Thanks Mario - patch is applied in a455159 (master) and has also been …
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/216" href="http://bugs.call-cc.org/ticket/216">
+<span class="time">12:31</span> Ticket <em title="enhancement: consider `begin` variant with toplevel semantics that can be used locally (new)">#216</em> (consider `begin` variant with toplevel semantics that can be used locally) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+<code>(##core#toplevel-begin BODY ...)</code>: like <code>begin</code>, but do not …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17873/project" href="http://bugs.call-cc.org/changeset/17873/project">
+<span class="time">09:27</span> Changeset in project <em>[17873]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              objc: update wiki doc for Chicken 4
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17872/project" href="http://bugs.call-cc.org/changeset/17872/project">
+<span class="time">09:17</span> Changeset in project <em>[17872]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              objc: Hide some identifiers.  Many remain to be hidden
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17871/project" href="http://bugs.call-cc.org/changeset/17871/project">
+<span class="time">08:44</span> Changeset in project <em>[17871]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              objc: copy wiki doc from Chicken 3 to 4
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17870/project" href="http://bugs.call-cc.org/changeset/17870/project">
+<span class="time">08:42</span> Changeset in project <em>[17870]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              objc: Move objc-base to objc, other cleanups.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17869/project" href="http://bugs.call-cc.org/changeset/17869/project">
+<span class="time">08:07</span> Changeset in project <em>[17869]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              objc: move contents of objc.scm into objc-base.scm
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17868/project" href="http://bugs.call-cc.org/changeset/17868/project">
+<span class="time">07:30</span> Changeset in project <em>[17868]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              objc: tests pass and cocoa works.  Cleanup still required
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17867/project" href="http://bugs.call-cc.org/changeset/17867/project">
+<span class="time">06:05</span> Changeset in project <em>[17867]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              objc: compiles now
+            </dd>
+</dl>
+<h2>04/19/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17866/project" href="http://bugs.call-cc.org/changeset/17866/project">
+<span class="time">21:37</span> Changeset in project <em>[17866]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/records: update for chicken-doc
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17865/project" href="http://bugs.call-cc.org/changeset/17865/project">
+<span class="time">21:31</span> Changeset in project <em>[17865]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/advise: update for chicken-doc
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17864/project" href="http://bugs.call-cc.org/changeset/17864/project">
+<span class="time">21:23</span> Changeset in project <em>[17864]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/trace: update for chicken-doc
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/215" href="http://bugs.call-cc.org/ticket/215">
+<span class="time">20:50</span> Ticket <em title="task: Split &quot;Modules and macros&quot; into &quot;Modules&quot; and &quot;Macros&quot; (new)">#215</em> (Split "Modules and macros" into "Modules" and "Macros") created by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="newticket">
+              Currently we have a single section for modules _and_ macros.  From a …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17863/project" href="http://bugs.call-cc.org/changeset/17863/project">
+<span class="time">19:48</span> Changeset in project <em>[17863]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              sxml-transforms: add *preorder/ss* to pre-post-order*
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/214" href="http://bugs.call-cc.org/ticket/214">
+<span class="time">15:22</span> Ticket <em title="defect: NEWS for 4.4.5 and 4.4.6 are the same (new)">#214</em> (NEWS for 4.4.5 and 4.4.6 are the same) created by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="newticket">
+              It seems that the NEWS file for 4.4.6 (available at …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17862/project" href="http://bugs.call-cc.org/changeset/17862/project">
+<span class="time">09:36</span> Changeset in project <em>[17862]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/srfi-4: Import srfi-4 docs and expand upon procedure definitions.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17861/project" href="http://bugs.call-cc.org/changeset/17861/project">
+<span class="time">07:15</span> Changeset in project <em>[17861]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/Unit srfi-18: Import SRFI doc
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17860/project" href="http://bugs.call-cc.org/changeset/17860/project">
+<span class="time">06:52</span> Changeset in project <em>[17860]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/srfi-14: Import procedures and charsets from SRFI.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17859/project" href="http://bugs.call-cc.org/changeset/17859/project">
+<span class="time">06:39</span> Changeset in project <em>[17859]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: tag 0.3.2
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17858/project" href="http://bugs.call-cc.org/changeset/17858/project">
+<span class="time">06:38</span> Changeset in project <em>[17858]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: v0.3.2: Fix parsing of &lt; in signatures
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17857/project" href="http://bugs.call-cc.org/changeset/17857/project">
+<span class="time">06:08</span> Changeset in project <em>[17857]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/Unit srfi-13: Document all procedures.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17856/project" href="http://bugs.call-cc.org/changeset/17856/project">
+<span class="time">05:28</span> Changeset in project <em>[17856]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/Unit srfi-1: Improve document markup.
+            </dd>
+</dl>
+<h2>04/17/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17855/project" href="http://bugs.call-cc.org/changeset/17855/project">
+<span class="time">05:15</span> Changeset in project <em>[17855]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/sxml-transforms: Expand upon apply-less starred variants.
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/213" href="http://bugs.call-cc.org/ticket/213">
+<span class="time">02:00</span> Ticket <em title="defect: csc compilation fails on cygwin (new)">#213</em> (csc compilation fails on cygwin) created by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="newticket">
+              The compilation of <code>csc</code> (from …
+            </dd>
+</dl>
+<h2>04/16/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17854/project" href="http://bugs.call-cc.org/changeset/17854/project">
+<span class="time">20:24</span> Changeset in project <em>[17854]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Small correctness fix: use er-macro-transformer instead of a plain lambda
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17853/project" href="http://bugs.call-cc.org/changeset/17853/project">
+<span class="time">04:44</span> Changeset in project <em>[17853]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (201.35.72.106) through svnwiki:
+Replaced …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17852/project" href="http://bugs.call-cc.org/changeset/17852/project">
+<span class="time">04:18</span> Changeset in project <em>[17852]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (201.35.72.106) through svnwiki:
+Fixed …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17851/project" href="http://bugs.call-cc.org/changeset/17851/project">
+<span class="time">03:29</span> Changeset in project <em>[17851]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (201.35.72.106) through svnwiki:
+Added …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17850/project" href="http://bugs.call-cc.org/changeset/17850/project">
+<span class="time">03:15</span> Changeset in project <em>[17850]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (201.35.72.106) through svnwiki:
+Fixed link …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17849/project" href="http://bugs.call-cc.org/changeset/17849/project">
+<span class="time">02:25</span> Changeset in project <em>[17849]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (201.35.72.106) through svnwiki:
+Semantic …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17848/project" href="http://bugs.call-cc.org/changeset/17848/project">
+<span class="time">01:10</span> Changeset in project <em>[17848]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (201.35.72.106) through svnwiki:
+ …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17847/project" href="http://bugs.call-cc.org/changeset/17847/project">
+<span class="time">00:53</span> Changeset in project <em>[17847]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/hostinfo: update for chicken-doc
+            </dd>
+</dl>
+<h2>04/15/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17846/project" href="http://bugs.call-cc.org/changeset/17846/project">
+<span class="time">23:58</span> Changeset in project <em>[17846]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc: tag 0.3.3
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17845/project" href="http://bugs.call-cc.org/changeset/17845/project">
+<span class="time">23:57</span> Changeset in project <em>[17845]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc 0.3.3: use compatible import syntax for older chicken
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17844/project" href="http://bugs.call-cc.org/changeset/17844/project">
+<span class="time">23:21</span> Changeset in project <em>[17844]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: tag 0.3.1
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17843/project" href="http://bugs.call-cc.org/changeset/17843/project">
+<span class="time">23:20</span> Changeset in project <em>[17843]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: 0.3.1: do not write keys for unparseable defsigs
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17842/project" href="http://bugs.call-cc.org/changeset/17842/project">
+<span class="time">23:17</span> Changeset in project <em>[17842]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              lognum: fix wiki doc definitions
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17841/project" href="http://bugs.call-cc.org/changeset/17841/project">
+<span class="time">22:47</span> Changeset in project <em>[17841]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Fix silly bug
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17840/project" href="http://bugs.call-cc.org/changeset/17840/project">
+<span class="time">22:37</span> Changeset in project <em>[17840]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Fix stupid bug
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17839/project" href="http://bugs.call-cc.org/changeset/17839/project">
+<span class="time">22:09</span> Changeset in project <em>[17839]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              Update chicken-doc and chicken-doc-admin documentation
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17838/project" href="http://bugs.call-cc.org/changeset/17838/project">
+<span class="time">21:55</span> Changeset in project <em>[17838]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc: tag 0.3.2
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17837/project" href="http://bugs.call-cc.org/changeset/17837/project">
+<span class="time">21:55</span> Changeset in project <em>[17837]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              Add 'where to find' RE search toplevel command to REPL
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17836/project" href="http://bugs.call-cc.org/changeset/17836/project">
+<span class="time">21:12</span> Changeset in project <em>[17836]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc: tag 0.3.1
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17835/project" href="http://bugs.call-cc.org/changeset/17835/project">
+<span class="time">21:11</span> Changeset in project <em>[17835]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc: v0.3.1 -- POSIX re matching on identifiers
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17834/project" href="http://bugs.call-cc.org/changeset/17834/project">
+<span class="time">12:35</span> Changeset in project <em>[17834]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * changed a parameter name so it'll match the egg name
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17833/project" href="http://bugs.call-cc.org/changeset/17833/project">
+<span class="time">12:33</span> Changeset in project <em>[17833]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous (201.81.161.212) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17832/project" href="http://bugs.call-cc.org/changeset/17832/project">
+<span class="time">10:09</span> Changeset in project <em>[17832]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: propagate SVN download fixes on 0.3 tag into trunk/
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17831/project" href="http://bugs.call-cc.org/changeset/17831/project">
+<span class="time">10:05</span> Changeset in project <em>[17831]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              cdoc-admin: further dl fixes
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17830/project" href="http://bugs.call-cc.org/changeset/17830/project">
+<span class="time">09:55</span> Changeset in project <em>[17830]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              cdoc-admin, fixing dl
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17829/project" href="http://bugs.call-cc.org/changeset/17829/project">
+<span class="time">09:46</span> Changeset in project <em>[17829]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc: tag 0.3
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17828/project" href="http://bugs.call-cc.org/changeset/17828/project">
+<span class="time">09:45</span> Changeset in project <em>[17828]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: tag 0.3
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17827/project" href="http://bugs.call-cc.org/changeset/17827/project">
+<span class="time">09:42</span> Changeset in project <em>[17827]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: v0.3 -- sxml database
+Now parses svnwiki to sxml …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17826/project" href="http://bugs.call-cc.org/changeset/17826/project">
+<span class="time">09:38</span> Changeset in project <em>[17826]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc-admin: tag 0.2.2
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17825/project" href="http://bugs.call-cc.org/changeset/17825/project">
+<span class="time">09:36</span> Changeset in project <em>[17825]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc: v0.3 -- vastly improved formatted output
+Output is now …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17824/project" href="http://bugs.call-cc.org/changeset/17824/project">
+<span class="time">08:34</span> Changeset in project <em>[17824]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              fmt: tag 0.703
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17823/project" href="http://bugs.call-cc.org/changeset/17823/project">
+<span class="time">08:34</span> Changeset in project <em>[17823]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              fmt: bump to 0.703
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17822/project" href="http://bugs.call-cc.org/changeset/17822/project">
+<span class="time">06:48</span> Changeset in project <em>[17822]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              fmt: Override string-tokenize to properly split strings containing …
+            </dd>
+</dl>
+<h2>04/14/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17821/project" href="http://bugs.call-cc.org/changeset/17821/project">
+<span class="time">21:00</span> Changeset in project <em>[17821]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Document 0.4 in changelog
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17820/project" href="http://bugs.call-cc.org/changeset/17820/project">
+<span class="time">21:00</span> Changeset in project <em>[17820]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Tag wmiirc version 0.4
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17819/project" href="http://bugs.call-cc.org/changeset/17819/project">
+<span class="time">20:58</span> Changeset in project <em>[17819]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Fix bug in colrules reader and remove dependency on matchable (which …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17818/project" href="http://bugs.call-cc.org/changeset/17818/project">
+<span class="time">20:43</span> Changeset in project <em>[17818]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              fmt: add tests for previous two patches
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17817/project" href="http://bugs.call-cc.org/changeset/17817/project">
+<span class="time">20:41</span> Changeset in project <em>[17817]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              100% width no longer treated as fixed length 1
+Fixes instances where …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17816/project" href="http://bugs.call-cc.org/changeset/17816/project">
+<span class="time">20:39</span> Changeset in project <em>[17816]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              Disable last column padding skip optimization.  Local patch, NOT upstream
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/212" href="http://bugs.call-cc.org/ticket/212">
+<span class="time">20:19</span> Ticket <em title="defect: expand* and ppexpand* break on the &quot;and&quot; macro (new)">#212</em> (expand* and ppexpand* break on the "and" macro) created by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="newticket">
+              Hi,
+I have tried sending the definition of "and" from R5RS,
+ […]
+ …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17815/project" href="http://bugs.call-cc.org/changeset/17815/project">
+<span class="time">16:08</span> Changeset in project <em>[17815]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              merged manual changes from master
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17814/project" href="http://bugs.call-cc.org/changeset/17814/project">
+<span class="time">13:49</span> Changeset in project <em>[17814]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (189.114.111.55) through svnwiki:
+Syntax …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17813/project" href="http://bugs.call-cc.org/changeset/17813/project">
+<span class="time">04:01</span> Changeset in project <em>[17813]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17812/project" href="http://bugs.call-cc.org/changeset/17812/project">
+<span class="time">03:57</span> Changeset in project <em>[17812]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * Rename write-string to write-one-string, since Chicken
+  already has …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17811/project" href="http://bugs.call-cc.org/changeset/17811/project">
+<span class="time">03:53</span> Changeset in project <em>[17811]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * String read and write OK
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17810/project" href="http://bugs.call-cc.org/changeset/17810/project">
+<span class="time">03:24</span> Changeset in project <em>[17810]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              fmt: patch wrap-lines to not fail on whitespace-only strings.  patch …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17809/project" href="http://bugs.call-cc.org/changeset/17809/project">
+<span class="time">01:37</span> Changeset in project <em>[17809]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Andrei Barbu (98.222.198.121) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17808/project" href="http://bugs.call-cc.org/changeset/17808/project">
+<span class="time">00:39</span> Changeset in project <em>[17808]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * Fixing dependency of specialized-io on srfi-13
+            </dd>
+</dl>
+<h2>04/13/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17807/project" href="http://bugs.call-cc.org/changeset/17807/project">
+<span class="time">22:08</span> Changeset in project <em>[17807]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (67.188.2.246) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17806/project" href="http://bugs.call-cc.org/changeset/17806/project">
+<span class="time">22:02</span> Changeset in project <em>[17806]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * read-string-between added to specialized-io.
+  There's some code …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17805/project" href="http://bugs.call-cc.org/changeset/17805/project">
+<span class="time">22:00</span> Changeset in project <em>[17805]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Sean Grove (67.188.2.246) through svnwiki:
+Added …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17804/project" href="http://bugs.call-cc.org/changeset/17804/project">
+<span class="time">21:55</span> Changeset in project <em>[17804]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * string i/o added to specialized-io, but it's still
+  untested and …
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/211" href="http://bugs.call-cc.org/ticket/211">
+<span class="time">13:41</span> Ticket <em title="enhancement: add a `file-type' procedure to posix unit (new)">#211</em> (add a `file-type' procedure to posix unit) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+              `(file-type FILENAME-OR-FD)' -&gt; SYMBOL
+Should return one of
+ […]
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17803/project" href="http://bugs.call-cc.org/changeset/17803/project">
+<span class="time">09:32</span> Changeset in project <em>[17803]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Sean Grove (67.188.2.246) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17802/project" href="http://bugs.call-cc.org/changeset/17802/project">
+<span class="time">02:54</span> Changeset in project <em>[17802]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              nemo release 3.2
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17801/project" href="http://bugs.call-cc.org/changeset/17801/project">
+<span class="time">02:52</span> Changeset in project <em>[17801]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              updated nemo doc
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17800/project" href="http://bugs.call-cc.org/changeset/17800/project">
+<span class="time">02:50</span> Changeset in project <em>[17800]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              updated nemo copyright and set version to 3.2
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17799/project" href="http://bugs.call-cc.org/changeset/17799/project">
+<span class="time">02:49</span> Changeset in project <em>[17799]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              final tweaks to nemo example
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17798/project" href="http://bugs.call-cc.org/changeset/17798/project">
+<span class="time">02:44</span> Changeset in project <em>[17798]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              wiki/9p: fix accidental PRE
+            </dd>
+</dl>
+<h2>04/12/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17797/project" href="http://bugs.call-cc.org/changeset/17797/project">
+<span class="time">21:41</span> Changeset in project <em>[17797]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17796/project" href="http://bugs.call-cc.org/changeset/17796/project">
+<span class="time">15:55</span> Changeset in project <em>[17796]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              edited recent changes to Extensions
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17795/project" href="http://bugs.call-cc.org/changeset/17795/project">
+<span class="time">14:22</span> Changeset in project <em>[17795]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (189.114.111.55) through svnwiki:
+Table fix.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17794/project" href="http://bugs.call-cc.org/changeset/17794/project">
+<span class="time">14:12</span> Changeset in project <em>[17794]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              added nemo benchmark script
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17793/project" href="http://bugs.call-cc.org/changeset/17793/project">
+<span class="time">14:11</span> Changeset in project <em>[17793]</em> by <span class="trac-author">Ivan Raikov</span>
+</a>
+</dt>
+<dd class="changeset">
+              small hacks in nemo and its examples
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17792/project" href="http://bugs.call-cc.org/changeset/17792/project">
+<span class="time">13:52</span> Changeset in project <em>[17792]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17791/project" href="http://bugs.call-cc.org/changeset/17791/project">
+<span class="time">13:52</span> Changeset in project <em>[17791]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17790/project" href="http://bugs.call-cc.org/changeset/17790/project">
+<span class="time">13:31</span> Changeset in project <em>[17790]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17789/project" href="http://bugs.call-cc.org/changeset/17789/project">
+<span class="time">13:31</span> Changeset in project <em>[17789]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17788/project" href="http://bugs.call-cc.org/changeset/17788/project">
+<span class="time">13:24</span> Changeset in project <em>[17788]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17787/project" href="http://bugs.call-cc.org/changeset/17787/project">
+<span class="time">13:22</span> Changeset in project <em>[17787]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+</dl>
+<h2>04/11/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17786/project" href="http://bugs.call-cc.org/changeset/17786/project">
+<span class="time">17:22</span> Changeset in project <em>[17786]</em> by <span class="trac-author">Thomas Chust</span>
+</a>
+</dt>
+<dd class="changeset">
+              sqlite3: Tagged version 3.5.1
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17785/project" href="http://bugs.call-cc.org/changeset/17785/project">
+<span class="time">17:20</span> Changeset in project <em>[17785]</em> by <span class="trac-author">Thomas Chust</span>
+</a>
+</dt>
+<dd class="changeset">
+              sqlite3: Fixed parameter error checks for define-function
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17784/project" href="http://bugs.call-cc.org/changeset/17784/project">
+<span class="time">13:23</span> Changeset in project <em>[17784]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Nested row types are supported, get it out of the TODO list
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17783/project" href="http://bugs.call-cc.org/changeset/17783/project">
+<span class="time">13:21</span> Changeset in project <em>[17783]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Do not try to be too "smart" about vector values. The Scheme values …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17782/project" href="http://bugs.call-cc.org/changeset/17782/project">
+<span class="time">01:03</span> Changeset in project <em>[17782]</em> by <span class="trac-author">Moritz Heidkamp</span>
+</a>
+</dt>
+<dd class="changeset">
+              * add BNF grammar for route lists
+* fix example
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17781/project" href="http://bugs.call-cc.org/changeset/17781/project">
+<span class="time">00:43</span> Changeset in project <em>[17781]</em> by <span class="trac-author">Moritz Heidkamp</span>
+</a>
+</dt>
+<dd class="changeset">
+              * fix tests: convert custom test procedures to macros
+* add errors to …
+            </dd>
+</dl>
+<h2>04/10/10: </h2>
+<dl>
+<dt class="newticket">
+<a data-href="/ticket/210" href="http://bugs.call-cc.org/ticket/210">
+<span class="time">23:33</span> Ticket <em title="defect: library directory used in csc not always correct on 64-bit systems (new)">#210</em> (library directory used in csc not always correct on 64-bit systems) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+              Adam Young pointed out an error in <code>csc</code>:
+ […]
+It has to be …
+            </dd>
+<dt class="closedticket">
+<a data-href="/ticket/208#comment:3" href="http://bugs.call-cc.org/ticket/208">
+<span class="time">23:14</span> Ticket <em title="enhancement: speed up keyword argument processing (closed: fixed)">#208</em> (speed up keyword argument processing) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17780/project" href="http://bugs.call-cc.org/changeset/17780/project">
+<span class="time">23:06</span> Changeset in project <em>[17780]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              lazy-ffi changes; removed reference to non-existing page in the …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17779/project" href="http://bugs.call-cc.org/changeset/17779/project">
+<span class="time">21:45</span> Changeset in project <em>[17779]</em> by <span class="trac-author">Jim Ursetto</span>
+</a>
+</dt>
+<dd class="changeset">
+              chicken-doc: tag 0.2.1
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/209" href="http://bugs.call-cc.org/ticket/209">
+<span class="time">19:57</span> Ticket <em title="task: Chicken allows for shadowing syntax in a way disallowed by R5RS/sec.5.3 (new)">#209</em> (Chicken allows for shadowing syntax in a way disallowed by R5RS/sec.5.3) created by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="newticket">
+              Hi,
+With master/HEAD, (latest commit is …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17778/project" href="http://bugs.call-cc.org/changeset/17778/project">
+<span class="time">18:45</span> Changeset in project <em>[17778]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17777/project" href="http://bugs.call-cc.org/changeset/17777/project">
+<span class="time">16:56</span> Changeset in project <em>[17777]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Whoops
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17776/project" href="http://bugs.call-cc.org/changeset/17776/project">
+<span class="time">16:54</span> Changeset in project <em>[17776]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Add TODO entry
+            </dd>
+</dl>
+<h2>04/09/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17775/project" href="http://bugs.call-cc.org/changeset/17775/project">
+<span class="time">22:00</span> Changeset in project <em>[17775]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17774/project" href="http://bugs.call-cc.org/changeset/17774/project">
+<span class="time">21:57</span> Changeset in project <em>[17774]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17773/project" href="http://bugs.call-cc.org/changeset/17773/project">
+<span class="time">19:52</span> Changeset in project <em>[17773]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17772/project" href="http://bugs.call-cc.org/changeset/17772/project">
+<span class="time">19:43</span> Changeset in project <em>[17772]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17771/project" href="http://bugs.call-cc.org/changeset/17771/project">
+<span class="time">19:02</span> Changeset in project <em>[17771]</em> by <span class="trac-author">sjamaan</span>
+</a>
+</dt>
+<dd class="changeset">
+              Fix other example too. Thanks, Felix :)
+            </dd>
+<dt class="newticket">
+<a data-href="/ticket/208" href="http://bugs.call-cc.org/ticket/208">
+<span class="time">10:38</span> Ticket <em title="enhancement: speed up keyword argument processing (new)">#208</em> (speed up keyword argument processing) created by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="newticket">
+              If a call to <code>##sys#get-keyword</code> has no default thunk, the lookup can …
+            </dd>
+</dl>
+<h2>04/08/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17770/project" href="http://bugs.call-cc.org/changeset/17770/project">
+<span class="time">20:10</span> Changeset in project <em>[17770]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              list-of and ezxdisp fixes
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17769/project" href="http://bugs.call-cc.org/changeset/17769/project">
+<span class="time">20:03</span> Changeset in project <em>[17769]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              updates
+            </dd>
+<dt class="closedticket">
+<a data-href="/ticket/8#comment:4" href="http://bugs.call-cc.org/ticket/8">
+<span class="time">15:27</span> Ticket <em title="enhancement: wrap up high-load scheduler as egg (closed: fixed)">#8</em> (wrap up high-load scheduler as egg) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: Egg is available now, but needs more testing.
+            </dd>
+<dt class="closedticket">
+<a data-href="/ticket/207#comment:1" href="http://bugs.call-cc.org/ticket/207">
+<span class="time">15:26</span> Ticket <em title="task: port lazy-ffi to windows (closed: fixed)">#207</em> (port lazy-ffi to windows) closed by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="closedticket">
+              fixed: See <a class="changeset" data-href="/changeset/17754/project" href="http://bugs.call-cc.org/changeset/17754/project" title="win32/mingw support for lazy-ffi">r17754</a>.
+            </dd>
+</dl>
+<h2>04/07/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17768/project" href="http://bugs.call-cc.org/changeset/17768/project">
+<span class="time">22:55</span> Changeset in project <em>[17768]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * Last typo was fixed in only one file; the other
+  is fixed now.
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17767/project" href="http://bugs.call-cc.org/changeset/17767/project">
+<span class="time">22:31</span> Changeset in project <em>[17767]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for mario (189.114.111.55) through svnwiki:
+Added …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17766/project" href="http://bugs.call-cc.org/changeset/17766/project">
+<span class="time">17:40</span> Changeset in project <em>[17766]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17765/project" href="http://bugs.call-cc.org/changeset/17765/project">
+<span class="time">17:39</span> Changeset in project <em>[17765]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * Oops, it's license and not licence
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17764/project" href="http://bugs.call-cc.org/changeset/17764/project">
+<span class="time">16:30</span> Changeset in project <em>[17764]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              minor tweaks to Extensions page enhanced by Jeronimo
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17763/project" href="http://bugs.call-cc.org/changeset/17763/project">
+<span class="time">16:29</span> Changeset in project <em>[17763]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              update lazy-ffi page
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17762/project" href="http://bugs.call-cc.org/changeset/17762/project">
+<span class="time">12:02</span> Changeset in project <em>[17762]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * Fixed category description in the meta file
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17761/project" href="http://bugs.call-cc.org/changeset/17761/project">
+<span class="time">11:49</span> Changeset in project <em>[17761]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for jp (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17760/project" href="http://bugs.call-cc.org/changeset/17760/project">
+<span class="time">11:46</span> Changeset in project <em>[17760]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for jp (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17759/project" href="http://bugs.call-cc.org/changeset/17759/project">
+<span class="time">11:41</span> Changeset in project <em>[17759]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17758/project" href="http://bugs.call-cc.org/changeset/17758/project">
+<span class="time">11:39</span> Changeset in project <em>[17758]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for jp (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17757/project" href="http://bugs.call-cc.org/changeset/17757/project">
+<span class="time">11:34</span> Changeset in project <em>[17757]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for jp (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17756/project" href="http://bugs.call-cc.org/changeset/17756/project">
+<span class="time">11:25</span> Changeset in project <em>[17756]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              removed xsvnwiki-discuss, since it cannot be checked out on windows
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17755/project" href="http://bugs.call-cc.org/changeset/17755/project">
+<span class="time">07:13</span> Changeset in project <em>[17755]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              tagged ezxdisp 2.4
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17754/project" href="http://bugs.call-cc.org/changeset/17754/project">
+<span class="time">07:08</span> Changeset in project <em>[17754]</em> by <span class="trac-author">felix winkelmann</span>
+</a>
+</dt>
+<dd class="changeset">
+              win32/mingw support for lazy-ffi
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17753/project" href="http://bugs.call-cc.org/changeset/17753/project">
+<span class="time">05:10</span> Changeset in project <em>[17753]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for jp (201.81.176.227) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17752/project" href="http://bugs.call-cc.org/changeset/17752/project">
+<span class="time">04:36</span> Changeset in project <em>[17752]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * Releasing 1.0
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17751/project" href="http://bugs.call-cc.org/changeset/17751/project">
+<span class="time">03:26</span> Changeset in project <em>[17751]</em> by <span class="trac-author">Jeronimo Pellegrini</span>
+</a>
+</dt>
+<dd class="changeset">
+              * Initial import of specialized-io
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17750/project" href="http://bugs.call-cc.org/changeset/17750/project">
+<span class="time">03:16</span> Changeset in project <em>[17750]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Added specialized-io for jeronimo.
+            </dd>
+</dl>
+<h2>04/06/10: </h2>
+<dl>
+<dt class="changeset">
+<a data-href="/changeset/17749/project" href="http://bugs.call-cc.org/changeset/17749/project">
+<span class="time">21:32</span> Changeset in project <em>[17749]</em> by <span class="trac-author">Mario Domenech Goulart</span>
+</a>
+</dt>
+<dd class="changeset">
+              Added user for Jeronimo Pellegrini (jeronimo).
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17748/project" href="http://bugs.call-cc.org/changeset/17748/project">
+<span class="time">19:56</span> Changeset in project <em>[17748]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17747/project" href="http://bugs.call-cc.org/changeset/17747/project">
+<span class="time">19:54</span> Changeset in project <em>[17747]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17746/project" href="http://bugs.call-cc.org/changeset/17746/project">
+<span class="time">19:44</span> Changeset in project <em>[17746]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17745/project" href="http://bugs.call-cc.org/changeset/17745/project">
+<span class="time">18:58</span> Changeset in project <em>[17745]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous (200.133.215.4) through svnwiki:
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17744/project" href="http://bugs.call-cc.org/changeset/17744/project">
+<span class="time">18:14</span> Changeset in project <em>[17744]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous (200.133.215.4) through svnwiki:
+Added …
+            </dd>
+<dt class="changeset">
+<a data-href="/changeset/17743/project" href="http://bugs.call-cc.org/changeset/17743/project">
+<span class="time">17:55</span> Changeset in project <em>[17743]</em> by <span class="trac-author">svnwiki</span>
+</a>
+</dt>
+<dd class="changeset">
+              Changes applied for Anonymous coward (200.133.215.4) through svnwiki:
+            </dd>
+</dl>
+<div id="help"><strong>Note:</strong> See <a data-href="/wiki/TracTimeline" href="http://bugs.call-cc.org/wiki/TracTimeline">TracTimeline</a>
+        for information about the timeline view.</div>
+</div>
+<div id="altlinks">
+<h3>Download in other formats:</h3>
+<ul>
+<li class="last first">
+<a class="rss" data-href="/timeline?milestone=on&amp;ticket=on&amp;changeset=on&amp;wiki=on&amp;max=50&amp;authors=&amp;daysback=90&amp;format=rss" href="http://bugs.call-cc.org/timeline?milestone=on&amp;ticket=on&amp;changeset=on&amp;wiki=on&amp;max=50&amp;authors=&amp;daysback=90&amp;format=rss" rel="nofollow">RSS Feed</a>
+</li>
+</ul>
+</div>
+</div>
+<div id="footer" lang="en" xml:lang="en"><hr>
+<a data-href="http://trac.edgewall.org/" href="http://trac.edgewall.org/" id="tracpowered"><img alt="Trac Powered" data-src="/chrome/common/trac_logo_mini.png" height="30" src="http://bugs.call-cc.org/chrome/common/trac_logo_mini.png" width="107"></a>
+<p class="left">Powered by <a data-href="/about" href="http://bugs.call-cc.org/about"><strong>Trac 1.2.3</strong></a><br>
+        By <a data-href="http://www.edgewall.org/" href="http://www.edgewall.org/">Edgewall Software</a>.</p>
+<p class="right">Visit the Trac open source project at<br><a data-href="https://trac.edgewall.org/" href="https://trac.edgewall.org/">https://trac.edgewall.org/</a></p>
+</div>
+
+</body></html>

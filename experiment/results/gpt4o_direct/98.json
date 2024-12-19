@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                19.0
+            ],
+            [
+                267.06666564941406,
+                41.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Film Intuition: Review Database",
+        "on_click_jump_to": "https://reviews.filmintuition.com/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                78.0
+            ],
+            [
+                211.1666717529297,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Fly Me to the Moon (2008)",
+        "on_click_jump_to": "https://reviews.filmintuition.com/2008/08/fly-me-to-moon-2008.html"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                78.0
+            ],
+            [
+                1398.5833282470703,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "@FilmIntuition",
+        "on_click_jump_to": "https://twitter.com/FilmIntuition"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                116.0
+            ],
+            [
+                266.0,
+                445.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTgQJtLlMCqqFCuuKkjb62tLAKFNauj7jCU8iR4Vue1kHReaaVriyfUOud36Nvl2EWsqK7EPOEEKHeq8yKrdQtwdi11Mydaf9CDpAb0tFvzAptXjWSIg3bWY-jaxyFRYYuV65fWw/s400/flymetothemoon.bmp"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                116.0
+            ],
+            [
+                1528.0,
+                265.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://1.bp.blogspot.com/-So8nbuLbvm8/YOka104P6pI/AAAAAAABOoM/keCMP_lZFOsZp0pwa16VzsuaNr_ICQS7ACLcBGAsYHQ/s232/filmintuition.png"
+    }
+]

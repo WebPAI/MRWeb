@@ -1,0 +1,1466 @@
+[
+    {
+        "position": [
+            [
+                470.0,
+                166.0
+            ],
+            [
+                522.6833343505859,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/index.aspx"
+    },
+    {
+        "position": [
+            [
+                536.8333129882812,
+                166.0
+            ],
+            [
+                634.2833251953125,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Trip Reports",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/tripList.aspx"
+    },
+    {
+        "position": [
+            [
+                648.433349609375,
+                166.0
+            ],
+            [
+                750.9000091552734,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Site Reviews",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/siteList.aspx"
+    },
+    {
+        "position": [
+            [
+                765.0499877929688,
+                166.0
+            ],
+            [
+                828.3999786376953,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Lifelists",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/lifelistList.aspx"
+    },
+    {
+        "position": [
+            [
+                842.5499877929688,
+                166.0
+            ],
+            [
+                894.3666534423828,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/help.aspx"
+    },
+    {
+        "position": [
+            [
+                908.5166625976562,
+                166.0
+            ],
+            [
+                1004.8166656494141,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Contact Info",
+        "on_click_jump_to": "https://www.planetscott.com/contact.aspx"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                894.7999877929688
+            ],
+            [
+                1232.1333312988281,
+                911.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Africa: Egypt and Ethiopia",
+        "on_click_jump_to": "https://www.planetscott.com/trip/21/africa-egypt-and-ethiopia"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                912.7999877929688
+            ],
+            [
+                1257.6166687011719,
+                929.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Around The World in 66 Days",
+        "on_click_jump_to": "https://www.planetscott.com/trip/27/around-the-world-in-66-days"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                930.7999877929688
+            ],
+            [
+                1169.8500061035156,
+                947.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Eastern Australia",
+        "on_click_jump_to": "https://www.planetscott.com/trip/26/eastern-australia"
+    },
+    {
+        "position": [
+            [
+                1174.300048828125,
+                930.7999877929688
+            ],
+            [
+                1209.0000457763672,
+                947.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "India",
+        "on_click_jump_to": "https://www.planetscott.com/trip/8/india"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                948.7999877929688
+            ],
+            [
+                1091.6000061035156,
+                965.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Japan",
+        "on_click_jump_to": "https://www.planetscott.com/trip/55/japan"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                966.7999877929688
+            ],
+            [
+                1142.2666625976562,
+                983.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "New Zealand",
+        "on_click_jump_to": "https://www.planetscott.com/trip/24/new-zealand"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                984.7999877929688
+            ],
+            [
+                1097.8000030517578,
+                1001.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Siberia",
+        "on_click_jump_to": "https://www.planetscott.com/trip/13/siberia"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                1002.7999877929688
+            ],
+            [
+                1307.75,
+                1019.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Svalbard, Canary Islands, and Spain",
+        "on_click_jump_to": "https://www.planetscott.com/trip/33/svalbard-canary-islands-and-spain"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                1020.7999877929688
+            ],
+            [
+                1096.316665649414,
+                1037.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Turkey",
+        "on_click_jump_to": "https://www.planetscott.com/trip/14/turkey"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                1038.800048828125
+            ],
+            [
+                1174.0,
+                1055.800048828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Western Australia",
+        "on_click_jump_to": "https://www.planetscott.com/trip/50/western-australia"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                1126.2333984375
+            ],
+            [
+                1088.8999938964844,
+                1143.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Africa",
+        "on_click_jump_to": "https://www.planetscott.com/ll/6/africa"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                1144.2333984375
+            ],
+            [
+                1079.1166687011719,
+                1161.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Asia",
+        "on_click_jump_to": "https://www.planetscott.com/ll/5/asia"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                1162.2333984375
+            ],
+            [
+                1127.1499938964844,
+                1179.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Australasia",
+        "on_click_jump_to": "https://www.planetscott.com/ll/21/australasia"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                1180.2333984375
+            ],
+            [
+                1099.6000061035156,
+                1197.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Europe",
+        "on_click_jump_to": "https://www.planetscott.com/ll/4/europe"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                1198.2333984375
+            ],
+            [
+                1082.6999969482422,
+                1215.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "India",
+        "on_click_jump_to": "https://www.planetscott.com/ll/10/india"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                1216.2333984375
+            ],
+            [
+                1096.316665649414,
+                1233.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Turkey",
+        "on_click_jump_to": "https://www.planetscott.com/ll/17/turkey"
+    },
+    {
+        "position": [
+            [
+                1048.0,
+                1234.2333984375
+            ],
+            [
+                1089.5,
+                1251.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "World",
+        "on_click_jump_to": "https://www.planetscott.com/ll/1/world"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                1362.6666259765625
+            ],
+            [
+                1140.2833404541016,
+                1397.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Amsterdam, Netherlands",
+        "on_click_jump_to": "https://www.planetscott.com/site/116/amsterdam-netherlands"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                1463.6666259765625
+            ],
+            [
+                1193.6666717529297,
+                1498.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Kheoladeo National Park, India",
+        "on_click_jump_to": "https://www.planetscott.com/site/39/kheoladeo-national-park-india"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                1540.6666259765625
+            ],
+            [
+                1192.2333374023438,
+                1575.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Sultan's Marsh Bird Paradise, Turkey",
+        "on_click_jump_to": "https://www.planetscott.com/site/40/sultans-marsh-bird-paradise-turkey"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                1617.6666259765625
+            ],
+            [
+                1199.2666625976562,
+                1634.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Göksu Delta, Turkey",
+        "on_click_jump_to": "https://www.planetscott.com/site/112/goumlksu-delta-turkey"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                1694.6666259765625
+            ],
+            [
+                1200.75,
+                1711.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Chiemsee, Germany",
+        "on_click_jump_to": "https://www.planetscott.com/site/49/chiemsee-germany"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                1771.6666259765625
+            ],
+            [
+                1176.7166595458984,
+                1806.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Irkutsk - Freeway Swamps, Siberia",
+        "on_click_jump_to": "https://www.planetscott.com/site/50/irkutsk-freeway-swamps-siberia"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                1944.6666259765625
+            ],
+            [
+                1162.5500030517578,
+                1979.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "London, United Kingdom",
+        "on_click_jump_to": "https://www.planetscott.com/site/217/london-united-kingdom"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2021.6666259765625
+            ],
+            [
+                1162.5500030517578,
+                2056.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "London, United Kingdom",
+        "on_click_jump_to": "https://www.planetscott.com/site/217/london-united-kingdom"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2098.666748046875
+            ],
+            [
+                1202.6000061035156,
+                2133.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Mata Kopee Lagoon, New Zealand",
+        "on_click_jump_to": "https://www.planetscott.com/site/531/mata-kopee-lagoon-new-zealand"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2181.666748046875
+            ],
+            [
+                1215.8833312988281,
+                2198.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Lake Barrine, Australia",
+        "on_click_jump_to": "https://www.planetscott.com/site/577/lake-barrine-australia"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2258.666748046875
+            ],
+            [
+                1198.1000061035156,
+                2293.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Sydney - Centennial Park, Australia",
+        "on_click_jump_to": "https://www.planetscott.com/site/583/sydney-centennial-park-australia"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2335.666748046875
+            ],
+            [
+                1199.8500061035156,
+                2370.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Royal National Park, Australia",
+        "on_click_jump_to": "https://www.planetscott.com/site/585/royal-national-park-australia"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2412.666748046875
+            ],
+            [
+                1200.5166625976562,
+                2447.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Wollongong Lagoon, Australia",
+        "on_click_jump_to": "https://www.planetscott.com/site/587/wollongong-lagoon-australia"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2489.666748046875
+            ],
+            [
+                1200.4666595458984,
+                2524.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Lijiang - Lashihai Wetland Park, China",
+        "on_click_jump_to": "https://www.planetscott.com/site/596/lijiang-lashihai-wetland-park-china"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2566.666748046875
+            ],
+            [
+                1169.6499938964844,
+                2601.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Ostensjovannet, Norway",
+        "on_click_jump_to": "https://www.planetscott.com/site/732/ostensjovannet-norway"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2643.666748046875
+            ],
+            [
+                1189.1999969482422,
+                2660.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Los Molinos, Spain",
+        "on_click_jump_to": "https://www.planetscott.com/site/739/los-molinos-spain"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2720.666748046875
+            ],
+            [
+                1214.1333312988281,
+                2737.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Juego de Bolas, Spain",
+        "on_click_jump_to": "https://www.planetscott.com/site/744/juego-de-bolas-spain"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2797.666748046875
+            ],
+            [
+                1187.4166717529297,
+                2832.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Casar de Caceres, Spain",
+        "on_click_jump_to": "https://www.planetscott.com/site/755/casar-de-caceres-spain"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2874.666748046875
+            ],
+            [
+                1162.5500030517578,
+                2909.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "London, United Kingdom",
+        "on_click_jump_to": "https://www.planetscott.com/site/217/london-united-kingdom"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                2951.666748046875
+            ],
+            [
+                1215.8833312988281,
+                2986.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Orkney Islands, United Kingdom",
+        "on_click_jump_to": "https://www.planetscott.com/site/915/orkney-islands-united-kingdom"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3028.666748046875
+            ],
+            [
+                1162.5500030517578,
+                3063.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "London, United Kingdom",
+        "on_click_jump_to": "https://www.planetscott.com/site/217/london-united-kingdom"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3105.666748046875
+            ],
+            [
+                1157.183334350586,
+                3140.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Oxford, United Kingdom",
+        "on_click_jump_to": "https://www.planetscott.com/site/959/oxford-united-kingdom"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3182.666748046875
+            ],
+            [
+                1155.9833374023438,
+                3217.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Selsey, United Kingdom",
+        "on_click_jump_to": "https://www.planetscott.com/site/960/selsey-united-kingdom"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3259.666748046875
+            ],
+            [
+                1155.9833374023438,
+                3294.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Selsey, United Kingdom",
+        "on_click_jump_to": "https://www.planetscott.com/site/960/selsey-united-kingdom"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3336.666748046875
+            ],
+            [
+                1155.9833374023438,
+                3371.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Selsey, United Kingdom",
+        "on_click_jump_to": "https://www.planetscott.com/site/960/selsey-united-kingdom"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3413.666748046875
+            ],
+            [
+                1169.6499938964844,
+                3466.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "King's Park and Botanic Garden, Australia",
+        "on_click_jump_to": "https://www.planetscott.com/site/1012/kings-park-and-botanic-garden-australia"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3490.666748046875
+            ],
+            [
+                1169.6499938964844,
+                3543.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "King's Park and Botanic Garden, Australia",
+        "on_click_jump_to": "https://www.planetscott.com/site/1012/kings-park-and-botanic-garden-australia"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3567.666748046875
+            ],
+            [
+                1164.316665649414,
+                3602.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Lake Seppings, Australia",
+        "on_click_jump_to": "https://www.planetscott.com/site/1020/lake-seppings-australia"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3644.666748046875
+            ],
+            [
+                1158.9833374023438,
+                3679.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Manning Lake, Australia",
+        "on_click_jump_to": "https://www.planetscott.com/site/1025/manning-lake-australia"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3721.666748046875
+            ],
+            [
+                1214.0833282470703,
+                3756.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Kalbarri National Park, Australia",
+        "on_click_jump_to": "https://www.planetscott.com/site/1032/kalbarri-national-park-australia"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3798.666748046875
+            ],
+            [
+                1182.1000061035156,
+                3815.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Ueno Park, Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/1078/ueno-park-japan"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3875.666748046875
+            ],
+            [
+                1214.9833374023438,
+                3910.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Tokyo Imperial Palace, Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/1079/tokyo-imperial-palace-japan"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                3952.666748046875
+            ],
+            [
+                1206.0500030517578,
+                3987.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Tokyo Wild Bird Park, Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/1088/tokyo-wild-bird-park-japan"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                4029.666748046875
+            ],
+            [
+                1214.4166717529297,
+                4064.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Naha Triangular Pond, Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/1089/naha-triangular-pond-japan"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                4106.66650390625
+            ],
+            [
+                1173.1499938964844,
+                4141.66650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Amami-Oshima , Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/1093/amami-oshima-japan"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                4183.66650390625
+            ],
+            [
+                1206.1000061035156,
+                4218.66650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Izumi - Crane Center, Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/1095/izumi-crane-center-japan"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                4260.66650390625
+            ],
+            [
+                1206.1000061035156,
+                4295.66650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Izumi - Crane Center, Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/1095/izumi-crane-center-japan"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                4337.66650390625
+            ],
+            [
+                1196.3000030517578,
+                4372.66650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Kyoto - Kamo River, Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/1096/kyoto-kamo-river-japan"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                4414.66650390625
+            ],
+            [
+                1205.2166595458984,
+                4449.66650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Kyoto - Osawa Pond, Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/1098/kyoto-osawa-pond-japan"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                4491.66650390625
+            ],
+            [
+                1184.7166595458984,
+                4526.66650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Kasai Rinkai Park, Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/806/kasai-rinkai-park-japan"
+    },
+    {
+        "position": [
+            [
+                1054.0,
+                4568.66650390625
+            ],
+            [
+                1186.5333404541016,
+                4585.66650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Tama River, Japan",
+        "on_click_jump_to": "https://www.planetscott.com/site/1102/tama-river-japan"
+    },
+    {
+        "position": [
+            [
+                891.683349609375,
+                4690.9501953125
+            ],
+            [
+                1028.3000183105469,
+                4707.9501953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Planetscott.com",
+        "on_click_jump_to": "https://www.planetscott.com/"
+    },
+    {
+        "position": [
+            [
+                470.0,
+                4756.2333984375
+            ],
+            [
+                528.6999969482422,
+                4773.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "https://www.planetscott.com/sitemap.xml"
+    },
+    {
+        "position": [
+            [
+                533.1500244140625,
+                4756.2333984375
+            ],
+            [
+                668.3333587646484,
+                4773.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Hackers Challenge",
+        "on_click_jump_to": "https://www.planetscott.com/spammers.aspx"
+    },
+    {
+        "position": [
+            [
+                672.7833251953125,
+                4756.2333984375
+            ],
+            [
+                727.9333190917969,
+                4773.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.planetscott.com/contact.aspx"
+    },
+    {
+        "position": [
+            [
+                1311.683349609375,
+                4756.2333984375
+            ],
+            [
+                1450.000015258789,
+                4773.2333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            128,
+            0
+        ],
+        "text": "PlanetScott.com",
+        "on_click_jump_to": "http://www.planetscott.com/"
+    },
+    {
+        "position": [
+            [
+                475.0,
+                26.0
+            ],
+            [
+                605.0,
+                146.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/_images/graphics/planetscottlogo2.gif"
+    },
+    {
+        "position": [
+            [
+                470.0,
+                235.4333343505859
+            ],
+            [
+                1038.0,
+                661.4333343505859
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/8117/large/eurasian-coot-(fulica-atra).jpg"
+    },
+    {
+        "position": [
+            [
+                667.0,
+                743.433349609375
+            ],
+            [
+                749.0,
+                805.433349609375
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/8117/small/eurasian-coot-(fulica-atra).jpg"
+    },
+    {
+        "position": [
+            [
+                751.0,
+                743.433349609375
+            ],
+            [
+                833.0,
+                805.433349609375
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/2005/small/common-coot-(fulica-atra)-.jpg"
+    },
+    {
+        "position": [
+            [
+                1316.0,
+                1463.1666259765625
+            ],
+            [
+                1398.0,
+                1525.1666259765625
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/2005/small/common-coot-(fulica-atra)-.jpg"
+    },
+    {
+        "position": [
+            [
+                1316.0,
+                2566.166748046875
+            ],
+            [
+                1398.0,
+                2628.166748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/8117/small/eurasian-coot-(fulica-atra).jpg"
+    }
+]

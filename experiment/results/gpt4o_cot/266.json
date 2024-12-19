@@ -1,0 +1,250 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                133.03334045410156,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "LIVEJOURNAL",
+        "on_click_jump_to": "https://www.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                1500.1666259765625,
+                18.0
+            ],
+            [
+                1567.3499603271484,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET PRO",
+        "on_click_jump_to": "https://www.livejournal.com/shop/profaccount.bml?ila_campaign=ex_shop_pro&ila_location=site_menu&ila_context=pro"
+    },
+    {
+        "position": [
+            [
+                1583.3499755859375,
+                18.0
+            ],
+            [
+                1622.7499694824219,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HELP",
+        "on_click_jump_to": "https://www.livejournal.com/support/"
+    },
+    {
+        "position": [
+            [
+                1638.75,
+                18.0
+            ],
+            [
+                1690.75,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LOG IN",
+        "on_click_jump_to": "https://www.livejournal.com/login.bml?returnto=https%3A%2F%2Fbobby1933.livejournal.com%2F662135.html&ret=1"
+    },
+    {
+        "position": [
+            [
+                1706.75,
+                18.0
+            ],
+            [
+                1784.5166625976562,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JOIN FREE",
+        "on_click_jump_to": "https://www.livejournal.com/create"
+    },
+    {
+        "position": [
+            [
+                1800.5166015625,
+                18.0
+            ],
+            [
+                1903.9999389648438,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ENGLISH (EN)",
+        "on_click_jump_to": "https://www.livejournal.com/manage/settings/?cat=display"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                124.0
+            ],
+            [
+                496.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BOBBY1933",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                496.0,
+                92.0
+            ],
+            [
+                600.7166595458984,
+                116.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Previous Entry",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/661799.html"
+    },
+    {
+        "position": [
+            [
+                1811.9000244140625,
+                92.0
+            ],
+            [
+                1888.0000305175781,
+                116.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Next Entry",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/662486.html"
+    },
+    {
+        "position": [
+            [
+                496.0,
+                133.0
+            ],
+            [
+                1043.566650390625,
+                163.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Walter M. Miller, Jr. - Wikipedia, the free encyclopedia",
+        "on_click_jump_to": "https://bobby1933.livejournal.com/662135.html"
+    },
+    {
+        "position": [
+            [
+                900.7999877929688,
+                319.0
+            ],
+            [
+                1019.1999816894531,
+                339.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LiveJournal.com",
+        "on_click_jump_to": "https://www.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                92.0
+            ],
+            [
+                48.0,
+                108.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://l-stat.livejournal.net/img/userinfo_v8.svg?v=17080&v=777"
+    },
+    {
+        "position": [
+            [
+                496.0,
+                180.0
+            ],
+            [
+                596.0,
+                253.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://l-userpic.livejournal.com/94332107/16777035"
+    }
+]

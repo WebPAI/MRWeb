@@ -1,0 +1,118 @@
+[
+    {
+        "position": [
+            [
+                1710.9166259765625,
+                27.0
+            ],
+            [
+                1754.5499572753906,
+                47.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1770.550048828125,
+                27.0
+            ],
+            [
+                1830.4000396728516,
+                47.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Courses",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1846.4000244140625,
+                27.0
+            ],
+            [
+                1904.0000305175781,
+                47.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                17.0
+            ],
+            [
+                56.0,
+                57.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                210.0
+            ],
+            [
+                1408.0,
+                466.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/about.jpg"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                602.0
+            ],
+            [
+                1408.0,
+                858.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/courses.jpg"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                970.0
+            ],
+            [
+                1408.0,
+                1226.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/contact.jpg"
+    }
+]

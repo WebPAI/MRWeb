@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AbleKitchen.com</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-[#5D564A] px-3 py-2;
+        }
+        .category-link {
+            @apply text-white px-4 py-2;
+        }
+        .breadcrumb-link {
+            @apply text-[#7D766A] hover:underline;
+        }
+        .filter-section {
+            @apply bg-[#E8E8E3] p-2 mb-4;
+        }
+        .filter-title {
+            @apply font-bold mb-2;
+        }
+        .filter-option {
+            @apply text-[#5D564A] hover:underline mb-1 block;
+        }
+        .product-container {
+            @apply flex border-b border-gray-200 py-6;
+        }
+        .product-image {
+            @apply w-32 h-32;
+        }
+        .product-info {
+            @apply flex-1 px-6;
+        }
+        .product-title {
+            @apply text-[#5D564A] hover:underline text-lg mb-2;
+        }
+        .price-section {
+            @apply text-right;
+        }
+        .add-to-cart-btn {
+            @apply bg-red-700 text-white px-4 py-2 rounded;
+        }
+    </style>
+</head>
+<body>
+    <!-- Top Banner -->
+    <div class="bg-red-700 text-white text-center py-2">
+        Get Free Shipping over $50! Excludes freight
+    </div>
+
+    <!-- Header -->
+    <header class="container mx-auto py-4">
+        <div class="flex justify-between items-center">
+            <div class="flex space-x-4">
+                <a href="/">
+                    <img src="https://www.ablekitchen.com/images/ablekitchen-logo.png" alt="AbleKitchen" class="h-20">
+                </a>
+            </div>
+            <div class="flex items-center space-x-6">
+                <nav class="flex space-x-4">
+                    <a href="/" class="nav-link">Home</a>
+                    <a href="/blog" class="nav-link">Blog</a>
+                    <a href="/account" class="nav-link">View Account</a>
+                    <a href="/help" class="nav-link">Help</a>
+                    <a href="/quote" class="nav-link">Request a Quote</a>
+                    <a href="/contact" class="nav-link">Contact</a>
+                    <a href="/shipping" class="nav-link">International Shipping</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Navigation -->
+    <nav class="bg-red-700">
+        <div class="container mx-auto">
+            <div class="flex space-x-4">
+                <a href="/bar" class="category-link">Bar and Beverage</a>
+                <a href="/buffet" class="category-link">Buffets, Displays and Serverware</a>
+                <a href="/dining" class="category-link">Dining and Tabletop</a>
+                <a href="/kitchen" class="category-link">Kitchen and Bakeware</a>
+                <a href="/janitorial" class="category-link">Janitorial Supplies</a>
+                <a href="/brands" class="category-link">Shop by Brand</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="container mx-auto mt-8">
+        <div class="flex">
+            <!-- Left Sidebar -->
+            <div class="w-1/4 pr-8">
+                <!-- Filter sections here -->
+                <!-- Add filter sections as per the action list -->
+            </div>
+
+            <!-- Product Grid -->
+            <div class="w-3/4">
+                <!-- Product listings here -->
+                <!-- Add product cards as per the action list -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-800 text-white mt-12 py-8">
+        <div class="container mx-auto">
+            <!-- Footer content here -->
+        </div>
+    </footer>
+</body>
+</html>

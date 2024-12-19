@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>EMMA Labs</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .bg-main {
+            background-image: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_page.jpg');
+            background-repeat: repeat;
+        }
+        .bg-top {
+            background-image: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_top.gif');
+        }
+        .bg-center {
+            background-image: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_center.gif');
+        }
+        .bg-logo {
+            background-image: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_logo.jpg');
+        }
+        .bg-news {
+            background-image: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/bg_news.jpg');
+        }
+        .bg-menu-button {
+            background-image: url('https://www.emmalabs.com/bitrix/templates/EMMA/img/lmenu_bt_bg.jpg');
+        }
+    </style>
+</head>
+<body class="bg-main min-h-screen">
+    <div class="max-w-[1468px] mx-auto">
+        <!-- Top section -->
+        <div class="bg-top h-7"></div>
+        
+        <!-- Main content wrapper -->
+        <div class="bg-center px-8">
+            <!-- Header -->
+            <div class="bg-logo h-[98px] flex justify-between items-center">
+                <img src="https://www.emmalabs.com/bitrix/templates/EMMA/img/logo.jpg" class="h-24" alt="EMMA Labs Logo">
+                
+                <!-- Top right navigation -->
+                <div class="flex gap-4 text-gray-500 text-sm">
+                    <a href="/about/" class="hover:text-gray-700">ABOUT US</a>
+                    <a href="/map/map.php" class="hover:text-gray-700">SITE MAP</a>
+                    <a href="/map/search.php" class="hover:text-gray-700">SEARCH</a>
+                    <a href="/auth.php" class="hover:text-gray-700">LOGIN</a>
+                </div>
+            </div>
+
+            <!-- Main navigation -->
+            <div class="flex text-white">
+                <a href="/" class="flex-1 bg-blue-500 py-2 text-center">Products</a>
+                <a href="/news/" class="flex-1 bg-gray-200 text-gray-700 py-2 text-center">News</a>
+                <a href="/downloads/" class="flex-1 bg-blue-500 py-2 text-center">Downloads</a>
+                <a href="/purchase/" class="flex-1 bg-blue-500 py-2 text-center">Purchase</a>
+                <a href="/support/" class="flex-1 bg-blue-500 py-2 text-center">Support</a>
+            </div>
+
+            <!-- Content area -->
+            <div class="flex mt-4">
+                <!-- Left sidebar -->
+                <div class="w-1/4">
+                    <div class="bg-news p-4 mb-4">
+                        <img src="https://www.emmalabs.com/images/find_us_on_facebook.png" alt="Find us on Facebook">
+                    </div>
+                    
+                    <!-- Menu items -->
+                    <div class="space-y-2">
+                        <a href="/aee/" class="bg-menu-button block p-3 text-[#387B9F] hover:text-blue-700">Emex 3</a>
+                        <a href="/hsv/" class="bg-menu-button block p-3 text-[#387B9F] hover:text-blue-700">High Speed Verifier</a>
+                        <a href="/mlw/" class="bg-menu-button block p-3 text-[#387B9F] hover:text-blue-700">Mailing List Wizard</a>
+                        <a href="/oe/" class="bg-menu-button block p-3 text-[#387B9F] hover:text-blue-700">Outlook Extractors</a>
+                        <a href="/imape/" class="bg-menu-button block p-3 text-[#387B9F] hover:text-blue-700">IMAP Extractors</a>
+                    </div>
+                </div>
+
+                <!-- Main content -->
+                <div class="w-3/4 pl-8">
+                    <!-- Content goes here -->
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <div class="bg-bottom h-20 text-center py-4">
+            <a href="/legal/" class="text-[#4B6B82] hover:text-blue-800">No Spam Policy</a>
+        </div>
+    </div>
+</body>
+</html>

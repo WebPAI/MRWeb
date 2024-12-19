@@ -1,0 +1,290 @@
+[
+    {
+        "position": [
+            [
+                958.3333129882812,
+                20.0
+            ],
+            [
+                1004.2333221435547,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1028.2333984375,
+                20.0
+            ],
+            [
+                1131.3333892822266,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "OUR LIFEBOAT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1155.3333740234375,
+                20.0
+            ],
+            [
+                1272.0667114257812,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MEET THE TEAM",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1296.066650390625,
+                20.0
+            ],
+            [
+                1401.5999908447266,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET INVOLVED",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1425.5999755859375,
+                20.0
+            ],
+            [
+                1469.1166381835938,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "NEWS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1493.11669921875,
+                20.0
+            ],
+            [
+                1534.0166931152344,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SHOP",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1558.0166015625,
+                20.0
+            ],
+            [
+                1627.0999450683594,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1651.0999755859375,
+                20.0
+            ],
+            [
+                1711.9999694824219,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DONATE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                268.0,
+                905.5
+            ],
+            [
+                361.8500061035156,
+                926.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Press Release",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                960.0
+            ],
+            [
+                640.8500061035156,
+                984.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "← Over £60,000 has been raised – we're making real progress",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1312.3499755859375,
+                960.0
+            ],
+            [
+                1711.9999694824219,
+                984.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Scotland's First Minister Visits St Abbs Lifeboat Station →",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                1173.5
+            ],
+            [
+                815.4166717529297,
+                1194.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                1197.5
+            ],
+            [
+                870.3166656494141,
+                1218.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms and conditions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                305.21665954589844,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                64.0
+            ],
+            [
+                1920.0,
+                464.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/tunnocks-background.jpg"
+    }
+]

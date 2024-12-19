@@ -1,0 +1,222 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                13.5
+            ],
+            [
+                272.0,
+                32.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Design a site like this with WordPress.com",
+        "on_click_jump_to": "https://wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                723.5
+            ],
+            [
+                214.0,
+                742.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "soundofventures.wordpress.com",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                34.94999694824219,
+                759.0
+            ],
+            [
+                108.75,
+                783.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Customize",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                35.51666259765625,
+                787.0
+            ],
+            [
+                103.85000610351562,
+                811.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                131.36666870117188,
+                787.0
+            ],
+            [
+                204.61666870117188,
+                811.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Reblocked",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                815.0
+            ],
+            [
+                59.649993896484375,
+                839.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                843.0
+            ],
+            [
+                117.78334045410156,
+                867.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Copy shortlink",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                871.0
+            ],
+            [
+                151.1999969482422,
+                895.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Report this content",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                899.0
+            ],
+            [
+                155.76666259765625,
+                923.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "View post in Reader",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                927.0
+            ],
+            [
+                170.61666870117188,
+                951.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Manage subscriptions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                955.0
+            ],
+            [
+                132.73333740234375,
+                979.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Collapse this bar",
+        "on_click_jump_to": "#"
+    }
+]

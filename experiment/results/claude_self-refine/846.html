@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All American Christmas Co.</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .header-notification {
+            background-color: white;
+            color: rgb(60, 60, 60);
+            padding: 8px 0;
+            font-size: 14px;
+        }
+
+        .nav-bar {
+            background-color: #1a1a1a;
+            padding: 16px 0;
+        }
+
+        .bulb-color-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 32px);
+            gap: 12px;
+            margin-top: 16px;
+        }
+
+        .color-box {
+            width: 32px;
+            height: 32px;
+            border: 1px solid #ddd;
+            cursor: pointer;
+        }
+
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+            margin: 8px 0;
+        }
+
+        .checkbox-custom {
+            width: 16px;
+            height: 16px;
+            border: 1px solid #ccc;
+            margin-right: 8px;
+        }
+
+        .social-icons a {
+            width: 48px;
+            height: 48px;
+            display: inline-block;
+            margin-right: 12px;
+        }
+
+        .payment-icons img {
+            width: 34px;
+            height: 22px;
+            margin-right: 8px;
+        }
+    </style>
+</head>
+<body>
+    <!-- Notification Bar -->
+    <div class="header-notification text-center">
+        <div class="container mx-auto px-4">
+            Due to product and shipping price increases, all prices are subject to change through the 2021 season. Minimum online order $25 | All orders must be placed online.
+        </div>
+    </div>
+
+    <!-- Top Links -->
+    <div class="bg-white py-2">
+        <div class="container mx-auto px-4 flex justify-end">
+            <a href="/about-us" class="text-gray-600 mr-6">About Us</a>
+            <a href="/contact-us" class="text-gray-600">Contact Us</a>
+        </div>
+    </div>
+
+    <!-- Logo Section -->
+    <header class="container mx-auto px-4 py-4">
+        <img src="logo.png" alt="All American Christmas Co." class="h-24">
+    </header>
+
+    <!-- Navigation -->
+    <nav class="nav-bar">
+        <div class="container mx-auto px-4 flex justify-between items-center">
+            <div class="text-white text-xl">SHOP BY CATEGORIES</div>
+            <div class="flex items-center text-white">
+                <div class="mr-8 flex items-center">
+                    <img src="cart-icon.png" class="w-8 h-8 mr-2">
+                    <span>Shopping Cart</span>
+                    <span class="ml-2">0</span>
+                </div>
+                <div>
+                    <a href="/login" class="block">Login / Register</a>
+                    <span class="text-sm">My Account</span>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Breadcrumb -->
+    <div class="container mx-auto px-4 py-4">
+        <div class="text-gray-500">
+            <a href="/" class="hover:text-gray-700">Home</a>
+            <span class="mx-2">/</span>
+            <span>LED Craft Lights</span>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 flex">
+        <!-- Left Sidebar -->
+        <div class="w-1/4">
+            <div class="mb-8">
+                <h3 class="font-bold mb-4">BULB COLOR</h3>
+                <div class="bulb-color-grid">
+                    <!-- Bulb colors will be populated here -->
+                </div>
+            </div>
+
+            <div class="mb-8">
+                <h3 class="font-bold mb-4">WIRE COLOR</h3>
+                <!-- Wire color options -->
+            </div>
+
+            <div class="mb-8">
+                <h3 class="font-bold mb-4">BULB COUNT</h3>
+                <!-- Bulb count options -->
+            </div>
+        </div>
+
+        <!-- Product Grid -->
+        <div class="w-3/4 pl-8">
+            <div class="flex justify-between items-center mb-6">
+                <div class="flex items-center">
+                    <span class="mr-4">SHOW</span>
+                    <select class="border p-2">
+                        <option>100 items per page</option>
+                    </select>
+                </div>
+                <div class="flex items-center">
+                    <span class="mr-4">SORT BY</span>
+                    <select class="border p-2">
+                        <option>Featured</option>
+                    </select>
+                </div>
+            </div>
+            
+            <!-- Product grid content -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 mt-16 py-12">
+        <div class="container mx-auto px-4">
+            <div class="grid grid-cols-3 gap-8">
+                <!-- Footer columns -->
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

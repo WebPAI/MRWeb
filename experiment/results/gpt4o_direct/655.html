@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .custom-link {
+            color: rgb(119, 135, 151);
+        }
+        .custom-link-blue {
+            color: rgb(16, 127, 201);
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <header class="bg-blue-200 py-2">
+        <div class="container mx-auto flex justify-between items-center">
+            <img src="https://keyes.ie/images/logo.png" alt="Logo" class="h-10">
+            <nav class="flex space-x-8">
+                <a href="https://keyes.ie/" class="custom-link">HOME</a>
+                <a href="https://keyes.ie/python/" class="custom-link">PYTHON</a>
+                <a href="https://keyes.ie/things/" class="custom-link">THINGS</a>
+                <a href="https://keyes.ie/archive/" class="custom-link">ARCHIVE</a>
+                <a href="https://keyes.ie/about/" class="custom-link">ABOUT</a>
+            </nav>
+            <div class="flex space-x-4">
+                <img src="https://keyes.ie/images/keyes.png" alt="Icon" class="h-8">
+                <img src="https://keyes.ie/images/keyes.png" alt="Icon" class="h-8">
+            </div>
+        </div>
+    </header>
+    <main class="container mx-auto mt-8">
+        <h1 class="text-2xl font-bold">baseliner 1.0</h1>
+        <p class="mt-4">
+            The overlay in <a href="https://keyes.ie/things/baseliner" class="custom-link-blue">Baseliner 1.0</a> now indicates it
+            <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events" class="custom-link-blue">does not want to be a target of mouse events</a>.
+            When Baseliner is open, it’s possible to interact with the page beneath.
+        </p>
+        <p class="mt-4">
+            The <a href="https://keyes.ie/things/baseliner" class="custom-link-blue">bookmarklet</a> has been updated to use 1.0. This version has been tested in the latest
+            Safari, Firefox, and Chrome on OS X 10.10. Baseliner 1.0 is enabled on this page, so you can
+            test whether it works in your browser of choice.
+        </p>
+    </main>
+    <footer class="container mx-auto mt-16 text-gray-500">
+        <p>© 2010 – 2020 John Keyes.</p>
+    </footer>
+</body>
+</html>

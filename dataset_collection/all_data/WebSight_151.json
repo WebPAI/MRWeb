@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                1410.5833740234375,
+                33.5
+            ],
+            [
+                1456.6833801269531,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://forums.nexusmods.com/index.php?/topic/5106815-recorders-unofficial-guide-and-bug-fix/"
+    },
+    {
+        "position": [
+            [
+                1480.683349609375,
+                33.5
+            ],
+            [
+                1528.250015258789,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://www.lifetimeradon.com/MitigationInstallation/Waukesha"
+    },
+    {
+        "position": [
+            [
+                1552.25,
+                33.5
+            ],
+            [
+                1619.7166595458984,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Portfolio",
+        "on_click_jump_to": "https://rack.ca/industrial-shelving/boltless/"
+    },
+    {
+        "position": [
+            [
+                1643.7166748046875,
+                33.5
+            ],
+            [
+                1704.000015258789,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.riga-guide.com/hotels/riverside/"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                24.0
+            ],
+            [
+                256.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1625138644438-47f3b3c66880?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1Mzl8&ixlib=rb-4.0.3&w=100&h=50"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                112.0
+            ],
+            [
+                1704.0,
+                1104.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1466837838619-c8f5b8f0c166?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NDF8&ixlib=rb-4.0.3&w=1200&h=600"
+    }
+]

@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                1558.6666259765625,
+                20.0
+            ],
+            [
+                1601.5666198730469,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1633.566650390625,
+                20.0
+            ],
+            [
+                1690.0833129882812,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            249,
+            115,
+            22
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1722.0833740234375,
+                20.0
+            ],
+            [
+                1777.8333740234375,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Projects",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1809.8333740234375,
+                20.0
+            ],
+            [
+                1896.0000457763672,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                16.0
+            ],
+            [
+                59.71665954589844,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-logo.png"
+    }
+]

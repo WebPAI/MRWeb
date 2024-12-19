@@ -1,0 +1,982 @@
+[
+    {
+        "position": [
+            [
+                839.38330078125,
+                54.0
+            ],
+            [
+                1193.9332885742188,
+                166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            233,
+            78,
+            119
+        ],
+        "text": "herogirl",
+        "on_click_jump_to": "http://www.herogirlcomics.com/"
+    },
+    {
+        "position": [
+            [
+                547.2000122070312,
+                193.1999969482422
+            ],
+            [
+                611.6333465576172,
+                217.0500030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "home",
+        "on_click_jump_to": "http://www.herogirlcomics.com/"
+    },
+    {
+        "position": [
+            [
+                621.63330078125,
+                193.1999969482422
+            ],
+            [
+                686.0666351318359,
+                217.0500030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "about",
+        "on_click_jump_to": "http://www.herogirlcomics.com/about/"
+    },
+    {
+        "position": [
+            [
+                696.066650390625,
+                193.1999969482422
+            ],
+            [
+                774.9333190917969,
+                217.0500030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "archive",
+        "on_click_jump_to": "http://www.herogirlcomics.com/archive/"
+    },
+    {
+        "position": [
+            [
+                784.933349609375,
+                193.1999969482422
+            ],
+            [
+                857.1500091552734,
+                217.0500030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "stories",
+        "on_click_jump_to": "http://www.herogirlcomics.com/stories/"
+    },
+    {
+        "position": [
+            [
+                867.1500244140625,
+                193.1999969482422
+            ],
+            [
+                918.2500305175781,
+                217.0500030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "cast",
+        "on_click_jump_to": "http://www.herogirlcomics.com/cast/"
+    },
+    {
+        "position": [
+            [
+                928.25,
+                193.1999969482422
+            ],
+            [
+                983.8000030517578,
+                217.0500030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "blog",
+        "on_click_jump_to": "http://www.herogirlcomics.com/blog/"
+    },
+    {
+        "position": [
+            [
+                993.7999877929688,
+                193.1999969482422
+            ],
+            [
+                1071.5499877929688,
+                217.0500030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "contact",
+        "on_click_jump_to": "http://www.herogirlcomics.com/contact/"
+    },
+    {
+        "position": [
+            [
+                1300.566650390625,
+                193.1999969482422
+            ],
+            [
+                1372.7999877929688,
+                219.64999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "rss",
+        "on_click_jump_to": "http://www.herogirlcomics.com/feed/"
+    },
+    {
+        "position": [
+            [
+                746.2000122070312,
+                1115.9000244140625
+            ],
+            [
+                790.2333526611328,
+                1134.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "‹‹ First",
+        "on_click_jump_to": "http://www.herogirlcomics.com/comic/her-name-is-auto/"
+    },
+    {
+        "position": [
+            [
+                814.2333374023438,
+                1115.9000244140625
+            ],
+            [
+                852.8999938964844,
+                1134.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "‹ Prev",
+        "on_click_jump_to": "http://www.herogirlcomics.com/comic/guest-comic-the-kim-sisters/"
+    },
+    {
+        "position": [
+            [
+                876.9000244140625,
+                1115.9000244140625
+            ],
+            [
+                964.9167022705078,
+                1134.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Comments(0)",
+        "on_click_jump_to": "http://www.herogirlcomics.com/comic/fifa-world-cup/"
+    },
+    {
+        "position": [
+            [
+                988.9166870117188,
+                1115.9000244140625
+            ],
+            [
+                1043.1333465576172,
+                1134.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Random",
+        "on_click_jump_to": "http://www.herogirlcomics.com/?random&nocache=1"
+    },
+    {
+        "position": [
+            [
+                1067.13330078125,
+                1115.9000244140625
+            ],
+            [
+                1107.566635131836,
+                1134.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Next ›",
+        "on_click_jump_to": "http://www.herogirlcomics.com/comic/storyline-pilot-1/"
+    },
+    {
+        "position": [
+            [
+                1131.566650390625,
+                1115.9000244140625
+            ],
+            [
+                1173.7833251953125,
+                1134.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Last ››",
+        "on_click_jump_to": "http://www.herogirlcomics.com/comic/hourly-comic-day-2024/"
+    },
+    {
+        "position": [
+            [
+                634.5,
+                1179.5
+            ],
+            [
+                653.1666717529297,
+                1193.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "jojo",
+        "on_click_jump_to": "http://www.herogirlcomics.com/author/admin/"
+    },
+    {
+        "position": [
+            [
+                589.816650390625,
+                1371.11669921875
+            ],
+            [
+                613.816650390625,
+                1385.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "2010",
+        "on_click_jump_to": "http://www.herogirlcomics.com/tag/2010/"
+    },
+    {
+        "position": [
+            [
+                619.816650390625,
+                1371.11669921875
+            ],
+            [
+                636.4833221435547,
+                1385.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "fifa",
+        "on_click_jump_to": "http://www.herogirlcomics.com/tag/fifa/"
+    },
+    {
+        "position": [
+            [
+                642.4833374023438,
+                1371.11669921875
+            ],
+            [
+                679.8166656494141,
+                1385.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "football",
+        "on_click_jump_to": "http://www.herogirlcomics.com/tag/football/"
+    },
+    {
+        "position": [
+            [
+                685.816650390625,
+                1371.11669921875
+            ],
+            [
+                712.4833221435547,
+                1385.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "korea",
+        "on_click_jump_to": "http://www.herogirlcomics.com/tag/korea/"
+    },
+    {
+        "position": [
+            [
+                718.4833374023438,
+                1371.11669921875
+            ],
+            [
+                748.8999938964844,
+                1385.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "soccer",
+        "on_click_jump_to": "http://www.herogirlcomics.com/tag/soccer/"
+    },
+    {
+        "position": [
+            [
+                754.6666870117188,
+                1371.11669921875
+            ],
+            [
+                811.0000152587891,
+                1385.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "south africa",
+        "on_click_jump_to": "http://www.herogirlcomics.com/tag/south-africa/"
+    },
+    {
+        "position": [
+            [
+                817.0,
+                1371.11669921875
+            ],
+            [
+                855.9499969482422,
+                1385.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "uruguay",
+        "on_click_jump_to": "http://www.herogirlcomics.com/tag/uruguay/"
+    },
+    {
+        "position": [
+            [
+                861.566650390625,
+                1371.11669921875
+            ],
+            [
+                909.8999786376953,
+                1385.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "world cup",
+        "on_click_jump_to": "http://www.herogirlcomics.com/tag/world-cup/"
+    },
+    {
+        "position": [
+            [
+                916.8333129882812,
+                1468.7166748046875
+            ],
+            [
+                987.4999847412109,
+                1482.7166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Get a Gravatar",
+        "on_click_jump_to": "http://gravatar.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1270.36669921875
+            ],
+            [
+                1274.6499938964844,
+                1285.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Awkward Zombie",
+        "on_click_jump_to": "http://awkwardzombie.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1285.933349609375
+            ],
+            [
+                1237.3666687011719,
+                1300.933349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Doctor Cat",
+        "on_click_jump_to": "http://doctorcatmd.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1301.5
+            ],
+            [
+                1270.6666717529297,
+                1316.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Hark, A Vagrant!",
+        "on_click_jump_to": "http://www.harkavagrant.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1317.066650390625
+            ],
+            [
+                1229.566665649414,
+                1332.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Helvetica",
+        "on_click_jump_to": "http://helvetica.jnwiedle.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1332.63330078125
+            ],
+            [
+                1198.5,
+                1347.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "JL8",
+        "on_click_jump_to": "http://jl8comic.tumblr.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1348.199951171875
+            ],
+            [
+                1261.4666595458984,
+                1363.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Johnny Wander",
+        "on_click_jump_to": "http://www.johnnywander.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1363.7666015625
+            ],
+            [
+                1266.2333374023438,
+                1378.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Lackadaisy Cats",
+        "on_click_jump_to": "http://lackadaisy.foxprints.com/index.php"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1379.3333740234375
+            ],
+            [
+                1232.9166717529297,
+                1394.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "The Meek",
+        "on_click_jump_to": "http://www.meekcomic.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1394.9000244140625
+            ],
+            [
+                1293.2833404541016,
+                1409.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "MS Paint Adventures",
+        "on_click_jump_to": "http://www.mspaintadventures.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1410.4666748046875
+            ],
+            [
+                1222.183334350586,
+                1425.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Nedroid",
+        "on_click_jump_to": "http://nedroid.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1426.0333251953125
+            ],
+            [
+                1221.4499969482422,
+                1441.0333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Nimona",
+        "on_click_jump_to": "http://gingerhaze.com/nimona"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1441.5999755859375
+            ],
+            [
+                1253.6499938964844,
+                1456.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Penny Arcade",
+        "on_click_jump_to": "http://www.penny-arcade.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1457.1666259765625
+            ],
+            [
+                1270.316665649414,
+                1472.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "Three Panel Soul",
+        "on_click_jump_to": "http://threepanelsoul.com/"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1472.7333984375
+            ],
+            [
+                1216.3000030517578,
+                1487.7333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "XKCD",
+        "on_click_jump_to": "http://xkcd.com/"
+    },
+    {
+        "position": [
+            [
+                963.2333374023438,
+                1743.2166748046875
+            ],
+            [
+                1018.0166625976562,
+                1758.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "wordpress",
+        "on_click_jump_to": "http://wordpress.org/"
+    },
+    {
+        "position": [
+            [
+                1048.38330078125,
+                1743.2166748046875
+            ],
+            [
+                1108.3332977294922,
+                1758.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "comicpress",
+        "on_click_jump_to": "http://comicpress.org/"
+    },
+    {
+        "position": [
+            [
+                1175.699951171875,
+                1743.2166748046875
+            ],
+            [
+                1190.4999542236328,
+                1758.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            250,
+            105,
+            0
+        ],
+        "text": "rss",
+        "on_click_jump_to": "http://www.herogirlcomics.com/feed/"
+    },
+    {
+        "position": [
+            [
+                726.0499877929688,
+                10.0
+            ],
+            [
+                915.3833160400391,
+                154.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.herogirlcomics.com/wp-content/themes/herogirl-theme/images/herogirl-logo.png"
+    },
+    {
+        "position": [
+            [
+                1310.566650390625,
+                194.6499938964844
+            ],
+            [
+                1335.566650390625,
+                219.6499938964844
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.herogirlcomics.com/wp-content/themes/herogirl-theme/images/rss.png"
+    },
+    {
+        "position": [
+            [
+                685.0,
+                240.6499938964844
+            ],
+            [
+                1235.0,
+                1103.6499938964844
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.herogirlcomics.com/wp-content/uploads/2010/07/2010-07-01.jpg"
+    },
+    {
+        "position": [
+            [
+                1201.0,
+                1160.25
+            ],
+            [
+                1236.0,
+                1195.25
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.herogirlcomics.com/wp-content/themes/herogirl-theme/images/facebook.png"
+    },
+    {
+        "position": [
+            [
+                1239.3333740234375,
+                1160.25
+            ],
+            [
+                1274.3333740234375,
+                1195.25
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.herogirlcomics.com/wp-content/themes/herogirl-theme/images/twitter.png"
+    },
+    {
+        "position": [
+            [
+                1277.6666259765625,
+                1160.25
+            ],
+            [
+                1312.6666259765625,
+                1195.25
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.herogirlcomics.com/wp-content/themes/herogirl-theme/images/tumblr.png"
+    },
+    {
+        "position": [
+            [
+                1316.0,
+                1160.25
+            ],
+            [
+                1351.0,
+                1195.25
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.herogirlcomics.com/wp-content/themes/herogirl-theme/images/rss.png"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1497.300048828125
+            ],
+            [
+                1285.3000030517578,
+                1514.300048828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.thewebcomiclist.com/myranking.php?id=17762"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1523.5833740234375
+            ],
+            [
+                1266.5,
+                1554.5833740234375
+            ]
+        ],
+        "type": "img",
+        "src": "http://topwebcomics.com/rankimages/rankimage.aspx?ImageTemplate=dynamiclink1&SiteID=13450"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                1564.86669921875
+            ],
+            [
+                1245.5333404541016,
+                1579.86669921875
+            ]
+        ],
+        "type": "img",
+        "src": "http://view.comicrank.com/2117/0.png"
+    }
+]

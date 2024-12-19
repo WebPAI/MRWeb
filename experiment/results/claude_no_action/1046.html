@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CDS Blog</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white">
+    <!-- Navigation -->
+    <nav class="bg-white py-4 px-8 flex justify-between items-center border-b">
+        <img src="cds-logo.svg" alt="CDS Logo" class="h-8">
+        <div class="flex items-center space-x-6">
+            <a href="#" class="text-gray-700">Who we are</a>
+            <a href="#" class="text-gray-700">What we do</a>
+            <a href="#" class="text-gray-700">Our work</a>
+            <a href="#" class="text-gray-700">Our thoughts</a>
+            <a href="#" class="text-gray-700">Contact us</a>
+            <a href="#" class="text-gray-700">Careers</a>
+            <span class="text-teal-500">0800 138 4308</span>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="bg-gray-900 text-white py-16 px-8">
+        <h1 class="text-4xl mb-4">What's on our mind</h1>
+        <p class="text-teal-400 max-w-2xl">
+            Explore and discover innovations and insights from our bloggers as they share their thoughts on how communications, data and technology can be used to make a positive difference in the world today.
+        </p>
+    </div>
+
+    <!-- Featured Cards Grid -->
+    <div class="px-8 py-12 grid grid-cols-2 gap-8">
+        <div class="relative">
+            <img src="office-building.jpg" alt="CDS Office" class="w-full h-64 object-cover">
+            <div class="absolute bottom-0 left-0 p-6 text-white">
+                <h3 class="text-xl font-semibold">We're Hiring: Learn more about why CDS is a great place to work</h3>
+                <p class="text-sm mt-2">Posted in Life at CDS · August 2024</p>
+            </div>
+        </div>
+        <div class="relative">
+            <img src="police-charter.jpg" alt="Police Industry Charter" class="w-full h-64 object-cover">
+            <div class="absolute bottom-0 left-0 p-6 text-white">
+                <h3 class="text-xl font-semibold">CDS signs Police Industry Charter</h3>
+                <p class="text-sm mt-2">Posted in Public Sector · April 2024</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Recent Thoughts Section -->
+    <div class="px-8 py-12">
+        <h2 class="text-3xl mb-4">Recent thoughts</h2>
+        <p class="text-teal-500 mb-8">A selection of our most recent articles and company stories</p>
+        
+        <!-- Filter Controls -->
+        <div class="flex gap-4 mb-8">
+            <select class="border p-2 rounded">
+                <option>Category</option>
+            </select>
+            <select class="border p-2 rounded">
+                <option>Author</option>
+            </select>
+        </div>
+
+        <!-- Blog Posts -->
+        <div class="space-y-8">
+            <!-- Individual blog posts would go here, each with similar structure -->
+            <article class="border-b pb-8">
+                <h3 class="text-teal-500 text-xl mb-2">In the spotlight: Dom Baker</h3>
+                <p class="mb-4">Get to know the wonderful people behind CDS! Next up in the spotlight, it's Dom Baker...</p>
+                <div class="text-sm text-gray-600">
+                    <p>Posted in Life at CDS · March 2024</p>
+                    <p>3 minutes reading time</p>
+                </div>
+            </article>
+            <!-- More articles would follow the same pattern -->
+        </div>
+
+        <button class="mt-8 border border-gray-300 px-6 py-2 rounded">Load more</button>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white py-16 px-8">
+        <div class="mb-12">
+            <h2 class="text-2xl mb-2">It's time to make a <span class="text-teal-400">positive difference</span></h2>
+            <a href="#" class="text-teal-400 underline">Let's talk together</a>
+        </div>
+        
+        <div class="flex justify-between text-sm text-gray-400">
+            <div class="space-x-4">
+                <a href="#">Sitemap</a>
+                <a href="#">Privacy notice</a>
+                <a href="#">Cookie policy</a>
+                <a href="#">Carbon reduction plan</a>
+                <a href="#">Modern slavery</a>
+            </div>
+            <div class="flex space-x-4">
+                <a href="#">LinkedIn</a>
+                <a href="#">X</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

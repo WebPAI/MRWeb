@@ -1,0 +1,544 @@
+[
+    {
+        "position": [
+            [
+                1034.949951171875,
+                52.0
+            ],
+            [
+                1088.949951171875,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                1104.949951171875,
+                52.0
+            ],
+            [
+                1175.8332824707031,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CATALOG",
+        "on_click_jump_to": "file:///catalog"
+    },
+    {
+        "position": [
+            [
+                1191.8333740234375,
+                52.0
+            ],
+            [
+                1257.550048828125,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "PUBLISH",
+        "on_click_jump_to": "file:///publish"
+    },
+    {
+        "position": [
+            [
+                1273.550048828125,
+                52.0
+            ],
+            [
+                1368.4000396728516,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "MULTIMEDIA",
+        "on_click_jump_to": "file:///multimedia"
+    },
+    {
+        "position": [
+            [
+                1384.4000244140625,
+                52.0
+            ],
+            [
+                1430.2333679199219,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "NEWS",
+        "on_click_jump_to": "file:///news"
+    },
+    {
+        "position": [
+            [
+                1446.2333984375,
+                52.0
+            ],
+            [
+                1519.9500579833984,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                1535.949951171875,
+                52.0
+            ],
+            [
+                1635.1666259765625,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "РУССКИЙ",
+        "on_click_jump_to": "file:///russian"
+    },
+    {
+        "position": [
+            [
+                1651.1666259765625,
+                40.0
+            ],
+            [
+                1711.9999542236328,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "0 ITEMS\n$0.00",
+        "on_click_jump_to": "file:///cart"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                128.0
+            ],
+            [
+                448.0,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "All Multimedia",
+        "on_click_jump_to": "file:///multimedia"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                152.0
+            ],
+            [
+                448.0,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Liberty Now",
+        "on_click_jump_to": "file:///liberty-now"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                176.0
+            ],
+            [
+                448.0,
+                200.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Liberty Authors",
+        "on_click_jump_to": "file:///liberty-authors"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                200.0
+            ],
+            [
+                448.0,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Radio",
+        "on_click_jump_to": "file:///radio"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                224.0
+            ],
+            [
+                448.0,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "TV Spots",
+        "on_click_jump_to": "file:///tv-ads"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                248.0
+            ],
+            [
+                448.0,
+                272.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "TV Appearances",
+        "on_click_jump_to": "file:///tv-appearances"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                272.0
+            ],
+            [
+                448.0,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Presentations / Other",
+        "on_click_jump_to": "file:///presentations"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                160.0
+            ],
+            [
+                579.0,
+                184.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "Previous Post",
+        "on_click_jump_to": "file:///previous"
+    },
+    {
+        "position": [
+            [
+                1625.61669921875,
+                160.0
+            ],
+            [
+                1696.0000305175781,
+                184.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            42,
+            19
+        ],
+        "text": "Next Post",
+        "on_click_jump_to": "file:///next"
+    },
+    {
+        "position": [
+            [
+                671.88330078125,
+                509.3333129882813
+            ],
+            [
+                725.88330078125,
+                533.3333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                741.88330078125,
+                509.3333129882813
+            ],
+            [
+                812.7666320800781,
+                533.3333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CATALOG",
+        "on_click_jump_to": "file:///catalog"
+    },
+    {
+        "position": [
+            [
+                828.7666625976562,
+                509.3333129882813
+            ],
+            [
+                894.4833374023438,
+                533.3333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "PUBLISH",
+        "on_click_jump_to": "file:///publish"
+    },
+    {
+        "position": [
+            [
+                910.4833374023438,
+                509.3333129882813
+            ],
+            [
+                1005.3333282470703,
+                533.3333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "MULTIMEDIA",
+        "on_click_jump_to": "file:///multimedia"
+    },
+    {
+        "position": [
+            [
+                1021.3333129882812,
+                509.3333129882813
+            ],
+            [
+                1067.1666564941406,
+                533.3333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "NEWS",
+        "on_click_jump_to": "file:///news"
+    },
+    {
+        "position": [
+            [
+                1083.1666259765625,
+                509.3333129882813
+            ],
+            [
+                1156.883285522461,
+                533.3333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                1172.88330078125,
+                509.3333129882813
+            ],
+            [
+                1248.0999755859375,
+                533.3333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "РУССКИЙ",
+        "on_click_jump_to": "file:///russian"
+    },
+    {
+        "position": [
+            [
+                915.2333374023438,
+                566.8333129882812
+            ],
+            [
+                1004.7666625976562,
+                583.8333129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "file:///privacy-policy"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                406.3333282470703,
+                112.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.libertypublishinghouse.com/wp-content/uploads/2016/01/Logo_2016_188.jpg"
+    },
+    {
+        "position": [
+            [
+                1619.1666259765625,
+                58.0
+            ],
+            [
+                1635.1666259765625,
+                70.0
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/png;base64,..."
+    },
+    {
+        "position": [
+            [
+                192.0,
+                328.0
+            ],
+            [
+                448.0,
+                413.3333282470703
+            ]
+        ],
+        "type": "img",
+        "src": "https://libertypublishinghouse.com/wp-content/uploads/2016/03/Facebook-300x100.jpg"
+    }
+]

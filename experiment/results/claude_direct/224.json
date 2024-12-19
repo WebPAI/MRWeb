@@ -1,0 +1,528 @@
+[
+    {
+        "position": [
+            [
+                1574.0166015625,
+                28.0
+            ],
+            [
+                1623.1332702636719,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "Sign in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1639.13330078125,
+                28.0
+            ],
+            [
+                1711.9999694824219,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                128.0
+            ],
+            [
+                560.0,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "institutional",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                160.0
+            ],
+            [
+                560.0,
+                184.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "personal",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                192.0
+            ],
+            [
+                560.0,
+                216.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "not a subscriber?",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                280.0
+            ],
+            [
+                560.0,
+                304.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "library",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                312.0
+            ],
+            [
+                560.0,
+                336.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "free articles",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                344.0
+            ],
+            [
+                560.0,
+                368.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "audio interviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                376.0
+            ],
+            [
+                560.0,
+                400.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "podcast",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                408.0
+            ],
+            [
+                560.0,
+                432.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "artists",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                440.0
+            ],
+            [
+                560.0,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "subjects & genres",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                472.0
+            ],
+            [
+                560.0,
+                496.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "publications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                504.0
+            ],
+            [
+                560.0,
+                528.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "writers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                592.0
+            ],
+            [
+                560.0,
+                616.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "about us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                624.0
+            ],
+            [
+                560.0,
+                648.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "contact us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                656.0
+            ],
+            [
+                560.0,
+                680.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "for librarians",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                688.0
+            ],
+            [
+                560.0,
+                712.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "licensing",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                720.0
+            ],
+            [
+                560.0,
+                744.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "magazine archive",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                752.0
+            ],
+            [
+                560.0,
+                776.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "press room",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                852.0
+            ],
+            [
+                331.76666259765625,
+                872.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            212,
+            18,
+            64
+        ],
+        "text": "advanced search",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                632.066650390625,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.rocksbackpages.com/public/img/common/logos/library.png"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                96.0
+            ],
+            [
+                1392.0,
+                128.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.rocksbackpages.com/public/img/icons/facebook.png"
+    },
+    {
+        "position": [
+            [
+                1400.0,
+                96.0
+            ],
+            [
+                1432.0,
+                128.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.rocksbackpages.com/public/img/icons/instagram.png"
+    },
+    {
+        "position": [
+            [
+                1440.0,
+                96.0
+            ],
+            [
+                1472.0,
+                128.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.rocksbackpages.com/public/img/icons/twitter.png"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                144.0
+            ],
+            [
+                1392.0,
+                176.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.rocksbackpages.com/public/img/icons/spotify.png"
+    },
+    {
+        "position": [
+            [
+                1400.0,
+                144.0
+            ],
+            [
+                1432.0,
+                176.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.rocksbackpages.com/public/img/icons/tiktok.png"
+    },
+    {
+        "position": [
+            [
+                1440.0,
+                144.0
+            ],
+            [
+                1472.0,
+                176.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.rocksbackpages.com/public/img/icons/youtube.png"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                192.0
+            ],
+            [
+                1712.0,
+                544.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.rocksbackpages.com/public/img/side-bar/40.jpg"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                560.0
+            ],
+            [
+                1712.0,
+                784.6999969482422
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.rocksbackpages.com/public/img/side-bar/71.jpg"
+    }
+]

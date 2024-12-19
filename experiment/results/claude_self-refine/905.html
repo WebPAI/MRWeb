@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lookastic</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            color: rgb(92, 91, 91);
+            padding: 0 12px;
+        }
+        .product-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 24px;
+        }
+        .category-link {
+            color: rgb(51, 51, 51);
+            display: block;
+            padding: 4px 0;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+    <!-- Header -->
+    <header class="bg-green-600">
+        <div class="max-w-7xl mx-auto px-4 py-2 flex justify-between items-center">
+            <a href="https://lookastic.com/" class="text-white text-2xl font-bold">LOOKASTIC</a>
+            <div class="flex gap-4 text-white">
+                <a href="https://lookastic.com/users/sign_in">SIGN IN</a>
+                <a href="https://lookastic.com/users/sign_up?medium=header&sex=women">JOIN</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="border-b">
+        <div class="max-w-7xl mx-auto flex items-center">
+            <a href="#" class="nav-link">MY WARDROBE TRY IT!</a>
+            <a href="#" class="nav-link">LOOKS</a>
+            <a href="#" class="nav-link">TRENDS</a>
+            <a href="#" class="nav-link">BRANDS</a>
+            <a href="#" class="nav-link">CELEBRITIES</a>
+            <a href="#" class="nav-link">OCCASIONS</a>
+            <a href="#" class="nav-link">CONTACT US</a>
+            <a href="#" class="nav-link">WOMEN</a>
+        </div>
+    </nav>
+
+    <!-- Recommendations Banner -->
+    <div class="bg-blue-50 py-4">
+        <div class="max-w-7xl mx-auto px-4 flex justify-between items-center">
+            <div>
+                <h2 class="text-lg text-gray-700">Get Personal Outfit Recommendations</h2>
+                <p class="text-sm text-gray-600">Outfit & shopping recommendations based on your own wardrobe</p>
+            </div>
+            <div>
+                <button class="bg-green-500 text-white px-6 py-2 rounded hover:bg-green-600">
+                    SEE MY RECOMMENDATIONS NOW
+                </button>
+                <p class="text-xs text-gray-500 mt-1 text-center">No sign up required!</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 py-8">
+        <div class="flex gap-8">
+            <!-- Sidebar -->
+            <aside class="w-64">
+                <!-- Category Filter -->
+                <div class="mb-6">
+                    <h3 class="font-bold mb-2 text-gray-700">CATEGORY</h3>
+                    <div class="space-y-1">
+                        <a href="#" class="category-link">Rag & Bone Top</a>
+                        <a href="#" class="category-link">Rag & Bone Shirts</a>
+                        <a href="#" class="category-link">Rag & Bone T-shirts</a>
+                        <!-- Add more categories -->
+                    </div>
+                </div>
+
+                <!-- Color Filter -->
+                <div class="mb-6">
+                    <h3 class="font-bold mb-2 text-gray-700">COLOR</h3>
+                </div>
+
+                <!-- Pattern Filter -->
+                <div class="mb-6">
+                    <h3 class="font-bold mb-2 text-gray-700">PATTERN</h3>
+                </div>
+            </aside>
+
+            <!-- Product Section -->
+            <div class="flex-1">
+                <!-- Tab Navigation -->
+                <div class="flex mb-8">
+                    <button class="flex-1 bg-navy-800 text-white py-3">SHOP IT</button>
+                    <button class="flex-1 bg-gray-100 text-gray-600 py-3">OUTFITS</button>
+                </div>
+
+                <!-- Product Grid -->
+                <div class="product-grid">
+                    <!-- Product Cards will go here -->
+                    <div class="product-card">
+                        <img src="product-image.jpg" class="w-full mb-3">
+                        <h4 class="font-medium text-sm">RAG & BONE</h4>
+                        <p class="text-sm text-gray-600">Python Effect Mules</p>
+                        <p class="text-sm mt-1">$382</p>
+                    </div>
+                    <!-- Repeat for other products -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 mt-12 py-8">
+        <div class="max-w-7xl mx-auto px-4">
+            <!-- Footer content -->
+        </div>
+    </footer>
+</body>
+</html>

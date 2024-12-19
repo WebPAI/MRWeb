@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                640.0,
+                666.0
+            ],
+            [
+                722.5,
+                690.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "Our Work",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                640.0,
+                718.0
+            ],
+            [
+                798.9499969482422,
+                742.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "Client Testimonials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                640.0,
+                770.0
+            ],
+            [
+                731.3333282470703,
+                794.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                600.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/desk-image.jpg"
+    }
+]

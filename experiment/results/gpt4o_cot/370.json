@@ -1,0 +1,524 @@
+[
+    {
+        "position": [
+            [
+                0.0,
+                2.0
+            ],
+            [
+                168.39999389648438,
+                22.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Skip to primary sidebar",
+        "on_click_jump_to": "#genesis-sidebar-primary"
+    },
+    {
+        "position": [
+            [
+                172.89999389648438,
+                2.0
+            ],
+            [
+                283.25,
+                22.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Skip to content",
+        "on_click_jump_to": "#breakthrough-page-title"
+    },
+    {
+        "position": [
+            [
+                287.75,
+                2.0
+            ],
+            [
+                385.96665954589844,
+                22.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Skip to footer",
+        "on_click_jump_to": "#footer"
+    },
+    {
+        "position": [
+            [
+                1353.1500244140625,
+                38.0
+            ],
+            [
+                1468.86669921875,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Blog Categories",
+        "on_click_jump_to": "http://www.delsol.com/blog"
+    },
+    {
+        "position": [
+            [
+                1489.36669921875,
+                38.0
+            ],
+            [
+                1549.2500305175781,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Fan Mail",
+        "on_click_jump_to": "https://blog.delsol.com/fan-mail/"
+    },
+    {
+        "position": [
+            [
+                1569.75,
+                38.0
+            ],
+            [
+                1683.0333404541016,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Store Locations",
+        "on_click_jump_to": "http://www.delsol.com/stores.html"
+    },
+    {
+        "position": [
+            [
+                1703.5333251953125,
+                38.0
+            ],
+            [
+                1771.5333251953125,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Media Kit",
+        "on_click_jump_to": "https://blog.delsol.com/wp-content/uploads/2024/01/DelSol_MediaKit_2024.pdf"
+    },
+    {
+        "position": [
+            [
+                1792.0333251953125,
+                38.0
+            ],
+            [
+                1903.999984741211,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About Our Blog",
+        "on_click_jump_to": "https://blog.delsol.com/about/"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                118.0
+            ],
+            [
+                665.4666595458984,
+                142.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Scott.Brady",
+        "on_click_jump_to": "https://blog.delsol.com/author/scott-brady/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1079.6666259765625
+            ],
+            [
+                752.1999969482422,
+                1099.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Color Change Nail Art Tutorials",
+        "on_click_jump_to": "https://blog.delsol.com/category/color-change-nail-art-tutorials/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1111.6666259765625
+            ],
+            [
+                643.4499969482422,
+                1131.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Company Props",
+        "on_click_jump_to": "https://blog.delsol.com/category/company-props/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1143.6666259765625
+            ],
+            [
+                636.4499969482422,
+                1163.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Cruise + Travel",
+        "on_click_jump_to": "https://blog.delsol.com/category/cruise-travel/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1175.6666259765625
+            ],
+            [
+                642.8833312988281,
+                1195.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Del Sol Reviews",
+        "on_click_jump_to": "https://blog.delsol.com/category/del-sol-reviews/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1207.6666259765625
+            ],
+            [
+                605.5166625976562,
+                1227.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Family Fun",
+        "on_click_jump_to": "https://blog.delsol.com/category/family-fun/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1239.6666259765625
+            ],
+            [
+                587.8833312988281,
+                1259.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Fan Mail",
+        "on_click_jump_to": "https://blog.delsol.com/category/fan-mail/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1271.6666259765625
+            ],
+            [
+                632.3500061035156,
+                1291.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Fun in the Sun",
+        "on_click_jump_to": "https://blog.delsol.com/category/fun-in-the-sun/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1303.6666259765625
+            ],
+            [
+                613.9166717529297,
+                1323.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Giving Back",
+        "on_click_jump_to": "https://blog.delsol.com/category/service/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1335.6666259765625
+            ],
+            [
+                613.6833343505859,
+                1355.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "In the News",
+        "on_click_jump_to": "https://blog.delsol.com/category/in-the-news/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1367.6666259765625
+            ],
+            [
+                568.2833404541016,
+                1387.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://blog.delsol.com/category/news/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1399.6666259765625
+            ],
+            [
+                695.9499969482422,
+                1419.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Products & Promotions",
+        "on_click_jump_to": "https://blog.delsol.com/category/products-promotions/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1431.6666259765625
+            ],
+            [
+                603.8500061035156,
+                1451.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Sun Smart",
+        "on_click_jump_to": "https://blog.delsol.com/category/sun-smart/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1463.6666259765625
+            ],
+            [
+                622.8166656494141,
+                1483.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Team Del Sol",
+        "on_click_jump_to": "https://blog.delsol.com/category/team-del-sol/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                1495.6666259765625
+            ],
+            [
+                634.2333374023438,
+                1515.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Uncategorized",
+        "on_click_jump_to": "https://blog.delsol.com/category/uncategorized/"
+    },
+    {
+        "position": [
+            [
+                1555.25,
+                1607.6666259765625
+            ],
+            [
+                1680.3333282470703,
+                1627.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "[email protected]",
+        "on_click_jump_to": "https://blog.delsol.com/cdn-cgi/l/email-protection"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                247.88333129882812,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.delsol.com/wp-content/uploads/2022/12/imageonline-co-whitebackgroundremoved_1_1624297182__06649.webp"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                112.0
+            ],
+            [
+                564.0,
+                148.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://secure.gravatar.com/avatar/e07701aeba183022d776869a1ddb3e9c?s=36&d=mm&r=g"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                252.0
+            ],
+            [
+                1392.0,
+                1017.6666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.delsol.com/blog/wp-content/uploads/2018/08/MOF_SurfExperienceDay_Waikiki_April2018.png"
+    }
+]

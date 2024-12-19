@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1633.0,
+                48.0
+            ],
+            [
+                1747.5500030517578,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Past Exhibitions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1763.550048828125,
+                48.0
+            ],
+            [
+                1850.4333801269531,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Artists' Bios",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1866.433349609375,
+                48.0
+            ],
+            [
+                1904.000015258789,
+                72.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Shop",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                928.0,
+                152.0
+            ],
+            [
+                992.0,
+                216.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/your-image-url.jpg"
+    }
+]

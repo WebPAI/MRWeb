@@ -1,0 +1,6482 @@
+[
+    {
+        "position": [
+            [
+                33.80000305175781,
+                30.98333740234375
+            ],
+            [
+                415.53334045410156,
+                65.98333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            46,
+            139,
+            87
+        ],
+        "text": "TP Translation Project",
+        "on_click_jump_to": "https://translationproject.org/"
+    },
+    {
+        "position": [
+            [
+                26.316665649414062,
+                85.60000610351562
+            ],
+            [
+                110.44999694824219,
+                111.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            46,
+            139,
+            87
+        ],
+        "text": "Welcome",
+        "on_click_jump_to": "https://translationproject.org/html/welcome.html"
+    },
+    {
+        "position": [
+            [
+                1851.8499755859375,
+                85.60000610351562
+            ],
+            [
+                1914.2666320800781,
+                111.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            46,
+            139,
+            87
+        ],
+        "text": "Latest",
+        "on_click_jump_to": "https://translationproject.org/latest/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                168.8333282470703
+            ],
+            [
+                167.28334045410156,
+                197.6999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "The Packages",
+        "on_click_jump_to": "https://translationproject.org/domain/index.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                197.6999969482422
+            ],
+            [
+                167.28334045410156,
+                226.56666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "The Teams",
+        "on_click_jump_to": "https://translationproject.org/team/index.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                226.5666656494141
+            ],
+            [
+                167.28334045410156,
+                255.43333435058597
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "The Disclaimer",
+        "on_click_jump_to": "https://translationproject.org/html/whydisclaim.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                255.4333343505859
+            ],
+            [
+                167.28334045410156,
+                284.3000030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "The Robot",
+        "on_click_jump_to": "https://translationproject.org/html/robot.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                325.1000061035156
+            ],
+            [
+                167.28334045410156,
+                353.96665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Maintainers",
+        "on_click_jump_to": "https://translationproject.org/html/maintainers.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                353.9666748046875
+            ],
+            [
+                167.28334045410156,
+                382.8333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Translators",
+        "on_click_jump_to": "https://translationproject.org/html/translators.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                382.8333129882813
+            ],
+            [
+                167.28334045410156,
+                411.6999816894532
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Coordinators",
+        "on_click_jump_to": "https://translationproject.org/html/leaders.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                452.5
+            ],
+            [
+                167.28334045410156,
+                481.3666687011719
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Site overview",
+        "on_click_jump_to": "https://translationproject.org/html/files.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                481.3666687011719
+            ],
+            [
+                167.28334045410156,
+                510.23333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Contributors",
+        "on_click_jump_to": "https://translationproject.org/html/thanks.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                510.23333740234375
+            ],
+            [
+                167.28334045410156,
+                539.1000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Changes",
+        "on_click_jump_to": "https://translationproject.org/html/changes.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                539.0999755859375
+            ],
+            [
+                167.28334045410156,
+                567.9666290283203
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Matrix",
+        "on_click_jump_to": "https://translationproject.org/extra/matrix.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                567.9666748046875
+            ],
+            [
+                167.28334045410156,
+                596.8333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Tools",
+        "on_click_jump_to": "https://translationproject.org/html/software.html"
+    },
+    {
+        "position": [
+            [
+                347.7833251953125,
+                232.8333282470703
+            ],
+            [
+                536.5499877929688,
+                251.8333282470703
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "sshedmak@redhat.com",
+        "on_click_jump_to": "mailto:sshedmak@redhat.com"
+    },
+    {
+        "position": [
+            [
+                1583.88330078125,
+                232.8333282470703
+            ],
+            [
+                1743.7999725341797,
+                251.8333282470703
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Sandeep Shedmake",
+        "on_click_jump_to": "mailto:sshedmak@redhat.com"
+    },
+    {
+        "position": [
+            [
+                793.5166625976562,
+                374.7000122070313
+            ],
+            [
+                953.4333343505859,
+                393.7000122070313
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Sandeep Shedmake",
+        "on_click_jump_to": "mailto:sshedmak (at) redhat (dot) com"
+    },
+    {
+        "position": [
+            [
+                355.0,
+                433.8999938964844
+            ],
+            [
+                420.0833282470703,
+                452.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Just ask",
+        "on_click_jump_to": "mailto:coordinator@translationproject.org"
+    },
+    {
+        "position": [
+            [
+                433.75,
+                506.8999938964844
+            ],
+            [
+                593.6666717529297,
+                525.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "Sandeep Shedmake",
+        "on_click_jump_to": "mailto:sshedmak@redhat.com"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                575.7666625976562
+            ],
+            [
+                730.5333557128906,
+                594.7666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "a2ps",
+        "on_click_jump_to": "https://translationproject.org/domain/a2ps.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                575.7666625976562
+            ],
+            [
+                952.3499908447266,
+                594.7666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.15.5",
+        "on_click_jump_to": "https://translationproject.org/POT-files/a2ps-4.15.5.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                602.1666870117188
+            ],
+            [
+                745.0166778564453,
+                621.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "anubis",
+        "on_click_jump_to": "https://translationproject.org/domain/anubis.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                602.1666870117188
+            ],
+            [
+                939.2833099365234,
+                621.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.3",
+        "on_click_jump_to": "https://translationproject.org/POT-files/anubis-4.3.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                628.566650390625
+            ],
+            [
+                738.6666870117188,
+                647.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "aspell",
+        "on_click_jump_to": "https://translationproject.org/domain/aspell.html"
+    },
+    {
+        "position": [
+            [
+                892.066650390625,
+                628.566650390625
+            ],
+            [
+                960.3499908447266,
+                647.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.60.8.1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/aspell-0.60.8.1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                654.9666748046875
+            ],
+            [
+                730.5000152587891,
+                673.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "bash",
+        "on_click_jump_to": "https://translationproject.org/domain/bash.html"
+    },
+    {
+        "position": [
+            [
+                896.8333129882812,
+                654.9666748046875
+            ],
+            [
+                955.5833129882812,
+                673.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "5.2-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/bash-5.2-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                681.36669921875
+            ],
+            [
+                758.933349609375,
+                700.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "beebase",
+        "on_click_jump_to": "https://translationproject.org/domain/beebase.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                681.36669921875
+            ],
+            [
+                939.2833099365234,
+                700.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/beebase-1.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                707.7666625976562
+            ],
+            [
+                718.0166778564453,
+                726.7666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "bfd",
+        "on_click_jump_to": "https://translationproject.org/domain/bfd.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                707.7666625976562
+            ],
+            [
+                957.433349609375,
+                726.7666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.42.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/bfd-2.42.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                734.1666870117188
+            ],
+            [
+                750.4666748046875,
+                753.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "binutils",
+        "on_click_jump_to": "https://translationproject.org/domain/binutils.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                734.1666870117188
+            ],
+            [
+                957.433349609375,
+                753.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.42.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/binutils-2.42.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                760.566650390625
+            ],
+            [
+                734.9833526611328,
+                779.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "bison",
+        "on_click_jump_to": "https://translationproject.org/domain/bison.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                760.566650390625
+            ],
+            [
+                952.3499908447266,
+                779.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.7.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/bison-3.7.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                786.9666748046875
+            ],
+            [
+                805.1333465576172,
+                805.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "bison-runtime",
+        "on_click_jump_to": "https://translationproject.org/domain/bison-runtime.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                786.9666748046875
+            ],
+            [
+                952.3499908447266,
+                805.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.5.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/bison-runtime-3.5.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                813.36669921875
+            ],
+            [
+                761.2833557128906,
+                832.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "buzztrax",
+        "on_click_jump_to": "https://translationproject.org/domain/buzztrax.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                813.36669921875
+            ],
+            [
+                952.3499908447266,
+                832.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.10.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/buzztrax-0.10.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                839.7666625976562
+            ],
+            [
+                757.2500152587891,
+                858.7666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "ccd2cue",
+        "on_click_jump_to": "https://translationproject.org/domain/ccd2cue.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                839.7666625976562
+            ],
+            [
+                939.2833099365234,
+                858.7666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.5",
+        "on_click_jump_to": "https://translationproject.org/POT-files/ccd2cue-0.5.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                866.1666870117188
+            ],
+            [
+                733.0000152587891,
+                885.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "ccide",
+        "on_click_jump_to": "https://translationproject.org/domain/ccide.html"
+    },
+    {
+        "position": [
+            [
+                886.88330078125,
+                866.1666870117188
+            ],
+            [
+                965.5166320800781,
+                885.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.6.6pre1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/ccide-0.6.6pre1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                892.566650390625
+            ],
+            [
+                733.6166839599609,
+                911.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "cflow",
+        "on_click_jump_to": "https://translationproject.org/domain/cflow.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                892.566650390625
+            ],
+            [
+                939.2833099365234,
+                911.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.7",
+        "on_click_jump_to": "https://translationproject.org/POT-files/cflow-1.7.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                918.9666748046876
+            ],
+            [
+                727.8500213623047,
+                937.9666748046876
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "clisp",
+        "on_click_jump_to": "https://translationproject.org/domain/clisp.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                918.9666748046876
+            ],
+            [
+                957.433349609375,
+                937.9666748046876
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.49.60",
+        "on_click_jump_to": "https://translationproject.org/POT-files/clisp-2.49.60.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                945.36669921875
+            ],
+            [
+                760.4000091552734,
+                964.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "coreutils",
+        "on_click_jump_to": "https://translationproject.org/domain/coreutils.html"
+    },
+    {
+        "position": [
+            [
+                891.25,
+                945.36669921875
+            ],
+            [
+                961.1666717529297,
+                964.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "9.5-pre2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/coreutils-9.5-pre2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                971.7666625976562
+            ],
+            [
+                724.8500213623047,
+                990.7666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "cpio",
+        "on_click_jump_to": "https://translationproject.org/domain/cpio.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                971.7666625976562
+            ],
+            [
+                944.3666534423828,
+                990.7666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.15",
+        "on_click_jump_to": "https://translationproject.org/POT-files/cpio-2.15.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                998.1666870117188
+            ],
+            [
+                725.1000213623047,
+                1017.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "cppi",
+        "on_click_jump_to": "https://translationproject.org/domain/cppi.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                998.1666870117188
+            ],
+            [
+                944.3666534423828,
+                1017.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.17",
+        "on_click_jump_to": "https://translationproject.org/POT-files/cppi-1.17.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1024.566650390625
+            ],
+            [
+                739.4500122070312,
+                1043.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "cpplib",
+        "on_click_jump_to": "https://translationproject.org/domain/cpplib.html"
+    },
+    {
+        "position": [
+            [
+                858.7666625976562,
+                1024.566650390625
+            ],
+            [
+                993.6499938964844,
+                1043.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "14.1-b20240218",
+        "on_click_jump_to": "https://translationproject.org/POT-files/cpplib-14.1-b20240218.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1050.9666748046875
+            ],
+            [
+                777.6166839599609,
+                1069.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "cryptsetup",
+        "on_click_jump_to": "https://translationproject.org/domain/cryptsetup.html"
+    },
+    {
+        "position": [
+            [
+                888.8333129882812,
+                1050.9666748046875
+            ],
+            [
+                963.566650390625,
+                1069.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.7.3-rc0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/cryptsetup-2.7.3-rc0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1077.36669921875
+            ],
+            [
+                771.6000213623047,
+                1096.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "datamash",
+        "on_click_jump_to": "https://translationproject.org/domain/datamash.html"
+    },
+    {
+        "position": [
+            [
+                892.066650390625,
+                1077.36669921875
+            ],
+            [
+                960.3499908447266,
+                1096.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.4.12.1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/datamash-1.4.12.1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1103.7666015625
+            ],
+            [
+                756.9000091552734,
+                1122.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "denemo",
+        "on_click_jump_to": "https://translationproject.org/domain/denemo.html"
+    },
+    {
+        "position": [
+            [
+                896.8333129882812,
+                1103.7666015625
+            ],
+            [
+                955.5833129882812,
+                1122.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.6-rc2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/denemo-2.6-rc2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1130.1666259765625
+            ],
+            [
+                732.8333435058594,
+                1149.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "dfarc",
+        "on_click_jump_to": "https://translationproject.org/domain/dfarc.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                1130.1666259765625
+            ],
+            [
+                944.3666534423828,
+                1149.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.14",
+        "on_click_jump_to": "https://translationproject.org/POT-files/dfarc-3.14.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1156.566650390625
+            ],
+            [
+                740.4833526611328,
+                1175.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "dialog",
+        "on_click_jump_to": "https://translationproject.org/domain/dialog.html"
+    },
+    {
+        "position": [
+            [
+                869.5499877929688,
+                1156.566650390625
+            ],
+            [
+                982.8499908447266,
+                1175.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.3.20210117",
+        "on_click_jump_to": "https://translationproject.org/POT-files/dialog-1.3.20210117.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1182.9666748046875
+            ],
+            [
+                724.8500213623047,
+                1201.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "dico",
+        "on_click_jump_to": "https://translationproject.org/domain/dico.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                1182.9666748046875
+            ],
+            [
+                957.433349609375,
+                1201.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.10.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/dico-2.10.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1209.36669921875
+            ],
+            [
+                751.6000213623047,
+                1228.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "diffutils",
+        "on_click_jump_to": "https://translationproject.org/domain/diffutils.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                1209.36669921875
+            ],
+            [
+                952.3499908447266,
+                1228.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.8.43",
+        "on_click_jump_to": "https://translationproject.org/POT-files/diffutils-3.8.43.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1235.7666015625
+            ],
+            [
+                726.4000091552734,
+                1254.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "dink",
+        "on_click_jump_to": "https://translationproject.org/domain/dink.html"
+    },
+    {
+        "position": [
+            [
+                864.4666748046875,
+                1235.7666015625
+            ],
+            [
+                987.933349609375,
+                1254.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.08.20190120",
+        "on_click_jump_to": "https://translationproject.org/POT-files/dink-1.08.20190120.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1262.1666259765625
+            ],
+            [
+                758.4666748046875,
+                1281.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "direvent",
+        "on_click_jump_to": "https://translationproject.org/domain/direvent.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                1262.1666259765625
+            ],
+            [
+                939.2833099365234,
+                1281.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "5.3",
+        "on_click_jump_to": "https://translationproject.org/POT-files/direvent-5.3.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1288.566650390625
+            ],
+            [
+                745.7333526611328,
+                1307.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "doodle",
+        "on_click_jump_to": "https://translationproject.org/domain/doodle.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                1288.566650390625
+            ],
+            [
+                947.2666320800781,
+                1307.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.7.2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/doodle-0.7.2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1314.9666748046875
+            ],
+            [
+                764.7500152587891,
+                1333.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "dos2unix",
+        "on_click_jump_to": "https://translationproject.org/domain/dos2unix.html"
+    },
+    {
+        "position": [
+            [
+                878.7166748046875,
+                1314.9666748046875
+            ],
+            [
+                973.7000122070312,
+                1333.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "7.5.2-beta2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/dos2unix-7.5.2-beta2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1341.36669921875
+            ],
+            [
+                806.9500122070312,
+                1360.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "dos2unix-man",
+        "on_click_jump_to": "https://translationproject.org/domain/dos2unix-man.html"
+    },
+    {
+        "position": [
+            [
+                878.7166748046875,
+                1341.36669921875
+            ],
+            [
+                973.7000122070312,
+                1360.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "7.5.2-beta3",
+        "on_click_jump_to": "https://translationproject.org/POT-files/dos2unix-man-7.5.2-beta3.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1367.7666015625
+            ],
+            [
+                770.933349609375,
+                1386.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "e2fsprogs",
+        "on_click_jump_to": "https://translationproject.org/domain/e2fsprogs.html"
+    },
+    {
+        "position": [
+            [
+                883.75,
+                1367.7666015625
+            ],
+            [
+                968.6499938964844,
+                1386.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.47.1-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/e2fsprogs-1.47.1-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1394.1666259765625
+            ],
+            [
+                756.2666778564453,
+                1413.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "enscript",
+        "on_click_jump_to": "https://translationproject.org/domain/enscript.html"
+    },
+    {
+        "position": [
+            [
+                892.066650390625,
+                1394.1666259765625
+            ],
+            [
+                960.3499908447266,
+                1413.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.6.5.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/enscript-1.6.5.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1420.566650390625
+            ],
+            [
+                721.4666748046875,
+                1439.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "exif",
+        "on_click_jump_to": "https://translationproject.org/domain/exif.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                1420.566650390625
+            ],
+            [
+                952.3499908447266,
+                1439.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.6.22",
+        "on_click_jump_to": "https://translationproject.org/POT-files/exif-0.6.22.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1446.9666748046875
+            ],
+            [
+                766.3333435058594,
+                1465.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "fetchmail",
+        "on_click_jump_to": "https://translationproject.org/domain/fetchmail.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                1446.9666748046875
+            ],
+            [
+                952.3499908447266,
+                1465.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "6.4.35",
+        "on_click_jump_to": "https://translationproject.org/POT-files/fetchmail-6.4.35.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1473.36669921875
+            ],
+            [
+                756.1000213623047,
+                1492.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "findutils",
+        "on_click_jump_to": "https://translationproject.org/domain/findutils.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                1473.36669921875
+            ],
+            [
+                947.2666320800781,
+                1492.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.9.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/findutils-4.9.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1499.7666015625
+            ],
+            [
+                721.4666748046875,
+                1518.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "flex",
+        "on_click_jump_to": "https://translationproject.org/domain/flex.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                1499.7666015625
+            ],
+            [
+                947.2666320800781,
+                1518.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.6.4",
+        "on_click_jump_to": "https://translationproject.org/POT-files/flex-2.6.4.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1526.1666259765625
+            ],
+            [
+                757.933349609375,
+                1545.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "freedink",
+        "on_click_jump_to": "https://translationproject.org/domain/freedink.html"
+    },
+    {
+        "position": [
+            [
+                902.9666748046876,
+                1526.1666259765625
+            ],
+            [
+                949.4500122070314,
+                1545.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "109.4",
+        "on_click_jump_to": "https://translationproject.org/POT-files/freedink-109.4.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1552.566650390625
+            ],
+            [
+                782.4666748046875,
+                1571.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "fusionforge",
+        "on_click_jump_to": "https://translationproject.org/domain/fusionforge.html"
+    },
+    {
+        "position": [
+            [
+                892.4666748046875,
+                1552.566650390625
+            ],
+            [
+                959.933349609375,
+                1571.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "6.1.0rc2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/fusionforge-6.1.0rc2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1578.9666748046875
+            ],
+            [
+                720.3666839599609,
+                1597.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gas",
+        "on_click_jump_to": "https://translationproject.org/domain/gas.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                1578.9666748046875
+            ],
+            [
+                957.433349609375,
+                1597.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.42.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gas-2.42.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1605.36669921875
+            ],
+            [
+                734.5166778564453,
+                1624.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gawk",
+        "on_click_jump_to": "https://translationproject.org/domain/gawk.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                1605.36669921875
+            ],
+            [
+                952.3499908447266,
+                1624.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "5.2.63",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gawk-5.2.63.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1631.7666015625
+            ],
+            [
+                724.7500152587891,
+                1650.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gcal",
+        "on_click_jump_to": "https://translationproject.org/domain/gcal.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                1631.7666015625
+            ],
+            [
+                939.2833099365234,
+                1650.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gcal-4.1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1658.1666259765625
+            ],
+            [
+                719.0833435058594,
+                1677.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gcc",
+        "on_click_jump_to": "https://translationproject.org/domain/gcc.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                1658.1666259765625
+            ],
+            [
+                952.3499908447266,
+                1677.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "14.2.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gcc-14.2.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1684.566650390625
+            ],
+            [
+                737.9166870117188,
+                1703.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gdbm",
+        "on_click_jump_to": "https://translationproject.org/domain/gdbm.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                1684.566650390625
+            ],
+            [
+                957.433349609375,
+                1703.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.23.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gdbm-1.23.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1710.9666748046875
+            ],
+            [
+                833.2166748046875,
+                1729.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gettext-examples",
+        "on_click_jump_to": "https://translationproject.org/domain/gettext-examples.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                1710.9666748046875
+            ],
+            [
+                944.3666534423828,
+                1729.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.22",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gettext-examples-0.22.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1737.36669921875
+            ],
+            [
+                819.7000122070312,
+                1756.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gettext-runtime",
+        "on_click_jump_to": "https://translationproject.org/domain/gettext-runtime.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                1737.36669921875
+            ],
+            [
+                944.3666534423828,
+                1756.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.22",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gettext-runtime-0.22.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1763.7666015625
+            ],
+            [
+                795.2666778564453,
+                1782.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gettext-tools",
+        "on_click_jump_to": "https://translationproject.org/domain/gettext-tools.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                1763.7666015625
+            ],
+            [
+                944.3666534423828,
+                1782.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.22",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gettext-tools-0.22.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1790.1666259765625
+            ],
+            [
+                746.5000152587891,
+                1809.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gnubik",
+        "on_click_jump_to": "https://translationproject.org/domain/gnubik.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                1790.1666259765625
+            ],
+            [
+                947.2666320800781,
+                1809.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.4.3",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gnubik-2.4.3.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1816.566650390625
+            ],
+            [
+                767.3500213623047,
+                1835.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gnuchess",
+        "on_click_jump_to": "https://translationproject.org/domain/gnuchess.html"
+    },
+    {
+        "position": [
+            [
+                883.25,
+                1816.566650390625
+            ],
+            [
+                969.1499938964844,
+                1835.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "6.2.9-pre3",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gnuchess-6.2.9-pre3.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1842.9666748046875
+            ],
+            [
+                764.8000183105469,
+                1861.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gnucobol",
+        "on_click_jump_to": "https://translationproject.org/domain/gnucobol.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                1842.9666748046875
+            ],
+            [
+                939.2833099365234,
+                1861.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gnucobol-3.2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1869.36669921875
+            ],
+            [
+                741.4166870117188,
+                1888.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gnulib",
+        "on_click_jump_to": "https://translationproject.org/domain/gnulib.html"
+    },
+    {
+        "position": [
+            [
+                881.9000244140625,
+                1869.36669921875
+            ],
+            [
+                970.5166931152344,
+                1888.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.0.0.2567",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gnulib-4.0.0.2567.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1895.7666015625
+            ],
+            [
+                748.6500091552734,
+                1914.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gnunet",
+        "on_click_jump_to": "https://translationproject.org/domain/gnunet.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                1895.7666015625
+            ],
+            [
+                952.3499908447266,
+                1914.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.10.1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gnunet-0.10.1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1922.1666259765625
+            ],
+            [
+                781.3500213623047,
+                1941.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gnunet-gtk",
+        "on_click_jump_to": "https://translationproject.org/domain/gnunet-gtk.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                1922.1666259765625
+            ],
+            [
+                952.3499908447266,
+                1941.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.10.1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gnunet-gtk-0.10.1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1948.566650390625
+            ],
+            [
+                741.7000122070312,
+                1967.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gnutls",
+        "on_click_jump_to": "https://translationproject.org/domain/gnutls.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                1948.566650390625
+            ],
+            [
+                947.2666320800781,
+                1967.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.6.8",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gnutls-3.6.8.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                1974.9666748046875
+            ],
+            [
+                726.4833526611328,
+                1993.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gold",
+        "on_click_jump_to": "https://translationproject.org/domain/gold.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                1974.9666748046875
+            ],
+            [
+                957.433349609375,
+                1993.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.41.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gold-2.41.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2001.36669921875
+            ],
+            [
+                758.4166870117188,
+                2020.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gphoto2",
+        "on_click_jump_to": "https://translationproject.org/domain/gphoto2.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                2001.36669921875
+            ],
+            [
+                952.3499908447266,
+                2020.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.5.28",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gphoto2-2.5.28.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2027.7666015625
+            ],
+            [
+                734.5666809082031,
+                2046.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gprof",
+        "on_click_jump_to": "https://translationproject.org/domain/gprof.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                2027.7666015625
+            ],
+            [
+                957.433349609375,
+                2046.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.41.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gprof-2.41.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2054.166748046875
+            ],
+            [
+                728.7500152587891,
+                2073.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "grep",
+        "on_click_jump_to": "https://translationproject.org/domain/grep.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                2054.166748046875
+            ],
+            [
+                957.433349609375,
+                2073.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.10.12",
+        "on_click_jump_to": "https://translationproject.org/POT-files/grep-3.10.12.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2080.566650390625
+            ],
+            [
+                723.6000213623047,
+                2099.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "grip",
+        "on_click_jump_to": "https://translationproject.org/domain/grip.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                2080.566650390625
+            ],
+            [
+                947.2666320800781,
+                2099.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.1.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/grip-4.1.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2106.966552734375
+            ],
+            [
+                729.3500213623047,
+                2125.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "grub",
+        "on_click_jump_to": "https://translationproject.org/domain/grub.html"
+    },
+    {
+        "position": [
+            [
+                891.75,
+                2106.966552734375
+            ],
+            [
+                960.6666717529297,
+                2125.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.12-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/grub-2.12-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2133.36669921875
+            ],
+            [
+                733.0833435058594,
+                2152.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gsasl",
+        "on_click_jump_to": "https://translationproject.org/domain/gsasl.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                2133.36669921875
+            ],
+            [
+                947.2666320800781,
+                2152.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.2.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gsasl-2.2.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2159.7666015625
+            ],
+            [
+                719.0833435058594,
+                2178.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gss",
+        "on_click_jump_to": "https://translationproject.org/domain/gss.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                2159.7666015625
+            ],
+            [
+                947.2666320800781,
+                2178.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.0.1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gss-1.0.1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2186.166748046875
+            ],
+            [
+                818.1333465576172,
+                2205.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gst-plugins-bad",
+        "on_click_jump_to": "https://translationproject.org/domain/gst-plugins-bad.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                2186.166748046875
+            ],
+            [
+                952.3499908447266,
+                2205.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.24.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gst-plugins-bad-1.24.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2212.566650390625
+            ],
+            [
+                826.0333557128906,
+                2231.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gst-plugins-base",
+        "on_click_jump_to": "https://translationproject.org/domain/gst-plugins-base.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                2212.566650390625
+            ],
+            [
+                952.3499908447266,
+                2231.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.24.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gst-plugins-base-1.24.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2238.966552734375
+            ],
+            [
+                827.9500122070312,
+                2257.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gst-plugins-good",
+        "on_click_jump_to": "https://translationproject.org/domain/gst-plugins-good.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                2238.966552734375
+            ],
+            [
+                952.3499908447266,
+                2257.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.24.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gst-plugins-good-1.24.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2265.36669921875
+            ],
+            [
+                822.5333557128906,
+                2284.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gst-plugins-ugly",
+        "on_click_jump_to": "https://translationproject.org/domain/gst-plugins-ugly.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                2265.36669921875
+            ],
+            [
+                952.3499908447266,
+                2284.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.24.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gst-plugins-ugly-1.24.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2291.7666015625
+            ],
+            [
+                774.9666748046875,
+                2310.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gstreamer",
+        "on_click_jump_to": "https://translationproject.org/domain/gstreamer.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                2291.7666015625
+            ],
+            [
+                952.3499908447266,
+                2310.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.24.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gstreamer-1.24.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2318.166748046875
+            ],
+            [
+                730.9000091552734,
+                2337.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gtick",
+        "on_click_jump_to": "https://translationproject.org/domain/gtick.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                2318.166748046875
+            ],
+            [
+                947.2666320800781,
+                2337.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.5.4",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gtick-0.5.4.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2344.566650390625
+            ],
+            [
+                743.3666839599609,
+                2363.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gtkam",
+        "on_click_jump_to": "https://translationproject.org/domain/gtkam.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                2344.566650390625
+            ],
+            [
+                947.2666320800781,
+                2363.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.2.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gtkam-0.2.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2370.966552734375
+            ],
+            [
+                754.7833557128906,
+                2389.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gtkspell",
+        "on_click_jump_to": "https://translationproject.org/domain/gtkspell.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                2370.966552734375
+            ],
+            [
+                947.2666320800781,
+                2389.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.0.7",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gtkspell-3.0.7.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2397.36669921875
+            ],
+            [
+                776.1333465576172,
+                2416.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "gutenprint",
+        "on_click_jump_to": "https://translationproject.org/domain/gutenprint.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                2397.36669921875
+            ],
+            [
+                947.2666320800781,
+                2416.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "5.3.4",
+        "on_click_jump_to": "https://translationproject.org/POT-files/gutenprint-5.3.4.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2423.7666015625
+            ],
+            [
+                730.6000213623047,
+                2442.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "hello",
+        "on_click_jump_to": "https://translationproject.org/domain/hello.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                2423.7666015625
+            ],
+            [
+                944.3666534423828,
+                2442.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.12",
+        "on_click_jump_to": "https://translationproject.org/POT-files/hello-2.12.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2450.166748046875
+            ],
+            [
+                771.9500122070312,
+                2469.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "help2man",
+        "on_click_jump_to": "https://translationproject.org/domain/help2man.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                2450.166748046875
+            ],
+            [
+                957.433349609375,
+                2469.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.47.17",
+        "on_click_jump_to": "https://translationproject.org/POT-files/help2man-1.47.17.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2476.566650390625
+            ],
+            [
+                808.9000091552734,
+                2495.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "help2man-texi",
+        "on_click_jump_to": "https://translationproject.org/domain/help2man-texi.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                2476.566650390625
+            ],
+            [
+                957.433349609375,
+                2495.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.47.17",
+        "on_click_jump_to": "https://translationproject.org/POT-files/help2man-texi-1.47.17.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2502.966552734375
+            ],
+            [
+                740.3333435058594,
+                2521.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "idutils",
+        "on_click_jump_to": "https://translationproject.org/domain/idutils.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                2502.966552734375
+            ],
+            [
+                952.3499908447266,
+                2521.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.6.21",
+        "on_click_jump_to": "https://translationproject.org/POT-files/idutils-4.6.21.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2529.36669921875
+            ],
+            [
+                721.8500213623047,
+                2548.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "kbd",
+        "on_click_jump_to": "https://translationproject.org/domain/kbd.html"
+    },
+    {
+        "position": [
+            [
+                896.8333129882812,
+                2529.36669921875
+            ],
+            [
+                955.5833129882812,
+                2548.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.6-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/kbd-2.6-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2555.7666015625
+            ],
+            [
+                751.1000213623047,
+                2574.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "klavaro",
+        "on_click_jump_to": "https://translationproject.org/domain/klavaro.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                2555.7666015625
+            ],
+            [
+                944.3666534423828,
+                2574.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.12",
+        "on_click_jump_to": "https://translationproject.org/POT-files/klavaro-3.12.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2582.166748046875
+            ],
+            [
+                706.8000183105469,
+                2601.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "ld",
+        "on_click_jump_to": "https://translationproject.org/domain/ld.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                2582.166748046875
+            ],
+            [
+                957.433349609375,
+                2601.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.42.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/ld-2.42.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2608.566650390625
+            ],
+            [
+                719.5166778564453,
+                2627.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "libc",
+        "on_click_jump_to": "https://translationproject.org/domain/libc.html"
+    },
+    {
+        "position": [
+            [
+                884.7999877929688,
+                2608.566650390625
+            ],
+            [
+                967.5999908447266,
+                2627.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.39.9000",
+        "on_click_jump_to": "https://translationproject.org/POT-files/libc-2.39.9000.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2634.966552734375
+            ],
+            [
+                740.2000122070312,
+                2653.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "libexif",
+        "on_click_jump_to": "https://translationproject.org/domain/libexif.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                2634.966552734375
+            ],
+            [
+                952.3499908447266,
+                2653.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.6.24",
+        "on_click_jump_to": "https://translationproject.org/POT-files/libexif-0.6.24.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2661.36669921875
+            ],
+            [
+                783.8333435058594,
+                2680.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "libextractor",
+        "on_click_jump_to": "https://translationproject.org/domain/libextractor.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                2661.36669921875
+            ],
+            [
+                939.2833099365234,
+                2680.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.9",
+        "on_click_jump_to": "https://translationproject.org/POT-files/libextractor-1.9.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2687.7666015625
+            ],
+            [
+                777.1500091552734,
+                2706.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "libgphoto2",
+        "on_click_jump_to": "https://translationproject.org/domain/libgphoto2.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                2687.7666015625
+            ],
+            [
+                952.3499908447266,
+                2706.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.5.31",
+        "on_click_jump_to": "https://translationproject.org/POT-files/libgphoto2-2.5.31.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2714.166748046875
+            ],
+            [
+                820.1333465576172,
+                2733.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "libgphoto2_port",
+        "on_click_jump_to": "https://translationproject.org/domain/libgphoto2_port.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                2714.166748046875
+            ],
+            [
+                952.3499908447266,
+                2733.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.5.28",
+        "on_click_jump_to": "https://translationproject.org/POT-files/libgphoto2_port-2.5.28.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2740.566650390625
+            ],
+            [
+                753.0500183105469,
+                2759.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "libiconv",
+        "on_click_jump_to": "https://translationproject.org/domain/libiconv.html"
+    },
+    {
+        "position": [
+            [
+                886.1666870117188,
+                2740.566650390625
+            ],
+            [
+                966.2500152587891,
+                2759.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.17-pre1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/libiconv-1.17-pre1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2766.966552734375
+            ],
+            [
+                735.6666870117188,
+                2785.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "libidn",
+        "on_click_jump_to": "https://translationproject.org/domain/libidn.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                2766.966552734375
+            ],
+            [
+                944.3666534423828,
+                2785.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.40",
+        "on_click_jump_to": "https://translationproject.org/POT-files/libidn-1.40.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2793.36669921875
+            ],
+            [
+                745.8333435058594,
+                2812.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "libidn2",
+        "on_click_jump_to": "https://translationproject.org/domain/libidn2.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                2793.36669921875
+            ],
+            [
+                947.2666320800781,
+                2812.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.3.3",
+        "on_click_jump_to": "https://translationproject.org/POT-files/libidn2-2.3.3.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2819.7666015625
+            ],
+            [
+                754.8500213623047,
+                2838.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "lilypond",
+        "on_click_jump_to": "https://translationproject.org/domain/lilypond.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                2819.7666015625
+            ],
+            [
+                957.433349609375,
+                2838.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.23.80",
+        "on_click_jump_to": "https://translationproject.org/POT-files/lilypond-2.23.80.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2846.166748046875
+            ],
+            [
+                770.6000213623047,
+                2865.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "lordsawar",
+        "on_click_jump_to": "https://translationproject.org/domain/lordsawar.html"
+    },
+    {
+        "position": [
+            [
+                883.25,
+                2846.166748046875
+            ],
+            [
+                969.1499938964844,
+                2865.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.3.3-pre2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/lordsawar-0.3.3-pre2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2872.566650390625
+            ],
+            [
+                725.9000091552734,
+                2891.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "lynx",
+        "on_click_jump_to": "https://translationproject.org/domain/lynx.html"
+    },
+    {
+        "position": [
+            [
+                881.933349609375,
+                2872.566650390625
+            ],
+            [
+                970.4666748046875,
+                2891.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.9.0-dev8",
+        "on_click_jump_to": "https://translationproject.org/POT-files/lynx-2.9.0-dev8.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2898.966552734375
+            ],
+            [
+                718.183349609375,
+                2917.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "m4",
+        "on_click_jump_to": "https://translationproject.org/domain/m4.html"
+    },
+    {
+        "position": [
+            [
+                895.066650390625,
+                2898.966552734375
+            ],
+            [
+                957.3333129882812,
+                2917.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.4.18d",
+        "on_click_jump_to": "https://translationproject.org/POT-files/m4-1.4.18d.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2925.36669921875
+            ],
+            [
+                774.1166839599609,
+                2944.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "mailfromd",
+        "on_click_jump_to": "https://translationproject.org/domain/mailfromd.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                2925.36669921875
+            ],
+            [
+                957.433349609375,
+                2944.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "8.17.91",
+        "on_click_jump_to": "https://translationproject.org/POT-files/mailfromd-8.17.91.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2951.7666015625
+            ],
+            [
+                759.933349609375,
+                2970.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "mailutils",
+        "on_click_jump_to": "https://translationproject.org/domain/mailutils.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                2951.7666015625
+            ],
+            [
+                944.3666534423828,
+                2970.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.16",
+        "on_click_jump_to": "https://translationproject.org/POT-files/mailutils-3.16.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                2978.166748046875
+            ],
+            [
+                736.4833526611328,
+                2997.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "make",
+        "on_click_jump_to": "https://translationproject.org/domain/make.html"
+    },
+    {
+        "position": [
+            [
+                892.066650390625,
+                2978.166748046875
+            ],
+            [
+                960.3499908447266,
+                2997.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.4.0.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/make-4.4.0.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3004.566650390625
+            ],
+            [
+                754.9666748046875,
+                3023.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "man-db",
+        "on_click_jump_to": "https://translationproject.org/domain/man-db.html"
+    },
+    {
+        "position": [
+            [
+                878.1666870117188,
+                3004.566650390625
+            ],
+            [
+                974.2333526611328,
+                3023.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.12.0-pre1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/man-db-2.12.0-pre1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3030.966552734375
+            ],
+            [
+                844.9666748046875,
+                3049.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "man-db-manpages",
+        "on_click_jump_to": "https://translationproject.org/domain/man-db-manpages.html"
+    },
+    {
+        "position": [
+            [
+                878.1666870117188,
+                3030.966552734375
+            ],
+            [
+                974.2333526611328,
+                3049.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.12.1-pre1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/man-db-manpages-2.12.1-pre1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3057.36669921875
+            ],
+            [
+                763.2500152587891,
+                3076.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "meritous",
+        "on_click_jump_to": "https://translationproject.org/domain/meritous.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                3057.36669921875
+            ],
+            [
+                939.2833099365234,
+                3076.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.5",
+        "on_click_jump_to": "https://translationproject.org/POT-files/meritous-1.5.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3083.7666015625
+            ],
+            [
+                830.0000152587891,
+                3102.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "midi-instruments",
+        "on_click_jump_to": "https://translationproject.org/domain/midi-instruments.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                3083.7666015625
+            ],
+            [
+                939.2833099365234,
+                3102.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/midi-instruments-0.2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3110.166748046875
+            ],
+            [
+                760.5333557128906,
+                3129.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "minicom",
+        "on_click_jump_to": "https://translationproject.org/domain/minicom.html"
+    },
+    {
+        "position": [
+            [
+                896.8333129882812,
+                3110.166748046875
+            ],
+            [
+                955.5833129882812,
+                3129.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.9-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/minicom-2.9-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3136.566650390625
+            ],
+            [
+                737.6666870117188,
+                3155.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "mpop",
+        "on_click_jump_to": "https://translationproject.org/domain/mpop.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                3136.566650390625
+            ],
+            [
+                952.3499908447266,
+                3155.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.4.19",
+        "on_click_jump_to": "https://translationproject.org/POT-files/mpop-1.4.19.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3162.966552734375
+            ],
+            [
+                748.183349609375,
+                3181.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "msmtp",
+        "on_click_jump_to": "https://translationproject.org/domain/msmtp.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                3162.966552734375
+            ],
+            [
+                952.3499908447266,
+                3181.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.8.26",
+        "on_click_jump_to": "https://translationproject.org/POT-files/msmtp-1.8.26.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3189.36669921875
+            ],
+            [
+                732.0500183105469,
+                3208.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "nano",
+        "on_click_jump_to": "https://translationproject.org/domain/nano.html"
+    },
+    {
+        "position": [
+            [
+                891.25,
+                3189.36669921875
+            ],
+            [
+                961.1666717529297,
+                3208.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "8.1-pre1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/nano-8.1-pre1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3215.7666015625
+            ],
+            [
+                758.0166778564453,
+                3234.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "opcodes",
+        "on_click_jump_to": "https://translationproject.org/domain/opcodes.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                3215.7666015625
+            ],
+            [
+                957.433349609375,
+                3234.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.42.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/opcodes-2.42.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3242.166748046875
+            ],
+            [
+                744.6666870117188,
+                3261.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "parted",
+        "on_click_jump_to": "https://translationproject.org/domain/parted.html"
+    },
+    {
+        "position": [
+            [
+                892.066650390625,
+                3242.166748046875
+            ],
+            [
+                960.3499908447266,
+                3261.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.4.64.2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/parted-3.4.64.2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3268.566650390625
+            ],
+            [
+                724.6666870117188,
+                3287.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "pies",
+        "on_click_jump_to": "https://translationproject.org/domain/pies.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                3268.566650390625
+            ],
+            [
+                939.2833099365234,
+                3287.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.8",
+        "on_click_jump_to": "https://translationproject.org/POT-files/pies-1.8.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3294.966552734375
+            ],
+            [
+                758.1500091552734,
+                3313.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "pnmixer",
+        "on_click_jump_to": "https://translationproject.org/domain/pnmixer.html"
+    },
+    {
+        "position": [
+            [
+                888.8333129882812,
+                3294.966552734375
+            ],
+            [
+                963.566650390625,
+                3313.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.7.1-rc3",
+        "on_click_jump_to": "https://translationproject.org/POT-files/pnmixer-0.7.1-rc3.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3321.36669921875
+            ],
+            [
+                772.9666748046875,
+                3340.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "procps-ng",
+        "on_click_jump_to": "https://translationproject.org/domain/procps-ng.html"
+    },
+    {
+        "position": [
+            [
+                888.8333129882812,
+                3321.36669921875
+            ],
+            [
+                963.566650390625,
+                3340.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.0.4-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/procps-ng-4.0.4-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3347.7666015625
+            ],
+            [
+                815.5500183105469,
+                3366.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "procps-ng-man",
+        "on_click_jump_to": "https://translationproject.org/domain/procps-ng-man.html"
+    },
+    {
+        "position": [
+            [
+                888.8333129882812,
+                3347.7666015625
+            ],
+            [
+                963.566650390625,
+                3366.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.0.4-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/procps-ng-man-4.0.4-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3374.166748046875
+            ],
+            [
+                747.3666839599609,
+                3393.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "psmisc",
+        "on_click_jump_to": "https://translationproject.org/domain/psmisc.html"
+    },
+    {
+        "position": [
+            [
+                891.75,
+                3374.166748046875
+            ],
+            [
+                960.6666717529297,
+                3393.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "23.7-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/psmisc-23.7-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3400.566650390625
+            ],
+            [
+                789.8000183105469,
+                3419.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "psmisc-man",
+        "on_click_jump_to": "https://translationproject.org/domain/psmisc-man.html"
+    },
+    {
+        "position": [
+            [
+                891.75,
+                3400.566650390625
+            ],
+            [
+                960.6666717529297,
+                3419.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "23.7-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/psmisc-man-23.7-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3426.966552734375
+            ],
+            [
+                730.683349609375,
+                3445.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "pspp",
+        "on_click_jump_to": "https://translationproject.org/domain/pspp.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                3426.966552734375
+            ],
+            [
+                947.2666320800781,
+                3445.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.0.1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/pspp-2.0.1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3453.36669921875
+            ],
+            [
+                766.1000213623047,
+                3472.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "pyspread",
+        "on_click_jump_to": "https://translationproject.org/domain/pyspread.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                3453.36669921875
+            ],
+            [
+                939.2833099365234,
+                3472.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/pyspread-1.1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3479.7666015625
+            ],
+            [
+                741.433349609375,
+                3498.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "radius",
+        "on_click_jump_to": "https://translationproject.org/domain/radius.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                3479.7666015625
+            ],
+            [
+                947.2666320800781,
+                3498.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.6.1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/radius-1.6.1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3506.166748046875
+            ],
+            [
+                746.3666839599609,
+                3525.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "recode",
+        "on_click_jump_to": "https://translationproject.org/domain/recode.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                3506.166748046875
+            ],
+            [
+                947.2666320800781,
+                3525.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.7.1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/recode-3.7.1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3532.566650390625
+            ],
+            [
+                750.683349609375,
+                3551.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "recutils",
+        "on_click_jump_to": "https://translationproject.org/domain/recutils.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                3532.566650390625
+            ],
+            [
+                939.2833099365234,
+                3551.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.8",
+        "on_click_jump_to": "https://translationproject.org/POT-files/recutils-1.8.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3558.966552734375
+            ],
+            [
+                727.8833465576172,
+                3577.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "rush",
+        "on_click_jump_to": "https://translationproject.org/domain/rush.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                3558.966552734375
+            ],
+            [
+                939.2833099365234,
+                3577.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/rush-2.2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3585.36669921875
+            ],
+            [
+                727.2000122070312,
+                3604.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "sarg",
+        "on_click_jump_to": "https://translationproject.org/domain/sarg.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                3585.36669921875
+            ],
+            [
+                947.2666320800781,
+                3604.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.4.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/sarg-2.4.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3611.7666015625
+            ],
+            [
+                748.7000122070312,
+                3630.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "savane",
+        "on_click_jump_to": "https://translationproject.org/domain/savane.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                3611.7666015625
+            ],
+            [
+                944.3666534423828,
+                3630.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.13",
+        "on_click_jump_to": "https://translationproject.org/POT-files/savane-3.13.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3638.166748046875
+            ],
+            [
+                720.2833557128906,
+                3657.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "sed",
+        "on_click_jump_to": "https://translationproject.org/domain/sed.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                3638.166748046875
+            ],
+            [
+                952.3499908447266,
+                3657.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.8.44",
+        "on_click_jump_to": "https://translationproject.org/POT-files/sed-4.8.44.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3664.566650390625
+            ],
+            [
+                760.9000091552734,
+                3683.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "sharutils",
+        "on_click_jump_to": "https://translationproject.org/domain/sharutils.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                3664.566650390625
+            ],
+            [
+                952.3499908447266,
+                3683.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.15.2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/sharutils-4.15.2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3690.966552734375
+            ],
+            [
+                766.8833465576172,
+                3709.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "shepherd",
+        "on_click_jump_to": "https://translationproject.org/domain/shepherd.html"
+    },
+    {
+        "position": [
+            [
+                887.38330078125,
+                3690.966552734375
+            ],
+            [
+                965.0166320800781,
+                3709.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.10.3rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/shepherd-0.10.3rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3717.36669921875
+            ],
+            [
+                738.1500091552734,
+                3736.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "shishi",
+        "on_click_jump_to": "https://translationproject.org/domain/shishi.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                3717.36669921875
+            ],
+            [
+                947.2666320800781,
+                3736.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.0.2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/shishi-1.0.2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3743.7666015625
+            ],
+            [
+                749.9166870117188,
+                3762.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "skribilo",
+        "on_click_jump_to": "https://translationproject.org/domain/skribilo.html"
+    },
+    {
+        "position": [
+            [
+                892.066650390625,
+                3743.7666015625
+            ],
+            [
+                960.3499908447266,
+                3762.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.9.3.16",
+        "on_click_jump_to": "https://translationproject.org/POT-files/skribilo-0.9.3.16.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3770.166748046875
+            ],
+            [
+                749.5500183105469,
+                3789.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "solfege",
+        "on_click_jump_to": "https://translationproject.org/domain/solfege.html"
+    },
+    {
+        "position": [
+            [
+                878.1666870117188,
+                3770.166748046875
+            ],
+            [
+                974.2333526611328,
+                3789.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.22.1-pre1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/solfege-3.22.1-pre1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3796.566650390625
+            ],
+            [
+                816.2666778564453,
+                3815.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "solfege-manual",
+        "on_click_jump_to": "https://translationproject.org/domain/solfege-manual.html"
+    },
+    {
+        "position": [
+            [
+                878.1666870117188,
+                3796.566650390625
+            ],
+            [
+                974.2333526611328,
+                3815.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.22.1-pre1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/solfege-manual-3.22.1-pre1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3822.966552734375
+            ],
+            [
+                794.4666748046875,
+                3841.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "spotmachine",
+        "on_click_jump_to": "https://translationproject.org/domain/spotmachine.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                3822.966552734375
+            ],
+            [
+                947.2666320800781,
+                3841.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.3.2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/spotmachine-0.3.2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3849.36669921875
+            ],
+            [
+                730.6000213623047,
+                3868.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "sudo",
+        "on_click_jump_to": "https://translationproject.org/domain/sudo.html"
+    },
+    {
+        "position": [
+            [
+                889.9833374023438,
+                3849.36669921875
+            ],
+            [
+                962.4166717529297,
+                3868.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.9.16b1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/sudo-1.9.16b1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3875.7666015625
+            ],
+            [
+                755.3000183105469,
+                3894.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "sudoers",
+        "on_click_jump_to": "https://translationproject.org/domain/sudoers.html"
+    },
+    {
+        "position": [
+            [
+                889.9833374023438,
+                3875.7666015625
+            ],
+            [
+                962.4166717529297,
+                3894.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.9.16b1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/sudoers-1.9.16b1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3902.166748046875
+            ],
+            [
+                749.1333465576172,
+                3921.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "sysstat",
+        "on_click_jump_to": "https://translationproject.org/domain/sysstat.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                3902.166748046875
+            ],
+            [
+                952.3499908447266,
+                3921.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "12.7.2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/sysstat-12.7.2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3928.566650390625
+            ],
+            [
+                715.2000122070312,
+                3947.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "tar",
+        "on_click_jump_to": "https://translationproject.org/domain/tar.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                3928.566650390625
+            ],
+            [
+                944.3666534423828,
+                3947.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.35",
+        "on_click_jump_to": "https://translationproject.org/POT-files/tar-1.35.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3954.966552734375
+            ],
+            [
+                747.6166839599609,
+                3973.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "texinfo",
+        "on_click_jump_to": "https://translationproject.org/domain/texinfo.html"
+    },
+    {
+        "position": [
+            [
+                892.066650390625,
+                3954.966552734375
+            ],
+            [
+                960.3499908447266,
+                3973.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "7.1.0.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/texinfo-7.1.0.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                3981.36669921875
+            ],
+            [
+                837.4666748046875,
+                4000.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "texinfo_document",
+        "on_click_jump_to": "https://translationproject.org/domain/texinfo_document.html"
+    },
+    {
+        "position": [
+            [
+                892.066650390625,
+                3981.36669921875
+            ],
+            [
+                960.3499908447266,
+                4000.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "7.1.0.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/texinfo_document-7.1.0.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4007.7666015625
+            ],
+            [
+                757.4000091552734,
+                4026.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "tigervnc",
+        "on_click_jump_to": "https://translationproject.org/domain/tigervnc.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                4007.7666015625
+            ],
+            [
+                957.433349609375,
+                4026.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.13.90",
+        "on_click_jump_to": "https://translationproject.org/POT-files/tigervnc-1.13.90.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4034.166748046875
+            ],
+            [
+                713.2666778564453,
+                4053.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "tin",
+        "on_click_jump_to": "https://translationproject.org/domain/tin.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                4034.166748046875
+            ],
+            [
+                947.2666320800781,
+                4053.166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.6.3",
+        "on_click_jump_to": "https://translationproject.org/POT-files/tin-2.6.3.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4060.566650390625
+            ],
+            [
+                755.8500213623047,
+                4079.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "tin-man",
+        "on_click_jump_to": "https://translationproject.org/domain/tin-man.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                4060.566650390625
+            ],
+            [
+                947.2666320800781,
+                4079.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.6.3",
+        "on_click_jump_to": "https://translationproject.org/POT-files/tin-man-2.6.3.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4086.966552734375
+            ],
+            [
+                741.2500152587891,
+                4105.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "trader",
+        "on_click_jump_to": "https://translationproject.org/domain/trader.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                4086.966552734375
+            ],
+            [
+                944.3666534423828,
+                4105.966552734375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "7.19",
+        "on_click_jump_to": "https://translationproject.org/POT-files/trader-7.19.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4113.36669921875
+            ],
+            [
+                763.4166870117188,
+                4132.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "util-linux",
+        "on_click_jump_to": "https://translationproject.org/domain/util-linux.html"
+    },
+    {
+        "position": [
+            [
+                883.75,
+                4113.36669921875
+            ],
+            [
+                968.6499938964844,
+                4132.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.40.1-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/util-linux-2.40.1-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4139.7666015625
+            ],
+            [
+                805.6166839599609,
+                4158.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "util-linux-man",
+        "on_click_jump_to": "https://translationproject.org/domain/util-linux-man.html"
+    },
+    {
+        "position": [
+            [
+                883.75,
+                4139.7666015625
+            ],
+            [
+                968.6499938964844,
+                4158.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.40.1-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/util-linux-man-2.40.1-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4166.16650390625
+            ],
+            [
+                711.3166809082031,
+                4185.16650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "ve",
+        "on_click_jump_to": "https://translationproject.org/domain/ve.html"
+    },
+    {
+        "position": [
+            [
+                888.8333129882812,
+                4166.16650390625
+            ],
+            [
+                963.566650390625,
+                4185.16650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.1.4-rc1",
+        "on_click_jump_to": "https://translationproject.org/POT-files/ve-0.1.4-rc1.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4192.56689453125
+            ],
+            [
+                733.0500183105469,
+                4211.56689453125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "vmm",
+        "on_click_jump_to": "https://translationproject.org/domain/vmm.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                4192.56689453125
+            ],
+            [
+                947.2666320800781,
+                4211.56689453125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.7.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/vmm-0.7.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4218.966796875
+            ],
+            [
+                786.7333526611328,
+                4237.966796875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "vorbis-tools",
+        "on_click_jump_to": "https://translationproject.org/domain/vorbis-tools.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                4218.966796875
+            ],
+            [
+                947.2666320800781,
+                4237.966796875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.4.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/vorbis-tools-1.4.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4245.36669921875
+            ],
+            [
+                786.5000152587891,
+                4264.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "wastesedge",
+        "on_click_jump_to": "https://translationproject.org/domain/wastesedge.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                4245.36669921875
+            ],
+            [
+                947.2666320800781,
+                4264.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.3.7",
+        "on_click_jump_to": "https://translationproject.org/POT-files/wastesedge-0.3.7.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4271.7666015625
+            ],
+            [
+                723.8500213623047,
+                4290.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "wcd",
+        "on_click_jump_to": "https://translationproject.org/domain/wcd.html"
+    },
+    {
+        "position": [
+            [
+                878.7166748046875,
+                4271.7666015625
+            ],
+            [
+                973.7000122070312,
+                4290.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "6.0.3-beta6",
+        "on_click_jump_to": "https://translationproject.org/POT-files/wcd-6.0.3-beta6.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4298.16650390625
+            ],
+            [
+                766.433349609375,
+                4317.16650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "wcd-man",
+        "on_click_jump_to": "https://translationproject.org/domain/wcd-man.html"
+    },
+    {
+        "position": [
+            [
+                878.7166748046875,
+                4298.16650390625
+            ],
+            [
+                973.7000122070312,
+                4317.16650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "6.0.3-beta7",
+        "on_click_jump_to": "https://translationproject.org/POT-files/wcd-man-6.0.3-beta7.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4324.56689453125
+            ],
+            [
+                731.1666870117188,
+                4343.56689453125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "wdiff",
+        "on_click_jump_to": "https://translationproject.org/domain/wdiff.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                4324.56689453125
+            ],
+            [
+                947.2666320800781,
+                4343.56689453125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.2.2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/wdiff-1.2.2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4350.966796875
+            ],
+            [
+                731.3500213623047,
+                4369.966796875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "wget",
+        "on_click_jump_to": "https://translationproject.org/domain/wget.html"
+    },
+    {
+        "position": [
+            [
+                900.0499877929688,
+                4350.966796875
+            ],
+            [
+                952.3499908447266,
+                4369.966796875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "1.21.4",
+        "on_click_jump_to": "https://translationproject.org/POT-files/wget-1.21.4.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4377.36669921875
+            ],
+            [
+                741.5166778564453,
+                4396.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "wget2",
+        "on_click_jump_to": "https://translationproject.org/domain/wget2.html"
+    },
+    {
+        "position": [
+            [
+                905.13330078125,
+                4377.36669921875
+            ],
+            [
+                947.2666320800781,
+                4396.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.1.0",
+        "on_click_jump_to": "https://translationproject.org/POT-files/wget2-2.1.0.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4403.7666015625
+            ],
+            [
+                764.5666809082031,
+                4422.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "wyslij-po",
+        "on_click_jump_to": "https://translationproject.org/domain/wyslij-po.html"
+    },
+    {
+        "position": [
+            [
+                913.13330078125,
+                4403.7666015625
+            ],
+            [
+                939.2833099365234,
+                4422.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "3.3",
+        "on_click_jump_to": "https://translationproject.org/POT-files/wyslij-po-3.3.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4430.16650390625
+            ],
+            [
+                748.0166778564453,
+                4449.16650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "xboard",
+        "on_click_jump_to": "https://translationproject.org/domain/xboard.html"
+    },
+    {
+        "position": [
+            [
+                883.25,
+                4430.16650390625
+            ],
+            [
+                969.1499938964844,
+                4449.16650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "4.9.0-pre2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/xboard-4.9.0-pre2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4456.56689453125
+            ],
+            [
+                800.4833526611328,
+                4475.56689453125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "xdg-user-dirs",
+        "on_click_jump_to": "https://translationproject.org/domain/xdg-user-dirs.html"
+    },
+    {
+        "position": [
+            [
+                908.0499877929688,
+                4456.56689453125
+            ],
+            [
+                944.3666534423828,
+                4475.56689453125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "0.17",
+        "on_click_jump_to": "https://translationproject.org/PO-files/mr/xdg-user-dirs-0.17.mr.po"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4482.966796875
+            ],
+            [
+                831.7666778564453,
+                4501.966796875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "xkeyboard-config",
+        "on_click_jump_to": "https://translationproject.org/domain/xkeyboard-config.html"
+    },
+    {
+        "position": [
+            [
+                894.9666748046875,
+                4482.966796875
+            ],
+            [
+                957.433349609375,
+                4501.966796875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "2.41.99",
+        "on_click_jump_to": "https://translationproject.org/POT-files/xkeyboard-config-2.41.99.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4509.36669921875
+            ],
+            [
+                710.3166809082031,
+                4528.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "xz",
+        "on_click_jump_to": "https://translationproject.org/domain/xz.html"
+    },
+    {
+        "position": [
+            [
+                883.25,
+                4509.36669921875
+            ],
+            [
+                969.1499938964844,
+                4528.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "5.6.0-pre2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/xz-5.6.0-pre2.pot"
+    },
+    {
+        "position": [
+            [
+                692.4500122070312,
+                4535.7666015625
+            ],
+            [
+                752.7500152587891,
+                4554.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "xz-man",
+        "on_click_jump_to": "https://translationproject.org/domain/xz-man.html"
+    },
+    {
+        "position": [
+            [
+                883.25,
+                4535.7666015625
+            ],
+            [
+                969.1499938964844,
+                4554.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "5.6.0-pre2",
+        "on_click_jump_to": "https://translationproject.org/POT-files/xz-man-5.6.0-pre2.pot"
+    },
+    {
+        "position": [
+            [
+                518.3499755859375,
+                4594.966796875
+            ],
+            [
+                833.2666320800781,
+                4613.966796875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "tarball containing all the above PO files",
+        "on_click_jump_to": "https://translationproject.org/backups/last/mr.tgz"
+    },
+    {
+        "position": [
+            [
+                1770.550048828125,
+                4656.41650390625
+            ],
+            [
+                1829.550048828125,
+                4670.41650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            134
+        ],
+        "text": "comments",
+        "on_click_jump_to": "mailto:comments@translationproject.org"
+    }
+]

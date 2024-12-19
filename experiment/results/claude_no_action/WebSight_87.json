@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                803.0,
+                16.0
+            ],
+            [
+                845.8999938964844,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                869.9000244140625,
+                16.0
+            ],
+            [
+                935.6333618164062,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                959.63330078125,
+                16.0
+            ],
+            [
+                1016.1499633789062,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1040.1500244140625,
+                16.0
+            ],
+            [
+                1117.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                709.3333129882812,
+                88.0
+            ],
+            [
+                1210.6666564941406,
+                112.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/building.jpg"
+    }
+]

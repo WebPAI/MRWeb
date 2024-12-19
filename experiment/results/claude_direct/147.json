@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                630.0
+            ],
+            [
+                278.6166687011719,
+                650.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "About Me",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                662.0
+            ],
+            [
+                401.81666564941406,
+                682.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Advice for Aspiring Writers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                264.0,
+                764.0
+            ],
+            [
+                345.8333282470703,
+                788.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Count Zero",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                756.0
+            ],
+            [
+                248.0,
+                796.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_direct/thumbnail-url"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                596.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_direct/background-image-url"
+    }
+]

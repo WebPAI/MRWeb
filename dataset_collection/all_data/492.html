@@ -1,0 +1,145 @@
+<html class="desktop-view not-mobile-device text-size-normal anon" lang="en"><!-- 
+ single html processed by https://github.com/zTrix/webpage2html
+ title: How are you able to use FCC beta - The freeCodeCamp Forum
+ url: https://forum.freecodecamp.org/t/how-are-you-able-to-use-fcc-beta/169009
+ date: Thu Aug 22 22:32:40 2024
+-->
+<body class="">
+<section id="d-splash">
+<template style="display: none;">MockElement!</template>
+<style>
+    html {
+      overflow-y: hidden !important;
+    }
+
+    /* user picked a theme where the "regular" scheme is dark */
+    html {
+      background-color: #313146;
+    }
+
+    #d-splash .preloader-text-wrapper {
+      color: #dddee0;
+    }
+
+    #d-splash {
+      display: grid;
+      place-items: center;
+      backface-visibility: hidden;
+      position: absolute;
+      left: 0;
+      top: 0;
+      width: 100%;
+      z-index: 1001;
+      --animation-state: paused;
+    }
+
+    #d-splash .preloader-image {
+      max-width: 100%;
+      height: 100vh;
+    }
+
+    #d-splash .preloader-text-wrapper {
+      font-family: sans-serif;
+      position: absolute;
+      opacity: 0;
+      animation: fade-in 0.5s ease-in-out;
+      animation-delay: 1s;
+      animation-fill-mode: forwards;
+      animation-play-state: var(--animation-state);
+      margin-bottom: -4em;
+    }
+
+    #d-splash .preloader-text:after {
+      animation: loading-text 3s infinite;
+      content: "";
+      position: absolute;
+      margin: 0 0.1em;
+      left: 100%;
+    }
+
+    .rtl #d-splash .preloader-text:after {
+      left: 0;
+      right: 100%;
+    }
+
+    @keyframes fade-in {
+      0% {
+        opacity: 0;
+      }
+      100% {
+        opacity: 1;
+      }
+    }
+
+    @keyframes loading-text {
+      0% {
+        content: "";
+      }
+      25% {
+        content: ".";
+      }
+      50% {
+        content: "..";
+      }
+      75% {
+        content: "...";
+      }
+    }
+  </style>
+
+
+
+
+</section>
+<discourse-assets>
+<discourse-assets-stylesheets>
+<style class="light-scheme" data-href="https://sea1.discourse-cdn.com/freecodecamp/stylesheets/color_definitions_dark-very-low-contrast_58_47_6b6087b161749be174d594234b8b4c5473f43711.css?__ws=forum.freecodecamp.org" media="all" rel="stylesheet" type="text/css">:root{--scheme-type: dark;--primary: #dddee0;--secondary: #313146;--tertiary: #0088cc;--quaternary: #0088cc;--header_background: #0a0a23;--header_primary: #333333;--highlight: #0088cc;--danger: #e45735;--success: #019245;--love: #d41313;--d-selected: #d1f0ff;--d-hover: #f2f2f2;--always-black-rgb: 0, 0, 0;--primary-rgb: 221, 222, 224;--primary-low-rgb: 66, 66, 85;--primary-very-low-rgb: 54, 54, 75;--secondary-rgb: 49, 49, 70;--header_background-rgb: 10, 10, 35;--tertiary-rgb: 0, 136, 204;--highlight-rgb: 0, 136, 204;--success-rgb: 1, 146, 69;--primary-very-low: #36364b;--primary-low: #424255;--primary-low-mid: #656574;--primary-medium: #878893;--primary-high: #a9aab2;--primary-very-high: #c6c7cb;--primary-50: #26272a;--primary-100: #2a2c2f;--primary-200: #2f3033;--primary-300: #55585d;--primary-400: #757880;--primary-500: #80848b;--primary-600: #8c8f96;--primary-700: #979aa0;--primary-800: #a3a6ab;--primary-900: #c6c7cb;--header_primary-low: rgb(19, 19, 37);--header_primary-low-mid: rgb(31, 31, 41);--header_primary-medium: rgb(38, 38, 45);--header_primary-high: rgb(43, 43, 47);--header_primary-very-high: rgb(48, 48, 50);--secondary-low: #bbbbc1;--secondary-medium: #93949e;--secondary-high: #767684;--secondary-very-high: #3c3c56;--tertiary-very-low: #002233;--tertiary-low: #082345;--tertiary-medium: #054978;--tertiary-high: #036299;--tertiary-hover: #0aadff;--tertiary-50: #002233;--tertiary-100: #002639;--tertiary-200: #002a3f;--tertiary-300: #003047;--tertiary-400: #003956;--tertiary-500: #004162;--tertiary-600: #004b70;--tertiary-700: #00547e;--tertiary-800: #005e8d;--tertiary-900: #006699;--quaternary-low: #063c67;--highlight-bg: #001b29;--highlight-low: #091734;--highlight-medium: #063c67;--highlight-high: #66b8e0;--danger-low: #361927;--danger-low-mid: rgba(99, 30, 13, 0.7);--danger-medium: #a34030;--danger-hover: #c63c1b;--success-low: #003a1c;--success-medium: #015829;--success-hover: #017537;--love-low: #3a1e38;--wiki: green;--blend-primary-secondary-5: rgb(69, 69, 85);--primary-med-or-secondary-med: #93949e;--primary-med-or-secondary-high: #767684;--primary-high-or-secondary-low: #bbbbc1;--primary-low-mid-or-secondary-high: #767684;--primary-low-mid-or-secondary-low: #bbbbc1;--primary-or-primary-low-mid: #656574;--highlight-low-or-medium: #063c67;--tertiary-or-tertiary-low: #082345;--tertiary-low-or-tertiary-high: #036299;--tertiary-med-or-tertiary: #0088cc;--secondary-or-primary: #dddee0;--tertiary-or-white: #fff;--facebook-or-white: #fff;--twitter-or-white: #fff;--hljs-comment: #bba;--hljs-number: #aff;--hljs-string: #f99;--hljs-literal: #9ae;--hljs-tag: #99f;--hljs-attribute: #0ee;--hljs-symbol: #fbe;--hljs-bg: #333;--hljs-builtin-name: #0aadff;--google: #ffffff;--google-hover: #f2f2f2;--instagram: #e1306c;--instagram-hover: #ac194b;--facebook: #0866ff;--facebook-hover: #0047bb;--cas: #70ba61;--twitter: #000;--github: #100e0f;--github-hover: #463e42;--discord: #7289da;--discord-hover: #4a67cf;--gold: rgb(231, 195, 0);--silver: #c0c0c0;--bronze: #cd7f32;--shadow-modal: 0 8px 60px rgba(0, 0, 0, 1);--shadow-composer: 0 -1px 40px rgba(0, 0, 0, 0.35);--shadow-menu-panel: 0 8px 12px rgba(0, 0, 0, 0.35);--shadow-card: 0 4px 14px rgba(0, 0, 0, 0.5);--shadow-dropdown: 0 2px 12px 0 rgba(0, 0, 0, 0.25);--shadow-header: 0 0 0 1px var(--primary-low);--shadow-footer-nav: 0 0 2px 0 rgba(0, 0, 0, 0.4);--shadow-focus-danger: 0 0 6px 0 var(--danger);--float-kit-arrow-stroke-color: var(--primary-low);--float-kit-arrow-fill-color: var(--secondary)}:root{--chat-skeleton-animation-rgb: 38, 39, 42}:root{--calendar-normal: #00334d;--calendar-close-to-working-hours: #005580;--calendar-in-working-hours: #006699}:root{--font-family: Arial, sans-serif}:root{--heading-font-family: Arial, sans-serif}
+
+/*# sourceMappingURL=color_definitions_dark-very-low-contrast_58_47_6b6087b161749be174d594234b8b4c5473f43711.css.map?__ws=forum.freecodecamp.org */</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</discourse-assets-stylesheets>
+
+
+</discourse-assets>
+
+
+
+
+
+
+
+
+
+</body></html>

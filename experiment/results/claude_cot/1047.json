@@ -1,0 +1,488 @@
+[
+    {
+        "position": [
+            [
+                0.0,
+                77.0
+            ],
+            [
+                75.11666870117188,
+                117.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://repository.unikom.ac.id/"
+    },
+    {
+        "position": [
+            [
+                75.11666870117188,
+                77.0
+            ],
+            [
+                150.75,
+                117.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://repository.unikom.ac.id/information.html"
+    },
+    {
+        "position": [
+            [
+                150.75,
+                77.0
+            ],
+            [
+                236.03334045410156,
+                117.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Browse",
+        "on_click_jump_to": "http://repository.unikom.ac.id/view/"
+    },
+    {
+        "position": [
+            [
+                236.03334045410156,
+                77.0
+            ],
+            [
+                379.3666687011719,
+                117.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Jurnal UNIKOM",
+        "on_click_jump_to": "http://repository.unikom.ac.id/view/subjects/UNIK1334.html"
+    },
+    {
+        "position": [
+            [
+                379.3666687011719,
+                77.0
+            ],
+            [
+                482.5833282470703,
+                117.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Thesis S2",
+        "on_click_jump_to": "http://repository.unikom.ac.id/view/subjects/UNIK504.html"
+    },
+    {
+        "position": [
+            [
+                482.5833129882813,
+                77.0
+            ],
+            [
+                584.8833160400391,
+                117.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Skripsi S1",
+        "on_click_jump_to": "http://repository.unikom.ac.id/view/subjects/UNIK1.html"
+    },
+    {
+        "position": [
+            [
+                584.88330078125,
+                77.0
+            ],
+            [
+                727.9499664306641,
+                117.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Tugas Akhir D3",
+        "on_click_jump_to": "http://repository.unikom.ac.id/view/subjects/UNIK167.html"
+    },
+    {
+        "position": [
+            [
+                727.9500122070312,
+                77.0
+            ],
+            [
+                904.683349609375,
+                117.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Materi Kuliah Online",
+        "on_click_jump_to": "http://repository.unikom.ac.id/view/subjects/kuliahonline.html"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                116.0
+            ],
+            [
+                47.600006103515625,
+                140.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Login",
+        "on_click_jump_to": "http://repository.unikom.ac.id/cgi/users/home"
+    },
+    {
+        "position": [
+            [
+                83.41667175292969,
+                116.0
+            ],
+            [
+                196.06666564941406,
+                140.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Create Account",
+        "on_click_jump_to": "https://repository.unikom.ac.id/cgi/register"
+    },
+    {
+        "position": [
+            [
+                46.0,
+                167.0
+            ],
+            [
+                117.44999694824219,
+                191.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "Up a level",
+        "on_click_jump_to": "https://repository.unikom.ac.id/view/creators/"
+    },
+    {
+        "position": [
+            [
+                1660.0999755859375,
+                211.0
+            ],
+            [
+                1716.2166290283203,
+                235.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Atom",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1732.2166748046875,
+                211.0
+            ],
+            [
+                1804.9166870117188,
+                235.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "RSS 1.0",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1820.9166259765625,
+                211.0
+            ],
+            [
+                1895.9999542236328,
+                235.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "RSS 2.0",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                244.5833282470703,
+                309.0
+            ],
+            [
+                589.3999786376953,
+                329.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "GIS Asia Pacific '95. Conference and Exhibition.",
+        "on_click_jump_to": "http://repository.unikom.ac.id/2053/"
+    },
+    {
+        "position": [
+            [
+                187.03334045410156,
+                407.5
+            ],
+            [
+                245.03334045410156,
+                427.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "EPrints 3",
+        "on_click_jump_to": "http://eprints.org/software/"
+    },
+    {
+        "position": [
+            [
+                429.01666259765625,
+                407.5
+            ],
+            [
+                716.8333129882812,
+                427.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "School of Electronics and Computer Science",
+        "on_click_jump_to": "http://www.ecs.soton.ac.uk/"
+    },
+    {
+        "position": [
+            [
+                950.2999877929688,
+                407.5
+            ],
+            [
+                1196.749984741211,
+                427.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            6,
+            69,
+            173
+        ],
+        "text": "More information and software credits",
+        "on_click_jump_to": "http://repository.unikom.ac.id/eprints/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                386.0,
+                74.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.unikom.ac.id/images/kepo_header.png"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                172.0
+            ],
+            [
+                38.0,
+                186.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.unikom.ac.id/style/images/multi_up.png"
+    },
+    {
+        "position": [
+            [
+                1660.0999755859375,
+                216.0
+            ],
+            [
+                1674.0999755859375,
+                230.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.unikom.ac.id/style/images/feed-icon-14x14.png"
+    },
+    {
+        "position": [
+            [
+                1732.2166748046875,
+                216.0
+            ],
+            [
+                1746.2166748046875,
+                230.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.unikom.ac.id/style/images/feed-icon-14x14.png"
+    },
+    {
+        "position": [
+            [
+                1820.9166259765625,
+                216.0
+            ],
+            [
+                1834.9166259765625,
+                230.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.unikom.ac.id/style/images/feed-icon-14x14.png"
+    },
+    {
+        "position": [
+            [
+                1827.0,
+                403.0
+            ],
+            [
+                1904.0,
+                432.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://repository.unikom.ac.id/images/eprintslogo.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                143.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://repository.unikom.ac.id/style/images/logo_background_light.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                77.0
+            ],
+            [
+                1920.0,
+                108.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://repository.unikom.ac.id/style/images/bar_glass.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                108.0
+            ],
+            [
+                1920.0,
+                143.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://repository.unikom.ac.id/style/images/bar_24px.png"
+    }
+]

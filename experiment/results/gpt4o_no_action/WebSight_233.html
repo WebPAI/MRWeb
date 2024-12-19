@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Automotive Company</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100">
+
+    <!-- Header -->
+    <header class="bg-red-500 text-white">
+        <nav class="container mx-auto flex justify-between items-center py-4">
+            <div class="text-lg font-bold">Automotive Company</div>
+            <ul class="flex space-x-4">
+                <li><a href="#" class="hover:underline">Home</a></li>
+                <li><a href="#" class="hover:underline">About</a></li>
+                <li><a href="#" class="hover:underline">Vehicles</a></li>
+                <li><a href="#" class="hover:underline">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Hero Image -->
+    <div class="bg-cover bg-center h-96" style="background-image: url('https://via.placeholder.com/1500x500');"></div>
+
+    <!-- Main Content -->
+    <main class="container mx-auto my-8">
+        <section class="bg-white p-6 shadow-md">
+            <h2 class="text-2xl font-bold mb-4">Featured Vehicles</h2>
+            <p class="mb-4">Discover our range of luxury vehicles, each designed to provide you with the ultimate driving experience. From sports cars to luxury SUVs, we have something for every taste and budget.</p>
+            <button class="bg-red-500 text-white px-4 py-2 rounded">View Vehicles</button>
+        </section>
+
+        <div class="flex justify-between mt-8">
+            <section class="w-1/2 bg-white p-6 shadow-md mr-4">
+                <h3 class="text-xl font-bold mb-2">Vehicle Specifications</h3>
+                <p>Explore our vehicles and find the one that best suits your needs. Our vehicles come with a range of features, from advanced safety technologies to cutting-edge technology.</p>
+            </section>
+            <section class="w-1/2 bg-white p-6 shadow-md">
+                <h3 class="text-xl font-bold mb-2">Financing Information</h3>
+                <p>We offer flexible financing options to make owning our vehicles more affordable. We have competitive interest rates and flexible payment options to fit your budget.</p>
+            </section>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-red-500 text-white py-8">
+        <div class="container mx-auto flex justify-between">
+            <div>
+                <h4 class="font-bold mb-2">Contact Information</h4>
+                <p>123 Main St<br>Anytown, USA<br>123-456-7890<br>info@automotivecompany.com</p>
+            </div>
+            <div>
+                <h4 class="font-bold mb-2">Service Appointment</h4>
+                <form class="space-y-2">
+                    <input type="text" placeholder="Name" class="w-full p-2 rounded">
+                    <input type="email" placeholder="Email" class="w-full p-2 rounded">
+                    <input type="tel" placeholder="Phone" class="w-full p-2 rounded">
+                    <textarea placeholder="Message" class="w-full p-2 rounded"></textarea>
+                    <button type="submit" class="bg-white text-red-500 px-4 py-2 rounded">Submit</button>
+                </form>
+            </div>
+        </div>
+    </footer>
+
+</body>
+</html>

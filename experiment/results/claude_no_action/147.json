@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                528.0,
+                720.5
+            ],
+            [
+                566.0,
+                739.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Post 1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                748.5
+            ],
+            [
+                566.0,
+                767.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Post 2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                836.5
+            ],
+            [
+                596.0,
+                855.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Category 1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                864.5
+            ],
+            [
+                596.0,
+                883.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Category 2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                32.0
+            ],
+            [
+                1392.0,
+                288.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/dune-header.jpg"
+    }
+]

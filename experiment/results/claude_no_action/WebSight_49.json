@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                1583.066650390625,
+                36.0
+            ],
+            [
+                1626.633316040039,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#about"
+    },
+    {
+        "position": [
+            [
+                1650.63330078125,
+                36.0
+            ],
+            [
+                1707.1499633789062,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#services"
+    },
+    {
+        "position": [
+            [
+                1731.1500244140625,
+                36.0
+            ],
+            [
+                1817.3166961669922,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "#testimonials"
+    },
+    {
+        "position": [
+            [
+                1841.316650390625,
+                36.0
+            ],
+            [
+                1895.999984741211,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#contact"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                16.0
+            ],
+            [
+                88.0,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.jpg"
+    },
+    {
+        "position": [
+            [
+                536.0,
+                248.0
+            ],
+            [
+                1384.0,
+                504.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/catering.jpg"
+    }
+]

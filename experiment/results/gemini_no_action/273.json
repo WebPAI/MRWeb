@@ -1,0 +1,566 @@
+[
+    {
+        "position": [
+            [
+                971.7166748046876,
+                12.0
+            ],
+            [
+                1075.0333557128906,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Réamhaisnéisí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1091.0333251953125,
+                12.0
+            ],
+            [
+                1219.316650390625,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Tuairiscí is déanaí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1235.316650390625,
+                12.0
+            ],
+            [
+                1281.5833129882812,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Aeráid",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1297.5833740234375,
+                12.0
+            ],
+            [
+                1374.4167175292969,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Oideachas",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1390.4166259765625,
+                12.0
+            ],
+            [
+                1457.016616821289,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Eolaíocht",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1473.0166015625,
+                12.0
+            ],
+            [
+                1573.3166046142578,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Podchraoladh",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1589.316650390625,
+                12.0
+            ],
+            [
+                1671.999984741211,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Eolas Fúinn",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                52.0
+            ],
+            [
+                84.03334045410156,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Rabhaidh",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                128.03334045410156,
+                52.0
+            ],
+            [
+                173.21665954589844,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Aimsir",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                217.21665954589844,
+                52.0
+            ],
+            [
+                252.9499969482422,
+                76.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Muirí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                966.0
+            ],
+            [
+                326.8833312988281,
+                986.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Full reports here",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                202.0
+            ],
+            [
+                1058.683334350586,
+                222.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Eolas Fúinn",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                226.0
+            ],
+            [
+                1035.2166595458984,
+                246.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Straitéis",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                250.0
+            ],
+            [
+                1134.9666595458984,
+                270.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Struchtúr Met Éireann",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                274.0
+            ],
+            [
+                1130.933334350586,
+                294.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Stair na hEagraíochta",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                298.0
+            ],
+            [
+                1133.8666687011719,
+                318.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Seirbhísí Speisialaithe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                322.0
+            ],
+            [
+                1103.3833312988281,
+                342.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Tuarascálacha Dlí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                346.0
+            ],
+            [
+                1084.5500030517578,
+                366.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Teagmháil Linn",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                370.0
+            ],
+            [
+                1108.0,
+                390.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Eolas do na Meáin",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                462.0
+            ],
+            [
+                1028.8500061035156,
+                482.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Awards",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                486.0
+            ],
+            [
+                1041.4499969482422,
+                506.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Folúntais",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                510.0
+            ],
+            [
+                1123.4166717529297,
+                530.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Ceisteanna coitianta",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                534.0
+            ],
+            [
+                1172.6666717529297,
+                554.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Cabhair don Suíomh & App",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                558.0
+            ],
+            [
+                1093.7666625976562,
+                578.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Príobháideachta",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                334.8333282470703,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/met-logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1118.0
+            ],
+            [
+                334.8333282470703,
+                1166.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/met-logo-footer.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1174.0
+            ],
+            [
+                337.78334045410156,
+                1206.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/gov-logo.png"
+    },
+    {
+        "position": [
+            [
+                1505.0166015625,
+                1150.0
+            ],
+            [
+                1577.6499328613281,
+                1190.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/app-store.png"
+    },
+    {
+        "position": [
+            [
+                1593.6500244140625,
+                1150.0
+            ],
+            [
+                1680.183364868164,
+                1190.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/google-play.png"
+    },
+    {
+        "position": [
+            [
+                1505.0166015625,
+                1206.0
+            ],
+            [
+                1711.9999389648438,
+                1246.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/wow-ie.png"
+    }
+]

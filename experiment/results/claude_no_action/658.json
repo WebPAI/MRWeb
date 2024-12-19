@@ -1,0 +1,164 @@
+[
+    {
+        "position": [
+            [
+                1680.0,
+                61.5
+            ],
+            [
+                1780.7666625976562,
+                82.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            88,
+            12
+        ],
+        "text": "Bargain Wines",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1680.0,
+                93.5
+            ],
+            [
+                1733.8500061035156,
+                114.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            88,
+            12
+        ],
+        "text": "Oregon",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1680.0,
+                125.5
+            ],
+            [
+                1801.9833374023438,
+                146.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            88,
+            12
+        ],
+        "text": "Pacific Northwest",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1680.0,
+                157.5
+            ],
+            [
+                1782.6166687011719,
+                178.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            88,
+            12
+        ],
+        "text": "Uncategorized",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1680.0,
+                256.5
+            ],
+            [
+                1744.0,
+                275.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "April 2015",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1680.0,
+                280.5
+            ],
+            [
+                1755.0,
+                299.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "March 2015",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                192.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/wine-glasses.jpg"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                272.0
+            ],
+            [
+                720.0,
+                296.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/wine-bottle.jpg"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                320.0
+            ],
+            [
+                720.0,
+                344.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/vineyard.jpg"
+    }
+]

@@ -1,0 +1,644 @@
+[
+    {
+        "position": [
+            [
+                160.0,
+                21.5
+            ],
+            [
+                310.43333435058594,
+                49.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Current Students",
+        "on_click_jump_to": "https://www.student.unsw.edu.au/"
+    },
+    {
+        "position": [
+            [
+                1520.5,
+                23.5
+            ],
+            [
+                1590.1000061035156,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "myUNSW",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1614.0999755859375,
+                23.5
+            ],
+            [
+                1668.0999755859375,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Moodle",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1692.0999755859375,
+                23.5
+            ],
+            [
+                1766.8666381835938,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Handbook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1790.86669921875,
+                23.5
+            ],
+            [
+                1841.300033569336,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Library",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1865.300048828125,
+                23.5
+            ],
+            [
+                1904.0000457763672,
+                47.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Email",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                88.0
+            ],
+            [
+                456.8666687011719,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Student Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                531.6666870117188,
+                88.0
+            ],
+            [
+                675.2500152587891,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Getting Started",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                750.0499877929688,
+                88.0
+            ],
+            [
+                956.9166564941406,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Managing Your Program",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1031.7166748046875,
+                88.0
+            ],
+            [
+                1238.250015258789,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Support & Development",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1313.050048828125,
+                88.0
+            ],
+            [
+                1435.6667175292969,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Campus Life",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1510.4833984375,
+                88.0
+            ],
+            [
+                1600.0000610351562,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Sign On",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                294.5
+            ],
+            [
+                386.96665954589844,
+                311.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Student",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                403.5,
+                294.5
+            ],
+            [
+                545.9833374023438,
+                311.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "International Students",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                419.0
+            ],
+            [
+                625.0833129882812,
+                439.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "International Student Concierge Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                459.0
+            ],
+            [
+                518.7666625976562,
+                479.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "International Student Life",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                499.0
+            ],
+            [
+                589.4499969482422,
+                519.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "Support and development services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                539.0
+            ],
+            [
+                650.3833312988281,
+                559.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "Parents and Caregivers information session",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                579.0
+            ],
+            [
+                523.0,
+                599.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "Student Support Advisors",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                619.0
+            ],
+            [
+                502.8999938964844,
+                639.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            64,
+            175
+        ],
+        "text": "Mental Health Connect",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                769.0
+            ],
+            [
+                470.1333312988281,
+                793.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Website Feedback",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                494.1333312988281,
+                769.0
+            ],
+            [
+                559.6333312988281,
+                793.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contacts",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                583.63330078125,
+                769.0
+            ],
+            [
+                642.9166412353516,
+                793.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                666.9166870117188,
+                769.0
+            ],
+            [
+                741.3666839599609,
+                793.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "A-Z Guide",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                765.36669921875,
+                769.0
+            ],
+            [
+                870.2333679199219,
+                793.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Student Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                817.0
+            ],
+            [
+                436.4499969482422,
+                841.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                460.4500122070313,
+                817.0
+            ],
+            [
+                627.4666748046875,
+                841.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Copyright & Disclaimer",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                651.4666748046875,
+                817.0
+            ],
+            [
+                741.5333557128906,
+                841.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Accessibility",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                765.5333251953125,
+                817.0
+            ],
+            [
+                847.1499786376953,
+                841.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Complaints",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                871.1500244140625,
+                817.0
+            ],
+            [
+                966.7000274658203,
+                841.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "UNSW Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                144.0,
+                63.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.student.unsw.edu.au/themes/custom/unsw_student/logo.svg"
+    },
+    {
+        "position": [
+            [
+                1178.6666259765625,
+                293.0
+            ],
+            [
+                1583.9999389648438,
+                563.2166748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.student.unsw.edu.au/sites/default/files/styles/inline_image/public/page_image/Parenting%20guide_front%20cover_resize%202.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                129.0
+            ],
+            [
+                1920.0,
+                261.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_direct/path-to-wave-pattern.svg"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "position": [
+            [
+                808.2999877929688,
+                16.0
+            ],
+            [
+                888.3666534423828,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Admissions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                920.36669921875,
+                16.0
+            ],
+            [
+                995.8166961669922,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Academics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1027.816650390625,
+                16.0
+            ],
+            [
+                1111.6833190917969,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Student Life",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                200.0
+            ],
+            [
+                656.0,
+                392.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/ivy-building.jpg"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                552.0
+            ],
+            [
+                656.0,
+                744.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/study-desk.jpg"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                904.0
+            ],
+            [
+                656.0,
+                1096.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/campus-view.jpg"
+    }
+]

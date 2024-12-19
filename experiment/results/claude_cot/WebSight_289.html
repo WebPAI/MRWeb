@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Promoter</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <!-- Main container with background image -->
+    <div class="relative min-h-screen w-full">
+        <!-- Background image with overlay -->
+        <div class="absolute inset-0 z-0">
+            <img 
+                src="https://source.unsplash.com/random/1600x900/?music" 
+                alt="Music Background" 
+                class="w-full h-full object-cover"
+            />
+            <!-- Dark overlay -->
+            <div class="absolute inset-0 bg-navy-900/80"></div>
+        </div>
+
+        <!-- Content -->
+        <div class="relative z-10 container mx-auto px-4 py-16 text-white text-center">
+            <!-- Header -->
+            <h1 class="text-6xl font-bold mb-32">Music Promoter</h1>
+
+            <!-- About Section -->
+            <section class="mb-24">
+                <h2 class="text-3xl font-bold mb-6">About Us</h2>
+                <p class="max-w-3xl mx-auto text-lg">
+                    Music Promoter is a dynamic design with a video background, an oversized logo, and a bright, bold color palette that reflects the energy of the music scene. The layout features a calendar of events, artist profiles, and ticketing information.
+                </p>
+            </section>
+
+            <!-- Events Section -->
+            <section class="mb-24">
+                <h2 class="text-3xl font-bold">Events</h2>
+            </section>
+
+            <!-- Artists Section -->
+            <section class="mb-24">
+                <h2 class="text-3xl font-bold">Artists</h2>
+            </section>
+
+            <!-- Tickets Section -->
+            <section>
+                <h2 class="text-3xl font-bold">Tickets</h2>
+            </section>
+        </div>
+    </div>
+</body>
+</html>

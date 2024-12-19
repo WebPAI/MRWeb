@@ -1,0 +1,232 @@
+[
+    {
+        "position": [
+            [
+                1149.5833740234375,
+                17.5
+            ],
+            [
+                1207.4667053222656,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "JOIN US",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1235.8499755859375,
+                17.5
+            ],
+            [
+                1334.3666381835938,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "REAL STORIES",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1362.75,
+                17.5
+            ],
+            [
+                1462.3833312988281,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "STUDENT LIFE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1490.7666015625,
+                17.5
+            ],
+            [
+                1596.2999420166016,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "GET INVOLVED",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1624.683349609375,
+                17.5
+            ],
+            [
+                1712.000015258789,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "INTERNSHIP",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                768.0
+            ],
+            [
+                259.06666564941406,
+                792.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "budget",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                267.066650390625,
+                768.0
+            ],
+            [
+                319.9499816894531,
+                792.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "chinese",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                327.95001220703125,
+                768.0
+            ],
+            [
+                361.1333465576172,
+                792.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "food",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                12.0
+            ],
+            [
+                324.3000030517578,
+                44.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/uncovered-logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                80.0
+            ],
+            [
+                310.8833312988281,
+                336.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/squirrel.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                496.0
+            ],
+            [
+                1712.0,
+                520.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/google-map.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                656.0
+            ],
+            [
+                464.0,
+                680.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/phoenix.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                864.0
+            ],
+            [
+                1712.0,
+                912.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/coventry-university-logo.png"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "position": [
+            [
+                1514.0,
+                8.0
+            ],
+            [
+                1623.0,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "CAA International",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1639.0,
+                8.0
+            ],
+            [
+                1739.0,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "CAA Conference",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1755.0,
+                8.0
+            ],
+            [
+                1830.0,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "CAA Journal",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1846.0,
+                8.0
+            ],
+            [
+                1904.0,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Members",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                599.183349609375,
+                672.5
+            ],
+            [
+                786.4500122070312,
+                693.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "48_Banning_CAA_1992.pdf",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                230.0
+            ],
+            [
+                1285.0,
+                250.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "1973",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1289.0,
+                230.0
+            ],
+            [
+                1342.0,
+                250.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "1974",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                448.0,
+                60.0
+            ],
+            [
+                1120.0,
+                84.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/caa-logo.png"
+    }
+]

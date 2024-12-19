@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script src="https://cdn.tailwindcss.com"></script>
+<title>Three Column Layout</title>
+</head>
+<body class="bg-gray-100">
+
+  <div class="bg-teal-500 py-4">
+    <div class="container mx-auto flex justify-end space-x-4 text-white">
+      <span>Home</span>
+      <span>About</span>
+      <span>Services</span>
+      <span>Contact</span>
+    </div>
+  </div>
+
+  <div class="container mx-auto py-16">
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      <div>
+        <h2 class="text-xl font-bold mb-4">Column 1</h2>
+        <p>This is the first column. It contains information about the company and its services.</p>
+      </div>
+      <div>
+        <h2 class="text-xl font-bold mb-4">Column 2</h2>
+        <p>This is the second column. It contains more information about the company and its services.</p>
+      </div>
+      <div>
+        <h2 class="text-xl font-bold mb-4">Column 3</h2>
+        <p>This is the third column. It contains even more information about the company and its services.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="bg-red-500 py-12">
+    <div class="container mx-auto text-center text-white">
+      <h2 class="text-2xl font-bold mb-4">Call to Action</h2>
+      <p>This is the call to action section. It invites the user to book a demo or sign up for a trial.</p>
+    </div>
+  </div>
+
+</body>
+</html>

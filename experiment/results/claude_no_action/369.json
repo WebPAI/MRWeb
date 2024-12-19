@@ -1,0 +1,158 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                311.8333282470703,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "dailycomet",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                1498.0,
+                12.0
+            ],
+            [
+                1590.0,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "MARKETPLACE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1606.0,
+                12.0
+            ],
+            [
+                1712.0,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "SUBSCRIBE NOW",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                530.5
+            ],
+            [
+                276.0,
+                549.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                558.5
+            ],
+            [
+                266.0,
+                577.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                580.0,
+                189.0
+            ],
+            [
+                596.0,
+                205.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/facebook-icon.png"
+    },
+    {
+        "position": [
+            [
+                612.0,
+                189.0
+            ],
+            [
+                628.0,
+                205.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/twitter-icon.png"
+    },
+    {
+        "position": [
+            [
+                644.0,
+                189.0
+            ],
+            [
+                660.0,
+                205.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/email-icon.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                610.0
+            ],
+            [
+                1712.0,
+                642.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/dailycomet-logo.png"
+    }
+]

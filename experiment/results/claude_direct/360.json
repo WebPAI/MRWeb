@@ -1,0 +1,276 @@
+[
+    {
+        "position": [
+            [
+                616.8499755859375,
+                8.0
+            ],
+            [
+                659.9666290283203,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                675.9666748046875,
+                8.0
+            ],
+            [
+                719.6000213623047,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                735.5999755859375,
+                8.0
+            ],
+            [
+                788.5333099365234,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Results",
+        "on_click_jump_to": "file:///results"
+    },
+    {
+        "position": [
+            [
+                804.5333251953125,
+                8.0
+            ],
+            [
+                923.1499786376953,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Teams & Drivers",
+        "on_click_jump_to": "file:///teams"
+    },
+    {
+        "position": [
+            [
+                939.1500244140624,
+                8.0
+            ],
+            [
+                1004.183364868164,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "file:///calendar"
+    },
+    {
+        "position": [
+            [
+                1020.183349609375,
+                8.0
+            ],
+            [
+                1099.9833526611328,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Rules 2012",
+        "on_click_jump_to": "file:///rules"
+    },
+    {
+        "position": [
+            [
+                1115.9833984375,
+                8.0
+            ],
+            [
+                1223.9333953857422,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Race Weekend",
+        "on_click_jump_to": "file:///race-weekend"
+    },
+    {
+        "position": [
+            [
+                1239.933349609375,
+                8.0
+            ],
+            [
+                1303.1333465576172,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Glossary",
+        "on_click_jump_to": "file:///glossary"
+    },
+    {
+        "position": [
+            [
+                468.9666748046875,
+                77.0
+            ],
+            [
+                520.0666809082031,
+                94.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "rookief1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                540.566650390625,
+                77.0
+            ],
+            [
+                656.4833221435547,
+                94.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Leave a Comment",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1178.6666259765625,
+                207.0
+            ],
+            [
+                1255.2499542236328,
+                227.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "F1 Hooked",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1259.75,
+                207.0
+            ],
+            [
+                1334.5500030517578,
+                227.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "F1 Rogues",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1339.050048828125,
+                207.0
+            ],
+            [
+                1410.8333740234375,
+                227.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Fanalistas",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                197.0
+            ],
+            [
+                1146.6666870117188,
+                221.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_direct/germany-gp.png"
+    }
+]

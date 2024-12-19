@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Art Gallery</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <!-- Main container -->
+    <div class="relative min-h-screen">
+        <!-- Background image -->
+        <div 
+            class="absolute inset-0 w-full h-full bg-cover bg-center bg-no-repeat"
+            style="background-image: url('https://source.unsplash.com/random/1600x900/?art')">
+        </div>
+        
+        <!-- Content overlay -->
+        <div class="relative z-10 min-h-screen flex flex-col">
+            <!-- Header section -->
+            <div class="flex-1 flex flex-col items-center pt-32 text-white">
+                <h1 class="text-5xl font-bold mb-4">WELCOME TO OUR ART GALLERY</h1>
+                <p class="text-xl mb-8">Explore the World of Art with Us</p>
+                <button class="bg-white text-black px-8 py-3 rounded-full hover:bg-opacity-90 transition-all">
+                    BOOK NOW
+                </button>
+            </div>
+
+            <!-- Featured Artists section -->
+            <div class="text-center py-16">
+                <h2 class="text-3xl font-bold text-black">Featured Artists</h2>
+            </div>
+
+            <!-- Footer -->
+            <div class="bg-[#1f2937] text-white text-center py-4">
+                <p class="text-sm">© 2022 Art Gallery. All rights reserved.</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

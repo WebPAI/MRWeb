@@ -1,0 +1,524 @@
+[
+    {
+        "position": [
+            [
+                886.5499877929688,
+                24.0
+            ],
+            [
+                918.5499877929688,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Firm",
+        "on_click_jump_to": "https://www.cahill.com/firm"
+    },
+    {
+        "position": [
+            [
+                934.5499877929688,
+                24.0
+            ],
+            [
+                1031.0833129882812,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Professionals",
+        "on_click_jump_to": "https://www.cahill.com/professionals"
+    },
+    {
+        "position": [
+            [
+                1047.0833740234375,
+                24.0
+            ],
+            [
+                1114.6833801269531,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Practices",
+        "on_click_jump_to": "https://www.cahill.com/practices"
+    },
+    {
+        "position": [
+            [
+                1130.683349609375,
+                24.0
+            ],
+            [
+                1218.933349609375,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publications",
+        "on_click_jump_to": "https://www.cahill.com/publications"
+    },
+    {
+        "position": [
+            [
+                1234.933349609375,
+                24.0
+            ],
+            [
+                1275.2166748046875,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://www.cahill.com/news"
+    },
+    {
+        "position": [
+            [
+                1291.2166748046875,
+                24.0
+            ],
+            [
+                1357.7333526611328,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Pro Bono",
+        "on_click_jump_to": "https://www.cahill.com/pro-bono"
+    },
+    {
+        "position": [
+            [
+                1373.7333984375,
+                24.0
+            ],
+            [
+                1573.9500579833984,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Diversity, Equity & Inclusion",
+        "on_click_jump_to": "https://www.cahill.com/diversity"
+    },
+    {
+        "position": [
+            [
+                1589.949951171875,
+                24.0
+            ],
+            [
+                1646.4666137695312,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "https://www.cahill.com/careers"
+    },
+    {
+        "position": [
+            [
+                1662.4666748046875,
+                24.0
+            ],
+            [
+                1722.000015258789,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ALUMNI",
+        "on_click_jump_to": "https://www.cahill.com/alumni/index"
+    },
+    {
+        "position": [
+            [
+                1738.0,
+                24.0
+            ],
+            [
+                1824.1000061035156,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SUBSCRIBE",
+        "on_click_jump_to": "https://www.cahill.com/publications/subscribe"
+    },
+    {
+        "position": [
+            [
+                1840.0999755859375,
+                24.0
+            ],
+            [
+                1903.9999694824219,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "OFFICES",
+        "on_click_jump_to": "https://www.cahill.com/offices/index"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                174.0
+            ],
+            [
+                428.78334045410156,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            95,
+            99,
+            105
+        ],
+        "text": "Firm News",
+        "on_click_jump_to": "https://www.cahill.com/news/index"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                214.0
+            ],
+            [
+                524.1000061035156,
+                234.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Rankings & Recognition",
+        "on_click_jump_to": "https://www.cahill.com/news/rankings"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                254.0
+            ],
+            [
+                522.8833312988281,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            95,
+            99,
+            105
+        ],
+        "text": "Speaking Engagements",
+        "on_click_jump_to": "https://www.cahill.com/news/events"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                430.0
+            ],
+            [
+                487.53334045410156,
+                450.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            139
+        ],
+        "text": "jcohen@cahill.com",
+        "on_click_jump_to": "mailto:jcohen@cahill.com"
+    },
+    {
+        "position": [
+            [
+                813.4666748046875,
+                616.0
+            ],
+            [
+                923.5833435058594,
+                636.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            139
+        ],
+        "text": "accessed here.",
+        "on_click_jump_to": "https://www.benchmarklitigation.com/articles/benchmark-top-women-in-litigation-2018/arwwxnul"
+    },
+    {
+        "position": [
+            [
+                656.0,
+                656.0
+            ],
+            [
+                976.7000122070312,
+                676.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            139
+        ],
+        "text": "Benchmark Litigation press release (L. Best)",
+        "on_click_jump_to": "https://www.benchmarklitigation.com/document/BEST18"
+    },
+    {
+        "position": [
+            [
+                656.0,
+                688.0
+            ],
+            [
+                993.6000061035156,
+                708.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            139
+        ],
+        "text": "Benchmark Litigation press release (P. Windle)",
+        "on_click_jump_to": "https://www.benchmarklitigation.com/document/WIND18"
+    },
+    {
+        "position": [
+            [
+                1023.7833251953124,
+                774.0
+            ],
+            [
+                1600.0,
+                798.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SUBSCRIBE",
+        "on_click_jump_to": "https://www.cahill.com/publications/subscribe"
+    },
+    {
+        "position": [
+            [
+                1023.7833251953124,
+                806.0
+            ],
+            [
+                1120.4333190917969,
+                830.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Terms of Use",
+        "on_click_jump_to": "https://www.cahill.com/misc/terms"
+    },
+    {
+        "position": [
+            [
+                1136.433349609375,
+                806.0
+            ],
+            [
+                1251.2666778564453,
+                830.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Privacy/Cookies",
+        "on_click_jump_to": "https://www.cahill.com/misc/privacy"
+    },
+    {
+        "position": [
+            [
+                1267.2666015625,
+                806.0
+            ],
+            [
+                1326.5499420166016,
+                830.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "https://www.cahill.com/misc/sitemap"
+    },
+    {
+        "position": [
+            [
+                1342.550048828125,
+                806.0
+            ],
+            [
+                1394.6000518798828,
+                830.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Credits",
+        "on_click_jump_to": "https://www.cahill.com/misc/credits"
+    },
+    {
+        "position": [
+            [
+                1410.5999755859375,
+                806.0
+            ],
+            [
+                1599.9999694824219,
+                830.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Transparency in Coverage",
+        "on_click_jump_to": "https://www.cahill.com/misc/transparency-in-coverage"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                151.5,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.cahill.com/images/layout/logo.svg"
+    },
+    {
+        "position": [
+            [
+                656.0,
+                256.0
+            ],
+            [
+                852.0,
+                406.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.cahill.com/news/rankings/2018-07-17-benchmark-litigation-names-cahill-partners-among-top-250-women-in-litigation-2018/_res/id=Picture/Benchmarak%20Top%20250%20SMALL.png"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                774.0
+            ],
+            [
+                504.8999938964844,
+                854.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.cahill.com/images/layout/logo-full-stacked.svg"
+    }
+]

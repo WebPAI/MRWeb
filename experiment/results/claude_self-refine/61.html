@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KiaPartsPeople.com</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-white px-4 py-2 hover:text-gray-200;
+            position: absolute;
+            height: 29px;
+            display: flex;
+            align-items: center;
+        }
+        .banner-container {
+            position: relative;
+            width: 100%;
+            overflow: hidden;
+        }
+        .search-button {
+            background-image: url('http://kiapartspeople.com/images/search.png');
+            background-repeat: no-repeat;
+            background-position: center;
+            width: 47px;
+            height: 29px;
+            position: absolute;
+            top: 17px;
+            right: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="relative">
+        <!-- Header -->
+        <div class="relative h-[61.75px]">
+            <img src="http://kiapartspeople.com/images/Kia/Kia_logo.jpg" 
+                 alt="Kia Logo" 
+                 class="absolute top-[8px] left-[8px] w-[346px] h-[53.75px]">
+            <div class="search-button absolute top-[17px] right-[8px] w-[47px] h-[29px]"></div>
+        </div>
+
+        <!-- Navigation -->
+        <nav class="relative bg-gray-700 h-[29px]">
+            <a href="http://kiapartspeople.com/" 
+               class="nav-link left-[54.57px] top-[62px]">Home</a>
+            <a href="#" 
+               class="nav-link left-[142.57px] top-[62px]">Contact</a>
+            <a href="#" 
+               class="nav-link left-[241.57px] top-[62px]">About</a>
+            <a href="http://kiapartspeople.com/cartshow" 
+               class="nav-link left-[329.57px] top-[62px]">View Cart</a>
+        </nav>
+
+        <!-- Banner Images -->
+        <div class="banner-container">
+            <img src="http://kiapartspeople.com/images/Kia/Kia-Sportage_splash_banner_left.jpg" 
+                 alt="Sportage Banner Left" 
+                 class="absolute left-[36.57px] top-[92px] w-[1470.87px] h-[172px]">
+            <img src="http://kiapartspeople.com/images/Kia/Kia-Sportage_splash_banner_right.jpg" 
+                 alt="Sportage Banner Right" 
+                 class="absolute left-[1507.43px] top-[92px] w-[356px] h-[172px]">
+            <img src="http://kiapartspeople.com/images/Kia/spacer.jpg" 
+                 alt="Spacer" 
+                 class="absolute left-[1863.43px] top-[92px] w-[20px] h-[172px]">
+        </div>
+    </div>
+</body>
+</html>

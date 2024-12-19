@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rethink the Night</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="relative min-h-screen bg-[#1a1f3d]">
+    <!-- Background image -->
+    <div class="absolute inset-0 z-0">
+        <img src="https://rethinkthenight.com/templates/st_business/backgrounds/blue.jpg" 
+             class="w-full h-full object-cover" alt="background">
+    </div>
+
+    <div class="relative z-10 max-w-7xl mx-auto px-4">
+```
+
+2. Let's add the header section with the logo and navigation:
+
+```html
+<!-- Header -->
+<header class="pt-2">
+    <img src="https://rethinkthenight.com/images/RTN_2024_header_23-27_09.png" 
+         class="w-full max-w-4xl mx-auto" alt="Rethink the Night 2024">
+    
+    <!-- Navigation -->
+    <nav class="flex justify-center space-x-5 mt-4 text-white">
+        <a href="https://rethinkthenight.com/" class="hover:text-gray-300">Home</a>
+        <a href="https://rethinkthenight.com/workshop.html" class="hover:text-gray-300">Workshop</a>
+        <a href="https://rethinkthenight.com/registration.html" class="hover:text-gray-300">Registration</a>
+        <a href="https://rethinkthenight.com/getting-there.html" class="hover:text-gray-300">Getting There</a>
+        <a href="https://rethinkthenight.com/sponsors.html" class="hover:text-gray-300">Sponsors</a>
+        <a href="https://rethinkthenight.com/media-partners.html" class="hover:text-gray-300">Media Partners</a>
+        <a href="https://rethinkthenight.com/news.html" class="hover:text-gray-300">News</a>
+        <a href="https://rethinkthenight.com/contact.html" class="hover:text-gray-300">Contact</a>
+    </nav>
+</header>
+```
+
+3. Add the main content section:
+
+```html
+<!-- Main Content -->
+<main class="mt-8">
+    <!-- Hero Image -->
+    <div class="mb-12">
+        <img src="https://rethinkthenight.com/images/news_image_2020.png" 
+             class="w-full" alt="News Image">
+    </div>
+
+    <!-- News Section -->
+    <section class="text-white">
+        <h1 class="text-[#7388E4] text-2xl mb-8">
+            <a href="https://rethinkthenight.com/news/88-our-participants-are-evolving-to-stars.html" 
+               class="hover:underline">Our Participants are evolving to Stars</a>
+        </h1>
+
+        <div class="mb-8">
+            <img src="https://rethinkthenight.com/images/news/AG_TIM_2.png" 
+                 class="w-full max-w-4xl mx-auto" alt="Participants">
+        </div>
+
+        <div class="text-gray-300 max-w-4xl mx-auto">
+            <p class="mb-4">
+                We are proud that two of our former participants (2014) from India and Netherlands, both graduates of the Lighting Design Master Course of the University of Weimar, have been nominated for the Award of the "Best Newcomer" (<a href="https://pld-c.com/pldr-award-nominations/" class="text-[#7388E4] hover:underline">here</a>). We will be glad to welcome them again to the Aegean island of Kea on the occasion of next workshop as experienced contributors.
+            </p>
+            <p>
+                Moreover, we are delighted about their contribution as speakers on the forthcoming "<a href="https://pld-c.com/" class="text-[#7388E4] hover:underline">PLDC 2017</a>", the most eminent international event about the developments of our profession.
+            </p>
+        </div>
+    </section>
+
+    <!-- Navigation Buttons -->
+    <div class="flex justify-between mt-12 max-w-4xl mx-auto">
+        <a href="https://rethinkthenight.com/news/90-5th-ld-workshop-before-us.html" 
+           class="text-[#7388E4] hover:underline">← Prev</a>
+        <a href="https://rethinkthenight.com/news/87-darc-awards-2017-shortlisted.html" 
+           class="text-[#7388E4] hover:underline">Next →</a>
+    </div>
+</main>
+```
+
+4. Add the cookie notice and scroll-to-top button:
+
+```html
+    <!-- Cookie Notice -->
+    <div class="fixed bottom-0 left-0 right-0 bg-gray-900 text-white p-4 flex justify-between items-center">
+        <p class="text-sm">
+            This website uses cookies to improve your experience. These necessary cookies are absolutely essential for the website to function properly.
+            We use only cookies that ensure basic functionalities and security features of the website. These cookies do not store any personal information.
+        </p>
+        <button class="bg-orange-500 text-white px-6 py-2 rounded">Accept</button>
+    </div>
+
+    <!-- Scroll to Top -->
+    <button class="fixed bottom-8 right-8 bg-gray-800 p-3 rounded-full">
+        <img src="https://rethinkthenight.com/templates/st_business/images/icons/go-to-top.png" 
+             class="w-6 h-6" alt="Go to top">
+    </button>
+
+</div>
+</body>
+</html>

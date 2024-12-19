@@ -1,0 +1,118 @@
+[
+    {
+        "position": [
+            [
+                352.0,
+                16.0
+            ],
+            [
+                681.8999938964844,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Film Intuition: Review Database",
+        "on_click_jump_to": "https://reviews.filmintuition.com/"
+    },
+    {
+        "position": [
+            [
+                352.0,
+                96.5
+            ],
+            [
+                603.4166717529297,
+                123.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Fly Me to the Moon (2008)",
+        "on_click_jump_to": "file:///2008/08/fly-me-to-moon-2008.html"
+    },
+    {
+        "position": [
+            [
+                1200.566650390625,
+                120.0
+            ],
+            [
+                1584.0,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "@FilmIntuition",
+        "on_click_jump_to": "https://twitter.com/FilmIntuition"
+    },
+    {
+        "position": [
+            [
+                864.566650390625,
+                140.0
+            ],
+            [
+                1120.566650390625,
+                164.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/flymetothemoon.bmp"
+    },
+    {
+        "position": [
+            [
+                1328.2833251953125,
+                80.0
+            ],
+            [
+                1456.2833251953125,
+                104.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/filmintuition.png"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                0.0
+            ],
+            [
+                1600.0,
+                64.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/corners_cap_top.gif"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                368.0
+            ],
+            [
+                1600.0,
+                432.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/corners_cap_bot.gif"
+    }
+]

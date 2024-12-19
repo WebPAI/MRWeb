@@ -1,0 +1,278 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                268.0833282470703,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                287.54998779296875,
+                8.0
+            ],
+            [
+                360.08331298828125,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                176.0
+            ],
+            [
+                251.11666870117188,
+                196.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                1409.5
+            ],
+            [
+                284.0833282470703,
+                1426.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                1429.5
+            ],
+            [
+                296.53334045410156,
+                1446.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                1449.5
+            ],
+            [
+                250.8333282470703,
+                1466.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                1469.5
+            ],
+            [
+                308.9499969482422,
+                1486.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Shipping Info",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                1489.5
+            ],
+            [
+                346.0500030517578,
+                1506.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Quotes & Coupons",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                1509.5
+            ],
+            [
+                252.93333435058594,
+                1526.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                725.3333129882812,
+                1409.5
+            ],
+            [
+                814.8666534423828,
+                1426.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                725.3333129882812,
+                1429.5
+            ],
+            [
+                851.8666534423828,
+                1446.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Warranty & Returns",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1448.183349609375,
+                1650.0
+            ],
+            [
+                1478.866683959961,
+                1674.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/visa.png"
+    },
+    {
+        "position": [
+            [
+                1486.86669921875,
+                1650.0
+            ],
+            [
+                1569.0000305175781,
+                1674.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/mastercard.png"
+    },
+    {
+        "position": [
+            [
+                1577.0,
+                1650.0
+            ],
+            [
+                1624.8833312988281,
+                1674.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/paypal.png"
+    },
+    {
+        "position": [
+            [
+                1632.88330078125,
+                1650.0
+            ],
+            [
+                1695.9999694824219,
+                1674.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/discover.png"
+    }
+]

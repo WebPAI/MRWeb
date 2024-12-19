@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                1445.7333984375,
+                61.5
+            ],
+            [
+                1504.6500549316406,
+                85.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Booking",
+        "on_click_jump_to": "https://aidanstoytrove.com/sorry-website-shipping-glitch/"
+    },
+    {
+        "position": [
+            [
+                1520.6500244140625,
+                61.5
+            ],
+            [
+                1561.1000366210938,
+                85.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Deals",
+        "on_click_jump_to": "https://restaurantguru.com/Almond-Bar-Sydney"
+    },
+    {
+        "position": [
+            [
+                1577.0999755859375,
+                61.5
+            ],
+            [
+                1711.9999694824219,
+                85.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Recommendations",
+        "on_click_jump_to": "https://www.novo-studio.com/novostudio-blog-arkansas-editorial-commercial-lifestyle-photography/?category=Antique+Cameras"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                48.0
+            ],
+            [
+                240.0,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1591117573987-3a481519705f?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1MjZ8&ixlib=rb-4.0.3&w=100&h=100"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?travel"
+    }
+]

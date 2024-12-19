@@ -1,0 +1,406 @@
+[
+    {
+        "position": [
+            [
+                843.88330078125,
+                50.0
+            ],
+            [
+                951.9999694824219,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "ESP32 RS485",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1471.2666015625,
+                50.0
+            ],
+            [
+                1638.8666076660156,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "ESP32 RS485 Input 4",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                709.0833129882812,
+                122.0
+            ],
+            [
+                878.4833221435547,
+                142.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "ESP32 RS485 Relay 4",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1468.683349609375,
+                122.0
+            ],
+            [
+                1638.183349609375,
+                142.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "ESP32 RS485 Relay 8",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                727.7000122070312,
+                194.0
+            ],
+            [
+                878.0666809082031,
+                214.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "ESP32 Lora Relay 4",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1486.9833984375,
+                194.0
+            ],
+            [
+                1637.7667236328125,
+                214.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "ESP32 GPS Tracker",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                464.2166748046875,
+                343.0
+            ],
+            [
+                495.4833526611328,
+                363.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "WiFi",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                464.2166748046875,
+                384.0
+            ],
+            [
+                548.5333557128906,
+                404.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Output LED",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                464.2166748046875,
+                507.0
+            ],
+            [
+                599.4833526611328,
+                527.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "I2C LCD HD44780",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                612.0
+            ],
+            [
+                328.78334045410156,
+                632.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Ini link Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                636.0
+            ],
+            [
+                310.3000030517578,
+                656.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Ini link Tik Tok",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                660.0
+            ],
+            [
+                318.1999969482422,
+                680.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Ini link Youtube",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                684.0
+            ],
+            [
+                330.68333435058594,
+                704.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Ini link Instagram",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                708.0
+            ],
+            [
+                333.75,
+                728.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Ini link WhatsApp",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                732.0
+            ],
+            [
+                374.6166687011719,
+                752.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Ini link Telegram Group",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                748.0
+            ],
+            [
+                336.75,
+                784.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "NGO ECareS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                952.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/board1.jpg"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                16.0
+            ],
+            [
+                1712.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/board2.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                88.0
+            ],
+            [
+                952.0,
+                112.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/board3.jpg"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                88.0
+            ],
+            [
+                1712.0,
+                112.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/board4.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                160.0
+            ],
+            [
+                952.0,
+                184.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/board5.jpg"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                160.0
+            ],
+            [
+                1712.0,
+                184.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/board6.jpg"
+    }
+]

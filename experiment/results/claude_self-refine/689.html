@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Liberty Publishing House</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-[#0053ad] hover:text-[#ff2a13] px-3;
+        }
+        .footer-link {
+            @apply text-[#ff2a13] hover:text-[#0053ad] text-xs mx-[6.5px];
+        }
+        .sidebar-link {
+            @apply block text-black hover:text-[#ff2a13] py-[51px] text-left;
+        }
+    </style>
+</head>
+<body class="min-h-screen">
+
+<!-- Header Navigation -->
+<header class="fixed top-0 w-full bg-white z-50">
+    <div class="container mx-auto flex items-center justify-between px-4 py-2">
+        <!-- Logo -->
+        <a href="/" class="w-[187.5px] h-[90.75px] ml-[210px]">
+            <img src="https://www.libertypublishinghouse.com/wp-content/uploads/2016/01/Logo_2016_188.jpg" 
+                 alt="Liberty Publishing House Logo" class="w-full h-full">
+        </a>
+
+        <!-- Main Navigation -->
+        <nav class="flex items-center ml-auto">
+            <a href="/about" class="nav-link">ABOUT</a>
+            <a href="/product-category/new-arrivals" class="nav-link">CATALOG</a>
+            <a href="/publish" class="nav-link">PUBLISH</a>
+            <a href="/multimedia-portfolio" class="nav-link">MULTIMEDIA</a>
+            <a href="/news" class="nav-link">NEWS</a>
+            <a href="/contact" class="nav-link">CONTACT</a>
+            <a href="/multimedia/russian" class="nav-link flex items-center">
+                РУССКИЙ
+                <img src="data:image/png;base64,..." alt="Language Icon" class="ml-1 w-4 h-[11px]">
+            </a>
+            <a href="/cart" class="nav-link ml-[76.55px] text-center">
+                0 ITEMS<br>$0.00
+            </a>
+        </nav>
+    </div>
+</header>
+
+<!-- Sidebar Navigation -->
+<aside class="fixed left-0 w-[241px] mt-[100px]">
+    <nav class="px-[35px]">
+        <a href="/multimedia-portfolio" class="sidebar-link">All Multimedia</a>
+        <a href="/multimedia-portfolio/liberty-now" class="sidebar-link">Liberty Now</a>
+        <a href="/liberty-authors" class="sidebar-link">Liberty Authors</a>
+        <a href="/radio" class="sidebar-link">Radio</a>
+        <a href="/tv-ads" class="sidebar-link">TV Spots</a>
+        <a href="/tv-appearances" class="sidebar-link">TV Appearances</a>
+        <a href="/presentations" class="sidebar-link">Presentations / Other</a>
+    </nav>
+    
+    <!-- Social Media -->
+    <div class="px-[35px] mt-11">
+        <img src="https://libertypublishinghouse.com/wp-content/uploads/2016/03/Facebook-300x100.jpg" 
+             alt="Facebook" class="w-full">
+    </div>
+</aside>
+
+<!-- Post Navigation -->
+<div class="container mx-auto px-4 mt-8">
+    <div class="flex justify-between max-w-[847px] mx-auto">
+        <a href="/multimedia/interview-with-dmitriy-salita-in-english" class="text-[#ff2a13]">Previous Post</a>
+        <a href="/multimedia/dmitriy-salita-part-2-russian" class="text-[#ff2a13]">Next Post</a>
+    </div>
+</div>
+
+<!-- Footer -->
+<footer class="bg-white mt-16 py-8">
+    <div class="container mx-auto">
+        <!-- Footer Navigation -->
+        <div class="flex justify-center">
+            <a href="/about" class="footer-link">ABOUT</a>
+            <a href="/product-category/new-arrivals" class="footer-link">CATALOG</a>
+            <a href="/publish" class="footer-link">PUBLISH</a>
+            <a href="/multimedia-portfolio" class="footer-link">MULTIMEDIA</a>
+            <a href="/news" class="footer-link">NEWS</a>
+            <a href="/contact" class="footer-link">CONTACT</a>
+            <a href="/multimedia/russian" class="footer-link flex items-center">
+                РУССКИЙ
+                <img src="data:image/png;base64,..." alt="Language Icon" class="ml-1 w-4 h-[11px]">
+            </a>
+        </div>
+        
+        <!-- Copyright & Privacy -->
+        <div class="text-center mt-8">
+            <a href="/privacy-policy" class="text-xs hover:text-[#ff2a13]">Privacy Policy</a>
+        </div>
+    </div>
+</footer>
+
+</body>
+</html>

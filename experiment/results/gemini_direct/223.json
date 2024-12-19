@@ -1,0 +1,418 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                5.5
+            ],
+            [
+                627.3333129882812,
+                22.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "TransNewGuinea.org - database of the languages of New Guinea",
+        "on_click_jump_to": "http://transnewguinea.org/"
+    },
+    {
+        "position": [
+            [
+                1582.7166748046875,
+                42.0
+            ],
+            [
+                1712.000015258789,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "@transnewguinea",
+        "on_click_jump_to": "http://twitter.com/transnewguinea"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                96.0
+            ],
+            [
+                438.18333435058594,
+                120.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Main",
+        "on_click_jump_to": "http://transnewguinea.org/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                128.0
+            ],
+            [
+                438.18333435058594,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://transnewguinea.org/about"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                160.0
+            ],
+            [
+                438.18333435058594,
+                184.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Families",
+        "on_click_jump_to": "http://transnewguinea.org/family/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                192.0
+            ],
+            [
+                438.18333435058594,
+                216.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Languages",
+        "on_click_jump_to": "http://transnewguinea.org/language/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                224.0
+            ],
+            [
+                438.18333435058594,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Sources",
+        "on_click_jump_to": "http://transnewguinea.org/source/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                256.0
+            ],
+            [
+                438.18333435058594,
+                280.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Language Map",
+        "on_click_jump_to": "http://transnewguinea.org/maps/language/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                288.0
+            ],
+            [
+                438.18333435058594,
+                312.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Words",
+        "on_click_jump_to": "http://transnewguinea.org/word/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                320.0
+            ],
+            [
+                438.18333435058594,
+                344.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Cognates",
+        "on_click_jump_to": "http://transnewguinea.org/cognacy/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                352.0
+            ],
+            [
+                438.18333435058594,
+                376.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Pronouns",
+        "on_click_jump_to": "http://transnewguinea.org/pronouns/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                384.0
+            ],
+            [
+                438.18333435058594,
+                408.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Statistics",
+        "on_click_jump_to": "http://transnewguinea.org/statistics/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                546.0
+            ],
+            [
+                438.18333435058594,
+                570.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Log-in",
+        "on_click_jump_to": "http://transnewguinea.org/accounts/login/"
+    },
+    {
+        "position": [
+            [
+                470.183349609375,
+                145.5
+            ],
+            [
+                508.41668701171875,
+                162.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://transnewguinea.org/"
+    },
+    {
+        "position": [
+            [
+                520.4000244140625,
+                145.5
+            ],
+            [
+                573.0000305175781,
+                162.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Sources",
+        "on_click_jump_to": "http://transnewguinea.org/source/"
+    },
+    {
+        "position": [
+            [
+                584.9833374023438,
+                145.5
+            ],
+            [
+                681.1333312988281,
+                162.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Franklin (1975)",
+        "on_click_jump_to": "http://transnewguinea.org/source/franklin1975"
+    },
+    {
+        "position": [
+            [
+                265.683349609375,
+                1085.183349609375
+            ],
+            [
+                382.00001525878906,
+                1102.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Simon J. Greenhill",
+        "on_click_jump_to": "http://simon.net.nz/"
+    },
+    {
+        "position": [
+            [
+                639.8499755859375,
+                1085.183349609375
+            ],
+            [
+                997.2499694824219,
+                1102.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            15,
+            118,
+            110
+        ],
+        "text": "Creative Commons Attribution 4.0 International License",
+        "on_click_jump_to": "http://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                634.0
+            ],
+            [
+                408.0,
+                702.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://assets.transnewguinea.org/tng/img/anu.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                750.0
+            ],
+            [
+                358.0,
+                843.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://assets.transnewguinea.org/tng/img/arc.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                891.0
+            ],
+            [
+                335.0,
+                1016.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://assets.transnewguinea.org/tng/img/mpi.png"
+    },
+    {
+        "position": [
+            [
+                539.9166870117188,
+                1080.0
+            ],
+            [
+                627.9166870117188,
+                1111.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://i.creativecommons.org/l/by/4.0/88x31.png"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "position": [
+            [
+                1640.2333984375,
+                16.0
+            ],
+            [
+                1714.7500610351562,
+                65.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fsologenxwarriors.com%252Fx-quotes%252F"
+    },
+    {
+        "position": [
+            [
+                1730.75,
+                16.0
+            ],
+            [
+                1896.0,
+                65.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Start your website",
+        "on_click_jump_to": "https://wordpress.com/?ref=private_site"
+    },
+    {
+        "position": [
+            [
+                905.7333374023438,
+                538.5833129882812
+            ],
+            [
+                1086.7166595458984,
+                559.5833129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            100,
+            105,
+            112
+        ],
+        "text": "Log in to WordPress.com",
+        "on_click_jump_to": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fsologenxwarriors.com%252Fx-quotes%252F"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "position": [
+            [
+                673.9500122070312,
+                226.0
+            ],
+            [
+                783.9500122070312,
+                246.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "expected value",
+        "on_click_jump_to": "javascript:void(0)"
+    },
+    {
+        "position": [
+            [
+                443.1666870117187,
+                434.0
+            ],
+            [
+                521.0833435058594,
+                454.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "risk averse",
+        "on_click_jump_to": "javascript:void(0)"
+    },
+    {
+        "position": [
+            [
+                441.3999938964844,
+                458.0
+            ],
+            [
+                527.8999938964844,
+                478.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "risk seeking",
+        "on_click_jump_to": "javascript:void(0)"
+    },
+    {
+        "position": [
+            [
+                932.0,
+                832.0
+            ],
+            [
+                941.0,
+                845.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://opus1journal.org/counterimages/bw_00.gif"
+    },
+    {
+        "position": [
+            [
+                941.0,
+                832.0
+            ],
+            [
+                950.0,
+                845.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://opus1journal.org/counterimages/bw_01.gif"
+    },
+    {
+        "position": [
+            [
+                950.0,
+                832.0
+            ],
+            [
+                959.0,
+                845.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://opus1journal.org/counterimages/bw_01.gif"
+    },
+    {
+        "position": [
+            [
+                959.0,
+                832.0
+            ],
+            [
+                968.0,
+                845.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://opus1journal.org/counterimages/bw_07.gif"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                832.0
+            ],
+            [
+                978.0,
+                845.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://opus1journal.org/counterimages/bw_02.gif"
+    },
+    {
+        "position": [
+            [
+                978.0,
+                832.0
+            ],
+            [
+                988.0,
+                845.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://opus1journal.org/counterimages/bw_05.gif"
+    },
+    {
+        "position": [
+            [
+                916.5,
+                861.0
+            ],
+            [
+                1003.5,
+                911.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://opus1journal.org/articles/images/logobutton.gif"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                0.0
+            ],
+            [
+                1728.0,
+                943.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://opus1journal.org/articles/images/leftbgKA.gif"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                0.0
+            ],
+            [
+                1728.0,
+                943.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://opus1journal.org/articles/images/rightbgKA.gif"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                0.0
+            ],
+            [
+                1728.0,
+                943.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://opus1journal.org/articles/images/bgKA.gif"
+    }
+]

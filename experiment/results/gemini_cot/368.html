@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tumblr</title>
+    <link href="https://cdn.tailwindcss.com" rel="stylesheet">
+</head>
+<body class="bg-black text-white font-sans">
+
+    <header class="flex justify-between items-center py-4 px-8">
+        <a href="#" class="text-white text-2xl font-bold">t</a>
+        <div class="relative">
+            <input type="text" placeholder="Search Tumblr" class="bg-gray-800 rounded-full px-4 py-2 pr-8 focus:outline-none focus:ring-2 focus:ring-blue-500">
+            <svg class="absolute right-3 top-1/2 transform -translate-y-1/2 text-gray-500" width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M9.5 16.5C13.125 16.5 16 13.625 16 10C16 6.375 13.125 3.5 9.5 3.5C5.875 3.5 3 6.375 3 10C3 13.625 5.875 16.5 9.5 16.5ZM9.5 5C11.4375 5 13 6.5625 13 8.5C13 10.4375 11.4375 12 9.5 12C7.5625 12 6 10.4375 6 8.5C6 6.5625 7.5625 5 9.5 5Z" fill="currentColor"/>
+            </svg>
+        </div>
+        <a href="#" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full">Sign up</a>
+    </header>
+
+    <main class="flex flex-col items-center justify-center h-screen">
+        <h1 class="text-white text-6xl font-bold mb-8">tumblr</h1>
+        <form class="bg-gray-800 rounded-lg p-8 w-96">
+            <div class="mb-4">
+                <label for="email" class="block text-gray-400 text-sm font-bold mb-2">Email</label>
+                <input type="email" id="email" class="shadow appearance-none bg-gray-700 border rounded w-full py-2 px-3 text-gray-400 leading-tight focus:outline-none focus:shadow-outline" placeholder="Email">
+            </div>
+            <div class="mb-6">
+                <label for="password" class="block text-gray-400 text-sm font-bold mb-2">Password</label>
+                <input type="password" id="password" class="shadow appearance-none bg-gray-700 border rounded w-full py-2 px-3 text-gray-400 leading-tight focus:outline-none focus:shadow-outline" placeholder="******************">
+            </div>
+            <p class="text-gray-500 text-xs mb-4">By clicking log in, or continuing with the other options below, you agree to Tumblr's <a href="#" class="text-blue-500 hover:underline">Terms of Service</a> and have read the <a href="#" class="text-blue-500 hover:underline">Privacy Policy</a></p>
+            <button type="submit" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">Log in</button>
+            <a href="#" class="block text-blue-500 hover:underline text-center mt-4">Forgot your password?</a>
+            <div class="text-center mt-6">
+                <span class="text-gray-500">or</span>
+            </div>
+            <a href="#" class="flex items-center justify-center bg-white hover:bg-gray-100 text-black font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline mt-4">
+                <img class="w-5 h-5 mr-2" src="https://www.gstatic.com/identity/boq/g/google_clr_60x60dp.png" alt="Google logo">
+                Continue with Google
+            </a>
+            <a href="#" class="flex items-center justify-center bg-black border border-gray-500 hover:border-gray-400 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline mt-4">
+                <svg class="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.293 5.293a1 1 0 011.414 0l4 4a1 1 0 010 1.414l-4 4a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-2.293-2.293a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
+                Continue with Apple
+            </a>
+            <p class="text-gray-500 text-center mt-4">New to Tumblr? <a href="#" class="text-blue-500 hover:underline">Sign up!</a></p>
+        </form>
+    </main>
+
+    <footer class="absolute bottom-0 left-0 w-full bg-black text-white py-4 px-8">
+        <ul class="flex space-x-4 text-sm">
+            <li><a href="#" class="hover:underline">Terms</a></li>
+            <li><a href="#" class="hover:underline">Privacy</a></li>
+            <li><a href="#" class="hover:underline">Jobs</a></li>
+            <li><a href="#" class="hover:underline">Support</a></li>
+        </ul>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,4508 @@
+[
+    {
+        "position": [
+            [
+                827.5999755859375,
+                12.25
+            ],
+            [
+                889.9166412353516,
+                31.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FORUMS",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/"
+    },
+    {
+        "position": [
+            [
+                914.683349609375,
+                12.25
+            ],
+            [
+                998.2833557128906,
+                31.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MASTERCLASS",
+        "on_click_jump_to": "https://www.icy-veins.com/wow/masterclass"
+    },
+    {
+        "position": [
+            [
+                1023.0499877929688,
+                16.25
+            ],
+            [
+                1075.8499908447266,
+                31.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SEARCH",
+        "on_click_jump_to": "https://www.icy-veins.com/search"
+    },
+    {
+        "position": [
+            [
+                675.0,
+                47.0
+            ],
+            [
+                777.0,
+                135.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "WoW",
+        "on_click_jump_to": "https://www.icy-veins.com/wow/"
+    },
+    {
+        "position": [
+            [
+                778.0,
+                47.0
+            ],
+            [
+                880.0,
+                135.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "WoW Classic",
+        "on_click_jump_to": "https://www.icy-veins.com/wow-classic/"
+    },
+    {
+        "position": [
+            [
+                880.0,
+                47.0
+            ],
+            [
+                982.0,
+                135.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Cata Classic",
+        "on_click_jump_to": "https://www.icy-veins.com/cataclysm-classic/"
+    },
+    {
+        "position": [
+            [
+                984.0,
+                47.0
+            ],
+            [
+                1086.0,
+                135.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FFXIV",
+        "on_click_jump_to": "https://www.icy-veins.com/ffxiv/"
+    },
+    {
+        "position": [
+            [
+                1087.0,
+                47.0
+            ],
+            [
+                1189.0,
+                135.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ZZZ",
+        "on_click_jump_to": "https://www.icy-veins.com/zenless-zone-zero/"
+    },
+    {
+        "position": [
+            [
+                1190.0,
+                47.0
+            ],
+            [
+                1292.0,
+                135.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Diablo IV",
+        "on_click_jump_to": "https://www.icy-veins.com/d4/"
+    },
+    {
+        "position": [
+            [
+                1293.0,
+                47.0
+            ],
+            [
+                1395.0,
+                135.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Last Epoch",
+        "on_click_jump_to": "https://www.icy-veins.com/last-epoch/"
+    },
+    {
+        "position": [
+            [
+                440.0,
+                145.0
+            ],
+            [
+                509.53334045410156,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "AMAZON",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/amazon-class-and-builds"
+    },
+    {
+        "position": [
+            [
+                539.5333251953125,
+                145.0
+            ],
+            [
+                612.2499847412109,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ASSASSIN",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/assassin-class-and-builds"
+    },
+    {
+        "position": [
+            [
+                642.25,
+                145.0
+            ],
+            [
+                728.8833312988281,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BARBARIAN",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/barbarian-class-and-builds"
+    },
+    {
+        "position": [
+            [
+                758.88330078125,
+                145.0
+            ],
+            [
+                812.5499725341797,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DRUID",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/druid-class-and-builds"
+    },
+    {
+        "position": [
+            [
+                842.5499877929688,
+                145.0
+            ],
+            [
+                951.1999816894531,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "NECROMANCER",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/necromancer-class-and-builds"
+    },
+    {
+        "position": [
+            [
+                981.2000122070312,
+                145.0
+            ],
+            [
+                1049.9000091552734,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PALADIN",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/paladin-class-and-builds"
+    },
+    {
+        "position": [
+            [
+                1079.9000244140625,
+                145.0
+            ],
+            [
+                1160.6500244140625,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SORCERESS",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/sorceress-class-and-builds"
+    },
+    {
+        "position": [
+            [
+                1190.6500244140625,
+                145.0
+            ],
+            [
+                1279.1500244140625,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PVM TIER LIST",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/pvm-build-rankings-a-diablo-2-tier-list"
+    },
+    {
+        "position": [
+            [
+                1309.1500244140625,
+                145.0
+            ],
+            [
+                1368.183364868164,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GUIDES",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/farming-overview-and-guides"
+    },
+    {
+        "position": [
+            [
+                1001.5166625976562,
+                228.0
+            ],
+            [
+                1131.0,
+                268.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Check it out",
+        "on_click_jump_to": "https://www.icy-veins.com/d4/"
+    },
+    {
+        "position": [
+            [
+                482.0,
+                368.0
+            ],
+            [
+                604.2666625976562,
+                388.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Hammerdin",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/blessed-hammer-paladin-hammerdin-build"
+    },
+    {
+        "position": [
+            [
+                638.2666625976562,
+                368.0
+            ],
+            [
+                798.2166595458984,
+                388.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Blizzard Sorceress",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/blizzard-sorceress-build"
+    },
+    {
+        "position": [
+            [
+                832.2166748046875,
+                368.0
+            ],
+            [
+                924.0333557128906,
+                388.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Trapsin",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/lightning-death-sentry-assassin-trapsin-build"
+    },
+    {
+        "position": [
+            [
+                482.0,
+                407.0
+            ],
+            [
+                690.9499969482422,
+                427.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Summoner Necromancer",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/summoner-necromancer-build"
+    },
+    {
+        "position": [
+            [
+                724.9500122070312,
+                407.0
+            ],
+            [
+                915.9500122070312,
+                427.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Lightning Fury Javazon",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/lightning-fury-charged-strike-amazon-javazon-build"
+    },
+    {
+        "position": [
+            [
+                949.9500122070312,
+                407.0
+            ],
+            [
+                1066.6666870117188,
+                427.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Wind Druid",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/wind-druid-build"
+    },
+    {
+        "position": [
+            [
+                482.0,
+                446.0
+            ],
+            [
+                646.8666687011719,
+                466.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Meteorb Sorceress",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/meteor-frozen-orb-sorceress-meteorb-build"
+    },
+    {
+        "position": [
+            [
+                680.86669921875,
+                446.0
+            ],
+            [
+                819.4500274658203,
+                466.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Smiter Paladin",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/smiter-paladin-build"
+    },
+    {
+        "position": [
+            [
+                853.4500122070312,
+                446.0
+            ],
+            [
+                1022.9666748046875,
+                466.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Bone Necromancer",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/bone-necromancer-build"
+    },
+    {
+        "position": [
+            [
+                478.0,
+                536.5
+            ],
+            [
+                604.2833404541016,
+                555.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Andariel Run Guide",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/andariel-run-farming-guide"
+    },
+    {
+        "position": [
+            [
+                658.2833251953125,
+                536.5
+            ],
+            [
+                757.7333221435547,
+                555.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Baal Run Guide",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/baal-run-farming-guide"
+    },
+    {
+        "position": [
+            [
+                811.7333374023438,
+                536.5
+            ],
+            [
+                976.0,
+                555.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Chaos Run Guide (Diablo)",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/diablo-farming-guide-chaos-run"
+    },
+    {
+        "position": [
+            [
+                478.0,
+                572.5
+            ],
+            [
+                610.4666595458984,
+                591.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Mephisto Run Guide",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/mephisto-run-farming-guide"
+    },
+    {
+        "position": [
+            [
+                664.4666748046875,
+                572.5
+            ],
+            [
+                800.8166809082031,
+                591.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Cow Level Run Guide",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/secret-cow-level-farming-guide"
+    },
+    {
+        "position": [
+            [
+                854.816650390625,
+                572.5
+            ],
+            [
+                1012.9999847412109,
+                591.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Lower Kurast Run Guide",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/lower-kurast-farming-guide"
+    },
+    {
+        "position": [
+            [
+                478.0,
+                658.5
+            ],
+            [
+                569.7166595458984,
+                677.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "PvM Rankings",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/pvm-build-rankings-a-diablo-2-tier-list"
+    },
+    {
+        "position": [
+            [
+                623.7166748046875,
+                658.5
+            ],
+            [
+                664.183349609375,
+                677.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            189,
+            158
+        ],
+        "text": "Runes",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/rune-guide-a-complete-list"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                765.0
+            ],
+            [
+                901.5833282470703,
+                793.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blizzard at Gamescom 2024",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/80087-blizzard-at-gamescom-2024/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                804.0
+            ],
+            [
+                749.6666717529297,
+                822.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Gamescom",
+        "on_click_jump_to": "https://www.gamescom.global/en"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                901.0
+            ],
+            [
+                1180.5,
+                929.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Icy Veins Seeking Writers for Zenless Zone Zero: Apply Today!",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/79607-icy-veins-seeking-writers-for-zenless-zone-zero-apply-today/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                1037.0
+            ],
+            [
+                838.1833343505859,
+                1065.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "No BlizzCon in 2024",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/78783-no-blizzcon-in-2024/"
+    },
+    {
+        "position": [
+            [
+                736.38330078125,
+                1134.5
+            ],
+            [
+                793.88330078125,
+                1151.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "7 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/78783-no-blizzcon-in-2024/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                1173.0
+            ],
+            [
+                1254.6500244140625,
+                1201.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blizzard Games Return to China: New Agreement Signed With NetEase",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/78421-blizzard-games-return-to-china-new-agreement-signed-with-netease/"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                1270.5
+            ],
+            [
+                791.9166870117188,
+                1287.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "5 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/78421-blizzard-games-return-to-china-new-agreement-signed-with-netease/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                1309.0
+            ],
+            [
+                1267.9000244140625,
+                1337.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blizzard Reportedly Reuniting with NetEase to Bring Back WoW in China",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77983-blizzard-reportedly-reuniting-with-netease-to-bring-back-wow-in-china/"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                1406.5
+            ],
+            [
+                791.9166870117188,
+                1423.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "5 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77983-blizzard-reportedly-reuniting-with-netease-to-bring-back-wow-in-china/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                1445.0
+            ],
+            [
+                1266.7333374023438,
+                1473.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Ex-Activision Blizzard CEO Bobby Kotick Shows Interest in Buying TikTok",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77958-ex-activision-blizzard-ceo-bobby-kotick-shows-interest-in-buying-tiktok/"
+    },
+    {
+        "position": [
+            [
+                731.63330078125,
+                1542.5
+            ],
+            [
+                794.6833038330078,
+                1559.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "15 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77958-ex-activision-blizzard-ceo-bobby-kotick-shows-interest-in-buying-tiktok/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                1581.0
+            ],
+            [
+                1204.9666748046875,
+                1609.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Diablo 2: Resurrected Ladder Season 6 Details and Launch Times",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77537-diablo-2-resurrected-ladder-season-6-details-and-launch-times/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                1717.0
+            ],
+            [
+                928.9499969482422,
+                1745.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Timeline of Blizzard Presidents",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77327-timeline-of-blizzard-presidents/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                1756.0
+            ],
+            [
+                1104.1333312988281,
+                1790.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Johanna Faires recently taking on the role of the new President at Blizzard",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77262-johanna-faires-appointed-blizzard-entertainment-president/"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                1814.5
+            ],
+            [
+                791.9166870117188,
+                1831.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "3 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77327-timeline-of-blizzard-presidents/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                1853.0
+            ],
+            [
+                1163.7166748046875,
+                1881.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Johanna Faires Appointed Blizzard Entertainment President",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77262-johanna-faires-appointed-blizzard-entertainment-president/"
+    },
+    {
+        "position": [
+            [
+                731.63330078125,
+                1950.5
+            ],
+            [
+                794.6833038330078,
+                1967.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "16 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77262-johanna-faires-appointed-blizzard-entertainment-president/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                1989.0
+            ],
+            [
+                1232.6500244140625,
+                2017.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Will Microsoft Outsource Customer Support to External Companies?",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77238-will-microsoft-outsource-customer-support-to-external-companies/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                2028.0
+            ],
+            [
+                1139.6166687011719,
+                2062.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Microsoft's decision to lay off nearly 1,900 employees from its Activision Blizzard and Xbox divisions",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77221-microsoft-lays-off-1900-activision-blizzard-and-xbox-employees/"
+    },
+    {
+        "position": [
+            [
+                985.2999877929688,
+                2060.0
+            ],
+            [
+                1050.0999908447266,
+                2078.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Jez Corden",
+        "on_click_jump_to": "https://twitter.com/JezCorden"
+    },
+    {
+        "position": [
+            [
+                731.63330078125,
+                2086.5
+            ],
+            [
+                794.6833038330078,
+                2103.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "11 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77238-will-microsoft-outsource-customer-support-to-external-companies/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                2125.0
+            ],
+            [
+                1372.7666625976562,
+                2153.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blizzard Survival Game, Codenamed Odyssey, Was Cancelled Due to Engine Problems",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77225-blizzard-survival-game-codenamed-odyssey-was-cancelled-due-to-engine-problems/"
+    },
+    {
+        "position": [
+            [
+                906.2833251953124,
+                2164.0
+            ],
+            [
+                1088.9833221435547,
+                2182.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "unfortunate events at Blizzard",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77221-microsoft-lays-off-1900-activision-blizzard-and-xbox-employees/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                2180.0
+            ],
+            [
+                843.3333282470703,
+                2198.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Bloomberg's Jason Schreier",
+        "on_click_jump_to": "https://twitter.com/jasonschreier/status/1750620667660100066"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                2222.5
+            ],
+            [
+                791.9166870117188,
+                2239.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "4 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77225-blizzard-survival-game-codenamed-odyssey-was-cancelled-due-to-engine-problems/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                2261.0
+            ],
+            [
+                1203.0499877929688,
+                2289.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Microsoft Lays Off 1,900 Activision Blizzard and Xbox Employees",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77221-microsoft-lays-off-1900-activision-blizzard-and-xbox-employees/"
+    },
+    {
+        "position": [
+            [
+                731.63330078125,
+                2358.5
+            ],
+            [
+                794.6833038330078,
+                2375.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "12 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/77221-microsoft-lays-off-1900-activision-blizzard-and-xbox-employees/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                2397.0
+            ],
+            [
+                1176.8833312988281,
+                2425.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blizzard Celebrates the End of 2023 and Looks Ahead to 2024",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/76684-blizzard-celebrates-the-end-of-2023-and-looks-ahead-to-2024/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                2533.0
+            ],
+            [
+                1327.38330078125,
+                2561.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Microsoft Announced Xbox Leadership Changes Amid Bobby Kotick's Departure",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/76679-microsoft-announced-xbox-leadership-changes-amid-bobby-koticks-departure/"
+    },
+    {
+        "position": [
+            [
+                921.0833129882812,
+                2604.0
+            ],
+            [
+                979.0999908447266,
+                2622.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "the Verge",
+        "on_click_jump_to": "https://www.theverge.com/2023/12/20/24009129/microsoft-gaming-xbox-phil-spencer-bobby-kotick-activision-leadership-changes"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                2630.5
+            ],
+            [
+                791.9166870117188,
+                2647.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "4 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/76679-microsoft-announced-xbox-leadership-changes-amid-bobby-koticks-departure/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                2669.0
+            ],
+            [
+                1224.433349609375,
+                2697.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "22 Nights of Terror Holiday Event Returns to Diablo II: Resurrected",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/76458-22-nights-of-terror-holiday-event-returns-to-diablo-ii-resurrected/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                2805.0
+            ],
+            [
+                1356.4166870117188,
+                2833.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Microsoft Gaming CEO Phil Spencer Enthusiastic About Reviving Blizzard Franchises",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/76438-microsoft-gaming-ceo-phil-spencer-enthusiastic-about-reviving-blizzard-franchises/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                2876.0
+            ],
+            [
+                780.5666656494141,
+                2894.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Windows Central",
+        "on_click_jump_to": "https://www.windowscentral.com/gaming/phil-spencer-jez-corden-xbox-interview-2023"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                2902.5
+            ],
+            [
+                791.9166870117188,
+                2919.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "2 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/76438-microsoft-gaming-ceo-phil-spencer-enthusiastic-about-reviving-blizzard-franchises/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                2941.0
+            ],
+            [
+                1089.1333312988281,
+                2969.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Icy Veins Launches Genshin Impact Guides Section",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/76268-icy-veins-launches-genshin-impact-guides-section/"
+    },
+    {
+        "position": [
+            [
+                965.2333374023438,
+                2996.0
+            ],
+            [
+                1060.4499969482422,
+                3014.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Genshin Impact",
+        "on_click_jump_to": "http://www.icy-veins.com/genshin-impact"
+    },
+    {
+        "position": [
+            [
+                739.63330078125,
+                3038.5
+            ],
+            [
+                797.13330078125,
+                3055.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "5 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/76268-icy-veins-launches-genshin-impact-guides-section/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                3077.0
+            ],
+            [
+                1028.0333251953125,
+                3105.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Battle.net Black Friday Sale: Up to 67% Off",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75962-battlenet-black-friday-sale-up-to-67-off/"
+    },
+    {
+        "position": [
+            [
+                744.9500122070312,
+                3174.5
+            ],
+            [
+                802.4500122070312,
+                3191.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "3 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75962-battlenet-black-friday-sale-up-to-67-off/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                3213.0
+            ],
+            [
+                1205.36669921875,
+                3241.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Mike Ybbara on Blizzard's Approach to Meeting Player Demands",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75869-mike-ybbara-on-blizzards-approach-to-meeting-player-demands/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                3252.0
+            ],
+            [
+                738.6999969482422,
+                3270.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "PC Gamer",
+        "on_click_jump_to": "https://www.pcgamer.com/blizzards-job-is-to-provide-impatient-players-new-stuff-every-day-every-hour-says-studio-head/"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                3310.5
+            ],
+            [
+                791.9166870117188,
+                3327.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "6 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75869-mike-ybbara-on-blizzards-approach-to-meeting-player-demands/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                3349.0
+            ],
+            [
+                1109.6000061035156,
+                3377.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BlizzCon 2023 Stream and Announcements Summary",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75591-blizzcon-2023-stream-and-announcements-summary/"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                3446.5
+            ],
+            [
+                791.9166870117188,
+                3463.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "2 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75591-blizzcon-2023-stream-and-announcements-summary/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                3485.0
+            ],
+            [
+                925.8166656494141,
+                3513.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BlizzCon 2023 Bingo Collection",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75587-blizzcon-2023-bingo-collection/"
+    },
+    {
+        "position": [
+            [
+                736.38330078125,
+                3582.5
+            ],
+            [
+                793.88330078125,
+                3599.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "6 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75587-blizzcon-2023-bingo-collection/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                3621.0
+            ],
+            [
+                1318.8499755859375,
+                3649.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "WoW Battle Pet and Hearthstone Card Back Promotion From Warcraft Rumble",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75582-wow-battle-pet-and-hearthstone-card-back-promotion-from-warcraft-rumble/"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                3718.5
+            ],
+            [
+                791.9166870117188,
+                3735.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "6 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75582-wow-battle-pet-and-hearthstone-card-back-promotion-from-warcraft-rumble/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                3757.0
+            ],
+            [
+                1192.4500122070312,
+                3785.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Warcraft Rumble Released a Day Early and Is Rolling Out Now!",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75580-warcraft-rumble-released-a-day-early-and-is-rolling-out-now/"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                3854.5
+            ],
+            [
+                791.9166870117188,
+                3871.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "2 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75580-warcraft-rumble-released-a-day-early-and-is-rolling-out-now/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                3893.0
+            ],
+            [
+                952.0499877929688,
+                3921.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BlizzCon 2023 Broadcast Schedule",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75503-blizzcon-2023-broadcast-schedule/"
+    },
+    {
+        "position": [
+            [
+                733.5999755859375,
+                3990.5
+            ],
+            [
+                796.6499633789062,
+                4007.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "15 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75503-blizzcon-2023-broadcast-schedule/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                4029.0
+            ],
+            [
+                1428.2833251953125,
+                4057.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Microsoft Leaders Visit Blizzard Post $69B Acquisition, Hint at Brighter, Autonomous Future",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75471-microsoft-leaders-visit-blizzard-post-69b-acquisition-hint-at-brighter-autonomous-future/"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                4126.5
+            ],
+            [
+                791.9166870117188,
+                4143.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "3 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75471-microsoft-leaders-visit-blizzard-post-69b-acquisition-hint-at-brighter-autonomous-future/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                4165.0
+            ],
+            [
+                1040.2333374023438,
+                4193.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Microsoft-Activision Blizzard Merger Memes",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75331-microsoft-activision-blizzard-merger-memes/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                4301.0
+            ],
+            [
+                1145.25,
+                4329.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Bobby Kotick to Leave Activision Blizzard in January 2024",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75300-bobby-kotick-to-leave-activision-blizzard-in-january-2024/"
+    },
+    {
+        "position": [
+            [
+                719.0833129882812,
+                4340.0
+            ],
+            [
+                907.5999908447266,
+                4358.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Microsoft-Activision deal closes",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75298-activision-blizzard-king-joins-xbox-official-trailer/"
+    },
+    {
+        "position": [
+            [
+                731.63330078125,
+                4398.5
+            ],
+            [
+                794.6833038330078,
+                4415.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "13 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75300-bobby-kotick-to-leave-activision-blizzard-in-january-2024/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                4437.0
+            ],
+            [
+                1088.6333312988281,
+                4465.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Activision Blizzard King Joins Xbox - Official Trailer",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75298-activision-blizzard-king-joins-xbox-official-trailer/"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                4534.5
+            ],
+            [
+                791.9166870117188,
+                4551.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "4 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75298-activision-blizzard-king-joins-xbox-official-trailer/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                4573.0
+            ],
+            [
+                1142.1166687011719,
+                4601.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "UK's CMA Approves Microsoft/Activision Blizzard Merger",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75294-uks-cma-approves-microsoftactivision-blizzard-merger/"
+    },
+    {
+        "position": [
+            [
+                734.4166870117188,
+                4670.5
+            ],
+            [
+                791.9166870117188,
+                4687.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "5 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75294-uks-cma-approves-microsoftactivision-blizzard-merger/"
+    },
+    {
+        "position": [
+            [
+                678.0,
+                4709.0
+            ],
+            [
+                938.1499938964844,
+                4737.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "The BlizzCon Collection Detailed",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75253-the-blizzcon-collection-detailed/"
+    },
+    {
+        "position": [
+            [
+                736.38330078125,
+                4806.5
+            ],
+            [
+                793.88330078125,
+                4823.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            211,
+            227,
+            235
+        ],
+        "text": "7 comments",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/topic/75253-the-blizzcon-collection-detailed/"
+    },
+    {
+        "position": [
+            [
+                691.61669921875,
+                4858.5
+            ],
+            [
+                908.3833618164062,
+                4901.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            44,
+            68
+        ],
+        "text": "READ MORE NEWS",
+        "on_click_jump_to": "https://www.icy-veins.com/forums/forum/9-news/"
+    },
+    {
+        "position": [
+            [
+                1285.5999755859375,
+                294.5
+            ],
+            [
+                1420.0832977294922,
+                311.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Assassin Class Overview",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/assassin-class-and-builds"
+    },
+    {
+        "position": [
+            [
+                1285.5999755859375,
+                346.5
+            ],
+            [
+                1557.0833129882812,
+                363.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Blizzard Frozen Orb Sorceress Build Introduction",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/blizzard-frozen-orb-sorceress-build"
+    },
+    {
+        "position": [
+            [
+                1285.5999755859375,
+                382.5
+            ],
+            [
+                1491.2166290283203,
+                399.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Blizzard Sorceress Build Introduction",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/blizzard-sorceress-build"
+    },
+    {
+        "position": [
+            [
+                1285.5999755859375,
+                418.5
+            ],
+            [
+                1504.316635131836,
+                435.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Dragon Tail Assassin Build Introduction",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/dragon-tail-assassin-build"
+    },
+    {
+        "position": [
+            [
+                1285.5999755859375,
+                454.5
+            ],
+            [
+                1510.3332977294922,
+                471.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Dream Zealot Paladin Build Introduction",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/dream-zealot-paladin-build"
+    },
+    {
+        "position": [
+            [
+                1299.2666015625,
+                525.5
+            ],
+            [
+                1352.7332763671875,
+                544.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "SEE MORE",
+        "on_click_jump_to": "https://www.icy-veins.com/d2/changelog"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                4979.5
+            ],
+            [
+                501.8000030517578,
+                4998.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PATH OF EXILE",
+        "on_click_jump_to": "https://www.poe-vault.com/"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                5023.5
+            ],
+            [
+                567.4499969482422,
+                5040.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Path of Exile Build Guides",
+        "on_click_jump_to": "https://www.poe-vault.com/guides/builds-for-path-of-exile"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                5042.5
+            ],
+            [
+                535.8000030517578,
+                5059.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Path of Exile Guides",
+        "on_click_jump_to": "https://www.poe-vault.com/guides"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                5061.5
+            ],
+            [
+                584.3500061035156,
+                5078.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Path of Exile League Starters",
+        "on_click_jump_to": "https://www.poe-vault.com/guides/tag/league-starter-builds-for-path-of-exile"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                5080.5
+            ],
+            [
+                578.8833312988281,
+                5097.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Path of Exile Leveling Guide",
+        "on_click_jump_to": "https://www.poe-vault.com/guides/quick-reference-leveling-guide-for-path-of-exile"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                5099.5
+            ],
+            [
+                579.8666687011719,
+                5116.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Path of Exile Gameplay Hub",
+        "on_click_jump_to": "https://www.poe-vault.com/guides/gameplay-guide-hub"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                5118.5
+            ],
+            [
+                585.2666625976562,
+                5135.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "The Forbidden Sanctum Hub",
+        "on_click_jump_to": "https://www.poe-vault.com/guides/the-forbidden-sanctum-league-patch-3-30"
+    },
+    {
+        "position": [
+            [
+                686.38330078125,
+                5023.5
+            ],
+            [
+                754.9166412353516,
+                5040.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Class guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow/class-guides"
+    },
+    {
+        "position": [
+            [
+                686.38330078125,
+                5042.5
+            ],
+            [
+                770.3332977294922,
+                5059.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Mythic+ guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow/mythic-overview-and-class-guides-updated-for-bfa-season-4"
+    },
+    {
+        "position": [
+            [
+                686.38330078125,
+                5061.5
+            ],
+            [
+                746.6499633789062,
+                5078.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "PvP guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow/pvp-class-guides"
+    },
+    {
+        "position": [
+            [
+                686.38330078125,
+                5080.5
+            ],
+            [
+                795.8499755859375,
+                5097.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Dragonflight guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow/dragonflight-expansion"
+    },
+    {
+        "position": [
+            [
+                686.38330078125,
+                5099.5
+            ],
+            [
+                816.9166412353516,
+                5116.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Dungeon & Raid guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow/shadowlands-dungeons-and-raids-hub"
+    },
+    {
+        "position": [
+            [
+                686.38330078125,
+                5118.5
+            ],
+            [
+                771.8999633789062,
+                5135.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Leveling guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow/a-guide-to-leveling-in-world-of-warcraft"
+    },
+    {
+        "position": [
+            [
+                918.0333251953124,
+                5023.5
+            ],
+            [
+                964.2166442871093,
+                5040.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Tier lists",
+        "on_click_jump_to": "https://www.icy-veins.com/d4/guides/tier-lists/"
+    },
+    {
+        "position": [
+            [
+                918.0333251953124,
+                5042.5
+            ],
+            [
+                1010.2999877929686,
+                5059.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Barbarian builds",
+        "on_click_jump_to": "https://www.icy-veins.com/d4/barbarian/builds/"
+    },
+    {
+        "position": [
+            [
+                918.0333251953124,
+                5061.5
+            ],
+            [
+                986.3499908447264,
+                5078.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Druid builds",
+        "on_click_jump_to": "https://www.icy-veins.com/d4/druid/builds/"
+    },
+    {
+        "position": [
+            [
+                918.0333251953124,
+                5080.5
+            ],
+            [
+                1031.1666564941406,
+                5097.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Necromancer builds",
+        "on_click_jump_to": "https://www.icy-veins.com/d4/necromancer/builds/"
+    },
+    {
+        "position": [
+            [
+                918.0333251953124,
+                5099.5
+            ],
+            [
+                990.2333221435546,
+                5116.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Rogue builds",
+        "on_click_jump_to": "https://www.icy-veins.com/d4/rogue/builds/"
+    },
+    {
+        "position": [
+            [
+                918.0333251953124,
+                5118.5
+            ],
+            [
+                1002.7166442871093,
+                5135.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Sorcerer builds",
+        "on_click_jump_to": "https://www.icy-veins.com/d4/sorcerer/builds/"
+    },
+    {
+        "position": [
+            [
+                918.0333251953124,
+                5137.5
+            ],
+            [
+                976.4333190917968,
+                5154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Guide hub",
+        "on_click_jump_to": "https://www.icy-veins.com/d4/guides/"
+    },
+    {
+        "position": [
+            [
+                1132.2833251953125,
+                5023.5
+            ],
+            [
+                1217.7999877929688,
+                5040.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Leveling guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow-classic/leveling-guide"
+    },
+    {
+        "position": [
+            [
+                1132.2833251953125,
+                5042.5
+            ],
+            [
+                1200.816650390625,
+                5059.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Class guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow-classic/class-guides"
+    },
+    {
+        "position": [
+            [
+                1132.2833251953125,
+                5061.5
+            ],
+            [
+                1268.5333251953125,
+                5078.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Raids & Dungeon guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow-classic/raids-and-dungeons-guide"
+    },
+    {
+        "position": [
+            [
+                1132.2833251953125,
+                5080.5
+            ],
+            [
+                1231.2666473388672,
+                5097.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Profession guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow-classic/professions-guide"
+    },
+    {
+        "position": [
+            [
+                1132.2833251953125,
+                5099.5
+            ],
+            [
+                1233.816650390625,
+                5116.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Reputation guides",
+        "on_click_jump_to": "https://www.icy-veins.com/wow-classic/reputation-guides"
+    },
+    {
+        "position": [
+            [
+                1369.6500244140625,
+                5023.5
+            ],
+            [
+                1398.9833679199219,
+                5040.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "U.GG",
+        "on_click_jump_to": "https://u.gg/"
+    },
+    {
+        "position": [
+            [
+                1369.6500244140625,
+                5042.5
+            ],
+            [
+                1474.86669921875,
+                5059.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "The Sims Resource",
+        "on_click_jump_to": "https://www.thesimsresource.com/"
+    },
+    {
+        "position": [
+            [
+                1369.6500244140625,
+                5061.5
+            ],
+            [
+                1463.9833679199219,
+                5078.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Addicting Games",
+        "on_click_jump_to": "https://www.addictinggames.com/"
+    },
+    {
+        "position": [
+            [
+                1369.6500244140625,
+                5080.5
+            ],
+            [
+                1431.0666961669922,
+                5097.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Luminosity",
+        "on_click_jump_to": "https://luminosity.gg/"
+    },
+    {
+        "position": [
+            [
+                1369.6500244140625,
+                5099.5
+            ],
+            [
+                1448.4000244140625,
+                5116.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Pocket Gamer",
+        "on_click_jump_to": "https://www.pocketgamer.com/"
+    },
+    {
+        "position": [
+            [
+                1369.6500244140625,
+                5118.5
+            ],
+            [
+                1399.300033569336,
+                5135.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "EV.IO",
+        "on_click_jump_to": "https://ev.io/"
+    },
+    {
+        "position": [
+            [
+                1369.6500244140625,
+                5137.5
+            ],
+            [
+                1495.0000305175781,
+                5154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "Fantasy Football Scout",
+        "on_click_jump_to": "https://www.fantasyfootballscout.co.uk/"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                5220.0
+            ],
+            [
+                461.8333282470703,
+                5239.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://www.icy-veins.com/about"
+    },
+    {
+        "position": [
+            [
+                495.2999877929687,
+                5220.0
+            ],
+            [
+                544.2499847412109,
+                5239.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://www.icy-veins.com/contact"
+    },
+    {
+        "position": [
+            [
+                577.7166748046875,
+                5220.0
+            ],
+            [
+                635.0333557128906,
+                5239.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "ADVERTISE",
+        "on_click_jump_to": "https://www.icy-veins.com/advertise"
+    },
+    {
+        "position": [
+            [
+                668.5,
+                5220.0
+            ],
+            [
+                689.8333282470703,
+                5239.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://www.icy-veins.com/faq"
+    },
+    {
+        "position": [
+            [
+                723.2999877929688,
+                5220.0
+            ],
+            [
+                768.5999908447266,
+                5239.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "PRIVACY",
+        "on_click_jump_to": "https://www.icy-veins.com/privacy"
+    },
+    {
+        "position": [
+            [
+                802.066650390625,
+                5220.0
+            ],
+            [
+                878.4666442871094,
+                5239.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "TERMS OF USE",
+        "on_click_jump_to": "https://www.icy-veins.com/terms"
+    },
+    {
+        "position": [
+            [
+                911.933349609375,
+                5220.0
+            ],
+            [
+                1031.7333526611328,
+                5239.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "ACKNOWLEDGEMENTS",
+        "on_click_jump_to": "https://www.icy-veins.com/acknowledgements"
+    },
+    {
+        "position": [
+            [
+                1065.199951171875,
+                5220.0
+            ],
+            [
+                1090.0332946777344,
+                5239.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            120,
+            220,
+            255
+        ],
+        "text": "JOBS",
+        "on_click_jump_to": "https://www.icy-veins.com/jobs"
+    },
+    {
+        "position": [
+            [
+                465.0,
+                211.8333282470703
+            ],
+            [
+                618.0,
+                226.8333282470703
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/images/common/ivbeta.svg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                771.0
+            ],
+            [
+                658.0,
+                881.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/80086-blizzard-at-gamescom-2024-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                907.0
+            ],
+            [
+                658.0,
+                1017.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/79608-tba-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                1043.0
+            ],
+            [
+                658.0,
+                1153.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/78782-no-blizzcon-in-2024-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                1179.0
+            ],
+            [
+                658.0,
+                1289.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/78420-blizzard-games-return-to-china-new-agreement-signed-with-netease-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                1315.0
+            ],
+            [
+                658.0,
+                1425.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/77981-blizzard-reportedly-reuniting-with-netease-to-bring-back-wow-in-china-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                1451.0
+            ],
+            [
+                658.0,
+                1561.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75299-bobby-kotick-to-leave-activision-blizzard-in-january-2024-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                1587.0
+            ],
+            [
+                658.0,
+                1697.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/77536-diablo-2-resurrected-ladder-season-6-details-and-launch-times-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                1723.0
+            ],
+            [
+                658.0,
+                1833.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/77326-timeline-of-blizzard-presidents-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                1859.0
+            ],
+            [
+                658.0,
+                1969.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/77261-johanna-faires-appointed-blizzard-entertainment-president-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                1995.0
+            ],
+            [
+                658.0,
+                2105.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/77237-will-microsoft-outsource-customer-support-to-external-companies-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                2131.0
+            ],
+            [
+                658.0,
+                2241.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/77224-blizzard-survival-game-codenamed-odyssey-was-cancelled-due-to-engine-problems-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                2267.0
+            ],
+            [
+                658.0,
+                2377.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/77220-microsoft-lays-off-1900-activision-blizzard-and-xbox-employees-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                2403.0
+            ],
+            [
+                658.0,
+                2513.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/76683-2023-end-of-year-review-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                2539.0
+            ],
+            [
+                658.0,
+                2649.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/76678-microsoft-announced-xbox-leadership-changes-amid-bobby-koticks-departure-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                2675.0
+            ],
+            [
+                658.0,
+                2785.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/76457-22-nights-of-terror-holiday-event-returns-to-diablo-ii-resurrected-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                2811.0
+            ],
+            [
+                658.0,
+                2921.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/76437-microsoft-gaming-ceo-phil-spencer-enthusiasting-about-reviving-blizzard-franchises-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                2947.0
+            ],
+            [
+                658.0,
+                3057.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/76259-icy-veins-launches-genshin-impact-guides-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                3083.0
+            ],
+            [
+                658.0,
+                3193.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75961-battlenet-black-friday-sale-up-to-67-off-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                3219.0
+            ],
+            [
+                658.0,
+                3329.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75868-mike-ybbara-on-blizzards-approach-to-meeting-player-demands-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                3355.0
+            ],
+            [
+                658.0,
+                3465.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75590-blizzcon-2023-stream-and-announcements-summary-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                3491.0
+            ],
+            [
+                658.0,
+                3601.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75586-blizzcon-2023-bingo-collection-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                3627.0
+            ],
+            [
+                658.0,
+                3737.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75581-wow-battle-pet-and-hearthstone-card-back-promotion-from-warcraft-rumble-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                3763.0
+            ],
+            [
+                658.0,
+                3873.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75579-warcraft-rumble-released-a-day-early-and-is-rolling-out-now-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                3899.0
+            ],
+            [
+                658.0,
+                4009.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75502-blizzcon-2023-broadcast-schedule-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                4035.0
+            ],
+            [
+                658.0,
+                4145.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75470-xbox-leadership-visits-blizzard-hq-in-irvine-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                4171.0
+            ],
+            [
+                658.0,
+                4281.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75330-microsoft-activision-blizzard-merger-memes-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                4307.0
+            ],
+            [
+                658.0,
+                4417.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75299-bobby-kotick-to-leave-activision-blizzard-in-january-2024-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                4443.0
+            ],
+            [
+                658.0,
+                4553.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75297-activision-blizzard-king-joins-xbox-official-trailer-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                4579.0
+            ],
+            [
+                658.0,
+                4689.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75293-uks-cma-approves-microsoftactivision-blizzard-merger-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                4715.0
+            ],
+            [
+                658.0,
+                4825.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://static.icy-veins.com/forum-files/news/75252-the-blizzcon-collection-308x110.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                5331.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/side-background.jpg?v=3"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                5331.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/footer.jpg?v=3"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                0.0
+            ],
+            [
+                1495.0,
+                130.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/game-menu-8.jpg"
+    },
+    {
+        "position": [
+            [
+                432.066650390625,
+                14.0
+            ],
+            [
+                452.066650390625,
+                32.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                457.066650390625,
+                14.0
+            ],
+            [
+                477.066650390625,
+                32.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                482.066650390625,
+                14.0
+            ],
+            [
+                502.066650390625,
+                32.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                507.066650390625,
+                14.0
+            ],
+            [
+                527.066650390625,
+                32.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                532.066650390625,
+                14.0
+            ],
+            [
+                552.066650390625,
+                32.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                557.066650390625,
+                14.0
+            ],
+            [
+                577.066650390625,
+                32.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                582.066650390625,
+                14.0
+            ],
+            [
+                602.066650390625,
+                32.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                607.066650390625,
+                14.0
+            ],
+            [
+                627.066650390625,
+                32.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                646.8333129882812,
+                3.0
+            ],
+            [
+                809.8333129882812,
+                45.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/forums-premium.png?v=2"
+    },
+    {
+        "position": [
+            [
+                827.5999755859375,
+                18.25
+            ],
+            [
+                846.5999755859375,
+                36.25
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/icon-forums.png?v=2"
+    },
+    {
+        "position": [
+            [
+                914.683349609375,
+                17.25
+            ],
+            [
+                932.683349609375,
+                35.25
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/png;base64,"
+    },
+    {
+        "position": [
+            [
+                1023.0499877929688,
+                19.25
+            ],
+            [
+                1037.0499877929688,
+                33.25
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/icon-search.png?v=2"
+    },
+    {
+        "position": [
+            [
+                1100.61669921875,
+                7.0
+            ],
+            [
+                1195.61669921875,
+                42.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/forums-sign-in.png?v=2"
+    },
+    {
+        "position": [
+            [
+                1199.0,
+                15.0
+            ],
+            [
+                1390.0,
+                32.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/forums-new-to-icy-veins.png?v=2"
+    },
+    {
+        "position": [
+            [
+                1399.0,
+                8.0
+            ],
+            [
+                1494.0,
+                43.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/forums-register.png?v=2"
+    },
+    {
+        "position": [
+            [
+                435.0,
+                58.0
+            ],
+            [
+                655.0,
+                113.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/logo.png"
+    },
+    {
+        "position": [
+            [
+                701.0,
+                57.0
+            ],
+            [
+                751.0,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/built-common-game-icons-2efac29207b3a411beb80038fecbcc74.png"
+    },
+    {
+        "position": [
+            [
+                804.0,
+                57.0
+            ],
+            [
+                854.0,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/built-common-game-icons-2efac29207b3a411beb80038fecbcc74.png"
+    },
+    {
+        "position": [
+            [
+                906.0,
+                57.0
+            ],
+            [
+                956.0,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/built-common-game-icons-2efac29207b3a411beb80038fecbcc74.png"
+    },
+    {
+        "position": [
+            [
+                1010.0,
+                57.0
+            ],
+            [
+                1060.0,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/built-common-game-icons-2efac29207b3a411beb80038fecbcc74.png"
+    },
+    {
+        "position": [
+            [
+                1113.0,
+                57.0
+            ],
+            [
+                1163.0,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/built-common-game-icons-2efac29207b3a411beb80038fecbcc74.png"
+    },
+    {
+        "position": [
+            [
+                1216.0,
+                57.0
+            ],
+            [
+                1266.0,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/built-common-game-icons-2efac29207b3a411beb80038fecbcc74.png"
+    },
+    {
+        "position": [
+            [
+                1319.0,
+                57.0
+            ],
+            [
+                1369.0,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/built-common-game-icons-2efac29207b3a411beb80038fecbcc74.png"
+    },
+    {
+        "position": [
+            [
+                1420.5,
+                57.0
+            ],
+            [
+                1470.5,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/built-common-game-icons-2efac29207b3a411beb80038fecbcc74.png"
+    },
+    {
+        "position": [
+            [
+                500.5333251953125,
+                150.5
+            ],
+            [
+                509.5333251953125,
+                156.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/icon-down-arrow.png?v=2"
+    },
+    {
+        "position": [
+            [
+                603.25,
+                150.5
+            ],
+            [
+                612.25,
+                156.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/icon-down-arrow.png?v=2"
+    },
+    {
+        "position": [
+            [
+                719.88330078125,
+                150.5
+            ],
+            [
+                728.88330078125,
+                156.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/icon-down-arrow.png?v=2"
+    },
+    {
+        "position": [
+            [
+                803.5499877929688,
+                150.5
+            ],
+            [
+                812.5499877929688,
+                156.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/icon-down-arrow.png?v=2"
+    },
+    {
+        "position": [
+            [
+                942.2000122070312,
+                150.5
+            ],
+            [
+                951.2000122070312,
+                156.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/icon-down-arrow.png?v=2"
+    },
+    {
+        "position": [
+            [
+                1040.9000244140625,
+                150.5
+            ],
+            [
+                1049.9000244140625,
+                156.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/icon-down-arrow.png?v=2"
+    },
+    {
+        "position": [
+            [
+                1151.6500244140625,
+                150.5
+            ],
+            [
+                1160.6500244140625,
+                156.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/icon-down-arrow.png?v=2"
+    },
+    {
+        "position": [
+            [
+                1359.183349609375,
+                150.5
+            ],
+            [
+                1368.183349609375,
+                156.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/icon-down-arrow.png?v=2"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                191.0
+            ],
+            [
+                1155.0,
+                305.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/d4/promo-bg.jpg?v=2"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                315.0
+            ],
+            [
+                1155.0,
+                712.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/d2/psa.jpg"
+    },
+    {
+        "position": [
+            [
+                472.0,
+                362.0
+            ],
+            [
+                505.0,
+                395.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/d2-icons-33x33-48fff5280d9ecaf3e3c3b91f216d1d55.jpg"
+    },
+    {
+        "position": [
+            [
+                628.2666625976562,
+                362.0
+            ],
+            [
+                661.2666625976562,
+                395.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/d2-icons-33x33-48fff5280d9ecaf3e3c3b91f216d1d55.jpg"
+    },
+    {
+        "position": [
+            [
+                822.2166748046875,
+                362.0
+            ],
+            [
+                855.2166748046875,
+                395.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/d2-icons-33x33-48fff5280d9ecaf3e3c3b91f216d1d55.jpg"
+    },
+    {
+        "position": [
+            [
+                472.0,
+                401.0
+            ],
+            [
+                505.0,
+                434.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/d2-icons-33x33-48fff5280d9ecaf3e3c3b91f216d1d55.jpg"
+    },
+    {
+        "position": [
+            [
+                714.9500122070312,
+                401.0
+            ],
+            [
+                747.9500122070312,
+                434.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/d2-icons-33x33-48fff5280d9ecaf3e3c3b91f216d1d55.jpg"
+    },
+    {
+        "position": [
+            [
+                939.9500122070312,
+                401.0
+            ],
+            [
+                972.9500122070312,
+                434.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/d2-icons-33x33-48fff5280d9ecaf3e3c3b91f216d1d55.jpg"
+    },
+    {
+        "position": [
+            [
+                472.0,
+                440.0
+            ],
+            [
+                505.0,
+                473.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/d2-icons-33x33-48fff5280d9ecaf3e3c3b91f216d1d55.jpg"
+    },
+    {
+        "position": [
+            [
+                670.86669921875,
+                440.0
+            ],
+            [
+                703.86669921875,
+                473.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/d2-icons-33x33-48fff5280d9ecaf3e3c3b91f216d1d55.jpg"
+    },
+    {
+        "position": [
+            [
+                843.4500122070312,
+                440.0
+            ],
+            [
+                876.4500122070312,
+                473.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/d2-icons-33x33-48fff5280d9ecaf3e3c3b91f216d1d55.jpg"
+    },
+    {
+        "position": [
+            [
+                731.13330078125,
+                1133.0
+            ],
+            [
+                799.13330078125,
+                1157.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                1269.0
+            ],
+            [
+                797.1666870117188,
+                1293.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                1405.0
+            ],
+            [
+                797.1666870117188,
+                1429.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                1541.0
+            ],
+            [
+                797.1666870117188,
+                1565.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                1813.0
+            ],
+            [
+                797.1666870117188,
+                1837.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                1949.0
+            ],
+            [
+                797.1666870117188,
+                1973.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                2085.0
+            ],
+            [
+                797.1666870117188,
+                2109.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                2221.0
+            ],
+            [
+                797.1666870117188,
+                2245.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                2357.0
+            ],
+            [
+                797.1666870117188,
+                2381.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                2629.0
+            ],
+            [
+                797.1666870117188,
+                2653.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                2901.0
+            ],
+            [
+                797.1666870117188,
+                2925.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                734.38330078125,
+                3037.0
+            ],
+            [
+                802.38330078125,
+                3061.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                739.7000122070312,
+                3173.0
+            ],
+            [
+                807.7000122070312,
+                3197.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                3309.0
+            ],
+            [
+                797.1666870117188,
+                3333.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                3445.0
+            ],
+            [
+                797.1666870117188,
+                3469.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                731.13330078125,
+                3581.0
+            ],
+            [
+                799.13330078125,
+                3605.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                3717.0
+            ],
+            [
+                797.1666870117188,
+                3741.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                3853.0
+            ],
+            [
+                797.1666870117188,
+                3877.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                731.13330078125,
+                3989.0
+            ],
+            [
+                799.13330078125,
+                4013.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                4125.0
+            ],
+            [
+                797.1666870117188,
+                4149.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                4397.0
+            ],
+            [
+                797.1666870117188,
+                4421.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                4533.0
+            ],
+            [
+                797.1666870117188,
+                4557.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                729.1666870117188,
+                4669.0
+            ],
+            [
+                797.1666870117188,
+                4693.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                731.13330078125,
+                4805.0
+            ],
+            [
+                799.13330078125,
+                4829.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/news-icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                1175.0,
+                231.0
+            ],
+            [
+                1475.0,
+                271.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/toc-texture-light.jpg?v=2"
+    },
+    {
+        "position": [
+            [
+                1186.0,
+                241.0
+            ],
+            [
+                1207.0,
+                262.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/box-changelog.png?v=2"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                5184.0
+            ],
+            [
+                1495.0,
+                5206.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/images/common/footer-divider.png?v=2"
+    },
+    {
+        "position": [
+            [
+                1103.5,
+                5221.0
+            ],
+            [
+                1123.5,
+                5239.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                1128.5,
+                5221.0
+            ],
+            [
+                1148.5,
+                5239.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                1153.5,
+                5221.0
+            ],
+            [
+                1173.5,
+                5239.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                5221.0
+            ],
+            [
+                1198.5,
+                5239.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    },
+    {
+        "position": [
+            [
+                1203.5,
+                5221.0
+            ],
+            [
+                1223.5,
+                5239.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://static.icy-veins.com/sprites/common-social-icons-3e7b5581eccc8809b1c73908f0d05caf.png"
+    }
+]

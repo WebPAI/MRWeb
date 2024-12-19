@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Layout</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div class="relative w-full h-[1280px]">
+        <!-- Background image -->
+        <img 
+            src="https://images.unsplash.com/photo-1620893749736-346f4a8fe866?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNjZ8&ixlib=rb-4.0.3&w=1600&h=400"
+            alt="Background"
+            class="w-full h-[1280px] object-cover"
+        >
+        
+        <!-- Overlay image -->
+        <img 
+            src="https://images.unsplash.com/photo-1618329918461-51bb072e0ea5?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNjd8&ixlib=rb-4.0.3&w=200&h=200"
+            alt="Overlay"
+            class="absolute top-[608px] left-[911.88px] w-[96.23px] h-[64px] object-cover"
+        >
+    </div>
+</body>
+</html>

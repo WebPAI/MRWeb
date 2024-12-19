@@ -1,0 +1,250 @@
+[
+    {
+        "position": [
+            [
+                784.5499877929688,
+                13.5
+            ],
+            [
+                1135.4333190917969,
+                28.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "The 2023 CCR Report is now available. See report here.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                183.5
+            ],
+            [
+                266.68333435058594,
+                200.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                282.683349609375,
+                183.5
+            ],
+            [
+                399.183349609375,
+                200.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Member Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                415.183349609375,
+                183.5
+            ],
+            [
+                536.1166839599609,
+                200.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Forms & Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                552.11669921875,
+                183.5
+            ],
+            [
+                665.0333709716797,
+                200.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News & Notices",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                681.0333251953125,
+                183.5
+            ],
+            [
+                757.5166473388672,
+                200.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                633.5
+            ],
+            [
+                311.1499938964844,
+                650.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                894.9500122070312,
+                1083.5
+            ],
+            [
+                994.5166778564453,
+                1100.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1007.566650390625,
+                1083.5
+            ],
+            [
+                1126.7333221435547,
+                1100.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1139.7833251953125,
+                1083.5
+            ],
+            [
+                1226.8999786376953,
+                1100.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Accessibility",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                760.2000122070312,
+                1115.5
+            ],
+            [
+                923.2500152587891,
+                1132.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "RuralWaterImpact.com",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                72.0
+            ],
+            [
+                243.60000610351562,
+                136.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                248.0
+            ],
+            [
+                1712.0,
+                550.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/water-background.jpg"
+    }
+]

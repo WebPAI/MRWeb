@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                805.0999755859375,
+                1003.0
+            ],
+            [
+                863.9999694824219,
+                1027.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                880.0,
+                1003.0
+            ],
+            [
+                939.5666656494141,
+                1027.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "file:///about"
+    },
+    {
+        "position": [
+            [
+                955.566650390625,
+                1003.0
+            ],
+            [
+                1028.1999816894531,
+                1027.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Vehicles",
+        "on_click_jump_to": "file:///vehicles"
+    },
+    {
+        "position": [
+            [
+                1044.199951171875,
+                1003.0
+            ],
+            [
+                1114.883285522461,
+                1027.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1486326658981-ed68abe5868e?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczNDR8&ixlib=rb-4.0.3"
+    }
+]

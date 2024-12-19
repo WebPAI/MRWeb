@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>E-commerce Store</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50">
+
+    <header class="py-4 px-6 bg-white">
+        <div class="flex justify-between items-center">
+            <h1 class="text-xl font-semibold">E-commerce Store</h1>
+            <nav>
+                <ul class="flex space-x-4 text-gray-600">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main class="container mx-auto py-8 px-6">
+        <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
+            <aside class="col-span-1">
+                <h2 class="text-lg font-medium mb-4">Filters</h2>
+                <h2 class="text-lg font-medium mb-4">Sorting</h2>
+                <div class="mt-8 space-x-4 text-gray-600 text-sm">
+                    <a href="#">Facebook</a>
+                    <a href="#">Twitter</a>
+                    <a href="#">Instagram</a>
+                </div>
+            </aside>
+            <div class="col-span-3">
+                <h2 class="text-lg font-medium mb-4">Featured Products</h2>
+                <h2 class="text-lg font-medium mb-4">Products</h2>
+                </div>
+        </div>
+    </main>
+
+    <footer class="py-4 px-6 bg-gray-100">
+        <div class="flex justify-end items-center">
+            <input type="email" placeholder="Enter your email" class="border border-gray-300 rounded-l-md px-4 py-2 focus:outline-none">
+            <button class="bg-violet-500 text-white rounded-r-md px-6 py-2">Subscribe</button>
+        </div>
+    </footer>
+
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>PERA Website</title>
+    <link href="https://cdn.tailwindcss.com" rel="stylesheet">
+    <style>
+        .bg-burgundy {
+            background-color: rgb(139, 34, 51);
+        }
+        .text-burgundy {
+            color: rgb(139, 34, 51);
+        }
+    </style>
+</head>
+<body>
+    <div class="relative">
+        <!-- Background header image -->
+        <div class="absolute w-full h-[269px]" style="background-image: url('https://mnpera.org/wp-content/uploads/Header-01-1-e1621548902978.png'); background-size: cover;"></div>
+
+        <!-- Top navigation -->
+        <div class="relative flex justify-between items-center px-8 py-4">
+            <img src="https://mnpera.org/wp-content/uploads/logo.png" alt="PERA Logo" class="h-[38px]">
+            
+            <div class="flex items-center gap-8">
+                <a href="http://mnpera.org/employers" class="text-burgundy">For Employers</a>
+                <a href="https://mnpera.org/about/contact/" class="text-burgundy">Contact</a>
+                <div class="relative">
+                    <input type="search" class="px-4 py-2 rounded">
+                    <div class="absolute right-3 top-1/2 -translate-y-1/2 w-[23px] h-[23px]" 
+                         style="background-image: url('https://mnpera.org/wp-content/themes/pera/i/ico-search.png')">
+                    </div>
+                </div>
+                <a href="https://member.mnpera.org/MemWeb.dll" class="bg-burgundy text-white px-6 py-2 rounded">
+                    myPERA Login
+                </a>
+            </div>
+        </div>
+
+        <!-- Main navigation -->
+        <nav class="relative bg-burgundy mt-4">
+            <div class="max-w-7xl mx-auto flex justify-between text-white py-5">
+                <a href="https://mnpera.org/members/" class="uppercase">Members</a>
+                <a href="https://mnpera.org/retirees/" class="uppercase">Benefit Recipients</a>
+                <a href="https://mnpera.org/employers/" class="uppercase">Employers</a>
+                <a href="https://mnpera.org/employers/resources/" class="uppercase">Resources</a>
+                <a href="https://mnpera.org/financial/" class="uppercase">Financial</a>
+                <a href="https://mnpera.org/about/" class="uppercase">About</a>
+            </div>
+        </nav>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-700 text-white mt-20 py-10">
+        <div class="max-w-7xl mx-auto">
+            <div class="flex justify-center gap-4 mb-8">
+                <img src="https://mnpera.org/wp-content/uploads/2018/06/facebook-32.png" alt="Facebook" class="w-8">
+                <img src="https://mnpera.org/wp-content/uploads/2018/06/twitter-32.png" alt="Twitter" class="w-8">
+            </div>
+
+            <div class="text-center mb-8">
+                <h2 class="text-xl font-bold mb-2">PUBLIC EMPLOYEES RETIREMENT ASSOCIATION</h2>
+                <p>60 Empire Drive, Suite 200 | St. Paul, MN 55103</p>
+            </div>
+
+            <div class="text-center mb-8">
+                <p>PERA's mission is to administer and promote sustainable retirement plans and provide services that our members value.</p>
+            </div>
+
+            <div class="flex justify-center gap-4 text-sm">
+                <a href="https://mnpera.org/about/contact/">CONTACT</a> |
+                <a href="https://mnpera.org/careers/">CAREERS</a> |
+                <a href="https://mnpera.org/equal-opportunity-employer/">EQUAL OPPORTUNITY EMPLOYER</a> |
+                <a href="https://mnpera.org/page-sitemap.xml">SITEMAP</a> |
+                <a href="https://mnpera.org/data-privacy-legal/">DATA PRACTICES & LEGAL</a>
+            </div>
+
+            <div class="text-center mt-4 text-sm">
+                Copyright © PERA. All rights reserved.
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

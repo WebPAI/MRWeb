@@ -1,0 +1,124 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                117.5
+            ],
+            [
+                58.899993896484375,
+                138.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                74.89999389648438,
+                117.5
+            ],
+            [
+                118.46665954589844,
+                138.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                134.46665954589844,
+                117.5
+            ],
+            [
+                190.98333740234375,
+                138.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                206.98333740234375,
+                117.5
+            ],
+            [
+                261.6666717529297,
+                138.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                232.0
+            ],
+            [
+                624.0,
+                424.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/vintage-ford.jpg"
+    },
+    {
+        "position": [
+            [
+                656.0,
+                232.0
+            ],
+            [
+                1264.0,
+                424.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/blue-jaguar.jpg"
+    },
+    {
+        "position": [
+            [
+                1296.0,
+                232.0
+            ],
+            [
+                1904.0,
+                424.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/land-rover.jpg"
+    }
+]

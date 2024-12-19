@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                24.0
+            ],
+            [
+                251.11666870117188,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                270.933349609375,
+                24.0
+            ],
+            [
+                336.7666778564453,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Teachers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                356.58331298828125,
+                24.0
+            ],
+            [
+                496.2833251953125,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Pay Teachers Store",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                264.0
+            ],
+            [
+                1712.0,
+                288.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/math_journal_image.png"
+    }
+]

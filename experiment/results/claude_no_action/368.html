@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tumblr</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-black min-h-screen">
+    <!-- Header -->
+    <header class="p-4 flex justify-between items-center">
+        <div class="text-white">
+            <svg class="w-8 h-8" viewBox="0 0 20 20" fill="currentColor">
+                <path d="M17 2H3c-.55 0-1 .45-1 1v14c0 .55.45 1 1 1h14c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 11h-4v4H8v-4H4V9h4V5h4v4h4v4z"/>
+            </svg>
+        </div>
+        <div class="flex items-center gap-4">
+            <input type="text" placeholder="Search Tumblr" class="bg-gray-800 text-white rounded px-4 py-2 w-64">
+            <button class="bg-[#00b8ff] text-white px-4 py-2 rounded font-bold">Sign up</button>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex flex-col items-center justify-center min-h-[calc(100vh-120px)]">
+        <div class="w-[380px] space-y-6">
+            <!-- Logo -->
+            <div class="text-center mb-8">
+                <h1 class="text-[#444444] text-6xl font-bold">tumblr</h1>
+            </div>
+
+            <!-- Login Form -->
+            <form class="space-y-4">
+                <input type="email" placeholder="Email" class="w-full px-4 py-3 rounded border border-gray-300">
+                <input type="password" placeholder="Password" class="w-full px-4 py-3 rounded border border-gray-300">
+                
+                <p class="text-gray-500 text-xs">
+                    By continuing, you agree to Tumblr's 
+                    <a href="#" class="text-[#00b8ff]">Terms of Service</a> and have read the 
+                    <a href="#" class="text-[#00b8ff]">Privacy Policy</a>
+                </p>
+
+                <button class="w-full bg-[#00b8ff] text-white py-3 rounded font-bold">Log in</button>
+                
+                <div class="text-center">
+                    <a href="#" class="text-[#00b8ff] text-sm">Forgot your password?</a>
+                </div>
+
+                <div class="text-center text-gray-500">or</div>
+
+                <!-- Social Login Buttons -->
+                <button class="w-full bg-white border border-gray-300 py-3 rounded font-bold flex items-center justify-center gap-2">
+                    <img src="google-icon.png" class="w-5 h-5">
+                    Continue with Google
+                </button>
+
+                <button class="w-full bg-white border border-gray-300 py-3 rounded font-bold flex items-center justify-center gap-2">
+                    <img src="apple-icon.png" class="w-5 h-5">
+                    Continue with Apple
+                </button>
+
+                <div class="text-center text-sm">
+                    <span class="text-gray-500">New to Tumblr?</span>
+                    <a href="#" class="text-[#00b8ff] ml-1">Sign up!</a>
+                </div>
+            </form>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="absolute bottom-0 left-0 p-4">
+        <div class="flex gap-4 text-sm">
+            <a href="#" class="text-gray-500 hover:underline">Terms</a>
+            <a href="#" class="text-gray-500 hover:underline">Privacy</a>
+            <a href="#" class="text-gray-500 hover:underline">Jobs</a>
+            <a href="#" class="text-gray-500 hover:underline">Support</a>
+        </div>
+    </footer>
+</body>
+</html>

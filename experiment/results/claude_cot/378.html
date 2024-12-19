@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WordPress Page</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="relative min-h-screen">
+```
+
+2. Let's add the "Get started" button at the top:
+
+```html
+<div class="absolute top-6 right-4">
+    <a href="https://wordpress.com/start/?ref=marketing_bar" 
+       class="px-4 py-2 bg-gray-100 text-gray-800 rounded">
+        Get started
+    </a>
+</div>
+```
+
+3. Let's add the main content images in a container:
+
+```html
+<div class="max-w-4xl mx-auto px-4 pt-20">
+    <div class="grid gap-6">
+        <img src="https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/4617.jpg?w=300&h=225" 
+             class="w-[300px] h-[224px] object-cover" alt="">
+             
+        <img src="https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/funny-every-morning-you-have-two-choices-continue-sleep-with-your-dreams-or-wake-up-and-chase-them-011.jpg?w=214&h=300" 
+             class="w-[214px] h-[300px] object-cover" alt="">
+             
+        <img src="https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/courage-quote-from-john-odonohue-700x462.jpg?w=300&h=198" 
+             class="w-[300px] h-[198px] object-cover" alt="">
+             
+        <img src="https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/0ac748da81f81e704a9e141e5b71eab7.jpg?w=768" 
+             class="w-[236px] h-[236px] object-cover" alt="">
+    </div>
+</div>
+```
+
+4. Now let's add the bottom navigation bar:
+
+```html
+<div class="fixed bottom-0 left-0 w-full bg-white border-t">
+    <div class="p-4">
+        <div class="flex items-center mb-4">
+            <img src="https://secure.gravatar.com/blavatar/3b2a139efe03ac706fd3e22bfa0eb7747fa870868a10abd64a211c81b4188a67?s=50" 
+                 class="w-[50px] h-[50px]" alt="">
+            <a href="https://soundssweetnews.wordpress.com/" 
+               class="ml-2 text-[#10b0b8] hover:underline">
+                soundssweetnews.wordpress.com
+            </a>
+        </div>
+        
+        <div class="grid gap-2">
+            <a href="#" class="text-[#10b0b8] hover:underline">Customize</a>
+            <div class="flex">
+                <a href="#" class="text-[#10b0b8] hover:underline">Subscribe</a>
+                <a href="#" class="text-[#10b0b8] hover:underline ml-2">Subscribed</a>
+            </div>
+            <a href="#" class="text-[#10b0b8] hover:underline">Sign up</a>
+            <a href="#" class="text-[#10b0b8] hover:underline">Log in</a>
+            <a href="#" class="text-[#10b0b8] hover:underline">Copy shortlink</a>
+            <a href="#" class="text-[#10b0b8] hover:underline">Report this content</a>
+            <a href="#" class="text-[#10b0b8] hover:underline">View post in Reader</a>
+            <a href="#" class="text-[#10b0b8] hover:underline">Manage subscriptions</a>
+            <a href="#" class="text-[#10b0b8] hover:underline">Collapse this bar</a>
+        </div>
+    </div>
+</div>
+```
+
+5. Close the HTML structure:
+
+```html
+</body>
+</html>

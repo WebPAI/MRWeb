@@ -1,0 +1,270 @@
+[
+    {
+        "position": [
+            [
+                1603.300048828125,
+                9.5
+            ],
+            [
+                1704.0000457763672,
+                26.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "See report here",
+        "on_click_jump_to": "https://mcrw.org/ccr1"
+    },
+    {
+        "position": [
+            [
+                387.6000061035156,
+                65.5
+            ],
+            [
+                982.8500061035156,
+                118.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Morgan County Rural Water Corporation\nCommitted to Providing Clean, Safe Water for All Our Residents",
+        "on_click_jump_to": "http://mcrw.org/"
+    },
+    {
+        "position": [
+            [
+                1630.3499755859375,
+                82.0
+            ],
+            [
+                1711.9999694824219,
+                102.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://mcrw.org/contact-us"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                164.0
+            ],
+            [
+                299.1166687011719,
+                204.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://mcrw.org/"
+    },
+    {
+        "position": [
+            [
+                315.1166687011719,
+                164.0
+            ],
+            [
+                465.8000030517578,
+                204.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Member Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                481.7999877929687,
+                164.0
+            ],
+            [
+                636.066650390625,
+                204.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Forms & Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                652.066650390625,
+                164.0
+            ],
+            [
+                799.7666473388672,
+                204.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News & Notices",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                815.7666625976562,
+                164.0
+            ],
+            [
+                923.7666625976562,
+                204.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                342.0
+            ],
+            [
+                307.0833282470703,
+                362.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            35,
+            102
+        ],
+        "text": "click here...",
+        "on_click_jump_to": "https://mcrw.org/conservation-tips"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                420.0
+            ],
+            [
+                936.0,
+                460.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            5,
+            150,
+            105
+        ],
+        "text": "BILL PAYMENT",
+        "on_click_jump_to": "https://mcrw.org/bill-payment"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                468.0
+            ],
+            [
+                936.0,
+                508.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            5,
+            150,
+            105
+        ],
+        "text": "New Service Request",
+        "on_click_jump_to": "https://mcrw.org/new-service-request-1"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                516.0
+            ],
+            [
+                936.0,
+                556.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            5,
+            150,
+            105
+        ],
+        "text": "Water Quality Report",
+        "on_click_jump_to": "https://mcrw.org/water-quality-report"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                52.0
+            ],
+            [
+                371.6000061035156,
+                132.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://mcrw.org/images/logos_rwi/rwi_699_MCRW_Logo_smaller_size_1352756831_3644.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                572.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://mcrw.org/images/backgrounds/RWI_WV_barn_mill_with_waterfall_1400_x_900.jpg"
+    }
+]

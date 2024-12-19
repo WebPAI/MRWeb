@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ukrainian Biochemical Journal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-white px-6 py-5 hover:opacity-80;
+        }
+        .article-link {
+            @apply text-[#333333] hover:text-[#666666] text-2xl font-semibold leading-tight;
+        }
+        .read-more {
+            @apply text-[#2980b9] hover:opacity-80 text-sm;
+        }
+        .recent-article {
+            @apply text-[#666666] hover:opacity-80 mb-6 block text-sm leading-tight;
+        }
+        .header-container {
+            @apply bg-white py-4 px-8 flex justify-between items-center;
+        }
+        .nav-container {
+            @apply bg-[#0F4C81] flex justify-between items-center px-8;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Header -->
+    <header>
+        <div class="header-container">
+            <img src="http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Ukrbiochem2400.png" 
+                 class="h-3" alt="Logo">
+            <img src="http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Biochem_banner2.jpg" 
+                 class="h-3" alt="Banner">
+        </div>
+
+        <!-- Navigation -->
+        <nav class="nav-container h-10">
+            <div class="flex">
+                <a href="http://ukrbiochemjournal.org/" class="nav-link">Homepage</a>
+                <a href="http://ukrbiochemjournal.org/current-issue" class="nav-link">Current issue</a>
+                <a href="http://ukrbiochemjournal.org/magarchive" class="nav-link">Archive</a>
+                <a href="http://ukrbiochemjournal.org/rules-for-authors" class="nav-link">For authors</a>
+                <a href="http://ukrbiochemjournal.org/editorial" class="nav-link">Editorial Board</a>
+                <a href="http://ukrbiochemjournal.org/contacts" class="nav-link">Contacts</a>
+            </div>
+            <img src="http://ukrbiochemjournal.org/wp-content/icons/ua.png" 
+                 class="h-6" alt="UA">
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="flex mt-8 mx-8 gap-12">
+        <!-- Articles Section -->
+        <div class="w-3/4">
+            <h2 class="text-xl mb-6">TAG ARCHIVES: BLOOD COAGULATION</h2>
+            
+            <article class="mb-16">
+                <a href="http://ukrbiochemjournal.org/2019/04/blood-coagulation-parameters-in-rats-with-acute-radiation-syndrome-receiving-activated-carbon-as-a-preventive-remedy.html" 
+                   class="article-link">
+                    Blood coagulation parameters in rats with acute radiation syndrome receiving activated carbon as a preventive remedy
+                </a>
+                <div class="mt-4 text-sm">
+                    <!-- Article content -->
+                    <p class="mb-4">Content of the article...</p>
+                </div>
+                <div class="text-right">
+                    <a href="#" class="read-more">Read More</a>
+                </div>
+            </article>
+
+            <!-- Additional articles follow same pattern -->
+        </div>
+
+        <!-- Sidebar -->
+        <aside class="w-1/4">
+            <div class="bg-[#f7f7f7] p-4 mb-8">
+                <h3 class="text-lg font-semibold mb-4">Journal Metrics</h3>
+                <!-- Metrics content -->
+            </div>
+            
+            <h3 class="text-lg font-semibold mb-4">Recent publications</h3>
+            <div class="space-y-4">
+                <a href="http://ukrbiochemjournal.org/2024/07/the-gerty-cori-phenomenon-the-first-woman-nobel-laureate-in-physiology-and-medicine.html" 
+                   class="recent-article">
+                    The Gerty Cori phenomenon: the first woman Nobel laureate in Physiology and Medicine
+                </a>
+                <!-- More recent publications -->
+            </div>
+        </aside>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-[#0F4C81] text-white text-center py-2 mt-8">
+        <a href="http://ukrbiochemjournal.org/" class="text-xs">
+            © 2024 The Ukrainian Biochemical Journal
+        </a>
+    </footer>
+</body>
+</html>

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>DiagnosisDude</title>
+  <link href="https://cdn.tailwindcss.com" rel="stylesheet">
+</head>
+<body class="bg-white font-sans text-black">
+  <div class="container mx-auto px-4 py-8">
+    <h1 class="text-3xl font-bold mb-4">DiagnosisDude</h1>
+
+    <div class="flex flex-col md:flex-row gap-8">
+      <div class="md:w-2/3">
+        <h2 class="text-2xl font-bold mb-4">Acute Hepatitis</h2>
+
+        <ol class="list-decimal pl-6">
+          <li class="mb-2">Common Sx: anorexia, nausea, vomiting, fever, malaise. Maybe jaundice</li>
+          <li class="mb-2">
+            Dx by increased ALT & AST, often &gt; 1,000 IU
+            <ul class="list-disc pl-6">
+              <li class="mb-2">If AlkPhos &#8593; disproportionately to ALT/AST, suspect Biliary Disease (get image)</li>
+              <li class="mb-2">Acute Pancreatitis can mimic hepatitis, order serum Lipase</li>
+              <li>If painless jaundice, consider pancreatic cancer (CT), hemolytic anemia (CBC)</li>
+            </ul>
+          </li>
+          <li class="mb-2">Prothrombin Time defines severity (&lt;3 s OK, &#8805;1.6 severe)</li>
+        </ol>
+
+        <h3 class="text-xl font-bold mt-8 mb-4">DIFFERENTIAL DIAGNOSIS OF ACUTE HEPATITIS</h3>
+
+        <h4 class="text-lg font-bold mb-2">Hepatitis A</h4>
+        <ul class="list-disc pl-6">
+          <li class="mb-2">Hepa IgM Antibody = Acute Hep A
+            <ul class="list-decimal pl-6">
+              <li>Total Hep A Ab pos, IgM neg = already immune</li>
+            </ul>
+          </li>
+        </ul>
+
+        <h4 class="text-lg font-bold mb-2">Hepatitis B</h4>
+        <ul class="list-disc pl-6">
+          <li class="mb-2">Both of the following tests should be positive
+            <ul class="list-disc pl-6">
+              <li>Hep B surface Antigen (HBsAg)</li>
+              <li>HepB core IgM Antibody</li>
+            </ul>
+          </li>
+          <li class="mb-2">Only HBsAg Pos = Chronic Hep B
+            <ul class="list-decimal pl-6">
+              <li>Only HepB core IgM Ab Pos = tail end Acute Hep B</li>
+            </ul>
+          </li>
+        </ul>
+
+        <h4 class="text-lg font-bold mb-2">Hepatitis C</h4>
+        <ul class="list-disc pl-6">
+          <li class="mb-2">Hep C Viral Load (HCV RNA) [esp if risk factors]</li>
+          <li class="mb-2">HepC Antibody: 50% Pos, others convert by 12 wks
+            <ul class="list-decimal pl-6">
+              <li>Only HCV RNA Pos = Acute Hep C for sure</li>
+            </ul>
+          </li>
+          <li>Both pos. could be Acute or chronic</li>
+        </ul>
+
+        <h4 class="text-lg font-bold mb-2">Hepatitis D</h4>
+        <ul class="list-disc pl-6">
+          <li class="mb-2">Only in pt. w/ Chronic Hep B. Hep D rare in US.</li>
+          <li>HepD Antibody (rarely ordered)</li>
+        </ul>
+
+        <h4 class="text-lg font-bold mb-2">Hepatitis E</h4>
+        <ul class="list-disc pl-6">
+          <li class="mb-2">3<sup>rd</sup> World Travel, no commercial test available</li>
+          <li>25% mortality in pregnancy (call CDC for test kit)</li>
+        </ul>
+
+        <h4 class="text-lg font-bold mb-2">Mononucleosis</h4>
+        <ul class="list-disc pl-6">
+          <li class="mb-2">Epstein-Barr IgM Antibody</li>
+          <li>Heterophile (Monospot) may take weeks to convert</li>
+        </ul>
+
+        <h4 class="text-lg font-bold mb-2">Other Microbes</h4>
+        <ul class="list-disc pl-6">
+          <li class="mb-2">Self-limiting (e.g. CMV, Toxo, Herpesvirus-6, -7, etc.)</li>
+          <li>Don't Test</li>
+        </ul>
+
+        <h4 class="text-lg font-bold mb-2">Alcoholic Hepatitis</h4>
+        <ul class="list-disc pl-6">
+          <li class="mb-2">History of recent binge</li>
+          <li>AST &gt; ALT, usually in 200-300 IU range</li>
+        </ul>
+
+        <h4 class="text-lg font-bold mb-2">Toxins</h4>
+        <ul class="list-disc pl-6">
+          <li>History: Meds, Environmental, Lead, Mushrooms, etc.</li>
+        </ul>
+
+        <h4 class="text-lg font-bold mb-2">Wilson's Disease (very rare)</h4>
+        <ul class="list-disc pl-6">
+          <li>Low serum ceruloplasmin</li>
+        </ul>
+
+        <p class="mt-4">Loading...</p>
+      </div>
+
+      <div class="md:w-1/3">
+        <div class="bg-gray-100 p-4 mb-4">
+          <h3 class="text-lg font-bold mb-2">A BLOG FOR</h3>
+          <p class="mb-4">Nurse Practitioner, Physician Assistant, and Medical Students; Clinicians Young, Old, Retired (& tired); Allied & opposition Health Professions; and maybe some Patients (lawyers too?)</p>
+
+          <h3 class="text-lg font-bold mb-2">SYMPTOMS (PRIOR POSTS)</h3>
+          <select class="w-full p-2 border border-gray-400 rounded mb-4">
+            <option>Select Category</option>
+          </select>
+
+          <h3 class="text-lg font-bold mb-2">FOLLOW BLOG VIA EMAIL</h3>
+          <p class="mb-2">Enter your email address to follow this blog and receive notifications of new posts by email.</p>
+          <input type="email" class="w-full p-2 border border-gray-400 rounded mb-2" placeholder="Email Address">
+          <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">Follow</button>
+        </div>
+
+        <div class="bg-gray-100 p-4">
+          <h3 class="text-lg font-bold mb-2">INFO</h3>
+          <ul class="list-disc pl-6">
+            <li><a href="#" class="text-blue-500 hover:underline">Register</a></li>
+            <li><a href="#" class="text-blue-500 hover:underline">Log in</a></li>
+            <li><a href="#" class="text-blue-500 hover:underline">Entries feed</a></li>
+            <li><a href="#" class="text-blue-500 hover:underline">Comments feed</a></li>
+            <li><a href="#" class="text-blue-500 hover:underline">WordPress.com</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <hr class="my-8">
+
+    <p class="text-center text-gray-500">Blog at <a href="#" class="text-blue-500 hover:underline">WordPress.com</a>.</p>
+  </div>
+</body>
+</html>

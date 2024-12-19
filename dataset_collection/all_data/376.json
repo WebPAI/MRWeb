@@ -1,0 +1,602 @@
+[
+    {
+        "position": [
+            [
+                6.0,
+                6.0
+            ],
+            [
+                153.43333435058594,
+                33.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "CURRENT ISSUE",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/"
+    },
+    {
+        "position": [
+            [
+                155.43333435058594,
+                6.0
+            ],
+            [
+                306.8000030517578,
+                33.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "PREVIOUS ISSUE",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/issue/2002-10-15"
+    },
+    {
+        "position": [
+            [
+                308.79998779296875,
+                6.0
+            ],
+            [
+                421.0333251953125,
+                33.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "NEXT ISSUE",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/issue/2002-10-17"
+    },
+    {
+        "position": [
+            [
+                423.0333251953125,
+                6.0
+            ],
+            [
+                614.9499816894531,
+                33.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "SEARCH THE PLANET",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/issue/archives"
+    },
+    {
+        "position": [
+            [
+                616.9500122070312,
+                6.0
+            ],
+            [
+                737.5500183105469,
+                33.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "CONTACT US",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/issue/2002-10-16/contact"
+    },
+    {
+        "position": [
+            [
+                5.0,
+                125.0
+            ],
+            [
+                123.4499969482422,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "FRONT PAGE",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/issue/2002-10-16"
+    },
+    {
+        "position": [
+            [
+                123.4499969482422,
+                125.0
+            ],
+            [
+                247.9166717529297,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "COLUMNISTS",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/issue/2002-10-16/columns"
+    },
+    {
+        "position": [
+            [
+                247.9166717529297,
+                125.0
+            ],
+            [
+                393.8000030517578,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "ARTS & EVENTS",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/issue/2002-10-16/arts_entertainment"
+    },
+    {
+        "position": [
+            [
+                393.7999877929687,
+                125.0
+            ],
+            [
+                495.2499847412109,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "THE WEEK",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/issue/2002-10-16/summary"
+    },
+    {
+        "position": [
+            [
+                495.25,
+                125.0
+            ],
+            [
+                600.6166687011719,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "FULL TEXT",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/issue/2002-10-16/full_text"
+    },
+    {
+        "position": [
+            [
+                19.399993896484375,
+                257.0
+            ],
+            [
+                330.0666809082031,
+                283.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "David Letterman gets his wish",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/issue/2002-10-16/article/15413?headline=David-Letterman-gets-his-wish---By-David-Bauder-The-Associated-Press-"
+    },
+    {
+        "position": [
+            [
+                1350.2333984375,
+                347.0
+            ],
+            [
+                1522.2000579833984,
+                364.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "www.livablecalifornia.org/",
+        "on_click_jump_to": "https://www.livablecalifornia.org/"
+    },
+    {
+        "position": [
+            [
+                1395.933349609375,
+                674.0
+            ],
+            [
+                1569.5333557128906,
+                694.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Read The August Issue",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-08-01-24.pdf"
+    },
+    {
+        "position": [
+            [
+                1390.316650390625,
+                716.0
+            ],
+            [
+                1575.1499786376953,
+                736.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "Read The July Issue and",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-07-01-24.pdf"
+    },
+    {
+        "position": [
+            [
+                1410.11669921875,
+                737.0
+            ],
+            [
+                1555.3500366210938,
+                757.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "The June Issue and",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-06-01-24.pdf"
+    },
+    {
+        "position": [
+            [
+                1411.0999755859375,
+                758.0
+            ],
+            [
+                1554.3666381835938,
+                778.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "The May Issue and",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-05-01-24.pdf"
+    },
+    {
+        "position": [
+            [
+                1408.1666259765625,
+                779.0
+            ],
+            [
+                1557.2999572753906,
+                799.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "The April Issue and",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-04-01-24.pdf"
+    },
+    {
+        "position": [
+            [
+                1402.949951171875,
+                800.0
+            ],
+            [
+                1562.516616821289,
+                820.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "The March Issue and",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-03-01-24.pdf"
+    },
+    {
+        "position": [
+            [
+                1392.5166015625,
+                821.0
+            ],
+            [
+                1572.9332733154297,
+                841.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "The February Issue and",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-02-01-24.pdf"
+    },
+    {
+        "position": [
+            [
+                1396.9166259765625,
+                842.0
+            ],
+            [
+                1568.5499572753906,
+                862.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "The January Issue and",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-01-01-24.pdf"
+    },
+    {
+        "position": [
+            [
+                1390.0833740234375,
+                863.0
+            ],
+            [
+                1575.3833770751953,
+                883.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "The December Issue and",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-12-01-23.pdf"
+    },
+    {
+        "position": [
+            [
+                1389.0999755859375,
+                884.0
+            ],
+            [
+                1576.3666381835938,
+                904.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "The November Issue and",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-11-01-23.pdf"
+    },
+    {
+        "position": [
+            [
+                1387.4000244140625,
+                905.0
+            ],
+            [
+                1578.0666961669922,
+                925.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            153
+        ],
+        "text": "The bit old October Issue",
+        "on_click_jump_to": "https://www.berkeleydailyplanet.com/pdfs/pst-10-01-23.pdf"
+    },
+    {
+        "position": [
+            [
+                768.5499877929688,
+                10.0
+            ],
+            [
+                918.5499877929688,
+                30.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://s7.addthis.com/static/btn/v2/lg-share-en.gif"
+    },
+    {
+        "position": [
+            [
+                544.5833129882812,
+                44.0
+            ],
+            [
+                1048.5833129882812,
+                114.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.berkeleydailyplanet.com/images/bdp_logo_70px.jpg"
+    },
+    {
+        "position": [
+            [
+                1184.2166748046875,
+                340.0
+            ],
+            [
+                1309.2166748046875,
+                356.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://s7.addthis.com/static/btn/v2/lg-share-en.gif"
+    },
+    {
+        "position": [
+            [
+                1330.2333984375,
+                178.0
+            ],
+            [
+                1354.2333984375,
+                202.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.berkeleydailyplanet.com/locads/images/ad0.jpg"
+    },
+    {
+        "position": [
+            [
+                1358.2333984375,
+                178.0
+            ],
+            [
+                1382.2333984375,
+                202.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.berkeleydailyplanet.com/locads/images/ad0.gif"
+    },
+    {
+        "position": [
+            [
+                1330.2333984375,
+                245.5
+            ],
+            [
+                1354.2333984375,
+                269.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.berkeleydailyplanet.com/locads/images/ad1.jpg"
+    },
+    {
+        "position": [
+            [
+                1330.2333984375,
+                394.5
+            ],
+            [
+                1354.2333984375,
+                418.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.berkeleydailyplanet.com/locads/images/ad2.jpg"
+    },
+    {
+        "position": [
+            [
+                1330.2333984375,
+                525.5
+            ],
+            [
+                1354.2333984375,
+                549.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.berkeleydailyplanet.com/locads/images/ad3.jpg"
+    },
+    {
+        "position": [
+            [
+                1547.933349609375,
+                1034.5
+            ],
+            [
+                1548.933349609375,
+                1035.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.paypal.com/en_US/i/scr/pixel.gif"
+    },
+    {
+        "position": [
+            [
+                1330.2333984375,
+                1070.0
+            ],
+            [
+                1354.2333984375,
+                1094.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.berkeleydailyplanet.com/locads/images/ad4.jpg"
+    }
+]

@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                808.0999755859375,
+                536.0
+            ],
+            [
+                851.2166290283203,
+                560.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                867.2166748046875,
+                536.0
+            ],
+            [
+                927.0666809082031,
+                560.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Courses",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                943.066650390625,
+                536.0
+            ],
+            [
+                1017.566650390625,
+                560.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Admission",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1033.566650390625,
+                536.0
+            ],
+            [
+                1111.883316040039,
+                560.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Newsletter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                887.88330078125,
+                1074.0
+            ],
+            [
+                1120.2333068847656,
+                1094.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "info@educationalinstitution.com",
+        "on_click_jump_to": "mailto:info@educationalinstitution.com"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                384.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/pencils.jpg"
+    }
+]

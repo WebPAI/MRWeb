@@ -1,0 +1,124 @@
+[
+    {
+        "position": [
+            [
+                909.9666748046876,
+                74.0
+            ],
+            [
+                1151.2666778564453,
+                94.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "aloha@bluehorsekonacoffee.com",
+        "on_click_jump_to": "mailto:aloha@bluehorsekonacoffee.com"
+    },
+    {
+        "position": [
+            [
+                758.2166748046875,
+                98.0
+            ],
+            [
+                860.2833557128906,
+                118.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Amazon Store",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                904.4833374023438,
+                605.0
+            ],
+            [
+                947.6000061035156,
+                625.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                963.5999755859376,
+                605.0
+            ],
+            [
+                1015.5166320800782,
+                625.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "History",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                336.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                709.3333129882812,
+                16.0
+            ],
+            [
+                1712.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/header-image.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                136.0
+            ],
+            [
+                954.6666870117188,
+                160.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/product1.jpg"
+    }
+]

@@ -1,0 +1,104 @@
+[
+    {
+        "position": [
+            [
+                786.2000122070312,
+                86.0
+            ],
+            [
+                857.9666748046875,
+                106.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Australian",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                869.7000122070312,
+                86.0
+            ],
+            [
+                939.6500091552734,
+                106.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Lebanese",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1281.13330078125,
+                95.0
+            ],
+            [
+                1415.066635131836,
+                115.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Private company",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1190.3333740234375,
+                49.0
+            ],
+            [
+                1583.0000610351562,
+                73.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/BuforiLOGO-BIG.gif"
+    },
+    {
+        "position": [
+            [
+                1173.3333740234375,
+                256.0
+            ],
+            [
+                1600.0000610351562,
+                280.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/Bufori_Geneva.jpg"
+    },
+    {
+        "position": [
+            [
+                1281.13330078125,
+                95.0
+            ],
+            [
+                1415.066635131836,
+                115.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "data:image/svg+xml,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22UTF-8%22%20standalone%3D%22no%22%3F%3E%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2212%22%20height%3D%2212%22%3E%3Cpath%20fill%3D%22%23fff%22%20stroke%3D%22%2306c%22%20d%3D%22M1.5%204.518h5.982V10.5H1.5z%22%2F%3E%3Cpath%20d%3D%22M5.765%201H11v5.39L9.427%207.937l-1.31-1.31L5.393%209.35l-2.69-2.688%202.81-2.808L4.2%202.544z%22%20fill%3D%22%2306f%22%2F%3E%3Cpath%20d%3D%22M9.995%202.004l.022%204.885L8.2%205.07%205.32%207.95%204.09%206.723l2.882-2.88-1.85-1.852z%22%20fill%3D%22%23fff%22%2F%3E%3C%2Fsvg%3E"
+    }
+]

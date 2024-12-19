@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                1390.6666259765625,
+                38.0
+            ],
+            [
+                1434.6666259765625,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1455.1666259765625,
+                38.0
+            ],
+            [
+                1526.949951171875,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Programs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1547.449951171875,
+                38.0
+            ],
+            [
+                1616.516616821289,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1637.0166015625,
+                38.0
+            ],
+            [
+                1695.9999389648438,
+                58.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                271.6333312988281,
+                546.0
+            ],
+            [
+                419.9499969482422,
+                566.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "info@institution.com",
+        "on_click_jump_to": "mailto:info@institution.com"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                16.0
+            ],
+            [
+                344.73333740234375,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image.jpg"
+    }
+]

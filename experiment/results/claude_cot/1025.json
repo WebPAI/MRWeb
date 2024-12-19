@@ -1,0 +1,332 @@
+[
+    {
+        "position": [
+            [
+                1021.2666625976562,
+                16.0
+            ],
+            [
+                1064.3833312988281,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/"
+    },
+    {
+        "position": [
+            [
+                1080.38330078125,
+                16.0
+            ],
+            [
+                1145.0999755859375,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Business",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/category/business/"
+    },
+    {
+        "position": [
+            [
+                1161.0999755859375,
+                16.0
+            ],
+            [
+                1213.0499725341797,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Politics",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/category/politics/"
+    },
+    {
+        "position": [
+            [
+                1229.050048828125,
+                16.0
+            ],
+            [
+                1302.7833862304688,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Interviews",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/category/interviews/"
+    },
+    {
+        "position": [
+            [
+                1318.7833251953125,
+                16.0
+            ],
+            [
+                1371.5499877929688,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Culture",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/category/culture/"
+    },
+    {
+        "position": [
+            [
+                1387.550048828125,
+                16.0
+            ],
+            [
+                1443.4667053222656,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Opinion",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/category/opinion/"
+    },
+    {
+        "position": [
+            [
+                1459.4666748046875,
+                16.0
+            ],
+            [
+                1507.2666778564453,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Sports",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/category/sports/"
+    },
+    {
+        "position": [
+            [
+                1523.2666015625,
+                16.0
+            ],
+            [
+                1583.9999389648438,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Lifestyle",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/category/lifestyle/"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                64.0
+            ],
+            [
+                438.28334045410156,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Dailynewsegypt",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/"
+    },
+    {
+        "position": [
+            [
+                458.3999938964844,
+                64.0
+            ],
+            [
+                487.3333282470703,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/blog/"
+    },
+    {
+        "position": [
+            [
+                507.4500122070313,
+                64.0
+            ],
+            [
+                565.1000213623047,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Business",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/category/business/"
+    },
+    {
+        "position": [
+            [
+                585.2166748046875,
+                64.0
+            ],
+            [
+                630.0833435058594,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Energy",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/category/business/energy/"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                760.13330078125
+            ],
+            [
+                517.3999938964844,
+                784.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Mohamed Farag",
+        "on_click_jump_to": "https://www.dailynewsegypt.com/author/m-farag/"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                8.0
+            ],
+            [
+                536.0,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.dailynewsegypt.com/app/uploads/2023/10/Dailynews-logo.png"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                180.0
+            ],
+            [
+                1157.3333129882812,
+                724.13330078125
+            ]
+        ],
+        "type": "img",
+        "src": "https://d1b3667xvzs6rz.cloudfront.net/2018/09/wind-energy.jpg"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                748.13330078125
+            ],
+            [
+                384.0,
+                796.13330078125
+            ]
+        ],
+        "type": "img",
+        "src": "https://secure.gravatar.com/avatar/32b3f115354b33b8381a3d985b5b1bbf?s=120&d=mm&r=g"
+    },
+    {
+        "position": [
+            [
+                1189.3333740234375,
+                180.0
+            ],
+            [
+                1584.0000610351562,
+                508.8833312988281
+            ]
+        ],
+        "type": "img",
+        "src": "https://d1b3667xvzs6rz.cloudfront.net/2024/01/20CD-300x250-1.jpg"
+    },
+    {
+        "position": [
+            [
+                1189.3333740234375,
+                532.88330078125
+            ],
+            [
+                1584.0000610351562,
+                861.7666320800781
+            ]
+        ],
+        "type": "img",
+        "src": "https://d1b3667xvzs6rz.cloudfront.net/2023/05/300x250-2.jpg"
+    }
+]

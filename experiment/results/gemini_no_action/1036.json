@@ -1,0 +1,330 @@
+[
+    {
+        "position": [
+            [
+                629.0499877929688,
+                8.0
+            ],
+            [
+                675.5333251953125,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                691.5333251953125,
+                8.0
+            ],
+            [
+                801.0999908447266,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "OUR LIFEBOAT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                817.0999755859375,
+                8.0
+            ],
+            [
+                941.7833099365234,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "MEET THE TEAM",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                957.7833251953124,
+                8.0
+            ],
+            [
+                1069.266647338867,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET INVOLVED",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1290.699951171875,
+                8.0
+            ],
+            [
+                1364.4166259765625,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1380.4166259765625,
+                8.0
+            ],
+            [
+                1443.4999542236328,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DONATE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                800.0
+            ],
+            [
+                662.4500122070312,
+                824.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            105,
+            163
+        ],
+        "text": "<- Over £60,000 has been raised - we're making real progress",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1290.75,
+                800.0
+            ],
+            [
+                1712.0,
+                824.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            105,
+            163
+        ],
+        "text": "Scotland's First Minister Visits St Abbs Lifeboat Station ->",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                890.0
+            ],
+            [
+                348.9166717529297,
+                910.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            105,
+            163
+        ],
+        "text": "Support-St-Abbs-L",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1186.449951171875,
+                888.0
+            ],
+            [
+                1249.5332946777344,
+                912.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            105,
+            163
+        ],
+        "text": "DONATE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1265.5333251953125,
+                888.0
+            ],
+            [
+                1339.249984741211,
+                912.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            105,
+            163
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1355.25,
+                888.0
+            ],
+            [
+                1385.5,
+                912.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            105,
+            163
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1401.5,
+                888.0
+            ],
+            [
+                1712.0,
+                912.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            105,
+            163
+        ],
+        "text": "St Abbs Lifeboat Just Giving Donation Link",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                446.5833129882813,
+                1016.0
+            ],
+            [
+                528.0499877929688,
+                1064.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                446.5833129882813,
+                1064.0
+            ],
+            [
+                528.0499877929688,
+                1112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms and conditions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                412.48333740234375,
+                14.0
+            ],
+            [
+                448.56666564941406,
+                38.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                52.0
+            ],
+            [
+                1920.0,
+                352.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/hero.jpg"
+    }
+]

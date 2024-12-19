@@ -1,0 +1,536 @@
+[
+    {
+        "position": [
+            [
+                574.6500244140625,
+                104.0
+            ],
+            [
+                617.7666931152344,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://andersonvalley.org/Default.html"
+    },
+    {
+        "position": [
+            [
+                625.7666625976562,
+                104.0
+            ],
+            [
+                674.2666625976562,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Events",
+        "on_click_jump_to": "http://andersonvalley.org/Events.htm"
+    },
+    {
+        "position": [
+            [
+                682.2666625976562,
+                104.0
+            ],
+            [
+                732.3166656494141,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Airport",
+        "on_click_jump_to": "http://andersonvalley.org/Airport.htm"
+    },
+    {
+        "position": [
+            [
+                740.316650390625,
+                104.0
+            ],
+            [
+                798.8666534423828,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Lodging",
+        "on_click_jump_to": "http://andersonvalley.org/Lodging.html"
+    },
+    {
+        "position": [
+            [
+                806.86669921875,
+                104.0
+            ],
+            [
+                865.1000366210938,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Eateries",
+        "on_click_jump_to": "http://andersonvalley.org/Eateries.htm"
+    },
+    {
+        "position": [
+            [
+                873.0999755859375,
+                104.0
+            ],
+            [
+                983.88330078125,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Watering Holes",
+        "on_click_jump_to": "http://andersonvalley.org/Wateringholes.htm"
+    },
+    {
+        "position": [
+            [
+                991.88330078125,
+                104.0
+            ],
+            [
+                1085.2833099365234,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Wine Tasting",
+        "on_click_jump_to": "http://andersonvalley.org/Winetasting.htm"
+    },
+    {
+        "position": [
+            [
+                1093.2833251953125,
+                104.0
+            ],
+            [
+                1183.6666564941406,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Beer Tasting",
+        "on_click_jump_to": "http://andersonvalley.org/Beertasting.htm"
+    },
+    {
+        "position": [
+            [
+                1191.6666259765625,
+                104.0
+            ],
+            [
+                1256.449951171875,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Camping",
+        "on_click_jump_to": "http://andersonvalley.org/Camping.htm"
+    },
+    {
+        "position": [
+            [
+                1264.449951171875,
+                104.0
+            ],
+            [
+                1345.3332824707031,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Real Estate",
+        "on_click_jump_to": "http://andersonvalley.org/Realestate.htm"
+    },
+    {
+        "position": [
+            [
+                552.8499755859375,
+                128.0
+            ],
+            [
+                675.9166412353516,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Medical Services",
+        "on_click_jump_to": "http://andersonvalley.org/Medical.htm"
+    },
+    {
+        "position": [
+            [
+                683.9166870117188,
+                128.0
+            ],
+            [
+                750.3333435058594,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Fire Dept",
+        "on_click_jump_to": "http://www.avcsd.org/fire.php"
+    },
+    {
+        "position": [
+            [
+                758.3333129882812,
+                128.0
+            ],
+            [
+                827.7499847412109,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Churches",
+        "on_click_jump_to": "http://andersonvalley.org/Churches.htm"
+    },
+    {
+        "position": [
+            [
+                835.75,
+                128.0
+            ],
+            [
+                935.4666595458984,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Senior Center",
+        "on_click_jump_to": "http://andersonvalley.org/Seniorcenter.htm"
+    },
+    {
+        "position": [
+            [
+                943.4666748046876,
+                128.0
+            ],
+            [
+                984.4000091552736,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Radio",
+        "on_click_jump_to": "http://andersonvalley.org/Radiostation.htm"
+    },
+    {
+        "position": [
+            [
+                992.4000244140624,
+                128.0
+            ],
+            [
+                1128.4666900634766,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Business Directory",
+        "on_click_jump_to": "http://andersonvalley.org/Business.htm"
+    },
+    {
+        "position": [
+            [
+                1136.4666748046875,
+                128.0
+            ],
+            [
+                1241.0166778564453,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Dump/Recycle",
+        "on_click_jump_to": "http://andersonvalley.org/Dumprecycle.htm"
+    },
+    {
+        "position": [
+            [
+                1249.0166015625,
+                128.0
+            ],
+            [
+                1375.1499328613281,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Fruits/Vegetables",
+        "on_click_jump_to": "http://andersonvalley.org/Vegifruit.htm"
+    },
+    {
+        "position": [
+            [
+                673.2666625976562,
+                152.0
+            ],
+            [
+                828.0,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Public Transportation",
+        "on_click_jump_to": "http://andersonvalley.org/MTA.htm"
+    },
+    {
+        "position": [
+            [
+                836.0,
+                152.0
+            ],
+            [
+                898.1833343505859,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Museum",
+        "on_click_jump_to": "http://andersonvalley.org/Museum.html"
+    },
+    {
+        "position": [
+            [
+                906.183349609375,
+                152.0
+            ],
+            [
+                967.1000213623047,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Weather",
+        "on_click_jump_to": "http://www.weather.com/weather/today/USCA0117:1"
+    },
+    {
+        "position": [
+            [
+                975.0999755859376,
+                152.0
+            ],
+            [
+                1075.4666290283203,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Organizations",
+        "on_click_jump_to": "http://avorganizations.wordpress.com/alphabetical-list"
+    },
+    {
+        "position": [
+            [
+                1083.4666748046875,
+                152.0
+            ],
+            [
+                1162.1500091552734,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Local Sites",
+        "on_click_jump_to": "http://andersonvalley.org/Localsites.htm"
+    },
+    {
+        "position": [
+            [
+                1170.1500244140625,
+                152.0
+            ],
+            [
+                1254.7333679199219,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Contact Me",
+        "on_click_jump_to": "mailto: jim@andersonvalley.org"
+    },
+    {
+        "position": [
+            [
+                880.25,
+                237.0
+            ],
+            [
+                1039.7333374023438,
+                267.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "KZYX 90.7 FM",
+        "on_click_jump_to": "http://www.kzyx.org/"
+    },
+    {
+        "position": [
+            [
+                966.25,
+                856.0
+            ],
+            [
+                1027.6000061035156,
+                876.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "kzyx.org",
+        "on_click_jump_to": "http://www.kzyz.org/"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                316.0
+            ],
+            [
+                1392.0,
+                342.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://andersonvalley.org/Images/Jimmy.jpg"
+    }
+]

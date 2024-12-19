@@ -1,0 +1,370 @@
+[
+    {
+        "position": [
+            [
+                1482.2333984375,
+                25.5
+            ],
+            [
+                1535.2333984375,
+                44.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ALUMNI",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1563.61669921875,
+                25.5
+            ],
+            [
+                1631.61669921875,
+                44.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SUBSCRIBE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1660.0,
+                25.5
+            ],
+            [
+                1712.0,
+                44.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "OFFICES",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                85.5
+            ],
+            [
+                239.0500030517578,
+                106.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Firm",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                271.04998779296875,
+                85.5
+            ],
+            [
+                363.0166473388672,
+                106.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Professionals",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                395.01666259765625,
+                85.5
+            ],
+            [
+                456.8999938964844,
+                106.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Practices",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                488.8999938964844,
+                85.5
+            ],
+            [
+                574.1166687011719,
+                106.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                606.11669921875,
+                85.5
+            ],
+            [
+                644.8000335693359,
+                106.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                676.7999877929688,
+                85.5
+            ],
+            [
+                742.0833129882812,
+                106.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Pro Bono",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                774.0833129882812,
+                85.5
+            ],
+            [
+                970.3666534423828,
+                106.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Diversity, Equity & Inclusion",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1002.36669921875,
+                85.5
+            ],
+            [
+                1055.050033569336,
+                106.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                397.5
+            ],
+            [
+                340.6333312988281,
+                418.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "jcohen@cahill.com",
+        "on_click_jump_to": "mailto:jcohen@cahill.com"
+    },
+    {
+        "position": [
+            [
+                1531.316650390625,
+                548.0
+            ],
+            [
+                1711.999984741211,
+                572.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            249,
+            115,
+            22
+        ],
+        "text": "Terms of Use",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1531.316650390625,
+                580.0
+            ],
+            [
+                1711.999984741211,
+                604.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            249,
+            115,
+            22
+        ],
+        "text": "Privacy/Cookies",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1531.316650390625,
+                612.0
+            ],
+            [
+                1711.999984741211,
+                636.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            249,
+            115,
+            22
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1531.316650390625,
+                644.0
+            ],
+            [
+                1711.999984741211,
+                668.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            249,
+            115,
+            22
+        ],
+        "text": "Credits",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1531.316650390625,
+                676.0
+            ],
+            [
+                1711.999984741211,
+                700.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            249,
+            115,
+            22
+        ],
+        "text": "Transparency in Coverage",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                584.0,
+                308.0
+            ],
+            [
+                712.0,
+                356.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/benchmark-logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                600.0
+            ],
+            [
+                378.53334045410156,
+                648.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/cahill-footer-logo.png"
+    }
+]

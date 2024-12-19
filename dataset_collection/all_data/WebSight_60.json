@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                813.1666870117188,
+                17.5
+            ],
+            [
+                856.0666809082031,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://wu-taichi.info/?page_id=48726"
+    },
+    {
+        "position": [
+            [
+                888.066650390625,
+                17.5
+            ],
+            [
+                931.6333160400391,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.wedj.com/dj-photo-video.nsf/djs/dj-mckean-pa.html"
+    },
+    {
+        "position": [
+            [
+                963.63330078125,
+                17.5
+            ],
+            [
+                1020.1499633789062,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "http://www.deadpress.co.uk/news-borders-announce-debut-album-purify/"
+    },
+    {
+        "position": [
+            [
+                1052.1500244140625,
+                17.5
+            ],
+            [
+                1106.8333587646484,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://www.valvedistributors.com.au/product/pinch-valves/"
+    },
+    {
+        "position": [
+            [
+                360.0,
+                97.5
+            ],
+            [
+                1560.0,
+                897.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1583413230299-35e9c5255507?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2MzF8&ixlib=rb-4.0.3&w=1200&h=800"
+    }
+]

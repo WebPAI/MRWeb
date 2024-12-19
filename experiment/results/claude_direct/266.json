@@ -1,0 +1,216 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                0.0
+            ],
+            [
+                113.98333740234376,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "LIVEJOURNAL",
+        "on_click_jump_to": "https://www.livejournal.com/"
+    },
+    {
+        "position": [
+            [
+                1426.316650390625,
+                8.0
+            ],
+            [
+                1488.6166534423828,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET PRO",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1520.61669921875,
+                8.0
+            ],
+            [
+                1556.5833587646484,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HELP",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1588.5833740234375,
+                8.0
+            ],
+            [
+                1639.2167053222656,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LOG IN",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1671.2166748046875,
+                8.0
+            ],
+            [
+                1775.183349609375,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JOIN FREE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1807.183349609375,
+                8.0
+            ],
+            [
+                1904.000015258789,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ENGLISH (EN)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                65.5
+            ],
+            [
+                98.43333435058594,
+                86.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BOBBY1933",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                152.0
+            ],
+            [
+                819.9333343505859,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Previous Entry",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1438.63330078125,
+                152.0
+            ],
+            [
+                1511.9999694824219,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            145,
+            176,
+            197
+        ],
+        "text": "Next Entry",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                192.5
+            ],
+            [
+                1193.9166870117188,
+                219.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            147,
+            183
+        ],
+        "text": "Walter M. Miller, Jr. - Wikipedia, the free encyclopedia",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                144.0
+            ],
+            [
+                496.0,
+                240.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_direct/profile-image.jpg"
+    }
+]

@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                855.816650390625,
+                67.0
+            ],
+            [
+                898.9333190917969,
+                91.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://comicsstation.be/gangster-disciple-720-creed.html"
+    },
+    {
+        "position": [
+            [
+                930.933349609375,
+                67.0
+            ],
+            [
+                974.5666809082031,
+                91.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.pakwheels.com/forums/t/suzuki-swift-owners-club/156687/8970"
+    },
+    {
+        "position": [
+            [
+                1006.566650390625,
+                67.0
+            ],
+            [
+                1064.1666564941406,
+                91.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.timeout.com/new-york-kids/things-to-do/sing-back-brooklyn"
+    },
+    {
+        "position": [
+            [
+                880.0,
+                123.0
+            ],
+            [
+                1040.0,
+                283.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1647527936248-fab25d0ce690?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczNTN8&ixlib=rb-4.0.3&w=300&h=300"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                530.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?fashion"
+    }
+]

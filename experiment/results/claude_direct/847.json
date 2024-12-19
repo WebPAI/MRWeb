@@ -1,0 +1,536 @@
+[
+    {
+        "position": [
+            [
+                300.0,
+                40.0
+            ],
+            [
+                460.06666564941406,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                84.0
+            ],
+            [
+                460.06666564941406,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Overview",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                128.0
+            ],
+            [
+                460.06666564941406,
+                172.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Approach",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/approach"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                172.0
+            ],
+            [
+                460.06666564941406,
+                216.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/news"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                216.0
+            ],
+            [
+                460.06666564941406,
+                260.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Citizenship",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/citizenship"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                260.0
+            ],
+            [
+                460.06666564941406,
+                304.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Charitable Foundation",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/citizenship"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                304.0
+            ],
+            [
+                460.06666564941406,
+                348.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "ESG",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/citizenship"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                348.0
+            ],
+            [
+                460.06666564941406,
+                392.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "DEI",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/citizenship"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                392.0
+            ],
+            [
+                460.06666564941406,
+                436.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Portfolio",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/portfolio"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                436.0
+            ],
+            [
+                460.06666564941406,
+                480.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Team",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/team"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                480.0
+            ],
+            [
+                460.06666564941406,
+                524.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/contact"
+    },
+    {
+        "position": [
+            [
+                300.0,
+                524.0
+            ],
+            [
+                460.06666564941406,
+                568.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Investor Login",
+        "on_click_jump_to": "https://dynamo.dynamosoftware.com/tenant/dynamo.netagesolutions.com/Audax/Investors"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                402.0
+            ],
+            [
+                160.06666564941406,
+                446.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                446.0
+            ],
+            [
+                160.06666564941406,
+                490.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Back",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                490.0
+            ],
+            [
+                160.06666564941406,
+                534.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Overview",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                534.0
+            ],
+            [
+                160.06666564941406,
+                578.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Approach",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/approach"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                578.0
+            ],
+            [
+                160.06666564941406,
+                622.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/news"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                622.0
+            ],
+            [
+                160.06666564941406,
+                666.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Citizenship",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/citizenship"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                666.0
+            ],
+            [
+                160.06666564941406,
+                710.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Charitable Foundation",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/citizenship"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                710.0
+            ],
+            [
+                160.06666564941406,
+                754.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "ESG",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/citizenship"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                754.0
+            ],
+            [
+                160.06666564941406,
+                798.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "DEI",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/citizenship"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                798.0
+            ],
+            [
+                160.06666564941406,
+                842.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Portfolio",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/portfolio"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                842.0
+            ],
+            [
+                160.06666564941406,
+                886.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Team",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/team"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                886.0
+            ],
+            [
+                160.06666564941406,
+                930.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/contact"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                930.0
+            ],
+            [
+                160.06666564941406,
+                974.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            83,
+            159
+        ],
+        "text": "Investor Login",
+        "on_click_jump_to": "https://dynamo.dynamosoftware.com/tenant/dynamo.netagesolutions.com/Audax/Investors"
+    },
+    {
+        "position": [
+            [
+                665.8333129882812,
+                957.0
+            ],
+            [
+                766.2833251953125,
+                977.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://www.audaxprivateequity.com/privacy-policy"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                994.0
+            ],
+            [
+                1.0,
+                995.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://d21y75miwcfqoq.cloudfront.net/d0718689"
+    }
+]

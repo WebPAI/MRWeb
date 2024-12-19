@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alfa Romeo 147 - CarsBase.com</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white">
+    <!-- Navigation Bar -->
+    <nav class="bg-[#cc0000] h-[52px] flex items-center px-4">
+        <a href="https://carsbase.com">
+            <img src="https://carsbase.com/images/design/logo_carsbase_200.png" 
+                 class="h-[39px] w-[200px]" alt="CarsBase.com">
+        </a>
+        <div class="flex ml-4 text-white">
+            <a href="https://carsbase.com/photo/" class="px-4">Photos</a>
+            <a href="https://carsbase.com/news/" class="px-4">News</a>
+            <a href="https://carsbase.com/photoforum/" class="px-4">Forum</a>
+            <a href="https://carsbase.com/photo-rating/" class="px-4">Rating</a>
+        </div>
+        <div class="ml-auto">
+            <a href="https://carsbase.com/login/" class="text-gray-600">Login</a>
+        </div>
+    </nav>
+
+    <!-- Breadcrumb Navigation -->
+    <div class="px-4 py-2 text-sm">
+        <a href="https://carsbase.com/photo/" class="text-[#cc0000]">Photos</a> /
+        <a href="https://carsbase.com/photo/alfa-romeo/" class="text-[#cc0000]">Alfa Romeo</a> /
+        <a href="https://carsbase.com/photo/alfa-romeo/147/" class="text-[#cc0000]">Alfa Romeo 147</a>
+    </div>
+
+    <!-- Main Content -->
+    <div class="container mx-auto px-4">
+        <!-- Navigation Links -->
+        <div class="flex justify-between mb-4">
+            <a href="#" class="text-[#cc0000]">prev pic</a>
+            <a href="#" class="text-[#cc0000]">next pic</a>
+        </div>
+
+        <!-- Main Image Gallery -->
+        <div class="grid grid-cols-5 gap-4 mb-8">
+            <img src="thumbnail1.jpg" class="w-full h-24 object-cover">
+            <!-- Repeat for other thumbnails -->
+        </div>
+
+        <!-- Sidebar -->
+        <div class="float-right w-[394px]">
+            <img src="alfa-romeo-logo.jpg" class="w-32 h-32 mb-4">
+            <div class="bg-gray-100 p-4 rounded">
+                <a href="#" class="block py-2">Alfa Romeo pictures (2006)</a>
+                <a href="#" class="block py-2">147 photos (59)</a>
+                <a href="#" class="block py-2">Alfa Romeo news</a>
+            </div>
+        </div>
+
+        <!-- Photo Grid -->
+        <div class="grid grid-cols-3 gap-6 mt-8">
+            <!-- Repeat for each photo card -->
+            <div class="relative">
+                <img src="car1.jpg" class="w-full h-48 object-cover">
+                <div class="absolute top-2 right-2 bg-white px-2 py-1 rounded">
+                    <span>106</span>
+                </div>
+            </div>
+            <!-- More photo cards... -->
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-black text-gray-500 mt-8 p-4">
+        <div class="container mx-auto">
+            <p>© 2024 CarsBase.com - <a href="#" class="text-gray-500">car pics</a></p>
+            <p>design by: <a href="https://www.eto-design.ru/" class="text-gray-500">eto design</a></p>
+        </div>
+    </footer>
+</body>
+</html>

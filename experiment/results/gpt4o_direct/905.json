@@ -1,0 +1,356 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                113.81666564941406,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LOOKASTIC",
+        "on_click_jump_to": "https://lookastic.com/"
+    },
+    {
+        "position": [
+            [
+                1795.050048828125,
+                18.0
+            ],
+            [
+                1852.1333770751953,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SIGN IN",
+        "on_click_jump_to": "https://lookastic.com/users/sign_in"
+    },
+    {
+        "position": [
+            [
+                1868.13330078125,
+                18.0
+            ],
+            [
+                1903.9999694824219,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "JOIN",
+        "on_click_jump_to": "https://lookastic.com/users/sign_up?medium=header&sex=women"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                76.0
+            ],
+            [
+                381.3999938964844,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "MY WARDROBE TRY IT!",
+        "on_click_jump_to": "https://lookastic.com/users/sign_up?medium=header_wardrobe&sex=women"
+    },
+    {
+        "position": [
+            [
+                397.3999938964844,
+                76.0
+            ],
+            [
+                449.48333740234375,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "LOOKS",
+        "on_click_jump_to": "https://lookastic.com/women"
+    },
+    {
+        "position": [
+            [
+                465.48333740234375,
+                76.0
+            ],
+            [
+                527.4166717529297,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "TRENDS",
+        "on_click_jump_to": "https://lookastic.com/women/trends"
+    },
+    {
+        "position": [
+            [
+                543.4166870117188,
+                76.0
+            ],
+            [
+                606.9833526611328,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "BRANDS",
+        "on_click_jump_to": "https://lookastic.com/women/brands"
+    },
+    {
+        "position": [
+            [
+                622.9833374023438,
+                76.0
+            ],
+            [
+                718.5,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "CELEBRITIES",
+        "on_click_jump_to": "https://lookastic.com/women/celebrities"
+    },
+    {
+        "position": [
+            [
+                734.5,
+                76.0
+            ],
+            [
+                826.2833404541016,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "OCCASIONS",
+        "on_click_jump_to": "https://lookastic.com/women/what-to-wear"
+    },
+    {
+        "position": [
+            [
+                842.2833251953125,
+                76.0
+            ],
+            [
+                941.8666534423828,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "CONTACT US",
+        "on_click_jump_to": "https://lookastic.com/site/contact-us"
+    },
+    {
+        "position": [
+            [
+                957.86669921875,
+                76.0
+            ],
+            [
+                1019.0500335693359,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "WOMEN",
+        "on_click_jump_to": "https://lookastic.com/women"
+    },
+    {
+        "position": [
+            [
+                1418.25,
+                170.0
+            ],
+            [
+                1712.0,
+                210.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SEE MY RECOMMENDATIONS NOW",
+        "on_click_jump_to": "https://lookastic.com/users/sign_up?medium=call_to_action&sex=women"
+    },
+    {
+        "position": [
+            [
+                673.7666625976562,
+                726.0
+            ],
+            [
+                752.9499969482422,
+                750.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact us",
+        "on_click_jump_to": "https://lookastic.com/site/contact-us"
+    },
+    {
+        "position": [
+            [
+                768.9500122070312,
+                726.0
+            ],
+            [
+                891.2166748046875,
+                750.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "https://lookastic.com/site/terms-of-service"
+    },
+    {
+        "position": [
+            [
+                907.2166748046876,
+                726.0
+            ],
+            [
+                1007.6666870117189,
+                750.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://lookastic.com/site/privacy-policy"
+    },
+    {
+        "position": [
+            [
+                1023.6666870117188,
+                726.0
+            ],
+            [
+                1094.8833465576172,
+                750.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Copyright",
+        "on_click_jump_to": "https://lookastic.com/site/copyright"
+    },
+    {
+        "position": [
+            [
+                1110.88330078125,
+                726.0
+            ],
+            [
+                1246.2333068847656,
+                750.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Affiliate Disclosure",
+        "on_click_jump_to": "https://lookastic.com/site/affiliate-disclosure"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                328.0
+            ],
+            [
+                408.0,
+                578.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.lookastic.com/grey-leather-mules/rag-bone-python-effect-mules-medium-904232.jpg"
+    }
+]

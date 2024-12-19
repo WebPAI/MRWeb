@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Clinic</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <!-- Navigation Bar with Background Image -->
+    <header class="relative h-[68px]">
+        <!-- Background Image -->
+        <div class="absolute inset-0 w-full h-full">
+            <img src="https://source.unsplash.com/random/1600x900/?medical" 
+                 class="w-full h-full object-cover" 
+                 alt="Medical background">
+            <div class="absolute inset-0 bg-black bg-opacity-50"></div> <!-- Overlay for better text visibility -->
+        </div>
+
+        <!-- Navigation Content -->
+        <nav class="relative z-10 max-w-7xl mx-auto px-4 h-full">
+            <div class="flex items-center h-full">
+                <!-- Logo/Brand -->
+                <div class="text-white font-semibold text-xl mr-8">Medical Clinic</div>
+                
+                <!-- Navigation Links -->
+                <div class="flex space-x-4">
+                    <a href="#" class="text-white hover:text-gray-200 px-3 py-2">Home</a>
+                    <a href="#" class="text-white hover:text-gray-200 px-3 py-2">About</a>
+                    <a href="#" class="text-white hover:text-gray-200 px-3 py-2">Services</a>
+                    <a href="#" class="text-white hover:text-gray-200 px-3 py-2">Contact</a>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 py-8">
+        <h1 class="text-3xl font-bold mb-4">Welcome to Medical Clinic</h1>
+        <p class="text-gray-700 leading-relaxed">
+            At Medical Clinic, we are committed to providing the highest quality of care to our patients. Our team of experienced doctors and staff are dedicated to providing compassionate, professional care that is both effective and efficient. We believe in the power of early detection and prevention, and we are committed to helping our patients maintain their health and well-being.
+        </p>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-900 text-white text-center py-4 mt-auto">
+        <p>© 2022 Medical Clinic. All rights reserved.</p>
+    </footer>
+</body>
+</html>

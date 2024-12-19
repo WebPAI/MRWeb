@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                608.0,
+                32.0
+            ],
+            [
+                828.6499938964844,
+                64.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Slowcuum Brainspun",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                170.0
+            ],
+            [
+                875.0499877929688,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Two new publications coming out",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                285.0
+            ],
+            [
+                1312.0,
+                305.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Archive Link 1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                309.0
+            ],
+            [
+                1312.0,
+                329.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Archive Link 2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                608.0,
+                112.0
+            ],
+            [
+                864.0,
+                136.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/profile-image.jpg"
+    }
+]

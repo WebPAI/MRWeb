@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                816.7000122070312,
+                264.0
+            ],
+            [
+                859.8166809082031,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                875.816650390625,
+                264.0
+            ],
+            [
+                946.4333190917969,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Me",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                962.433349609375,
+                264.0
+            ],
+            [
+                1103.3000183105469,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Wine Tasting Notes",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                232.0,
+                428.0
+            ],
+            [
+                1176.0,
+                452.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/wine-bottle.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/header-image.jpg"
+    }
+]

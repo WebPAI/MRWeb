@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                832.7999877929688,
+                80.0
+            ],
+            [
+                875.9166564941406,
+                104.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.nikaramli.com/portfolio_restaurant.html"
+    },
+    {
+        "position": [
+            [
+                891.9166870117188,
+                80.0
+            ],
+            [
+                935.5500183105469,
+                104.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://inphotos.org/tag/tiffany/"
+    },
+    {
+        "position": [
+            [
+                951.5499877929688,
+                80.0
+            ],
+            [
+                1013.5999908447266,
+                104.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "https://www.studentsreview.com/viewprofile.php3?k=1415856956&u=149"
+    },
+    {
+        "position": [
+            [
+                1029.5999755859375,
+                80.0
+            ],
+            [
+                1087.199966430664,
+                104.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://www.samplequestionnaire.com/action-research-questionnaire.html"
+    },
+    {
+        "position": [
+            [
+                1685.5999755859375,
+                16.0
+            ],
+            [
+                1711.9999694824219,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1695159861101-85f493a6b098?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNTV8&ixlib=rb-4.0.3&w=100&h=50"
+    }
+]

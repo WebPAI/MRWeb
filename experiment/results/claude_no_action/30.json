@@ -1,0 +1,156 @@
+[
+    {
+        "position": [
+            [
+                1443.1500244140625,
+                77.5
+            ],
+            [
+                1520.0000305175781,
+                98.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                392.0,
+                133.5
+            ],
+            [
+                434.8999938964844,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                450.8999938964844,
+                133.5
+            ],
+            [
+                564.8666687011719,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Member Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                580.86669921875,
+                133.5
+            ],
+            [
+                699.7833709716797,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Forms & Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                715.7833251953125,
+                133.5
+            ],
+            [
+                829.2166442871094,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News & Notices",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                845.2166748046875,
+                133.5
+            ],
+            [
+                916.0000152587891,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1263.0,
+                658.5
+            ],
+            [
+                1479.7333374023438,
+                679.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Alliance of Indiana Rural Water",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                44.0
+            ],
+            [
+                464.0,
+                108.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    }
+]

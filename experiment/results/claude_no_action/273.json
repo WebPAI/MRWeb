@@ -1,0 +1,318 @@
+[
+    {
+        "position": [
+            [
+                1071.0,
+                14.0
+            ],
+            [
+                1156.0,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Réamhaisnéisí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1180.0,
+                14.0
+            ],
+            [
+                1285.0,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Tuairiscí is déanaí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1309.0,
+                14.0
+            ],
+            [
+                1348.0,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Aeráid",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1372.0,
+                14.0
+            ],
+            [
+                1435.0,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Oideachas",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1459.0,
+                14.0
+            ],
+            [
+                1514.0,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Eolaíocht",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1538.0,
+                14.0
+            ],
+            [
+                1619.0,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Podchraolach",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1643.0,
+                14.0
+            ],
+            [
+                1712.0,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Eolas Fúinn",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                137.5
+            ],
+            [
+                1415.433334350586,
+                158.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            89
+        ],
+        "text": "Straitéis",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                169.5
+            ],
+            [
+                1513.5500030517578,
+                190.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            89
+        ],
+        "text": "Struchtúr Met Éireann",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                201.5
+            ],
+            [
+                1511.3833312988281,
+                222.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            89
+        ],
+        "text": "Seirbhísí Speisialaíthe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                233.5
+            ],
+            [
+                1481.5166625976562,
+                254.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            89
+        ],
+        "text": "Tuarascálacha Dlí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                265.5
+            ],
+            [
+                1411.0,
+                286.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            89
+        ],
+        "text": "Nuacht",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                297.5
+            ],
+            [
+                1411.4666595458984,
+                318.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            51,
+            89
+        ],
+        "text": "Awards",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                292.68333435058594,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/met-eireann-logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                488.0
+            ],
+            [
+                688.0,
+                552.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/met-eireann-footer-logo.png"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                488.0
+            ],
+            [
+                1302.2166595458984,
+                528.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/app-store.png"
+    },
+    {
+        "position": [
+            [
+                1318.2166748046875,
+                488.0
+            ],
+            [
+                1388.0500183105469,
+                528.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/play-store.png"
+    }
+]

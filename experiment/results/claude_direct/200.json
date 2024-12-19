@@ -1,0 +1,336 @@
+[
+    {
+        "position": [
+            [
+                8.0,
+                8.0
+            ],
+            [
+                41.56666564941406,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Help",
+        "on_click_jump_to": "https://www.ebsqart.com/FAQ/"
+    },
+    {
+        "position": [
+            [
+                57.56666564941406,
+                8.0
+            ],
+            [
+                97.16667175292969,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Login",
+        "on_click_jump_to": "https://www.ebsqart.com/Login.asp"
+    },
+    {
+        "position": [
+            [
+                113.16667175292967,
+                8.0
+            ],
+            [
+                143.25,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Join",
+        "on_click_jump_to": "https://www.ebsqart.com/Information/Step-1-Register/85/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                56.0
+            ],
+            [
+                560.0,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Galleries",
+        "on_click_jump_to": "file:///Galleries"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                88.0
+            ],
+            [
+                560.0,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Exhibits",
+        "on_click_jump_to": "file:///Exhibits"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                120.0
+            ],
+            [
+                560.0,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Artists",
+        "on_click_jump_to": "file:///Artists"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                152.0
+            ],
+            [
+                560.0,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Community",
+        "on_click_jump_to": "file:///Community"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                184.0
+            ],
+            [
+                560.0,
+                208.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Learn",
+        "on_click_jump_to": "file:///Learn"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                216.0
+            ],
+            [
+                560.0,
+                240.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "About",
+        "on_click_jump_to": "file:///About"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                248.0
+            ],
+            [
+                560.0,
+                272.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "file:///Blog"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                280.0
+            ],
+            [
+                560.0,
+                304.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "COAs",
+        "on_click_jump_to": "file:///COAs"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                312.0
+            ],
+            [
+                560.0,
+                336.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Art of the Day",
+        "on_click_jump_to": "file:///Art-of-the-Day"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                344.0
+            ],
+            [
+                560.0,
+                368.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Search",
+        "on_click_jump_to": "file:///Search"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                376.0
+            ],
+            [
+                560.0,
+                400.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "My Profile",
+        "on_click_jump_to": "file:///My-Profile"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                80.0
+            ],
+            [
+                1712.0,
+                104.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Login",
+        "on_click_jump_to": "file:///login"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                112.0
+            ],
+            [
+                1712.0,
+                136.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Create Account",
+        "on_click_jump_to": "file:///create-account"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                124.0
+            ],
+            [
+                1328.0,
+                1063.88330078125
+            ]
+        ],
+        "type": "img",
+        "src": "https://art.ebsqart.com/Art/Figures-and-Edges/acrylic/99094/650/650/Stop.jpg"
+    }
+]

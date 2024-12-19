@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Webpage</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        .absolute {
+            position: absolute;
+        }
+    </style>
+</head>
+<body class="relative w-full h-screen" style="background-image: url('http://nemmco.com.au/media/images/background.jpg'); background-size: cover;">
+
+    <!-- Logo -->
+    <img src="http://nemmco.com.au/media/images/logo.jpg" alt="Logo" class="absolute" style="top: 25px; left: 0px; width: 145px; height: 33px;">
+
+    <!-- Top Menu Background -->
+    <div class="absolute" style="top: 25px; left: 145px; width: calc(100% - 145px); height: 33px; background-image: url('http://nemmco.com.au/media/images/topmenu-bg.jpg');"></div>
+
+    <!-- Banner Background -->
+    <div class="absolute" style="top: 58px; left: 0px; width: 100%; height: 95px; background-image: url('http://nemmco.com.au/media/images/banner-bg.jpg');"></div>
+
+    <!-- Left Menu Background -->
+    <div class="absolute" style="top: 110px; left: 0px; width: 100%; height: 269px; background-image: url('http://nemmco.com.au/media/images/leftmenu-bg.jpg');"></div>
+
+    <!-- Footer Background -->
+    <div class="absolute" style="bottom: 0px; left: 0px; width: 100%; height: 50px; background-image: url('http://nemmco.com.au/media/images/footer-bg.jpg');"></div>
+
+    <!-- Text and Links -->
+    <div class="absolute" style="top: 185px; left: 223px;">
+        <a href="http://www.aemo.com.au/" class="text-blue-600">click here >></a>
+    </div>
+    <div class="absolute" style="top: 232px; left: 259px;">
+        <a href="mailto:infocentre@aemo.com.au" class="text-blue-600">AEMO Information Centre</a>
+    </div>
+
+</body>
+</html>

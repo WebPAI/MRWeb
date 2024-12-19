@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1397.0,
+                50.0
+            ],
+            [
+                1445.0,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Services",
+        "on_click_jump_to": "http://bolneycricketclub.org.uk/author/secretary/page/3/"
+    },
+    {
+        "position": [
+            [
+                1465.0,
+                50.0
+            ],
+            [
+                1519.0,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Products",
+        "on_click_jump_to": "https://www.teds.com.au/digital-video-cameras/canon-legria"
+    },
+    {
+        "position": [
+            [
+                1539.0,
+                50.0
+            ],
+            [
+                1600.0,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "https://www.virginiaridley.com/tags/mpp"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?health"
+    }
+]

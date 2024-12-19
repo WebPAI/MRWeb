@@ -1,0 +1,350 @@
+[
+    {
+        "position": [
+            [
+                1580.2166748046875,
+                8.0
+            ],
+            [
+                1632.6333465576172,
+                24.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://aachristmas.com/pages/about-us"
+    },
+    {
+        "position": [
+            [
+                1648.63330078125,
+                8.0
+            ],
+            [
+                1711.9999694824219,
+                24.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://aachristmas.com/pages/contact-us"
+    },
+    {
+        "position": [
+            [
+                1107.199951171875,
+                48.0
+            ],
+            [
+                1307.4332885742188,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SHOP BY CATEGORIES",
+        "on_click_jump_to": "javascript:void(0)"
+    },
+    {
+        "position": [
+            [
+                1323.433349609375,
+                48.0
+            ],
+            [
+                1460.116683959961,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "0\nShopping Cart",
+        "on_click_jump_to": "javascript:void(0)"
+    },
+    {
+        "position": [
+            [
+                1476.11669921875,
+                48.0
+            ],
+            [
+                1712.0000305175781,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Login / Register My Account",
+        "on_click_jump_to": "https://aachristmas.com/account/login"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                137.5
+            ],
+            [
+                246.23333740234375,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://aachristmas.com/"
+    },
+    {
+        "position": [
+            [
+                262.76666259765625,
+                137.5
+            ],
+            [
+                368.6666717529297,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "LED Craft Lights",
+        "on_click_jump_to": "https://aachristmas.com/collections/led-craft-lights?page=2"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                542.0
+            ],
+            [
+                693.3333129882812,
+                562.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://aachristmas.com/pages/about-us"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                570.0
+            ],
+            [
+                693.3333129882812,
+                590.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://aachristmas.com/pages/contact-us"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                598.0
+            ],
+            [
+                693.3333129882812,
+                618.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://aachristmas.com/pages/frequently-asked-questions"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                626.0
+            ],
+            [
+                693.3333129882812,
+                646.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Shipping Info",
+        "on_click_jump_to": "https://aachristmas.com/pages/shipping"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                654.0
+            ],
+            [
+                693.3333129882812,
+                674.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Quotes & Coupons",
+        "on_click_jump_to": "https://aachristmas.com/pages/quote-coupons"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                682.0
+            ],
+            [
+                693.3333129882812,
+                702.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://blog.aachristmas.com/"
+    },
+    {
+        "position": [
+            [
+                725.3333129882812,
+                542.0
+            ],
+            [
+                1194.6666564941406,
+                562.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://aachristmas.com/pages/privacy-policy"
+    },
+    {
+        "position": [
+            [
+                725.3333129882812,
+                570.0
+            ],
+            [
+                1194.6666564941406,
+                590.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Warranty & Returns",
+        "on_click_jump_to": "https://aachristmas.com/pages/warranty-returns"
+    },
+    {
+        "position": [
+            [
+                1564.4166259765625,
+                750.0
+            ],
+            [
+                1695.9999542236328,
+                786.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT US",
+        "on_click_jump_to": "https://aachristmas.com/pages/contact-us/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                48.0
+            ],
+            [
+                418.1000061035156,
+                112.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/logo.png?v=69452869812910067071632465252"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                770.0
+            ],
+            [
+                261.0833282470703,
+                794.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://aachristmas.com/cdn/shop/t/9/assets/icon-cc-visa.png?v=16208531419721231371632465233"
+    }
+]

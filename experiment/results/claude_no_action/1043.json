@@ -1,0 +1,70 @@
+[
+    {
+        "position": [
+            [
+                400.0,
+                1102.5
+            ],
+            [
+                500.4499969482422,
+                1123.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Staff Directory",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                1134.5
+            ],
+            [
+                452.68333435058594,
+                1155.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                923.3333129882812,
+                8.0
+            ],
+            [
+                1014.3666534423828,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/vc-star-logo.png"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                997.0
+            ],
+            [
+                1520.0,
+                1029.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/vc-star-logo.png"
+    }
+]

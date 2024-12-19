@@ -1,0 +1,430 @@
+[
+    {
+        "position": [
+            [
+                590.0,
+                38.0
+            ],
+            [
+                660.6833343505859,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://www.vcstar.com/news/"
+    },
+    {
+        "position": [
+            [
+                660.683349609375,
+                38.0
+            ],
+            [
+                737.7333526611328,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sports",
+        "on_click_jump_to": "https://www.vcstar.com/sports/"
+    },
+    {
+        "position": [
+            [
+                737.7333374023438,
+                38.0
+            ],
+            [
+                826.4499969482422,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Opinion",
+        "on_click_jump_to": "https://www.vcstar.com/opinion/"
+    },
+    {
+        "position": [
+            [
+                826.4500122070312,
+                38.0
+            ],
+            [
+                958.0500183105469,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Entertainment",
+        "on_click_jump_to": "https://www.vcstar.com/entertainment/"
+    },
+    {
+        "position": [
+            [
+                958.0499877929688,
+                38.0
+            ],
+            [
+                1059.8666534423828,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Education",
+        "on_click_jump_to": "https://www.vcstar.com/news/schoolwatch/"
+    },
+    {
+        "position": [
+            [
+                1059.86669921875,
+                38.0
+            ],
+            [
+                1157.6500244140625,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Advertise",
+        "on_click_jump_to": "https://cm.vcstar.com/advertise-with-us/"
+    },
+    {
+        "position": [
+            [
+                1157.6500244140625,
+                38.0
+            ],
+            [
+                1262.2000274658203,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Obituaries",
+        "on_click_jump_to": "https://www.vcstar.com/obituaries"
+    },
+    {
+        "position": [
+            [
+                1262.199951171875,
+                38.0
+            ],
+            [
+                1382.1166229248047,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "eNewspaper",
+        "on_click_jump_to": "https://user.vcstar.com/user/enewspaper"
+    },
+    {
+        "position": [
+            [
+                1382.11669921875,
+                38.0
+            ],
+            [
+                1458.2333679199219,
+                62.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Legals",
+        "on_click_jump_to": "https://www.vcstar.com/public-notices"
+    },
+    {
+        "position": [
+            [
+                855.0,
+                135.5
+            ],
+            [
+                902.0,
+                154.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            98,
+            98,
+            98
+        ],
+        "text": "SPORTS",
+        "on_click_jump_to": "https://www.vcstar.com/sports/"
+    },
+    {
+        "position": [
+            [
+                919.0,
+                200.0
+            ],
+            [
+                991.3666687011719,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            48,
+            48
+        ],
+        "text": "Joe Curley",
+        "on_click_jump_to": "https://www.vcstar.com/staff/4406685002/joe-curley/"
+    },
+    {
+        "position": [
+            [
+                855.0,
+                396.0
+            ],
+            [
+                883.5,
+                444.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            48,
+            48
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://marketing.usatoday.com/about-us/"
+    },
+    {
+        "position": [
+            [
+                855.0,
+                452.0
+            ],
+            [
+                883.5,
+                500.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            48,
+            48
+        ],
+        "text": "Staff Directory",
+        "on_click_jump_to": "https://www.vcstar.com/contact/staff/"
+    },
+    {
+        "position": [
+            [
+                855.0,
+                508.0
+            ],
+            [
+                883.5,
+                532.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            48,
+            48
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "https://www.gannett.com/careers/"
+    },
+    {
+        "position": [
+            [
+                915.5,
+                396.0
+            ],
+            [
+                944.0,
+                444.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            48,
+            48
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://help.vcstar.com/contact-us"
+    },
+    {
+        "position": [
+            [
+                915.5,
+                452.0
+            ],
+            [
+                944.0,
+                524.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            48,
+            48
+        ],
+        "text": "Support Local Businesses",
+        "on_click_jump_to": "https://supportlocal.usatoday.com/"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                420.0
+            ],
+            [
+                1004.5,
+                468.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            48,
+            48
+        ],
+        "text": "Subscribe Today",
+        "on_click_jump_to": "https://subscribe.vcstar.com/"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                476.0
+            ],
+            [
+                1004.5,
+                500.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            48,
+            48
+        ],
+        "text": "Newsletters",
+        "on_click_jump_to": "https://profile.vcstar.com/newsletters/manage"
+    },
+    {
+        "position": [
+            [
+                1036.5,
+                420.0
+            ],
+            [
+                1065.0,
+                444.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            48,
+            48
+        ],
+        "text": "Jobs",
+        "on_click_jump_to": "https://www.vcstar.com/marketplace/jobs/"
+    },
+    {
+        "position": [
+            [
+                1036.5,
+                452.0
+            ],
+            [
+                1065.0,
+                476.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            48,
+            48,
+            48
+        ],
+        "text": "Cars",
+        "on_click_jump_to": "https://www.vcstar.com/marketplace/cars/"
+    },
+    {
+        "position": [
+            [
+                855.0,
+                188.0
+            ],
+            [
+                903.0,
+                236.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.vcstar.com/gcdn/presto/2019/05/08/PVCS/41b2551a-fdbb-42a6-bd7e-dec0571482c1-Joe_Curley.JPG?crop=2852,2832,x850,y0&width=48&height=48&format=pjpg&auto=webp"
+    },
+    {
+        "position": [
+            [
+                855.0,
+                268.0
+            ],
+            [
+                1065.0,
+                292.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.vcstar.com/gcdn/-mm-/be136a0966053d026512148c6177cbcde4d8e977/c=0-158-3000-1853/local/-/media/2017/09/12/Camarillo/Camarillo/636408457297776586-Kobe24.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp"
+    }
+]

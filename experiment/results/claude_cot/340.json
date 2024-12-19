@@ -1,0 +1,296 @@
+[
+    {
+        "position": [
+            [
+                930.0,
+                382.0
+            ],
+            [
+                1640.0,
+                409.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.shemfoodbank.org/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                433.0
+            ],
+            [
+                1640.0,
+                460.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            82,
+            66,
+            52
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "http://www.shemfoodbank.org/about-us/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                484.0
+            ],
+            [
+                1640.0,
+                511.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Available Services",
+        "on_click_jump_to": "http://www.shemfoodbank.org/available-services/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                535.0
+            ],
+            [
+                1640.0,
+                562.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Board of Directors",
+        "on_click_jump_to": "http://www.shemfoodbank.org/shem-board/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                586.0
+            ],
+            [
+                1640.0,
+                613.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "http://www.shemfoodbank.org/calendar-of-events/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                637.0
+            ],
+            [
+                1640.0,
+                664.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "http://www.shemfoodbank.org/contact-us/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                688.0
+            ],
+            [
+                1640.0,
+                715.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Events and Current News",
+        "on_click_jump_to": "http://www.shemfoodbank.org/events-and-news-flash-informat/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                739.0
+            ],
+            [
+                1640.0,
+                766.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Food Drive Information",
+        "on_click_jump_to": "http://www.shemfoodbank.org/organizing-a-food-drive-for-sh/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                790.0
+            ],
+            [
+                1640.0,
+                817.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "How Can I Help?",
+        "on_click_jump_to": "http://www.shemfoodbank.org/how-can-i-help/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                841.0
+            ],
+            [
+                1640.0,
+                868.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Newsletters & Brochures",
+        "on_click_jump_to": "http://www.shemfoodbank.org/newsletters-brochures/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                892.0
+            ],
+            [
+                1640.0,
+                919.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Picture Gallery",
+        "on_click_jump_to": "http://www.shemfoodbank.org/picture-gallery/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                943.0
+            ],
+            [
+                1640.0,
+                970.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Reports",
+        "on_click_jump_to": "http://www.shemfoodbank.org/reports/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                994.0
+            ],
+            [
+                1640.0,
+                1021.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Supporting Organizations",
+        "on_click_jump_to": "http://www.shemfoodbank.org/community-sponsors/"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                1045.0
+            ],
+            [
+                1640.0,
+                1072.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            44,
+            76,
+            183
+        ],
+        "text": "Webmaster Log In",
+        "on_click_jump_to": "http://www.shemfoodbank.org/shemfoodbanksquarespacecom/?returnUrl=%2Fabout-us%2F"
+    },
+    {
+        "position": [
+            [
+                930.0,
+                0.0
+            ],
+            [
+                1630.0,
+                350.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.shemfoodbank.org/storage/Banner%203.png"
+    }
+]

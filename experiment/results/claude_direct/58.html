@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            color: rgb(1, 78, 120);
+        }
+        .profile-link {
+            color: rgb(0, 77, 113);
+        }
+        .action-button {
+            background-color: rgb(1, 78, 120);
+            color: white;
+            padding: 0.75rem 1.5rem;
+            border-radius: 0.375rem;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Navigation Bar -->
+    <nav class="flex justify-between items-center px-4 py-2 border-b">
+        <div class="flex space-x-8">
+            <a href="/" class="nav-link">Surgeries</a>
+            <a href="/" class="nav-link">Medicines</a>
+            <a href="/" class="nav-link">Lab Tests</a>
+            <a href="/" class="nav-link">Blog</a>
+            <a href="/" class="nav-link">Join as Doctor</a>
+        </div>
+        <a href="/login" class="text-blue-900">Login</a>
+    </nav>
+
+    <!-- Breadcrumb -->
+    <div class="flex space-x-4 px-4 py-2 text-sm">
+        <a href="/" class="profile-link">Home</a>
+        <span>/</span>
+        <a href="/" class="profile-link">Find a Doctor by Disease</a>
+    </div>
+
+    <!-- Filter Buttons -->
+    <div class="flex space-x-4 px-4 py-4">
+        <button class="action-button">Clear Filters</button>
+        <button class="action-button">Doctors Near Me</button>
+        <button class="action-button">Fee Upto 500</button>
+        <button class="action-button">Top Reviewed</button>
+        <button class="action-button">Online Now</button>
+    </div>
+
+    <!-- Doctor Listings -->
+    <div class="px-4">
+        <!-- Repeat this structure for each doctor -->
+        <div class="flex justify-between items-start border-b py-6">
+            <div class="flex space-x-6">
+                <img src="doctor-image.jpg" alt="Doctor" class="w-36 h-36 rounded-lg"/>
+                <div>
+                    <h2 class="text-xl font-semibold profile-link">Dr. Saba Samreen</h2>
+                    <p class="text-gray-600">PMDC Verified</p>
+                    <div class="mt-4">
+                        <p>Reviews: 188</p>
+                        <div class="flex flex-wrap mt-2 space-x-2">
+                            <a href="/" class="profile-link text-sm">Osteoarthritis</a>
+                            <a href="/" class="profile-link text-sm">Rheumatoid Arthritis</a>
+                            <a href="/" class="profile-link text-sm">Systemic Lupus Erythematosus</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="flex flex-col space-y-4">
+                <button class="action-button">Video Call</button>
+                <button class="action-button">View Profile</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

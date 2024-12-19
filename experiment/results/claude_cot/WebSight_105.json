@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1693.63330078125,
+                26.0
+            ],
+            [
+                1758.8999633789062,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Products",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1774.9000244140625,
+                26.0
+            ],
+            [
+                1838.0166931152344,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Features",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1854.0166015625,
+                26.0
+            ],
+            [
+                1903.9999389648438,
+                46.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Pricing",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                73.60000610351562,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1590140297846-fa479ed30a6b?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NjV8&ixlib=rb-4.0.3&w=100&h=50"
+    }
+]

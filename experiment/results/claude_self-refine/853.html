@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SALTO Training Calendar</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply px-[87.5px] py-[37.5px] text-[#333333] hover:text-[#333333] text-center border-l border-gray-200;
+        }
+        .nav-link-text {
+            @apply text-sm mt-1;
+        }
+        .action-button {
+            @apply px-4 py-2 bg-[#C73485] text-white hover:bg-[#A62870];
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <!-- Navigation Bar -->
+    <nav class="flex h-[90px] bg-white">
+        <!-- SALTO Logo -->
+        <div class="w-[200px] bg-[#0080FF] flex items-center justify-center">
+            <img src="path_to_salto_logo.png" alt="SALTO Logo" class="h-12">
+        </div>
+        
+        <!-- Navigation Links -->
+        <div class="flex flex-1">
+            <a href="https://www.salto-youth.net/about/" class="nav-link">
+                <div>About SALTO</div>
+                <div class="nav-link-text">Why? What? Where? When? Who?</div>
+            </a>
+            
+            <a href="https://www.salto-youth.net/rc/" class="nav-link">
+                <div>Resource Centres</div>
+                <div class="nav-link-text">Our activities and resources for you</div>
+            </a>
+            
+            <a href="https://www.salto-youth.net/tools/" class="nav-link">
+                <div>Tools</div>
+                <div class="nav-link-text">For European youth work and training</div>
+            </a>
+            
+            <a href="https://www.salto-youth.net/mysalto/" class="nav-link">
+                <div>MySALTO</div>
+                <div class="nav-link-text">Login to your personal SALTO dashboard</div>
+            </a>
+        </div>
+    </nav>
+
+    <div class="max-w-6xl mx-auto">
+        <!-- Action Buttons -->
+        <div class="flex justify-end space-x-2 mt-12 mb-4">
+            <a href="https://www.salto-youth.net/tools/european-training-calendar/browse/" class="action-button">
+                Find training offers
+            </a>
+            <a href="https://www.salto-youth.net/tools/european-training-calendar/dashboard/applications/" class="action-button">
+                Your applications
+            </a>
+            <a href="https://www.salto-youth.net/tools/european-training-calendar/dashboard/" class="action-button">
+                Manage your training offers
+            </a>
+            <a href="https://www.salto-youth.net/tools/european-training-calendar/help/" class="action-button">
+                Help
+            </a>
+        </div>
+
+        <!-- Login Link -->
+        <div class="text-right">
+            <span class="text-sm">Already registered?</span>
+            <a href="https://www.salto-youth.net/tools/european-training-calendar/login/" class="text-[#C73485] text-sm ml-1">Login now!</a>
+        </div>
+
+        <!-- Breadcrumb -->
+        <div class="mt-8 text-sm">
+            <a href="https://www.salto-youth.net/tools/european-training-calendar/" class="text-[#C73485]">Start</a>
+            <span class="text-gray-600"> / TICTAC UK - Multilateral Training Course to Support Quality in Action 4.3</span>
+        </div>
+
+        <!-- Notification -->
+        <div class="bg-[#FFFBE6] border border-[#FFE7B3] p-4 my-4">
+            <span>All new training offers in your inbox: Be the first to know about new training offers with our </span>
+            <a href="https://www.salto-youth.net/mysalto/" class="text-[#C73485]">e-mail notifications</a>.
+        </div>
+
+        <!-- Main Content -->
+        <div class="mt-8">
+            <h1 class="text-2xl text-[#0080FF] font-bold mb-4">
+                TICTAC UK - Multilateral Training Course to Support Quality in Action 4.3
+            </h1>
+            
+            <!-- Rest of the content... -->
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="text-center mt-8 mb-4">
+        <a href="#sy-title" class="text-[#777777] hover:text-[#555555]">back to top</a>
+    </footer>
+</body>
+</html>

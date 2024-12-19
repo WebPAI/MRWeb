@@ -1,0 +1,370 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                88.0
+            ],
+            [
+                283.26666259765625,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Reviews",
+        "on_click_jump_to": "https://digitallyobsessed.com/r-reviews.php"
+    },
+    {
+        "position": [
+            [
+                299.26666259765625,
+                88.0
+            ],
+            [
+                405.0,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Interviews",
+        "on_click_jump_to": "https://digitallyobsessed.com/r-interviews.php"
+    },
+    {
+        "position": [
+            [
+                421.0,
+                88.0
+            ],
+            [
+                507.78334045410156,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Articles",
+        "on_click_jump_to": "https://digitallyobsessed.com/r-articles.php"
+    },
+    {
+        "position": [
+            [
+                523.7833251953125,
+                88.0
+            ],
+            [
+                593.2166442871094,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Apps",
+        "on_click_jump_to": "https://digitallyobsessed.com/r-apps.php"
+    },
+    {
+        "position": [
+            [
+                609.2166748046875,
+                88.0
+            ],
+            [
+                684.8500213623047,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://digitallyobsessed.com/r-about.php"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                182.0
+            ],
+            [
+                314.23333740234375,
+                202.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Zarabesque.com",
+        "on_click_jump_to": "https://zarabesque.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                206.0
+            ],
+            [
+                286.98333740234375,
+                226.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Susti Heaven",
+        "on_click_jump_to": "http://www.sustiheaven.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                230.0
+            ],
+            [
+                292.4499969482422,
+                250.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Brand Perfect",
+        "on_click_jump_to": "http://www.brandperfect.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                254.0
+            ],
+            [
+                295.21665954589844,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Closet Nomad",
+        "on_click_jump_to": "http://www.closetnomad.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                278.0
+            ],
+            [
+                318.9499969482422,
+                298.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Tiendaholics.com",
+        "on_click_jump_to": "http://www.tiendaholics.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                334.0
+            ],
+            [
+                235.11666870117188,
+                354.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://digitallyobsessed.com/ducu.php"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                358.0
+            ],
+            [
+                284.3833312988281,
+                378.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Review Vault",
+        "on_click_jump_to": "https://digitallyobsessed.com/r-reviews.php"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                382.0
+            ],
+            [
+                265.73333740234375,
+                402.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Interviews",
+        "on_click_jump_to": "https://digitallyobsessed.com/r-interviews.php"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                406.0
+            ],
+            [
+                246.78334045410156,
+                426.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Articles",
+        "on_click_jump_to": "https://digitallyobsessed.com/r-articles.php"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                430.0
+            ],
+            [
+                229.43333435058594,
+                450.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Apps",
+        "on_click_jump_to": "https://digitallyobsessed.com/r-apps.php"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                454.0
+            ],
+            [
+                235.63333129882812,
+                474.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://digitallyobsessed.com/r-about.php"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                478.0
+            ],
+            [
+                249.60000610351562,
+                498.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "mailto:webmaster@digitallyobsessed.com"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                543.3666687011719,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://digitallyobsessed.com/images/newdoclogo.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                500.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://digitallyobsessed.com/styles/stripes.gif"
+    }
+]

@@ -1,0 +1,454 @@
+[
+    {
+        "position": [
+            [
+                1119.2333984375,
+                30.183334350585938
+            ],
+            [
+                1205.1000671386719,
+                54.18333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Who we are",
+        "on_click_jump_to": "https://www.cds.co.uk/who-we-are"
+    },
+    {
+        "position": [
+            [
+                1237.0999755859375,
+                30.183334350585938
+            ],
+            [
+                1323.6166381835938,
+                54.18333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "What we do",
+        "on_click_jump_to": "https://www.cds.co.uk/what-we-do"
+    },
+    {
+        "position": [
+            [
+                1355.61669921875,
+                30.183334350585938
+            ],
+            [
+                1422.0000305175781,
+                54.18333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Our work",
+        "on_click_jump_to": "https://www.cds.co.uk/our-work"
+    },
+    {
+        "position": [
+            [
+                1454.0,
+                30.183334350585938
+            ],
+            [
+                1550.0166625976562,
+                54.18333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Our thoughts",
+        "on_click_jump_to": "https://blog.cds.co.uk/"
+    },
+    {
+        "position": [
+            [
+                1582.0166015625,
+                30.183334350585938
+            ],
+            [
+                1661.199935913086,
+                54.18333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact us",
+        "on_click_jump_to": "https://www.cds.co.uk/contact-us"
+    },
+    {
+        "position": [
+            [
+                1693.199951171875,
+                30.183334350585938
+            ],
+            [
+                1749.7166137695312,
+                54.18333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "https://www.cds.co.uk/careers"
+    },
+    {
+        "position": [
+            [
+                1781.7166748046875,
+                30.183334350585938
+            ],
+            [
+                1896.000015258789,
+                54.18333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            27,
+            27,
+            27
+        ],
+        "text": "0800 138 4308",
+        "on_click_jump_to": "tel:08001384308"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                529.88330078125
+            ],
+            [
+                616.2833251953125,
+                554.88330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "We're Hiring: Learn more about why CDS is a great place to work",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                568.38330078125
+            ],
+            [
+                120.58332824707031,
+                585.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Life at CDS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1000.0,
+                529.88330078125
+            ],
+            [
+                1297.066650390625,
+                554.88330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CDS signs Police Industry Charter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1000.0,
+                568.38330078125
+            ],
+            [
+                1086.1000061035156,
+                585.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Public Sector",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                1008.38330078125
+            ],
+            [
+                952.0,
+                1032.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                1040.38330078125
+            ],
+            [
+                952.0,
+                1064.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy notice",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                1072.38330078125
+            ],
+            [
+                952.0,
+                1096.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Cookie policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                1008.38330078125
+            ],
+            [
+                1600.0,
+                1032.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Carbon reduction plan",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                1040.38330078125
+            ],
+            [
+                1600.0,
+                1064.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Modern slavery",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                968.0,
+                1072.38330078125
+            ],
+            [
+                1600.0,
+                1096.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms of use",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                8.0
+            ],
+            [
+                152.0,
+                76.38333129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hubfs/cds-logo-teal.svg"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                324.3833312988281
+            ],
+            [
+                944.0,
+                612.3833312988281
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hs-fs/hubfs/Riverside.png?width=596&name=Riverside.png"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                324.3833312988281
+            ],
+            [
+                1896.0,
+                612.3833312988281
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hs-fs/hubfs/Police-Industry-Charter-Signatory.jpg"
+    },
+    {
+        "position": [
+            [
+                320.0,
+                1128.38330078125
+            ],
+            [
+                344.0,
+                1152.38330078125
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hubfs/LI-White.svg.svg"
+    },
+    {
+        "position": [
+            [
+                360.0,
+                1128.38330078125
+            ],
+            [
+                384.0,
+                1152.38330078125
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hubfs/logo-white-svg.svg"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                1128.38330078125
+            ],
+            [
+                424.0,
+                1152.38330078125
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.cds.co.uk/hubfs/Instagram_White.svg.svg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                1200.38330078125
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://info.cds.co.uk/hubfs/CDS_Website_Files_Jan_2020/arrows-pattern-black.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                896.38330078125
+            ],
+            [
+                1920.0,
+                1200.38330078125
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://info.cds.co.uk/hubfs/CDS_Website_Files_Jan_2020/dots-pattern-white.png"
+    }
+]

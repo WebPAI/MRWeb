@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                834.2166748046875,
+                577.5
+            ],
+            [
+                914.0500183105469,
+                617.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Courses",
+        "on_click_jump_to": "http://fora.conscioushugs.com/viewtopic.php?t=339&p=3310"
+    },
+    {
+        "position": [
+            [
+                930.0499877929688,
+                577.5
+            ],
+            [
+                1002.1999816894531,
+                617.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Pricing",
+        "on_click_jump_to": "http://business.manateechamber.com/jobs/info/entry-level-museum-housekeeper-evenings-thursday-monday-sarasota-fl-3059"
+    },
+    {
+        "position": [
+            [
+                1018.2000122070312,
+                577.5
+            ],
+            [
+                1085.7666778564453,
+                617.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://www.kclabor.org/wir9182005.htm"
+    },
+    {
+        "position": [
+            [
+                840.0,
+                377.5
+            ],
+            [
+                1080.0,
+                537.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1688998366942-522bf43ebfef?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2MDF8&ixlib=rb-4.0.3&w=300&h=300"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?education"
+    }
+]

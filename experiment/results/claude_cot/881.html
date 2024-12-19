@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UAB - Page Not Found</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'uab-green': '#1E6B52',
+                        'uab-gray': '#D9D9D9'
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="min-h-screen bg-gray-100">
+    <!-- Header with UAB logo -->
+    <header class="w-full bg-uab-green">
+        <div class="container mx-auto px-4">
+            <img src="https://www.uab.edu/styles/images/uab_linear_r-white-1320x40.png" 
+                 alt="UAB The University of Alabama at Birmingham" 
+                 class="h-6 py-1">
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 mt-16">
+        <div class="max-w-2xl mx-auto bg-white shadow-lg rounded-lg p-8">
+            <h1 class="text-xl text-uab-green font-medium mb-4">
+                We can't seem to find the page you're looking for.
+            </h1>
+            
+            <p class="text-gray-600 mb-2">(Sorry about that.)</p>
+            <p class="text-gray-600 mb-4">Here are some other options instead:</p>
+
+            <!-- Navigation Links -->
+            <div class="flex flex-col items-center space-y-2 mb-8">
+                <a href="https://go.uab.edu/a-z404" class="text-uab-green hover:underline">A-Z Site Index</a>
+                <a href="https://www.uab.edu/home" class="text-uab-green hover:underline">UAB Homepage</a>
+                <a href="https://www.uab.edu/admissions" class="text-uab-green hover:underline">Future Students</a>
+                <a href="https://www.uab.edu/students/home/" class="text-uab-green hover:underline">Current Students</a>
+                <a href="https://www.uab.edu/humanresources/home/" class="text-uab-green hover:underline">Employees</a>
+                <a href="https://www.uab.edu/faculty/" class="text-uab-green hover:underline">Faculty</a>
+            </div>
+
+            <p class="text-gray-600 mb-2">Search all UAB websites:</p>
+            
+            <div class="border rounded p-4 mt-4 text-gray-600">
+                <p class="mb-1">Technically, here's what happened:</p>
+                <p>Error 404: Not Found</p>
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-700 text-uab-gray mt-16 py-4">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-center space-x-4 mb-4">
+                <a href="https://go.uab.edu/a-z404" class="hover:underline">A-Z Site Index</a>
+                <span>|</span>
+                <a href="https://www.uab.edu/home/" class="hover:underline">UAB Home</a>
+                <span>|</span>
+                <a href="https://www.uab.edu/privacy" class="hover:underline">Privacy</a>
+                <span>|</span>
+                <a href="https://www.uab.edu/toolkit/web/terms-of-use" class="hover:underline">Terms of Use</a>
+                <span>|</span>
+                <span>© 2024 The University of Alabama at Birmingham</span>
+            </div>
+            <p class="text-center text-sm px-4">
+                UAB is an Equal Opportunity/Affirmative Action Employer committed to fostering a diverse, equitable and family-friendly environment in which all faculty and staff can excel and achieve work/life balance irrespective of race, national origin, age, genetic or family medical history, gender, faith, gender identity and expression as well as sexual orientation. UAB also encourages applications from individuals with disabilities and veterans.
+            </p>
+        </div>
+    </footer>
+</body>
+</html>

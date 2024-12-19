@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vogel Legacy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white">
+```
+
+2. Let's create the header section with the background image and navigation:
+
+```html
+<!-- Header with background image -->
+<header class="relative h-[574.7px]">
+    <div class="absolute inset-0 bg-cover bg-center" 
+         style="background-image: url('https://vogellegacy.wordpress.com/wp-content/uploads/2015/02/cropped-02-05-15_11-10c2a0am.png');">
+    </div>
+    
+    <!-- Site title -->
+    <a href="https://vogellegacy.wordpress.com/" 
+       class="absolute text-white text-4xl font-bold"
+       style="left: 816.8px; top: 280.6px;">
+        VOGEL LEGACY
+    </a>
+
+    <!-- Navigation menu -->
+    <nav class="absolute bottom-0 w-full bg-black/50">
+        <div class="container mx-auto flex flex-wrap justify-center">
+            <a href="https://vogellegacy.wordpress.com/" 
+               class="text-white px-4 py-2">HOME</a>
+            <a href="https://vogellegacy.wordpress.com/about/" 
+               class="text-white px-4 py-2">ABOUT</a>
+            <a href="https://vogellegacy.wordpress.com/restore-the-family-name/" 
+               class="text-white px-4 py-2">VOGEL FAMILY TREE</a>
+            <a href="https://vogellegacy.wordpress.com/founder-generation/" 
+               class="text-white px-4 py-2">FOUNDER GENERATION</a>
+            <!-- Add remaining navigation items similarly -->
+        </div>
+    </nav>
+</header>
+```
+
+3. Let's create the main content area:
+
+```html
+<!-- Main content -->
+<main class="container mx-auto px-4 mt-8">
+    <div class="grid grid-cols-3 gap-8">
+        <!-- Left content column -->
+        <div class="col-span-2">
+            <h1 class="text-3xl font-bold mb-4">I Refuse</h1>
+            
+            <!-- Image grid -->
+            <div class="grid grid-cols-2 gap-4 mb-8">
+                <img src="https://i0.wp.com/vogellegacy.wordpress.com/wp-content/uploads/2016/01/01-18-16_7-10-10c2a0pm.png" 
+                     class="w-full" alt="">
+                <img src="https://i0.wp.com/vogellegacy.wordpress.com/wp-content/uploads/2016/01/01-18-16_7-10-28c2a0pm.png" 
+                     class="w-full" alt="">
+            </div>
+
+            <!-- Additional images -->
+            <div class="grid grid-cols-2 gap-4 mb-8">
+                <img src="https://i0.wp.com/vogellegacy.wordpress.com/wp-content/uploads/2016/01/01-18-16_7-14-48c2a0pm.png" 
+                     class="w-full" alt="">
+                <img src="https://i0.wp.com/vogellegacy.wordpress.com/wp-content/uploads/2016/01/01-18-16_7-16-50c2a0pm.png" 
+                     class="w-full" alt="">
+            </div>
+
+            <img src="https://i0.wp.com/vogellegacy.wordpress.com/wp-content/uploads/2016/01/01-18-16_7-16-28c2a0pm.png" 
+                 class="w-full mb-8" alt="">
+        </div>
+
+        <!-- Sidebar -->
+        <div class="col-span-1">
+            <h2 class="text-xl font-bold mb-4">BLOGS I FOLLOW</h2>
+            <div class="flex flex-col space-y-2">
+                <a href="http://rainbowplumbobsimlitimages.wordpress.com/" 
+                   class="text-[#8B681C] hover:underline">RainbowPlumbobs Image dump</a>
+                <a href="http://littlelovebigdream.wordpress.com/" 
+                   class="text-[#8B681C] hover:underline">Loves Legacy</a>
+                <!-- Add remaining blog links similarly -->
+            </div>
+        </div>
+    </div>
+</main>
+```
+
+4. Finally, let's add the footer:
+
+```html
+<footer class="bg-gray-900 text-white mt-16 py-8">
+    <div class="container mx-auto px-4">
+        <div class="flex justify-between">
+            <div>
+                <a href="https://wordpress.com/?ref=footer_blog" 
+                   class="text-[#CF9E38]">BLOG AT WORDPRESS.COM.</a>
+            </div>
+            <div class="flex space-x-4">
+                <a href="https://wordpress.com/start/" 
+                   class="text-[#8B681C] hover:underline">Sign up</a>
+                <a href="https://wordpress.com/log-in" 
+                   class="text-[#8B681C] hover:underline">Log in</a>
+            </div>
+        </div>
+    </div>
+</footer>
+</body>
+</html>

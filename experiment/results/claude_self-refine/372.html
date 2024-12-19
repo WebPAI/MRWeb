@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white">
+    <!-- Navigation Bar -->
+    <nav class="bg-black p-4">
+        <div class="container mx-auto flex justify-between items-center">
+            <div class="flex items-center space-x-4">
+                <img src="https://carsbase.com/images/design/logo_carsbase_200.png" alt="Logo" class="h-10">
+                <div class="space-x-6">
+                    <a href="https://carsbase.com/photo/" class="text-white">Photos</a>
+                    <a href="https://carsbase.com/news/" class="text-white">News</a>
+                    <a href="https://carsbase.com/photoforum/" class="text-white">Forum</a>
+                    <a href="https://carsbase.com/photo-rating/" class="text-white">Rating</a>
+                </div>
+            </div>
+            <div>
+                <a href="https://carsbase.com/login/" class="text-gray-500 hover:text-gray-400">Login</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mx-auto px-4">
+        <!-- Breadcrumb -->
+        <div class="py-4">
+            <div class="text-red-600 space-x-2">
+                <a href="https://carsbase.com/photo/" class="hover:underline">Photos</a> /
+                <a href="https://carsbase.com/photo/alfa-romeo/" class="hover:underline">Alfa Romeo</a> /
+                <a href="https://carsbase.com/photo/alfa-romeo/147/" class="hover:underline">Alfa Romeo 147</a>
+            </div>
+        </div>
+
+        <!-- Navigation Links -->
+        <div class="flex justify-between mb-4">
+            <a href="#" class="text-red-600 hover:underline">prev pic</a>
+            <h1 class="text-xl font-bold">Alfa Romeo 147</h1>
+            <a href="#" class="text-red-600 hover:underline">next pic</a>
+        </div>
+
+        <!-- Image Gallery -->
+        <div class="grid grid-cols-3 gap-6">
+            <!-- Main Image Section -->
+            <div class="col-span-2">
+                <img src="https://carsbase.com/photo/alfa-romeo/alfa-romeo-147-mk54-pic9097.jpg" 
+                     class="w-full mb-4">
+                
+                <!-- Thumbnail Row -->
+                <div class="flex space-x-4 mb-8">
+                    <!-- Add thumbnails here -->
+                </div>
+            </div>
+
+            <!-- Sidebar -->
+            <div class="col-span-1">
+                <img src="https://carsbase.com/cache/storage/catalog/logos/54-gthumb-gwdata128-ghdata128.jpg" 
+                     class="w-32 mb-4">
+                <div class="space-y-2">
+                    <a href="#" class="block text-gray-500 hover:text-gray-700">
+                        Alfa Romeo pictures
+                        <span class="text-sm ml-2">2006</span>
+                    </a>
+                    <a href="#" class="block text-gray-500 hover:text-gray-700">
+                        147 photos
+                        <span class="text-sm ml-2">59</span>
+                    </a>
+                    <a href="#" class="block text-gray-500 hover:text-gray-700">
+                        Alfa Romeo news
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Photo Grid -->
+        <div class="grid grid-cols-4 gap-4 mt-8">
+            <!-- Grid items with consistent sizing -->
+            <div class="relative">
+                <img src="https://carsbase.com/cache/storage/photo/54/15748-gthumb-gwdata240-ghdata180-gfitdatacrop.jpg" 
+                     class="w-full h-48 object-cover">
+                <div class="absolute top-2 right-2">
+                    <img src="https://carsbase.com/cache/storage/catalog/logos/54-gthumb-gwdata32-ghdata32.jpg" 
+                         class="w-8 h-8">
+                </div>
+                <a href="#" class="text-red-600 mt-2 block">106</a>
+            </div>
+            <!-- Repeat for other grid items -->
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 mt-8 py-4">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center">
+                <a href="#" class="text-gray-500 hover:text-gray-700">car pics</a>
+                <a href="#" class="text-gray-500 hover:text-gray-700">eto design</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

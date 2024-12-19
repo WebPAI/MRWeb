@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                820.7666625976562,
+                281.0
+            ],
+            [
+                863.8833312988281,
+                305.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.aaronwilliamsmusic.com/bio.html"
+    },
+    {
+        "position": [
+            [
+                879.88330078125,
+                281.0
+            ],
+            [
+                941.9333038330078,
+                305.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "https://sfdsschool.org/people/mr-jamar-simien"
+    },
+    {
+        "position": [
+            [
+                957.933349609375,
+                281.0
+            ],
+            [
+                1025.616683959961,
+                305.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://www.elitedaily.com/p/these-2019-haircut-trends-are-about-to-make-this-year-even-bolder-15529735"
+    },
+    {
+        "position": [
+            [
+                1041.61669921875,
+                281.0
+            ],
+            [
+                1099.2166900634766,
+                305.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://www.movies.ie/henry-cavill-lead-netflixs-witcher-saga/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://source.unsplash.com/random/1600x900/?nature"
+    },
+    {
+        "position": [
+            [
+                911.5,
+                96.0
+            ],
+            [
+                1008.5,
+                160.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1705601009900-8f8675a850f0?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjU3NDR8&ixlib=rb-4.0.3&w=300&h=200"
+    }
+]

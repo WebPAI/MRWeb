@@ -1,0 +1,150 @@
+[
+    {
+        "position": [
+            [
+                8.0,
+                28.800003051757812
+            ],
+            [
+                77.30000305175781,
+                44.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Homepage",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                81.30000305175781,
+                28.800003051757812
+            ],
+            [
+                166.1999969482422,
+                44.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Current issue",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/current-issue"
+    },
+    {
+        "position": [
+            [
+                170.1999969482422,
+                28.800003051757812
+            ],
+            [
+                221.73333740234375,
+                44.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Archive",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/magarchive"
+    },
+    {
+        "position": [
+            [
+                225.73333740234375,
+                28.800003051757812
+            ],
+            [
+                299.0833282470703,
+                44.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "For authors",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/rules-for-authors"
+    },
+    {
+        "position": [
+            [
+                303.08331298828125,
+                28.800003051757812
+            ],
+            [
+                402.1833190917969,
+                44.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Editorial Board",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/editorial"
+    },
+    {
+        "position": [
+            [
+                406.183349609375,
+                28.800003051757812
+            ],
+            [
+                462.183349609375,
+                44.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Contacts",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/contacts"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                9.600006103515623
+            ],
+            [
+                92.88333129882812,
+                25.600006103515625
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Ukrbiochem2400.png"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                48.0
+            ],
+            [
+                54.19999694824219,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Biochem_banner2.jpg"
+    }
+]

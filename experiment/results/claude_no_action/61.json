@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                336.0,
+                74.0
+            ],
+            [
+                378.8999938964844,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                402.8999938964844,
+                74.0
+            ],
+            [
+                457.5833282470703,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                481.5833129882813,
+                74.0
+            ],
+            [
+                525.1499786376953,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                549.1500244140625,
+                74.0
+            ],
+            [
+                616.3000335693359,
+                98.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Cart",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1830.13330078125,
+                106.0
+            ],
+            [
+                1919.9999694824219,
+                298.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/kia-sportage.png"
+    }
+]

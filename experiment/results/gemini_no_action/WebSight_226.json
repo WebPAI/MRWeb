@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                774.5,
+                224.0
+            ],
+            [
+                817.6166687011719,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                833.61669921875,
+                224.0
+            ],
+            [
+                895.6667022705078,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                911.6666870117188,
+                224.0
+            ],
+            [
+                979.8833465576172,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Providers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                995.88330078125,
+                224.0
+            ],
+            [
+                1071.88330078125,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1087.88330078125,
+                224.0
+            ],
+            [
+                1145.4833068847656,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/blurred-medical-image.jpg"
+    }
+]

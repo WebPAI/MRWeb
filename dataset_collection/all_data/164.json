@@ -1,0 +1,4016 @@
+[
+    {
+        "position": [
+            [
+                1323.300048828125,
+                30.0
+            ],
+            [
+                1440.0000457763672,
+                59.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Registration",
+        "on_click_jump_to": "http://www.eehealthbook.com/member_registration.php"
+    },
+    {
+        "position": [
+            [
+                1295.6500244140625,
+                40.0
+            ],
+            [
+                1322.6500244140625,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            102,
+            102,
+            102
+        ],
+        "text": "sign in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1323.0,
+                70.0
+            ],
+            [
+                1402.0,
+                85.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            102,
+            102,
+            102
+        ],
+        "text": "sign up now",
+        "on_click_jump_to": "http://www.eehealthbook.com/member_registration.php"
+    },
+    {
+        "position": [
+            [
+                608.36669921875,
+                117.0
+            ],
+            [
+                673.7166900634766,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.eehealthbook.com/"
+    },
+    {
+        "position": [
+            [
+                683.7166748046875,
+                117.0
+            ],
+            [
+                751.9000091552734,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Profile",
+        "on_click_jump_to": "http://www.eehealthbook.com/profile.php"
+    },
+    {
+        "position": [
+            [
+                761.9000244140625,
+                117.0
+            ],
+            [
+                862.1833648681641,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Symptoms",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                872.183349609375,
+                117.0
+            ],
+            [
+                960.8333435058594,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Wellness",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                970.8333129882812,
+                117.0
+            ],
+            [
+                1052.2333221435547,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "My Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1062.2333984375,
+                117.0
+            ],
+            [
+                1118.1167297363281,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GPS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1128.11669921875,
+                117.0
+            ],
+            [
+                1270.933364868164,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Medical Tourism",
+        "on_click_jump_to": "http://www.eehealthbook.com/medical_tourism.php"
+    },
+    {
+        "position": [
+            [
+                1280.933349609375,
+                117.0
+            ],
+            [
+                1385.000015258789,
+                146.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "http://www.eehealthbook.com/contactus.php"
+    },
+    {
+        "position": [
+            [
+                550.5,
+                156.5
+            ],
+            [
+                612.5,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "http://www.eehealthbook.com/news_list.php"
+    },
+    {
+        "position": [
+            [
+                616.5,
+                156.5
+            ],
+            [
+                718.5,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Expert Panel",
+        "on_click_jump_to": "http://www.eehealthbook.com/expert_panel.php"
+    },
+    {
+        "position": [
+            [
+                722.5,
+                156.5
+            ],
+            [
+                835.5,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Expert Opinion",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                839.5,
+                156.5
+            ],
+            [
+                944.5,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Photo Gallery",
+        "on_click_jump_to": "http://www.eehealthbook.com/photo_gallery.php"
+    },
+    {
+        "position": [
+            [
+                948.5,
+                156.5
+            ],
+            [
+                1017.5,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Videos",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1021.5,
+                156.5
+            ],
+            [
+                1113.5,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Exhibitions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1117.5,
+                156.5
+            ],
+            [
+                1219.5,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1223.5,
+                156.5
+            ],
+            [
+                1306.5,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Affiliation",
+        "on_click_jump_to": "http://www.eehealthbook.com/affiliation.php"
+    },
+    {
+        "position": [
+            [
+                1310.5,
+                156.5
+            ],
+            [
+                1369.5,
+                170.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                350.0
+            ],
+            [
+                639.9499969482422,
+                369.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Abdominal Pain",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czE="
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                375.0
+            ],
+            [
+                600.75,
+                394.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Chest Pain",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czI="
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                400.0
+            ],
+            [
+                585.6499938964844,
+                419.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Dyspnea",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czM="
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                425.0
+            ],
+            [
+                560.3000030517578,
+                444.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Fever",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czQ="
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                450.0
+            ],
+            [
+                595.0166625976562,
+                469.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Headache",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=czU="
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                475.0
+            ],
+            [
+                555.8333282470703,
+                494.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "More",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                539.0
+            ],
+            [
+                627.0,
+                558.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Breastfeeding",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=dzE="
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                564.0
+            ],
+            [
+                582.6166687011719,
+                583.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Exercise",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=dzI="
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                589.0
+            ],
+            [
+                591.8999938964844,
+                608.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Hair Care",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=dzM="
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                614.0
+            ],
+            [
+                593.9666595458984,
+                633.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Skin Care",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=dzQ="
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                639.0
+            ],
+            [
+                633.6999969482422,
+                658.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Healthy Eating",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=dzU="
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                664.0
+            ],
+            [
+                555.8333282470703,
+                683.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "More",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                728.0
+            ],
+            [
+                624.0666656494141,
+                747.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Find a Doctor",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                753.0
+            ],
+            [
+                635.5500030517578,
+                772.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Find a Hospital",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                879.63330078125,
+                1583.9000244140625
+            ],
+            [
+                1010.63330078125,
+                1597.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            2,
+            153,
+            255
+        ],
+        "text": "www.eehealthbook.com",
+        "on_click_jump_to": "http://www.eehealthbook.com/"
+    },
+    {
+        "position": [
+            [
+                780.63330078125,
+                1607.0999755859375
+            ],
+            [
+                935.63330078125,
+                1621.0999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            2,
+            153,
+            255
+        ],
+        "text": "eehealthbook@hotmail.com",
+        "on_click_jump_to": "mailto:eehealthbook@hotmail.com"
+    },
+    {
+        "position": [
+            [
+                598.5333251953125,
+                1652.699951171875
+            ],
+            [
+                629.5333251953125,
+                1666.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Heart",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=YXMx"
+    },
+    {
+        "position": [
+            [
+                707.4833374023438,
+                1652.699951171875
+            ],
+            [
+                737.4833374023438,
+                1666.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Brain",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=YXMy"
+    },
+    {
+        "position": [
+            [
+                861.7833251953125,
+                1652.699951171875
+            ],
+            [
+                885.7833251953125,
+                1666.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "lung",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=YXMz"
+    },
+    {
+        "position": [
+            [
+                1008.36669921875,
+                1652.699951171875
+            ],
+            [
+                1047.36669921875,
+                1666.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Kidney",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=YXM0"
+    },
+    {
+        "position": [
+            [
+                1131.800048828125,
+                1652.699951171875
+            ],
+            [
+                1152.800048828125,
+                1666.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Eye",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=YXM1"
+    },
+    {
+        "position": [
+            [
+                1279.6500244140625,
+                1652.699951171875
+            ],
+            [
+                1309.6500244140625,
+                1666.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "more",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                598.5333251953125,
+                1671.699951171875
+            ],
+            [
+                642.5333251953125,
+                1685.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Cardiac",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=ZW0x"
+    },
+    {
+        "position": [
+            [
+                707.4833374023438,
+                1671.699951171875
+            ],
+            [
+                777.4833374023438,
+                1685.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Neurological",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=ZW0y"
+    },
+    {
+        "position": [
+            [
+                861.7833251953125,
+                1671.699951171875
+            ],
+            [
+                927.7833251953125,
+                1685.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Respiratory",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=ZW0z"
+    },
+    {
+        "position": [
+            [
+                1008.36669921875,
+                1671.699951171875
+            ],
+            [
+                1040.36669921875,
+                1685.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Renal",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1131.800048828125,
+                1671.699951171875
+            ],
+            [
+                1168.800048828125,
+                1685.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Ocular",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=ZW01"
+    },
+    {
+        "position": [
+            [
+                1279.6500244140625,
+                1671.699951171875
+            ],
+            [
+                1309.6500244140625,
+                1685.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "more",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                598.5333251953125,
+                1690.699951171875
+            ],
+            [
+                659.5333251953125,
+                1704.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Acid reflux",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkx"
+    },
+    {
+        "position": [
+            [
+                707.4833374023438,
+                1690.699951171875
+            ],
+            [
+                735.4833374023438,
+                1704.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Acne",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGky"
+    },
+    {
+        "position": [
+            [
+                861.7833251953125,
+                1690.699951171875
+            ],
+            [
+                906.7833251953125,
+                1704.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Arthritis",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGk0"
+    },
+    {
+        "position": [
+            [
+                1008.36669921875,
+                1690.699951171875
+            ],
+            [
+                1063.36669921875,
+                1704.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Backache",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGk1"
+    },
+    {
+        "position": [
+            [
+                1131.800048828125,
+                1690.699951171875
+            ],
+            [
+                1172.800048828125,
+                1704.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Cancer",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGk2"
+    },
+    {
+        "position": [
+            [
+                1279.6500244140625,
+                1690.699951171875
+            ],
+            [
+                1329.6500244140625,
+                1704.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Dandruff",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                598.5333251953125,
+                1709.699951171875
+            ],
+            [
+                666.5333251953125,
+                1723.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Child health",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkz"
+    },
+    {
+        "position": [
+            [
+                707.4833374023438,
+                1709.699951171875
+            ],
+            [
+                787.4833374023438,
+                1723.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Contraception",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGk3"
+    },
+    {
+        "position": [
+            [
+                861.7833251953125,
+                1709.699951171875
+            ],
+            [
+                909.7833251953125,
+                1723.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "diabetes",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1008.36669921875,
+                1709.699951171875
+            ],
+            [
+                1072.36669921875,
+                1723.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Depression",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGk4"
+    },
+    {
+        "position": [
+            [
+                1131.800048828125,
+                1709.699951171875
+            ],
+            [
+                1181.800048828125,
+                1723.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Eye care",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGk5"
+    },
+    {
+        "position": [
+            [
+                1279.6500244140625,
+                1709.699951171875
+            ],
+            [
+                1349.6500244140625,
+                1723.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Food allergy",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkxMA=="
+    },
+    {
+        "position": [
+            [
+                598.5333251953125,
+                1728.699951171875
+            ],
+            [
+                663.5333251953125,
+                1742.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Health care",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkxMQ=="
+    },
+    {
+        "position": [
+            [
+                707.4833374023438,
+                1728.699951171875
+            ],
+            [
+                777.4833374023438,
+                1742.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Heart attack",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkxMg=="
+    },
+    {
+        "position": [
+            [
+                861.7833251953125,
+                1728.699951171875
+            ],
+            [
+                937.7833251953125,
+                1742.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Parkinsonism",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkxMw=="
+    },
+    {
+        "position": [
+            [
+                1008.36669921875,
+                1728.699951171875
+            ],
+            [
+                1067.36669921875,
+                1742.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Psychiatry",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkxNg=="
+    },
+    {
+        "position": [
+            [
+                1131.800048828125,
+                1728.699951171875
+            ],
+            [
+                1223.800048828125,
+                1742.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Pregnancy Care",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkxNw=="
+    },
+    {
+        "position": [
+            [
+                1279.6500244140625,
+                1728.699951171875
+            ],
+            [
+                1348.6500244140625,
+                1742.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Relationship",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkxOA=="
+    },
+    {
+        "position": [
+            [
+                598.5333251953125,
+                1747.699951171875
+            ],
+            [
+                620.5333251953125,
+                1761.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Sex",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkxOQ=="
+    },
+    {
+        "position": [
+            [
+                707.4833374023438,
+                1747.699951171875
+            ],
+            [
+                745.4833374023438,
+                1761.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Stroke",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                861.7833251953125,
+                1747.699951171875
+            ],
+            [
+                925.7833251953125,
+                1761.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Weight loss",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkxNA=="
+    },
+    {
+        "position": [
+            [
+                1008.36669921875,
+                1747.699951171875
+            ],
+            [
+                1035.36669921875,
+                1761.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Yoga",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1131.800048828125,
+                1747.699951171875
+            ],
+            [
+                1189.800048828125,
+                1761.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "Meditation",
+        "on_click_jump_to": "http://www.eehealthbook.com/health_topic.php?id=aGkxNQ=="
+    },
+    {
+        "position": [
+            [
+                1279.6500244140625,
+                1747.699951171875
+            ],
+            [
+                1309.6500244140625,
+                1761.699951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "more",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                658.2666625976562,
+                1917.800048828125
+            ],
+            [
+                817.2666625976562,
+                1931.800048828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "http://www.medixfora.com/",
+        "on_click_jump_to": "http://www.medixfora.com/"
+    },
+    {
+        "position": [
+            [
+                1348.7333984375,
+                1946.800048828125
+            ],
+            [
+                1413.7333984375,
+                1960.800048828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            153,
+            153
+        ],
+        "text": "brainwaves",
+        "on_click_jump_to": "http://www.brainwavesindia.com/"
+    },
+    {
+        "position": [
+            [
+                460.0,
+                0.0
+            ],
+            [
+                835.0,
+                107.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/logo.jpg"
+    },
+    {
+        "position": [
+            [
+                485.6333312988281,
+                186.0
+            ],
+            [
+                490.6333312988281,
+                191.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_top.gif"
+    },
+    {
+        "position": [
+            [
+                490.6333312988281,
+                186.0
+            ],
+            [
+                493.6333312988281,
+                191.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top_left.gif"
+    },
+    {
+        "position": [
+            [
+                1426.36669921875,
+                186.0
+            ],
+            [
+                1429.36669921875,
+                191.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top_right.gif"
+    },
+    {
+        "position": [
+            [
+                1429.36669921875,
+                186.0
+            ],
+            [
+                1434.36669921875,
+                191.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_top.gif"
+    },
+    {
+        "position": [
+            [
+                498.26666259765625,
+                302.0
+            ],
+            [
+                503.26666259765625,
+                307.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_top.gif"
+    },
+    {
+        "position": [
+            [
+                503.26666259765625,
+                302.0
+            ],
+            [
+                506.26666259765625,
+                307.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top_left.gif"
+    },
+    {
+        "position": [
+            [
+                689.0,
+                302.0
+            ],
+            [
+                692.0,
+                307.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top_right.gif"
+    },
+    {
+        "position": [
+            [
+                692.0,
+                302.0
+            ],
+            [
+                697.0,
+                307.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_top.gif"
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                341.0
+            ],
+            [
+                517.2666625976562,
+                344.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                500.0
+            ],
+            [
+                517.2666625976562,
+                503.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                530.0
+            ],
+            [
+                517.2666625976562,
+                533.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                689.0
+            ],
+            [
+                517.2666625976562,
+                692.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                719.0
+            ],
+            [
+                517.2666625976562,
+                722.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                516.2666625976562,
+                778.0
+            ],
+            [
+                517.2666625976562,
+                788.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                498.26666259765625,
+                801.0
+            ],
+            [
+                503.26666259765625,
+                806.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                503.26666259765625,
+                801.0
+            ],
+            [
+                506.26666259765625,
+                806.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_left.gif"
+    },
+    {
+        "position": [
+            [
+                689.0,
+                801.0
+            ],
+            [
+                692.0,
+                806.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_right.gif"
+    },
+    {
+        "position": [
+            [
+                692.0,
+                801.0
+            ],
+            [
+                697.0,
+                806.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                497.6333312988281,
+                825.0
+            ],
+            [
+                503.6333312988281,
+                847.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_left.gif"
+    },
+    {
+        "position": [
+            [
+                503.6333312988281,
+                825.0
+            ],
+            [
+                504.6333312988281,
+                847.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                690.63330078125,
+                825.0
+            ],
+            [
+                691.63330078125,
+                847.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                691.63330078125,
+                825.0
+            ],
+            [
+                697.63330078125,
+                847.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_right.gif"
+    },
+    {
+        "position": [
+            [
+                506.6333312988281,
+                850.0
+            ],
+            [
+                507.6333312988281,
+                864.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                523.13330078125,
+                870.0
+            ],
+            [
+                578.13330078125,
+                940.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/facebook.jpg"
+    },
+    {
+        "position": [
+            [
+                617.13330078125,
+                870.0
+            ],
+            [
+                672.13330078125,
+                940.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/twitter.jpg"
+    },
+    {
+        "position": [
+            [
+                506.6333312988281,
+                946.0
+            ],
+            [
+                507.6333312988281,
+                960.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                498.6333312988281,
+                963.0
+            ],
+            [
+                503.6333312988281,
+                968.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                503.6333312988281,
+                963.0
+            ],
+            [
+                506.6333312988281,
+                968.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_left.gif"
+    },
+    {
+        "position": [
+            [
+                688.63330078125,
+                963.0
+            ],
+            [
+                691.63330078125,
+                968.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_right.gif"
+    },
+    {
+        "position": [
+            [
+                691.63330078125,
+                963.0
+            ],
+            [
+                696.63330078125,
+                968.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                497.6333312988281,
+                973.0
+            ],
+            [
+                503.6333312988281,
+                995.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_left.gif"
+    },
+    {
+        "position": [
+            [
+                503.6333312988281,
+                973.0
+            ],
+            [
+                504.6333312988281,
+                995.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                690.63330078125,
+                973.0
+            ],
+            [
+                691.63330078125,
+                995.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                691.63330078125,
+                973.0
+            ],
+            [
+                697.63330078125,
+                995.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_right.gif"
+    },
+    {
+        "position": [
+            [
+                506.6333312988281,
+                998.0
+            ],
+            [
+                507.6333312988281,
+                1012.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                522.63330078125,
+                1018.0
+            ],
+            [
+                672.63330078125,
+                1143.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/monica-clinic.jpg"
+    },
+    {
+        "position": [
+            [
+                498.6333312988281,
+                1231.0
+            ],
+            [
+                503.6333312988281,
+                1236.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                503.6333312988281,
+                1231.0
+            ],
+            [
+                506.6333312988281,
+                1236.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_left.gif"
+    },
+    {
+        "position": [
+            [
+                688.63330078125,
+                1231.0
+            ],
+            [
+                691.63330078125,
+                1236.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_right.gif"
+    },
+    {
+        "position": [
+            [
+                691.63330078125,
+                1231.0
+            ],
+            [
+                696.63330078125,
+                1236.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                497.6333312988281,
+                1255.0
+            ],
+            [
+                503.6333312988281,
+                1277.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_left.gif"
+    },
+    {
+        "position": [
+            [
+                503.6333312988281,
+                1255.0
+            ],
+            [
+                504.6333312988281,
+                1277.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                690.63330078125,
+                1255.0
+            ],
+            [
+                691.63330078125,
+                1277.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                691.63330078125,
+                1255.0
+            ],
+            [
+                697.63330078125,
+                1277.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_right.gif"
+    },
+    {
+        "position": [
+            [
+                513.13330078125,
+                1306.0
+            ],
+            [
+                588.13330078125,
+                1384.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/google.jpg"
+    },
+    {
+        "position": [
+            [
+                607.13330078125,
+                1306.0
+            ],
+            [
+                682.13330078125,
+                1384.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/msn.jpg"
+    },
+    {
+        "position": [
+            [
+                513.13330078125,
+                1390.0
+            ],
+            [
+                588.13330078125,
+                1468.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/yahoo.jpg"
+    },
+    {
+        "position": [
+            [
+                607.13330078125,
+                1390.0
+            ],
+            [
+                682.13330078125,
+                1468.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/skype.jpg"
+    },
+    {
+        "position": [
+            [
+                498.6333312988281,
+                1471.0
+            ],
+            [
+                503.6333312988281,
+                1476.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                503.6333312988281,
+                1471.0
+            ],
+            [
+                506.6333312988281,
+                1476.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_left.gif"
+    },
+    {
+        "position": [
+            [
+                688.63330078125,
+                1471.0
+            ],
+            [
+                691.63330078125,
+                1476.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_right.gif"
+    },
+    {
+        "position": [
+            [
+                691.63330078125,
+                1471.0
+            ],
+            [
+                696.63330078125,
+                1476.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                707.63330078125,
+                309.0
+            ],
+            [
+                809.63330078125,
+                427.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/eye.jpg"
+    },
+    {
+        "position": [
+            [
+                710.63330078125,
+                978.7000122070312
+            ],
+            [
+                812.63330078125,
+                1096.7000122070312
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/eye2.jpg"
+    },
+    {
+        "position": [
+            [
+                710.63330078125,
+                1427.699951171875
+            ],
+            [
+                812.63330078125,
+                1545.699951171875
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/eye3.jpg"
+    },
+    {
+        "position": [
+            [
+                815.63330078125,
+                1427.699951171875
+            ],
+            [
+                917.63330078125,
+                1545.699951171875
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/eye4.jpg"
+    },
+    {
+        "position": [
+            [
+                1211.36669921875,
+                884.0
+            ],
+            [
+                1217.36669921875,
+                906.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_left.gif"
+    },
+    {
+        "position": [
+            [
+                1217.36669921875,
+                884.0
+            ],
+            [
+                1218.36669921875,
+                906.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1415.36669921875,
+                884.0
+            ],
+            [
+                1416.36669921875,
+                906.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1416.36669921875,
+                884.0
+            ],
+            [
+                1422.36669921875,
+                906.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_right.gif"
+    },
+    {
+        "position": [
+            [
+                1220.36669921875,
+                909.0
+            ],
+            [
+                1221.36669921875,
+                923.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                1241.86669921875,
+                929.0
+            ],
+            [
+                1391.86669921875,
+                1054.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/inst.jpg"
+    },
+    {
+        "position": [
+            [
+                1220.36669921875,
+                1060.0
+            ],
+            [
+                1221.36669921875,
+                1074.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                1212.36669921875,
+                1077.0
+            ],
+            [
+                1217.36669921875,
+                1082.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1217.36669921875,
+                1077.0
+            ],
+            [
+                1220.36669921875,
+                1082.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_left.gif"
+    },
+    {
+        "position": [
+            [
+                1413.36669921875,
+                1077.0
+            ],
+            [
+                1416.36669921875,
+                1082.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_right.gif"
+    },
+    {
+        "position": [
+            [
+                1416.36669921875,
+                1077.0
+            ],
+            [
+                1421.36669921875,
+                1082.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1214.36669921875,
+                1085.0
+            ],
+            [
+                1215.36669921875,
+                1090.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                1214.36669921875,
+                1094.0
+            ],
+            [
+                1220.36669921875,
+                1116.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_left.gif"
+    },
+    {
+        "position": [
+            [
+                1220.36669921875,
+                1094.0
+            ],
+            [
+                1221.36669921875,
+                1116.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1412.36669921875,
+                1094.0
+            ],
+            [
+                1413.36669921875,
+                1116.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1413.36669921875,
+                1094.0
+            ],
+            [
+                1419.36669921875,
+                1116.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_right.gif"
+    },
+    {
+        "position": [
+            [
+                1215.36669921875,
+                1275.0
+            ],
+            [
+                1220.36669921875,
+                1280.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1220.36669921875,
+                1275.0
+            ],
+            [
+                1223.36669921875,
+                1280.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_left.gif"
+    },
+    {
+        "position": [
+            [
+                1410.36669921875,
+                1275.0
+            ],
+            [
+                1413.36669921875,
+                1280.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_right.gif"
+    },
+    {
+        "position": [
+            [
+                1413.36669921875,
+                1275.0
+            ],
+            [
+                1418.36669921875,
+                1280.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1214.36669921875,
+                1284.0
+            ],
+            [
+                1215.36669921875,
+                1289.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                1214.36669921875,
+                1293.0
+            ],
+            [
+                1220.36669921875,
+                1315.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_left.gif"
+    },
+    {
+        "position": [
+            [
+                1220.36669921875,
+                1293.0
+            ],
+            [
+                1221.36669921875,
+                1315.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1410.316650390625,
+                1293.0
+            ],
+            [
+                1411.316650390625,
+                1315.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1411.316650390625,
+                1293.0
+            ],
+            [
+                1417.316650390625,
+                1315.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_right.gif"
+    },
+    {
+        "position": [
+            [
+                1276.6666259765625,
+                1318.0
+            ],
+            [
+                1355.016616821289,
+                1337.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/medixfora_logo.jpg"
+    },
+    {
+        "position": [
+            [
+                1215.36669921875,
+                1340.0
+            ],
+            [
+                1220.36669921875,
+                1345.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1220.36669921875,
+                1340.0
+            ],
+            [
+                1223.36669921875,
+                1345.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_left.gif"
+    },
+    {
+        "position": [
+            [
+                1408.316650390625,
+                1340.0
+            ],
+            [
+                1411.316650390625,
+                1345.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_right.gif"
+    },
+    {
+        "position": [
+            [
+                1411.316650390625,
+                1340.0
+            ],
+            [
+                1416.316650390625,
+                1345.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1214.36669921875,
+                1349.0
+            ],
+            [
+                1220.36669921875,
+                1371.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_left.gif"
+    },
+    {
+        "position": [
+            [
+                1220.36669921875,
+                1349.0
+            ],
+            [
+                1221.36669921875,
+                1371.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1410.316650390625,
+                1349.0
+            ],
+            [
+                1411.316650390625,
+                1371.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1411.316650390625,
+                1349.0
+            ],
+            [
+                1417.316650390625,
+                1371.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/heading_right.gif"
+    },
+    {
+        "position": [
+            [
+                1276.6666259765625,
+                1374.0
+            ],
+            [
+                1355.016616821289,
+                1393.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/global_logo.jpg"
+    },
+    {
+        "position": [
+            [
+                1215.36669921875,
+                1396.0
+            ],
+            [
+                1220.36669921875,
+                1401.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1220.36669921875,
+                1396.0
+            ],
+            [
+                1223.36669921875,
+                1401.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_left.gif"
+    },
+    {
+        "position": [
+            [
+                1408.316650390625,
+                1396.0
+            ],
+            [
+                1411.316650390625,
+                1401.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_right.gif"
+    },
+    {
+        "position": [
+            [
+                1411.316650390625,
+                1396.0
+            ],
+            [
+                1416.316650390625,
+                1401.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                498.26666259765625,
+                1642.199951171875
+            ],
+            [
+                503.26666259765625,
+                1647.199951171875
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_top.gif"
+    },
+    {
+        "position": [
+            [
+                503.26666259765625,
+                1642.199951171875
+            ],
+            [
+                506.26666259765625,
+                1647.199951171875
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top_left.gif"
+    },
+    {
+        "position": [
+            [
+                1413.7333984375,
+                1642.199951171875
+            ],
+            [
+                1416.7333984375,
+                1647.199951171875
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top_right.gif"
+    },
+    {
+        "position": [
+            [
+                1416.7333984375,
+                1642.199951171875
+            ],
+            [
+                1421.7333984375,
+                1647.199951171875
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_top.gif"
+    },
+    {
+        "position": [
+            [
+                506.26666259765625,
+                1764.199951171875
+            ],
+            [
+                507.26666259765625,
+                1774.199951171875
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                506.26666259765625,
+                1931.800048828125
+            ],
+            [
+                507.26666259765625,
+                1941.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/spacer.gif"
+    },
+    {
+        "position": [
+            [
+                498.26666259765625,
+                1963.800048828125
+            ],
+            [
+                503.26666259765625,
+                1968.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                503.26666259765625,
+                1963.800048828125
+            ],
+            [
+                506.26666259765625,
+                1968.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_left.gif"
+    },
+    {
+        "position": [
+            [
+                1413.7333984375,
+                1963.800048828125
+            ],
+            [
+                1416.7333984375,
+                1968.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_right.gif"
+    },
+    {
+        "position": [
+            [
+                1416.7333984375,
+                1963.800048828125
+            ],
+            [
+                1421.7333984375,
+                1968.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                485.6333312988281,
+                1975.800048828125
+            ],
+            [
+                490.6333312988281,
+                1980.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                490.6333312988281,
+                1975.800048828125
+            ],
+            [
+                493.6333312988281,
+                1980.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_left.gif"
+    },
+    {
+        "position": [
+            [
+                1426.36669921875,
+                1975.800048828125
+            ],
+            [
+                1429.36669921875,
+                1980.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom_right.gif"
+    },
+    {
+        "position": [
+            [
+                1429.36669921875,
+                1975.800048828125
+            ],
+            [
+                1434.36669921875,
+                1980.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                460.0,
+                0.0
+            ],
+            [
+                1460.0,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/headerbg.jpg"
+    },
+    {
+        "position": [
+            [
+                1323.300048828125,
+                30.0
+            ],
+            [
+                1440.0000457763672,
+                59.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_left.jpg"
+    },
+    {
+        "position": [
+            [
+                1328.300048828125,
+                30.0
+            ],
+            [
+                1435.0000457763672,
+                59.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_right.jpg"
+    },
+    {
+        "position": [
+            [
+                608.36669921875,
+                117.0
+            ],
+            [
+                673.7166900634766,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_left.jpg"
+    },
+    {
+        "position": [
+            [
+                612.36669921875,
+                117.0
+            ],
+            [
+                673.7166900634766,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_right.jpg"
+    },
+    {
+        "position": [
+            [
+                683.7166748046875,
+                117.0
+            ],
+            [
+                751.9000091552734,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_left.jpg"
+    },
+    {
+        "position": [
+            [
+                687.7166748046875,
+                117.0
+            ],
+            [
+                751.9000091552734,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_right.jpg"
+    },
+    {
+        "position": [
+            [
+                761.9000244140625,
+                117.0
+            ],
+            [
+                862.1833648681641,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_left.jpg"
+    },
+    {
+        "position": [
+            [
+                765.9000244140625,
+                117.0
+            ],
+            [
+                862.1833648681641,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_right.jpg"
+    },
+    {
+        "position": [
+            [
+                872.183349609375,
+                117.0
+            ],
+            [
+                960.8333435058594,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_left.jpg"
+    },
+    {
+        "position": [
+            [
+                876.183349609375,
+                117.0
+            ],
+            [
+                960.8333435058594,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_right.jpg"
+    },
+    {
+        "position": [
+            [
+                970.8333129882812,
+                117.0
+            ],
+            [
+                1052.2333221435547,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_left.jpg"
+    },
+    {
+        "position": [
+            [
+                974.8333129882812,
+                117.0
+            ],
+            [
+                1052.2333221435547,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_right.jpg"
+    },
+    {
+        "position": [
+            [
+                1062.2333984375,
+                117.0
+            ],
+            [
+                1118.1167297363281,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_left.jpg"
+    },
+    {
+        "position": [
+            [
+                1066.2333984375,
+                117.0
+            ],
+            [
+                1118.1167297363281,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_right.jpg"
+    },
+    {
+        "position": [
+            [
+                1128.11669921875,
+                117.0
+            ],
+            [
+                1270.933364868164,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_left.jpg"
+    },
+    {
+        "position": [
+            [
+                1132.11669921875,
+                117.0
+            ],
+            [
+                1270.933364868164,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_right.jpg"
+    },
+    {
+        "position": [
+            [
+                1280.933349609375,
+                117.0
+            ],
+            [
+                1385.000015258789,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_left.jpg"
+    },
+    {
+        "position": [
+            [
+                1284.933349609375,
+                117.0
+            ],
+            [
+                1385.000015258789,
+                146.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/topnav_right.jpg"
+    },
+    {
+        "position": [
+            [
+                460.0,
+                151.0
+            ],
+            [
+                1460.0,
+                176.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/navbg.jpg"
+    },
+    {
+        "position": [
+            [
+                493.6333312988281,
+                186.0
+            ],
+            [
+                1426.3666687011719,
+                191.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top.gif"
+    },
+    {
+        "position": [
+            [
+                485.0,
+                191.0
+            ],
+            [
+                490.6333312988281,
+                1975.800048828125
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                506.26666259765625,
+                302.0
+            ],
+            [
+                689.0,
+                307.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top.gif"
+    },
+    {
+        "position": [
+            [
+                497.6333312988281,
+                307.0
+            ],
+            [
+                503.26666259765625,
+                801.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                692.0,
+                307.0
+            ],
+            [
+                697.6333312988281,
+                801.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                506.26666259765625,
+                801.0
+            ],
+            [
+                689.0,
+                806.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                504.6333312988281,
+                825.0
+            ],
+            [
+                690.6333312988281,
+                847.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                497.6333312988281,
+                847.0
+            ],
+            [
+                503.6333312988281,
+                963.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                691.63330078125,
+                847.0
+            ],
+            [
+                697.63330078125,
+                963.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                506.6333312988281,
+                963.0
+            ],
+            [
+                688.6333312988281,
+                968.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                504.6333312988281,
+                973.0
+            ],
+            [
+                690.6333312988281,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                497.6333312988281,
+                995.0
+            ],
+            [
+                503.6333312988281,
+                1231.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                691.63330078125,
+                995.0
+            ],
+            [
+                697.63330078125,
+                1231.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                506.6333312988281,
+                1231.0
+            ],
+            [
+                688.6333312988281,
+                1236.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                504.6333312988281,
+                1255.0
+            ],
+            [
+                690.6333312988281,
+                1277.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                497.6333312988281,
+                1277.0
+            ],
+            [
+                503.6333312988281,
+                1471.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                691.63330078125,
+                1277.0
+            ],
+            [
+                697.63330078125,
+                1471.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                506.6333312988281,
+                1471.0
+            ],
+            [
+                688.6333312988281,
+                1476.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                750.63330078125,
+                750.0999755859375
+            ],
+            [
+                1208.3666381835938,
+                773.0999755859375
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/bullet_green.gif"
+    },
+    {
+        "position": [
+            [
+                750.63330078125,
+                778.0999755859375
+            ],
+            [
+                1208.3666381835938,
+                801.0999755859375
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/bullet_green.gif"
+    },
+    {
+        "position": [
+            [
+                750.63330078125,
+                806.0999755859375
+            ],
+            [
+                1208.3666381835938,
+                847.0999755859375
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/bullet_green.gif"
+    },
+    {
+        "position": [
+            [
+                750.63330078125,
+                852.0999755859375
+            ],
+            [
+                1208.3666381835938,
+                911.0999755859375
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/bullet_green.gif"
+    },
+    {
+        "position": [
+            [
+                710.63330078125,
+                1085.699951171875
+            ],
+            [
+                812.63330078125,
+                1116.699951171875
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/zoom.jpg"
+    },
+    {
+        "position": [
+            [
+                750.63330078125,
+                1164.699951171875
+            ],
+            [
+                1208.3666381835938,
+                1223.699951171875
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/bullet_green.gif"
+    },
+    {
+        "position": [
+            [
+                750.63330078125,
+                1228.699951171875
+            ],
+            [
+                1208.3666381835938,
+                1341.699951171875
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/bullet_green.gif"
+    },
+    {
+        "position": [
+            [
+                750.63330078125,
+                1346.699951171875
+            ],
+            [
+                1208.3666381835938,
+                1369.699951171875
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/bullet_green.gif"
+    },
+    {
+        "position": [
+            [
+                750.63330078125,
+                1374.699951171875
+            ],
+            [
+                1208.3666381835938,
+                1415.699951171875
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/bullet_green.gif"
+    },
+    {
+        "position": [
+            [
+                710.63330078125,
+                1534.699951171875
+            ],
+            [
+                812.63330078125,
+                1565.699951171875
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/zoom.jpg"
+    },
+    {
+        "position": [
+            [
+                815.63330078125,
+                1534.699951171875
+            ],
+            [
+                917.63330078125,
+                1565.699951171875
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/zoom.jpg"
+    },
+    {
+        "position": [
+            [
+                1218.36669921875,
+                884.0
+            ],
+            [
+                1415.36669921875,
+                906.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1211.36669921875,
+                906.0
+            ],
+            [
+                1217.36669921875,
+                1077.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                1416.36669921875,
+                906.0
+            ],
+            [
+                1422.36669921875,
+                1077.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                1220.36669921875,
+                1077.0
+            ],
+            [
+                1413.36669921875,
+                1082.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1221.36669921875,
+                1094.0
+            ],
+            [
+                1412.36669921875,
+                1116.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1214.36669921875,
+                1116.0
+            ],
+            [
+                1220.36669921875,
+                1275.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                1413.36669921875,
+                1116.0
+            ],
+            [
+                1419.36669921875,
+                1275.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                1223.36669921875,
+                1275.0
+            ],
+            [
+                1410.36669921875,
+                1280.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1221.36669921875,
+                1293.0
+            ],
+            [
+                1410.3166961669922,
+                1315.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1214.36669921875,
+                1315.0
+            ],
+            [
+                1220.36669921875,
+                1340.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                1411.316650390625,
+                1315.0
+            ],
+            [
+                1417.316650390625,
+                1340.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                1223.36669921875,
+                1340.0
+            ],
+            [
+                1408.3166961669922,
+                1345.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1221.36669921875,
+                1349.0
+            ],
+            [
+                1410.3166961669922,
+                1371.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/heading_center.gif"
+    },
+    {
+        "position": [
+            [
+                1214.36669921875,
+                1371.0
+            ],
+            [
+                1220.36669921875,
+                1396.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                1411.316650390625,
+                1371.0
+            ],
+            [
+                1417.316650390625,
+                1396.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                1223.36669921875,
+                1396.0
+            ],
+            [
+                1408.3166961669922,
+                1401.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                506.26666259765625,
+                1642.199951171875
+            ],
+            [
+                1413.7333374023438,
+                1647.199951171875
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_top.gif"
+    },
+    {
+        "position": [
+            [
+                497.6333312988281,
+                1647.199951171875
+            ],
+            [
+                503.26666259765625,
+                1963.7999572753906
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_left.gif"
+    },
+    {
+        "position": [
+            [
+                1416.7333984375,
+                1647.199951171875
+            ],
+            [
+                1422.3667297363281,
+                1963.7999572753906
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                506.26666259765625,
+                1963.800048828125
+            ],
+            [
+                1413.7333374023438,
+                1968.800048828125
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    },
+    {
+        "position": [
+            [
+                1429.36669921875,
+                191.0
+            ],
+            [
+                1435.0000305175781,
+                1975.800048828125
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_right.gif"
+    },
+    {
+        "position": [
+            [
+                493.6333312988281,
+                1975.800048828125
+            ],
+            [
+                1426.3666687011719,
+                1980.800048828125
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.eehealthbook.com/templates/images/shadow_bottom.gif"
+    }
+]

@@ -1,0 +1,176 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                118.0
+            ],
+            [
+                251.11666870117188,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                267.1166687011719,
+                118.0
+            ],
+            [
+                350.71665954589844,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Social Stuff",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                366.7166748046875,
+                118.0
+            ],
+            [
+                410.3500213623047,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                426.3500061035156,
+                118.0
+            ],
+            [
+                488.8666687011719,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Personal",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                504.8666687011719,
+                118.0
+            ],
+            [
+                539.6833343505859,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Tech",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                555.683349609375,
+                118.0
+            ],
+            [
+                648.6166839599609,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Photography",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                664.61669921875,
+                118.0
+            ],
+            [
+                720.4500274658203,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Gaming",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                736.4500122070312,
+                118.0
+            ],
+            [
+                853.5833435058594,
+                138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Shooting Sports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                100.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/benenator_header.png"
+    }
+]

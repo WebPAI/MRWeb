@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tumblr</title>
+    <link href="https://cdn.tailwindcss.com" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body class="bg-black text-white font-['Roboto']">
+    <div class="flex justify-between items-center px-8 py-4">
+        <div class="flex items-center">
+            <span class="text-white text-2xl font-bold">t</span>
+            <div class="relative ml-2">
+                <input type="text" placeholder="Search Tumblr" class="bg-gray-800 rounded-full px-4 py-2 pl-10 focus:outline-none focus:ring-2 focus:ring-blue-500">
+                <svg class="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M11.7422 10.3441C12.761 9.28816 13.3441 7.88033 13.3441 6.38596C13.3441 2.85714 10.487 0 7.00001 0C3.51301 0 0.65625 2.85714 0.65625 6.38596C0.65625 9.91479 3.51301 12.7719 7.00001 12.7719C8.40564 12.7719 9.67188 12.2383 10.6906 11.22C11.0078 10.8021 11.5938 10.8021 11.9109 11.22L11.7422 10.3441ZM2.08594 6.38596C2.08594 3.85714 4.94312 1.00001 8.47266 1.00001C12.0022 1.00001 14.8594 3.85714 14.8594 6.38596C14.8594 8.91479 12.0022 11.7719 8.47266 11.7719C4.94312 11.7719 2.08594 8.91479 2.08594 6.38596Z" fill="currentColor"></path>
+                </svg>
+            </div>
+        </div>
+        <button class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded-full">
+            Sign up
+        </button>
+    </div>
+
+    <div class="flex flex-col items-center justify-center h-screen">
+        <h1 class="text-5xl font-bold mb-8">tumblr</h1>
+        <form class="bg-gray-900 rounded-lg shadow-md p-8 w-96">
+            <div class="mb-4">
+                <label for="email" class="block text-gray-400 text-sm font-bold mb-2">Email</label>
+                <input type="email" id="email" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" placeholder="Enter your email">
+            </div>
+            <div class="mb-6">
+                <label for="password" class="block text-gray-400 text-sm font-bold mb-2">Password</label>
+                <input type="password" id="password" class="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline" placeholder="Enter your password">
+            </div>
+            <p class="text-gray-500 text-xs mb-4">By clicking log in, or continuing with the other options below, you agree to Tumblr's <a href="#" class="text-blue-500 hover:underline">Terms of Service</a> and have read the <a href="#" class="text-blue-500 hover:underline">Privacy Policy</a></p>
+            <button type="submit" class="bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline">
+                Log in
+            </button>
+            <a href="#" class="text-blue-500 hover:underline text-sm mt-4 block text-center">Forgot your password?</a>
+            <div class="flex items-center justify-center mt-6">
+                <span class="text-gray-500 text-sm">or</span>
+            </div>
+            <button type="button" class="bg-white hover:bg-gray-100 text-gray-800 font-bold py-2 px-4 rounded-full flex items-center justify-center w-full mt-4">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/1004px-Google_%22G%22_Logo.svg.png" alt="Google logo" class="h-5 mr-2">
+                Continue with Google
+            </button>
+            <button type="button" class="bg-black border border-gray-500 hover:bg-gray-800 text-white font-bold py-2 px-4 rounded-full flex items-center justify-center w-full mt-4">
+                <svg class="h-5 mr-2" fill="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M9.09 20.84c-.41-.41-.66-.98-.66-1.61s.25-1.2.66-1.61l4.18-4.18c.85-.85.85-2.24 0-3.1v9.19c0 .55-.45 1-1 1H7.99c-.55 0-1-.45-1-1v-1c0-9.66 7.84-17.5 17.5-17.5 1.66 0 3.14.31 4.51.96l6.8-6.8C33.99 2.35 32.54 1 30.88 1H4.12C1.83 1 0 2.83 0 5.12v13.76c0 2.29 1.83 4.12 4.12 4.12h9.06v-1Z"></path>
+                </svg>
+                Continue with Apple
+            </button>
+        </form>
+        <p class="text-gray-500 text-sm mt-8">New to Tumblr? <a href="#" class="text-blue-500 hover:underline">Sign up!</a></p>
+    </div>
+
+    <footer class="absolute bottom-0 left-0 w-full bg-black text-white py-4 px-8">
+        <ul class="flex justify-center space-x-4 text-sm">
+            <li><a href="#" class="hover:underline">Terms</a></li>
+            <li><a href="#" class="hover:underline">Privacy</a></li>
+            <li><a href="#" class="hover:underline">Jobs</a></li>
+            <li><a href="#" class="hover:underline">Support</a></li>
+        </ul>
+    </footer>
+</body>
+</html>

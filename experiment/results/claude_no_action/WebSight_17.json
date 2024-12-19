@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                821.9166870117188,
+                80.0
+            ],
+            [
+                864.8166809082031,
+                104.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                888.816650390625,
+                80.0
+            ],
+            [
+                929.6499786376953,
+                104.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                953.6500244140624,
+                80.0
+            ],
+            [
+                1019.3833618164061,
+                104.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1043.38330078125,
+                80.0
+            ],
+            [
+                1098.066635131836,
+                104.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                817.6500244140625,
+                24.0
+            ],
+            [
+                849.6500244140625,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/food-icon.png"
+    }
+]

@@ -1,0 +1,636 @@
+[
+    {
+        "position": [
+            [
+                216.0,
+                8.0
+            ],
+            [
+                249.01666259765625,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Help",
+        "on_click_jump_to": "file:///FAQ/"
+    },
+    {
+        "position": [
+            [
+                281.01666259765625,
+                8.0
+            ],
+            [
+                320.28334045410156,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Login",
+        "on_click_jump_to": "file:///Login"
+    },
+    {
+        "position": [
+            [
+                352.2833251953125,
+                8.0
+            ],
+            [
+                380.316650390625,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Join",
+        "on_click_jump_to": "file:///Register"
+    },
+    {
+        "position": [
+            [
+                412.316650390625,
+                9.5
+            ],
+            [
+                922.9333190917969,
+                30.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "START start your year with EBSQ for just $5/Month! Click here for details.",
+        "on_click_jump_to": "file:///Information/Step-2-Upgrade/87/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                40.0
+            ],
+            [
+                400.0,
+                64.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Galleries",
+        "on_click_jump_to": "file:///Art-Galleries/1/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                72.0
+            ],
+            [
+                400.0,
+                96.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Exhibits",
+        "on_click_jump_to": "file:///Art-Shows/Exhibits/1/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                104.0
+            ],
+            [
+                400.0,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Artists",
+        "on_click_jump_to": "file:///Artists/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                136.0
+            ],
+            [
+                400.0,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Community",
+        "on_click_jump_to": "file:///forum"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                168.0
+            ],
+            [
+                400.0,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Learn",
+        "on_click_jump_to": "file:///Education/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                200.0
+            ],
+            [
+                400.0,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "About",
+        "on_click_jump_to": "file:///Information/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                232.0
+            ],
+            [
+                400.0,
+                256.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://blog.ebsqart.com/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                264.0
+            ],
+            [
+                400.0,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "COAs",
+        "on_click_jump_to": "file:///Certificates-of-Authenticity/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                296.0
+            ],
+            [
+                400.0,
+                320.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Art of the Day",
+        "on_click_jump_to": "file:///Art-of-the-Day/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                328.0
+            ],
+            [
+                400.0,
+                352.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Search",
+        "on_click_jump_to": "file:///Search/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                360.0
+            ],
+            [
+                400.0,
+                384.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "My Profile",
+        "on_click_jump_to": "file:///Edit-Profile/"
+    },
+    {
+        "position": [
+            [
+                432.0,
+                40.5
+            ],
+            [
+                469.0,
+                59.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                487.0,
+                40.5
+            ],
+            [
+                580.0,
+                59.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Artist Directory",
+        "on_click_jump_to": "file:///Artists/"
+    },
+    {
+        "position": [
+            [
+                598.0,
+                40.5
+            ],
+            [
+                728.0,
+                59.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Cathy (Kate) Johnson",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/"
+    },
+    {
+        "position": [
+            [
+                746.0,
+                40.5
+            ],
+            [
+                831.0,
+                59.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Exhibit Entries",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/1/"
+    },
+    {
+        "position": [
+            [
+                432.0,
+                810.0
+            ],
+            [
+                488.4499969482422,
+                834.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Thumbs",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/1/"
+    },
+    {
+        "position": [
+            [
+                504.4500122070313,
+                810.0
+            ],
+            [
+                551.6000213623047,
+                834.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "< Item",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Say-AaaaahNFS/56935/"
+    },
+    {
+        "position": [
+            [
+                592.2333374023438,
+                810.0
+            ],
+            [
+                600.8666687011719,
+                834.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "2",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Draconis-SOLD/42529/"
+    },
+    {
+        "position": [
+            [
+                616.86669921875,
+                810.0
+            ],
+            [
+                666.5333709716797,
+                834.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Page >",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Draconis-SOLD/42529/"
+    },
+    {
+        "position": [
+            [
+                682.5333251953125,
+                810.0
+            ],
+            [
+                729.6833190917969,
+                834.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Item >",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Autumn-Woods/71291/"
+    },
+    {
+        "position": [
+            [
+                1456.0,
+                72.0
+            ],
+            [
+                1712.0,
+                96.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Profile",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/"
+    },
+    {
+        "position": [
+            [
+                1456.0,
+                104.0
+            ],
+            [
+                1712.0,
+                128.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Portfolio",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Art-Portfolio/1/"
+    },
+    {
+        "position": [
+            [
+                1456.0,
+                136.0
+            ],
+            [
+                1712.0,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Commissions",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Art-Commissions/"
+    },
+    {
+        "position": [
+            [
+                1456.0,
+                168.0
+            ],
+            [
+                1712.0,
+                192.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Interview",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Artist-Interview/"
+    },
+    {
+        "position": [
+            [
+                1456.0,
+                200.0
+            ],
+            [
+                1712.0,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Exhibit Entries",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/1/"
+    },
+    {
+        "position": [
+            [
+                1456.0,
+                232.0
+            ],
+            [
+                1712.0,
+                256.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Winning Entries",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Artist-Winning-Entries/1/"
+    },
+    {
+        "position": [
+            [
+                1456.0,
+                264.0
+            ],
+            [
+                1712.0,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            204
+        ],
+        "text": "Art of the Day",
+        "on_click_jump_to": "file:///Artist/Cathy-Kate-Johnson/1494/Artist-AOTD-Selections/1/"
+    },
+    {
+        "position": [
+            [
+                432.0,
+                128.0
+            ],
+            [
+                941.0,
+                778.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://art.ebsqart.com/Art/Figures-and-Edges/acrylic/99094/650/650/Stop.jpg"
+    }
+]

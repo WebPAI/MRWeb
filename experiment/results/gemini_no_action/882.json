@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                1006.2000122070312,
+                1542.0
+            ],
+            [
+                1178.5166778564453,
+                1562.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "The Chakra Energy Diet",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1492.86669921875,
+                1566.0
+            ],
+            [
+                1643.1500244140625,
+                1586.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "www.theChakras.org",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1662.0
+            ],
+            [
+                1126.2833404541016,
+                1682.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "www.theChakras.org",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                308.0
+            ],
+            [
+                944.0,
+                332.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/crown_chakra.jpg"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                960.0
+            ],
+            [
+                1680.0,
+                984.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/juice.jpg"
+    }
+]

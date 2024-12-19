@@ -1,0 +1,590 @@
+[
+    {
+        "position": [
+            [
+                264.0,
+                392.5
+            ],
+            [
+                307.1166687011719,
+                416.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.eweek.com/"
+    },
+    {
+        "position": [
+            [
+                264.0,
+                421.0
+            ],
+            [
+                347.01666259765625,
+                445.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Networking",
+        "on_click_jump_to": "https://www.eweek.com/networking/"
+    },
+    {
+        "position": [
+            [
+                281.4666748046875,
+                515.0
+            ],
+            [
+                344.66668701171875,
+                539.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Jeff Burt",
+        "on_click_jump_to": "https://www.eweek.com/author/jeff-burt/"
+    },
+    {
+        "position": [
+            [
+                1192.0,
+                640.13330078125
+            ],
+            [
+                1274.3333282470703,
+                664.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            7,
+            133,
+            196
+        ],
+        "text": "Learn More",
+        "on_click_jump_to": "https://www.eweek.com/editorial-policy/"
+    },
+    {
+        "position": [
+            [
+                981.0,
+                1507.61669921875
+            ],
+            [
+                1069.8666687011719,
+                1531.61669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            7,
+            133,
+            196
+        ],
+        "text": "Red Hat Inc.",
+        "on_click_jump_to": "https://www.eweek.com/c/a/Linux-and-Open-Source/Red-Hat-Cans-Linux-Distribution/"
+    },
+    {
+        "position": [
+            [
+                1109.0,
+                1507.61669921875
+            ],
+            [
+                1216.0500030517578,
+                1531.61669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            7,
+            133,
+            196
+        ],
+        "text": "SuSE Linux AG",
+        "on_click_jump_to": "https://www.eweek.com/c/a/Linux-and-Open-Source/Novell-to-Buy-SuSE-Linux-for-210-Million/"
+    },
+    {
+        "position": [
+            [
+                429.0,
+                1585.816650390625
+            ],
+            [
+                810.2999877929688,
+                1609.816650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            7,
+            133,
+            196
+        ],
+        "text": "Read “MS Delay Hinders Itanium Software Upgrade.”",
+        "on_click_jump_to": "https://www.eweek.com/c/a/Infrastructure/MS-Delay-Hinders-Itanium-Software-Upgrade/"
+    },
+    {
+        "position": [
+            [
+                403.0,
+                2252.7666015625
+            ],
+            [
+                466.1999969482422,
+                2276.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            34,
+            34,
+            34
+        ],
+        "text": "Jeff Burt",
+        "on_click_jump_to": "https://www.eweek.com/author/jeff-burt/"
+    },
+    {
+        "position": [
+            [
+                672.4000244140625,
+                2606.2666015625
+            ],
+            [
+                769.0500335693359,
+                2630.2666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            132,
+            196
+        ],
+        "text": "Terms of Use",
+        "on_click_jump_to": "https://technologyadvice.com/terms-conditions/"
+    },
+    {
+        "position": [
+            [
+                779.2999877929688,
+                2606.2666015625
+            ],
+            [
+                879.7499847412109,
+                2630.2666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            132,
+            196
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://technologyadvice.com/privacy-policy/"
+    },
+    {
+        "position": [
+            [
+                1411.0,
+                719.0
+            ],
+            [
+                1507.6499938964844,
+                743.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            132,
+            196
+        ],
+        "text": "Terms of Use",
+        "on_click_jump_to": "https://technologyadvice.com/terms-conditions/"
+    },
+    {
+        "position": [
+            [
+                1477.9666748046875,
+                740.0
+            ],
+            [
+                1578.4166870117188,
+                764.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            132,
+            196
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://technologyadvice.com/privacy-policy/"
+    },
+    {
+        "position": [
+            [
+                1452.5999755859375,
+                970.7999877929688
+            ],
+            [
+                1805.2666320800781,
+                994.7999877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            17,
+            17
+        ],
+        "text": "9 Best Artificial Intelligence (AI) 3D Generators...",
+        "on_click_jump_to": "https://www.eweek.com/artificial-intelligence/best-ai-3d-generators/"
+    },
+    {
+        "position": [
+            [
+                1452.5999755859375,
+                1056.316650390625
+            ],
+            [
+                1792.3999633789062,
+                1080.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            17,
+            17
+        ],
+        "text": "RingCentral Expands Its Collaboration Platform",
+        "on_click_jump_to": "https://www.eweek.com/cloud/ringcentral-expands-its-collaboration-platform/"
+    },
+    {
+        "position": [
+            [
+                1452.5999755859375,
+                1141.8333740234375
+            ],
+            [
+                1725.2833251953125,
+                1165.8333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            17,
+            17
+        ],
+        "text": "8 Best AI Data Analytics Software &...",
+        "on_click_jump_to": "https://www.eweek.com/artificial-intelligence/ai-data-analytics-software/"
+    },
+    {
+        "position": [
+            [
+                1452.5999755859375,
+                1227.3499755859375
+            ],
+            [
+                1834.2833251953125,
+                1251.3499755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            17,
+            17
+        ],
+        "text": "Zeus Kerravala on Networking: Multicloud, 5G, and...",
+        "on_click_jump_to": "https://www.eweek.com/networking/zeus-kerravala-on-networking/"
+    },
+    {
+        "position": [
+            [
+                1452.5999755859375,
+                1312.86669921875
+            ],
+            [
+                1795.0333251953125,
+                1336.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            17,
+            17
+        ],
+        "text": "Datadog President Amit Agarwal on Trends in...",
+        "on_click_jump_to": "https://www.eweek.com/enterprise-apps/datadog-infrastructure-observability-trends/"
+    },
+    {
+        "position": [
+            [
+                975.0,
+                2994.066650390625
+            ],
+            [
+                1102.183334350586,
+                3018.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Advertise with Us",
+        "on_click_jump_to": "https://solutions.technologyadvice.com/advertise-on-eweek/?utm_source=eweek&utm_medium=portfolio_footer&utm_campaign=advertise_button"
+    },
+    {
+        "position": [
+            [
+                1339.5,
+                2919.2666015625
+            ],
+            [
+                1436.066665649414,
+                2943.2666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About eWeek",
+        "on_click_jump_to": "https://www.eweek.com/about/"
+    },
+    {
+        "position": [
+            [
+                1339.5,
+                2943.2666015625
+            ],
+            [
+                1542.6333312988281,
+                2967.2666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Subscribe to our Newsletter",
+        "on_click_jump_to": "https://www.eweek.com/subscribe-to-our-newsletter/"
+    },
+    {
+        "position": [
+            [
+                1339.5,
+                2967.2666015625
+            ],
+            [
+                1429.25,
+                2991.2666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Latest News",
+        "on_click_jump_to": "https://www.eweek.com/news/"
+    },
+    {
+        "position": [
+            [
+                511.933349609375,
+                3572.666748046875
+            ],
+            [
+                636.5000152587891,
+                3596.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PRIVACY POLICY",
+        "on_click_jump_to": "https://technologyadvice.com/privacy-policy/"
+    },
+    {
+        "position": [
+            [
+                649.38330078125,
+                3572.666748046875
+            ],
+            [
+                702.0999755859375,
+                3596.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "TERMS",
+        "on_click_jump_to": "https://technologyadvice.com/terms-conditions/"
+    },
+    {
+        "position": [
+            [
+                723.7333374023438,
+                3572.666748046875
+            ],
+            [
+                777.7333374023438,
+                3596.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://technologyadvice.com/about-us/"
+    },
+    {
+        "position": [
+            [
+                797.63330078125,
+                3572.666748046875
+            ],
+            [
+                871.3499755859375,
+                3596.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://technologyadvice.com/contact-us/"
+    },
+    {
+        "position": [
+            [
+                888.9000244140625,
+                3572.666748046875
+            ],
+            [
+                972.9833679199219,
+                3596.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ADVERTISE",
+        "on_click_jump_to": "https://solutions.technologyadvice.com/advertise-on-eweek/?utm_source=eweek&utm_medium=portfolio_footer&utm_campaign=advertise_contact-us"
+    },
+    {
+        "position": [
+            [
+                990.13330078125,
+                3572.666748046875
+            ],
+            [
+                1056.9999694824219,
+                3596.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SITEMAP",
+        "on_click_jump_to": "https://www.eweek.com/sitemap/"
+    },
+    {
+        "position": [
+            [
+                1078.0,
+                3572.666748046875
+            ],
+            [
+                1428.5166625976562,
+                3596.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CALIFORNIA – DO NOT SELL MY INFORMATION",
+        "on_click_jump_to": "https://technologyadvice.com/privacy-policy/ccpa-opt-out-form/"
+    },
+    {
+        "position": [
+            [
+                286.0,
+                2245.2666015625
+            ],
+            [
+                382.0,
+                2341.2666015625
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2096%2096'%3E%3C/svg%3E"
+    },
+    {
+        "position": [
+            [
+                264.0,
+                2887.2666015625
+            ],
+            [
+                564.0,
+                2967.2666015625
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20157%2042'%3E%3C/svg%3E"
+    }
+]

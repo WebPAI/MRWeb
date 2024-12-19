@@ -1,0 +1,324 @@
+[
+    {
+        "position": [
+            [
+                1877.0,
+                4.5
+            ],
+            [
+                1904.0,
+                23.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "here",
+        "on_click_jump_to": "https://mcrw.org/ccr1"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                61.03334045410156
+            ],
+            [
+                860.6499938964844,
+                113.03334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Morgan County Rural Water Corporation\nCommitted to Providing Clean, Safe Water for All Our Residents",
+        "on_click_jump_to": "http://mcrw.org/"
+    },
+    {
+        "position": [
+            [
+                1635.1500244140625,
+                88.53334045410156
+            ],
+            [
+                1712.0000305175781,
+                109.53334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://mcrw.org/contact-us"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                146.06666564941406
+            ],
+            [
+                282.8999938964844,
+                194.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://mcrw.org/"
+    },
+    {
+        "position": [
+            [
+                282.8999938964844,
+                146.06666564941406
+            ],
+            [
+                444.8666687011719,
+                194.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Member Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                444.8666687011719,
+                146.06666564941406
+            ],
+            [
+                611.7833404541016,
+                194.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Forms & Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                611.7833251953125,
+                146.06666564941406
+            ],
+            [
+                773.2166442871094,
+                194.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News & Notices",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                773.2166748046875,
+                146.06666564941406
+            ],
+            [
+                892.0000152587891,
+                194.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1352.3499755859375,
+                226.0666656494141
+            ],
+            [
+                1727.9999694824219,
+                286.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "BILL PAYMENT",
+        "on_click_jump_to": "https://mcrw.org/bill-payment"
+    },
+    {
+        "position": [
+            [
+                1352.3499755859375,
+                302.066650390625
+            ],
+            [
+                1727.9999694824219,
+                350.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "New Service Request",
+        "on_click_jump_to": "https://mcrw.org/new-service-request-1"
+    },
+    {
+        "position": [
+            [
+                1352.3499755859375,
+                366.066650390625
+            ],
+            [
+                1727.9999694824219,
+                414.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Water Quality Report",
+        "on_click_jump_to": "https://mcrw.org/water-quality-report"
+    },
+    {
+        "position": [
+            [
+                1352.3499755859375,
+                606.066650390625
+            ],
+            [
+                1727.9999694824219,
+                654.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sign Up for Alerts",
+        "on_click_jump_to": "#modal_subscribe"
+    },
+    {
+        "position": [
+            [
+                1352.3499755859375,
+                662.066650390625
+            ],
+            [
+                1727.9999694824219,
+                686.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Unsubscribe",
+        "on_click_jump_to": "https://mcrw.org/unsubscribe.html"
+    },
+    {
+        "position": [
+            [
+                1368.3499755859375,
+                751.566650390625
+            ],
+            [
+                1585.0832977294922,
+                772.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Alliance of Indiana Rural Water",
+        "on_click_jump_to": "https://www.inh2o.org/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                44.0
+            ],
+            [
+                384.0,
+                130.06666564941406
+            ]
+        ],
+        "type": "img",
+        "src": "https://mcrw.org/images/logos_rwi/rwi_699_MCRW_Logo_smaller_size_1352756831_3644.png"
+    },
+    {
+        "position": [
+            [
+                1374.2666015625,
+                510.066650390625
+            ],
+            [
+                1414.2666015625,
+                550.066650390625
+            ]
+        ],
+        "type": "img",
+        "src": "https://mcrw.org/imgD/weatherbit_icons/c02d.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://mcrw.org/images/backgrounds/RWI_WV_barn_mill_with_waterfall_1400_x_900.jpg"
+    }
+]

@@ -1,0 +1,418 @@
+[
+    {
+        "position": [
+            [
+                480.0,
+                120.0
+            ],
+            [
+                572.0,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Homepage",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                572.0,
+                120.0
+            ],
+            [
+                677.0,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Current issue",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/current-issue"
+    },
+    {
+        "position": [
+            [
+                677.0,
+                120.0
+            ],
+            [
+                746.0,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Archive",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/magarchive"
+    },
+    {
+        "position": [
+            [
+                746.0,
+                120.0
+            ],
+            [
+                839.0,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "For authors",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/rules-for-authors"
+    },
+    {
+        "position": [
+            [
+                839.0,
+                120.0
+            ],
+            [
+                950.0,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Editorial Board",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/editorial"
+    },
+    {
+        "position": [
+            [
+                950.0,
+                120.0
+            ],
+            [
+                1029.0,
+                160.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contacts",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/contacts"
+    },
+    {
+        "position": [
+            [
+                495.0,
+                218.0
+            ],
+            [
+                1081.8499755859375,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Blood coagulation parameters in rats with acute radiation syndrome receiving activated carbon as a preventive remedy",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2019/04/blood-coagulation-parameters-in-rats-with-acute-radiation-syndrome-receiving-activated-carbon-as-a-preventive-remedy.html"
+    },
+    {
+        "position": [
+            [
+                1043.0,
+                1168.5833740234375
+            ],
+            [
+                1131.0,
+                1196.5833740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            41,
+            128,
+            185
+        ],
+        "text": "Read More",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2019/04/blood-coagulation-parameters-in-rats-with-acute-radiation-syndrome-receiving-activated-carbon-as-a-preventive-remedy.html"
+    },
+    {
+        "position": [
+            [
+                495.0,
+                1221.5833740234375
+            ],
+            [
+                1077.5499877929688,
+                1291.5833740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Haemostasis modulation by calix[4]arene methylenebisphosphonic acid C-145 and its sulfur-containing analogue",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2018/11/haemostasis-modulation-by-calix4arene-methylenebisphosphonic-acid-c-145-and-its-sulfur-containing-analogue.html"
+    },
+    {
+        "position": [
+            [
+                1043.0,
+                2015.6666259765625
+            ],
+            [
+                1131.0,
+                2043.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            41,
+            128,
+            185
+        ],
+        "text": "Read More",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2018/11/haemostasis-modulation-by-calix4arene-methylenebisphosphonic-acid-c-145-and-its-sulfur-containing-analogue.html"
+    },
+    {
+        "position": [
+            [
+                495.0,
+                2068.666748046875
+            ],
+            [
+                1105.0,
+                2118.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Blood coagulation and aortic wall integrity in rats with obesity-induced insulin resistance",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2018/03/blood-coagulation-and-aortic-wall-integrity-in-rats-with-obesity-induced-insulin-resistance.html"
+    },
+    {
+        "position": [
+            [
+                1043.0,
+                2875.333251953125
+            ],
+            [
+                1131.0,
+                2903.333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            41,
+            128,
+            185
+        ],
+        "text": "Read More",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2018/03/blood-coagulation-and-aortic-wall-integrity-in-rats-with-obesity-induced-insulin-resistance.html"
+    },
+    {
+        "position": [
+            [
+                1161.0,
+                404.0
+            ],
+            [
+                1419.0,
+                432.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            102,
+            102,
+            102
+        ],
+        "text": "The Gerty Cori phenomenon: the first woman Nobel laureate in Physiology and Medicine",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2024/07/the-gerty-cori-phenomenon-the-first-woman-nobel-laureate-in-physiology-and-medicine.html"
+    },
+    {
+        "position": [
+            [
+                1161.0,
+                448.0
+            ],
+            [
+                1420.0,
+                489.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            102,
+            102,
+            102
+        ],
+        "text": "NET-inducing diamond nanoparticles with adsorbed hydrophobic SARS-CoV-2 antigens serving as vaccine candidate",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2024/07/net-inducing-diamond-nanoparticles-with-adsorbed-hydrophobic-sars-cov-2-antigens-serving-as-vaccine-candidate.html"
+    },
+    {
+        "position": [
+            [
+                1161.0,
+                505.0
+            ],
+            [
+                1414.0,
+                533.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            102,
+            102,
+            102
+        ],
+        "text": "Thiacalix[4]arene chalcone amides effect on myometrium contraction",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2024/07/thiacalix4arene-chalcone-amides-effect-on-myometrium-contraction.html"
+    },
+    {
+        "position": [
+            [
+                1161.0,
+                549.0
+            ],
+            [
+                1413.0,
+                603.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            102,
+            102,
+            102
+        ],
+        "text": "MiR-378a-3p and miR-181b-5p as nonalcoholic steatohepatitis non-invasive diagnostic biomarkers and their correlations with liver fibrosis",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2024/07/mir-378a-3p-and-mir-181b-5p-as-nonalcoholic-steatohepatitis-non-invasive-diagnostic-biomarkers-and-their-correlations-with-liver-fibrosis.html"
+    },
+    {
+        "position": [
+            [
+                1161.0,
+                619.0
+            ],
+            [
+                1424.0,
+                686.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            102,
+            102,
+            102
+        ],
+        "text": "High level of RNA HAS2-AS1 in the buffy coat of a patient blood sample is a more informative prognostic marker of COVID-19 clinical course compared to the level of hyaluronic acid in plasma",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2024/07/high-level-of-rna-has2-as1-in-the-buffy-coat-of-a-patient-blood-sample-is-a-more-informative-prognostic-marker-of-covid-19-clinical-course-compared-to-the-level-of-hyaluronic-acid-in-plasma.html"
+    },
+    {
+        "position": [
+            [
+                541.0,
+                2972.333251953125
+            ],
+            [
+                740.0,
+                2987.333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "The Ukrainian Biochemical Journal",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                466.0,
+                10.0
+            ],
+            [
+                665.0,
+                23.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Ukrbiochem2400.png"
+    },
+    {
+        "position": [
+            [
+                1253.0,
+                20.0
+            ],
+            [
+                1426.0,
+                33.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Biochem_banner2.jpg"
+    },
+    {
+        "position": [
+            [
+                1402.0,
+                134.0
+            ],
+            [
+                1426.0,
+                158.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/icons/ua.png"
+    },
+    {
+        "position": [
+            [
+                1155.0,
+                177.0
+            ],
+            [
+                1425.0,
+                207.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://ukrbiochemjournal.org/wp-content/themes/BioChemJ/images/search.png"
+    }
+]

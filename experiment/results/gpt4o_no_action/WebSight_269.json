@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                1402.4833984375,
+                30.0
+            ],
+            [
+                1518.6333923339844,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Success Stories",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1539.13330078125,
+                30.0
+            ],
+            [
+                1587.63330078125,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Events",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1608.13330078125,
+                30.0
+            ],
+            [
+                1703.9999694824219,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Ways to Help",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                16.0
+            ],
+            [
+                264.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://via.placeholder.com/50"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                112.0
+            ],
+            [
+                1704.0,
+                608.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://via.placeholder.com/1200x400"
+    }
+]

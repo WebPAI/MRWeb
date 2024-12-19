@@ -1,0 +1,324 @@
+[
+    {
+        "position": [
+            [
+                1022.1500244140624,
+                90.0
+            ],
+            [
+                1065.2666931152344,
+                114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                1089.2666015625,
+                90.0
+            ],
+            [
+                1121.7666015625,
+                114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "file:///blog"
+    },
+    {
+        "position": [
+            [
+                1145.7666015625,
+                90.0
+            ],
+            [
+                1245.1832733154297,
+                114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "View Account",
+        "on_click_jump_to": "file:///account"
+    },
+    {
+        "position": [
+            [
+                1269.183349609375,
+                90.0
+            ],
+            [
+                1302.750015258789,
+                114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Help",
+        "on_click_jump_to": "file:///help"
+    },
+    {
+        "position": [
+            [
+                1326.75,
+                90.0
+            ],
+            [
+                1448.1166687011719,
+                114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Request a Quote",
+        "on_click_jump_to": "file:///request-quote"
+    },
+    {
+        "position": [
+            [
+                1472.11669921875,
+                90.0
+            ],
+            [
+                1529.7166900634766,
+                114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "file:///contact"
+    },
+    {
+        "position": [
+            [
+                1553.7166748046875,
+                90.0
+            ],
+            [
+                1712.000015258789,
+                114.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "International Shipping",
+        "on_click_jump_to": "file:///shipping"
+    },
+    {
+        "position": [
+            [
+                1516.5,
+                181.0
+            ],
+            [
+                1712.0,
+                217.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Shopping Cart / $0.00\n0",
+        "on_click_jump_to": "file:///cart"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                254.0
+            ],
+            [
+                368.8333282470703,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Bar and Beverage",
+        "on_click_jump_to": "file:///bar"
+    },
+    {
+        "position": [
+            [
+                474.0499877929687,
+                254.0
+            ],
+            [
+                713.7999877929688,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Buffets, Displays and Serverware",
+        "on_click_jump_to": "file:///buffets"
+    },
+    {
+        "position": [
+            [
+                819.0166625976562,
+                254.0
+            ],
+            [
+                963.8500061035156,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Dining and Tabletop",
+        "on_click_jump_to": "file:///dining"
+    },
+    {
+        "position": [
+            [
+                1069.0833740234375,
+                254.0
+            ],
+            [
+                1230.1667175292969,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Kitchen and Bakeware",
+        "on_click_jump_to": "file:///kitchen"
+    },
+    {
+        "position": [
+            [
+                1335.4000244140625,
+                254.0
+            ],
+            [
+                1467.6000366210938,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Janitorial Supplies",
+        "on_click_jump_to": "file:///janitorial"
+    },
+    {
+        "position": [
+            [
+                1572.8333740234375,
+                254.0
+            ],
+            [
+                1680.0000457763672,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Shop by Brand",
+        "on_click_jump_to": "file:///brands"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                58.0
+            ],
+            [
+                408.0,
+                146.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/images/ablekitchen-logo.png"
+    },
+    {
+        "position": [
+            [
+                220.0,
+                338.5
+            ],
+            [
+                241.0,
+                357.5
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ablekitchen.com/images/mines.png"
+    },
+    {
+        "position": [
+            [
+                1685.0,
+                181.0
+            ],
+            [
+                1712.0,
+                217.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/cartqty.png"
+    }
+]

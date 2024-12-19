@@ -1,0 +1,42 @@
+[
+    {
+        "position": [
+            [
+                1440.0,
+                921.75
+            ],
+            [
+                1585.0,
+                958.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fupsidedownchronicles.com%252Fabout-me-2%252F"
+    },
+    {
+        "position": [
+            [
+                1593.0,
+                921.75
+            ],
+            [
+                1738.0,
+                958.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            122,
+            201
+        ],
+        "text": "Start your website",
+        "on_click_jump_to": "https://wordpress.com/?ref=coming_soon"
+    }
+]

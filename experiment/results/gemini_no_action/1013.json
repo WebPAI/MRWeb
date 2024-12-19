@@ -1,0 +1,234 @@
+[
+    {
+        "position": [
+            [
+                8.0,
+                714.36669921875
+            ],
+            [
+                1890.1500244140625,
+                749.5666961669922
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "J.Crew $90 shirt",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                1430.6666259765625
+            ],
+            [
+                320.3666687011719,
+                1446.6666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Amazon basics 2-piece fry pan set is a great deal",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                364.0,
+                2151.7666015625
+            ],
+            [
+                410.0,
+                2167.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                431.3333129882813,
+                2151.7666015625
+            ],
+            [
+                493.53332519531256,
+                2167.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                2445.833251953125
+            ],
+            [
+                64.01666259765625,
+                2461.833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Previous",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                68.01666259765625,
+                2445.833251953125
+            ],
+            [
+                99.11666870117188,
+                2461.833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Next",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                170.6999969482422
+            ],
+            [
+                83.11666870117188,
+                186.6999969482422
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/thrift-store.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                372.1333312988281
+            ],
+            [
+                59.0,
+                388.1333312988281
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/t-shirts.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                643.9666748046875
+            ],
+            [
+                108.4499969482422,
+                659.9666748046875
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/pants-jeans.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                1030.8333740234375
+            ],
+            [
+                48.899993896484375,
+                1046.8333740234375
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/books.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                1305.86669921875
+            ],
+            [
+                73.75,
+                1321.86669921875
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/cookware.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                1612.9000244140625
+            ],
+            [
+                121.33332824707033,
+                1628.9000244140625
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/small-appliances.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                1833.5333251953125
+            ],
+            [
+                67.56666564941406,
+                1849.5333251953125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/furniture.jpg"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                2186.966552734375
+            ],
+            [
+                39.100006103515625,
+                2202.966552734375
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/profile.jpg"
+    }
+]

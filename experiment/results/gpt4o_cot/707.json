@@ -1,0 +1,550 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                438.566650390625
+            ],
+            [
+                235.11666870117188,
+                462.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://annaraccoon.com/"
+    },
+    {
+        "position": [
+            [
+                251.11666870117188,
+                438.566650390625
+            ],
+            [
+                355.9499969482422,
+                462.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About this site",
+        "on_click_jump_to": "https://annaraccoon.com/about/"
+    },
+    {
+        "position": [
+            [
+                371.9500122070313,
+                438.566650390625
+            ],
+            [
+                458.9500122070313,
+                462.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Background",
+        "on_click_jump_to": "https://annaraccoon.com/background/"
+    },
+    {
+        "position": [
+            [
+                474.9500122070313,
+                438.566650390625
+            ],
+            [
+                554.6500091552734,
+                462.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Other sites",
+        "on_click_jump_to": "https://annaraccoon.com/other-sites/"
+    },
+    {
+        "position": [
+            [
+                570.6500244140625,
+                438.566650390625
+            ],
+            [
+                684.4000244140625,
+                462.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Posts by author",
+        "on_click_jump_to": "https://annaraccoon.com/posts-by-author/"
+    },
+    {
+        "position": [
+            [
+                700.4000244140625,
+                438.566650390625
+            ],
+            [
+                801.1333618164062,
+                462.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Posts by Date",
+        "on_click_jump_to": "https://annaraccoon.com/posts-by-date/"
+    },
+    {
+        "position": [
+            [
+                817.13330078125,
+                438.566650390625
+            ],
+            [
+                923.7833099365234,
+                462.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Posts by name",
+        "on_click_jump_to": "https://annaraccoon.com/posts-by-name/"
+    },
+    {
+        "position": [
+            [
+                939.7833251953124,
+                438.566650390625
+            ],
+            [
+                1002.1166534423827,
+                462.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Susanne",
+        "on_click_jump_to": "https://annaraccoon.com/susanne/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                496.566650390625
+            ],
+            [
+                451.51666259765625,
+                516.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "← Lockerbie, Labour and Realpolitik",
+        "on_click_jump_to": "https://annaraccoon.com/2011/02/02/lockerbie-labour-and-realpolitik/"
+    },
+    {
+        "position": [
+            [
+                1571.61669921875,
+                494.566650390625
+            ],
+            [
+                1728.0000305175781,
+                518.566650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Too stupid for sex? →",
+        "on_click_jump_to": "https://annaraccoon.com/2011/02/04/too-stupid-for-sex/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1596.4833984375
+            ],
+            [
+                1728.0,
+                1620.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "The FOI request",
+        "on_click_jump_to": "http://www.whatdotheyknow.com/request/suppressing_unfavourable_politic"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1636.4833984375
+            ],
+            [
+                1728.0,
+                1660.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Nutsville",
+        "on_click_jump_to": "http://nutsville.com/?p=2466"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1676.4833984375
+            ],
+            [
+                1728.0,
+                1700.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Martin Brookes,",
+        "on_click_jump_to": "https://martinbrookes.blogspot.com/2011/01/internet-censorship-in-peoples-republic.html"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1716.4833984375
+            ],
+            [
+                1728.0,
+                1740.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Caedmon’s Cat",
+        "on_click_jump_to": "https://caedmonscat.blogspot.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1756.4833984375
+            ],
+            [
+                1728.0,
+                1780.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Bill Sticker",
+        "on_click_jump_to": "https://williamsticker.blogspot.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1796.4833984375
+            ],
+            [
+                1728.0,
+                1820.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "clbuttic",
+        "on_click_jump_to": "https://en.wikipedia.org/wiki/Scunthorpe_problem"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1836.4833984375
+            ],
+            [
+                1728.0,
+                1860.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "SadButMadLad",
+        "on_click_jump_to": "http://sbml.wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1876.4833984375
+            ],
+            [
+                1728.0,
+                1900.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Michael Fowke",
+        "on_click_jump_to": "https://moneyistheway.blogspot.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1916.4833984375
+            ],
+            [
+                1728.0,
+                1940.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "newsnet scotland",
+        "on_click_jump_to": "http://www.newsnetscotland.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1956.4833984375
+            ],
+            [
+                1728.0,
+                1980.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "QM",
+        "on_click_jump_to": "https://quietmanmyblog.blogspot.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1996.4833984375
+            ],
+            [
+                1728.0,
+                2020.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Dioclese",
+        "on_click_jump_to": "https://dioclese.blogspot.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                2036.4833984375
+            ],
+            [
+                1728.0,
+                2060.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "JuliaM",
+        "on_click_jump_to": "https://thylacosmilus.blogspot.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                2076.4833984375
+            ],
+            [
+                1728.0,
+                2100.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Richard B",
+        "on_click_jump_to": "https://www.goingfastgettingnowhere.blogspot.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                2134.4833984375
+            ],
+            [
+                395.76666259765625,
+                2154.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "The Anna Raccoon Archives",
+        "on_click_jump_to": "https://annaraccoon.com/"
+    },
+    {
+        "position": [
+            [
+                400.26666259765625,
+                2134.4833984375
+            ],
+            [
+                407.5,
+                2154.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "-",
+        "on_click_jump_to": "https://wordpress.org/"
+    },
+    {
+        "position": [
+            [
+                412.0,
+                2134.4833984375
+            ],
+            [
+                577.7166595458984,
+                2154.4833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Weaver Xtreme Theme",
+        "on_click_jump_to": "https://weavertheme.com/weaver-xtreme"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                0.0
+            ],
+            [
+                1728.0,
+                422.566650390625
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20956%20263'%3E%3C/svg%3E"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                550.566650390625
+            ],
+            [
+                1728.0,
+                1580.4832763671875
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20519%20348'%3E%3C/svg%3E"
+    }
+]

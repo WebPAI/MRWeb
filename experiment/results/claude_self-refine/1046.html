@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CDS Blog</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .bg-pattern-black {
+            background-image: url('https://info.cds.co.uk/hubfs/CDS_Website_Files_Jan_2020/arrows-pattern-black.png');
+            background-repeat: repeat;
+        }
+        .bg-pattern-white {
+            background-image: url('https://info.cds.co.uk/hubfs/CDS_Website_Files_Jan_2020/dots-pattern-white.png');
+            background-repeat: repeat;
+        }
+        .nav-link {
+            @apply text-black hover:text-teal-600 px-4;
+        }
+        .post-card {
+            @apply relative overflow-hidden rounded-lg;
+        }
+        .post-overlay {
+            @apply absolute bottom-0 left-0 right-0 p-6 bg-gradient-to-t from-black/80 to-transparent;
+        }
+        .tag-link {
+            @apply text-[#1B1B1B] hover:text-teal-600;
+        }
+    </style>
+</head>
+<body class="bg-pattern-black min-h-screen">
+    <!-- Header -->
+    <header class="container mx-auto px-6 py-4 flex items-center justify-between">
+        <a href="/" class="flex-shrink-0">
+            <img src="https://blog.cds.co.uk/hubfs/cds-logo-teal.svg" alt="CDS Logo" class="w-32">
+        </a>
+        <nav class="flex items-center space-x-6">
+            <a href="https://www.cds.co.uk/who-we-are" class="nav-link">Who we are</a>
+            <a href="https://www.cds.co.uk/what-we-do" class="nav-link">What we do</a>
+            <a href="https://www.cds.co.uk/our-work" class="nav-link">Our work</a>
+            <a href="https://blog.cds.co.uk/" class="nav-link">Our thoughts</a>
+            <a href="https://www.cds.co.uk/contact-us" class="nav-link">Contact us</a>
+            <a href="https://www.cds.co.uk/careers" class="nav-link">Careers</a>
+            <a href="tel:08001384308" class="text-[#1B1B1B] font-medium">0800 138 4308</a>
+        </nav>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="container mx-auto px-6 py-16">
+        <h1 class="text-4xl font-bold text-white mb-4">What's on our mind</h1>
+        <p class="text-teal-400 max-w-2xl">
+            Explore and discover innovations and insights from our bloggers as they share their thoughts on how communications, data and technology can be used to make a positive difference in the world today.
+        </p>
+    </section>
+
+    <!-- Featured Posts Grid -->
+    <section class="container mx-auto px-6 grid grid-cols-2 gap-8 mb-16">
+        <!-- Featured Post Cards -->
+        <div class="post-card">
+            <img src="https://blog.cds.co.uk/hs-fs/hubfs/Riverside.png" alt="CDS Office" class="w-full h-[300px] object-cover">
+            <div class="post-overlay">
+                <h3 class="text-xl font-bold text-white mb-2">We're Hiring: Learn more about why CDS is a great place to work</h3>
+                <a href="https://blog.cds.co.uk/tag/life-at-cds" class="text-teal-400">Life at CDS</a>
+            </div>
+        </div>
+
+        <div class="post-card">
+            <img src="https://blog.cds.co.uk/hs-fs/hubfs/Police-Industry-Charter-Signatory.jpg" alt="Police Industry Charter" class="w-full h-[300px] object-cover">
+            <div class="post-overlay">
+                <h3 class="text-xl font-bold text-white mb-2">CDS signs Police Industry Charter</h3>
+                <a href="https://blog.cds.co.uk/tag/public-sector" class="text-teal-400">Public Sector</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Recent Posts -->
+    <section class="container mx-auto px-6 py-16">
+        <h2 class="text-3xl text-white font-bold mb-4">Recent thoughts</h2>
+        <p class="text-teal-400 mb-12">A selection of our most recent articles and company stories</p>
+
+        <!-- Blog Posts List -->
+        <div class="space-y-12">
+            <!-- Individual blog post items here -->
+            <!-- Add more blog post items following the same structure -->
+        </div>
+
+        <button class="mt-12 px-8 py-3 border border-white text-white hover:bg-teal-600 transition">
+            Load more
+        </button>
+    </section>
+
+    <!-- Footer -->
+    <footer class="bg-pattern-white mt-16 px-6 py-12">
+        <div class="container mx-auto">
+            <h2 class="text-2xl text-white mb-8">It's time to make a <span class="text-teal-400">positive difference</span></h2>
+            
+            <div class="grid grid-cols-2 gap-8 mb-8">
+                <div class="space-y-4">
+                    <a href="/sitemap" class="text-white hover:text-teal-400">Sitemap</a>
+                    <a href="/privacy-notice" class="text-white hover:text-teal-400">Privacy notice</a>
+                    <a href="/accessibility-statement" class="text-white hover:text-teal-400">Accessibility statement</a>
+                </div>
+                <div class="space-y-4">
+                    <a href="/cookie-policy" class="text-white hover:text-teal-400">Cookie policy</a>
+                    <a href="/carbon-reduction-plan" class="text-white hover:text-teal-400">Carbon reduction plan</a>
+                    <a href="/terms-of-use" class="text-white hover:text-teal-400">Terms of use</a>
+                </div>
+            </div>
+
+            <div class="flex space-x-4">
+                <a href="#"><img src="https://blog.cds.co.uk/hubfs/LI-White.svg.svg" alt="LinkedIn" class="w-6"></a>
+                <a href="#"><img src="https://blog.cds.co.uk/hubfs/logo-white-svg.svg" alt="Twitter" class="w-6"></a>
+                <a href="#"><img src="https://blog.cds.co.uk/hubfs/Instagram_White.svg.svg" alt="Instagram" class="w-6"></a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

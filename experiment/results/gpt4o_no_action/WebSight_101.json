@@ -1,0 +1,118 @@
+[
+    {
+        "position": [
+            [
+                1413.933349609375,
+                30.0
+            ],
+            [
+                1496.500015258789,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Admissions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1528.5,
+                30.0
+            ],
+            [
+                1607.9166717529297,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Academics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1639.9166259765625,
+                30.0
+            ],
+            [
+                1727.9999542236328,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Student Life",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                228.0833282470703,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                192.0
+            ],
+            [
+                640.0,
+                216.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/admissions.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                368.0
+            ],
+            [
+                640.0,
+                392.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/academics.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                544.0
+            ],
+            [
+                640.0,
+                568.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/student-life.jpg"
+    }
+]

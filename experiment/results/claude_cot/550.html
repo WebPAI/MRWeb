@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PERA Website</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+```
+
+2. Let's create the header section with background image:
+
+```html
+<header class="relative h-[269px] w-full" style="background-image: url('https://mnpera.org/wp-content/uploads/Header-01-1-e1621548902978.png'); background-size: cover;">
+    
+    <!-- Top navigation -->
+    <div class="flex justify-between items-center px-8 py-4">
+        <!-- Logo -->
+        <img src="https://mnpera.org/wp-content/uploads/logo.png" alt="PERA Logo" class="w-[260px] h-[38px]">
+        
+        <!-- Right navigation items -->
+        <div class="flex items-center gap-8">
+            <a href="http://mnpera.org/employers" class="text-[#8B2233] hover:underline">For Employers</a>
+            <a href="https://mnpera.org/about/contact/" class="text-[#8B2233] hover:underline">Contact</a>
+            
+            <!-- Search box -->
+            <div class="relative">
+                <input type="text" class="px-4 py-2 pr-10 rounded" placeholder="Search">
+                <div class="absolute right-3 top-1/2 transform -translate-y-1/2 w-[23px] h-[23px]" 
+                     style="background-image: url('https://mnpera.org/wp-content/themes/pera/i/ico-search.png');">
+                </div>
+            </div>
+            
+            <!-- Login button -->
+            <a href="https://member.mnpera.org/MemWeb.dll" 
+               class="bg-[#333333] text-white px-6 py-2 rounded">
+                myPERA Login
+            </a>
+        </div>
+    </div>
+
+    <!-- Main navigation -->
+    <nav class="absolute bottom-0 w-full bg-[#8B2233] text-white">
+        <div class="flex justify-between px-8 py-4">
+            <a href="https://mnpera.org/members/" class="hover:underline">MEMBERS</a>
+            <a href="https://mnpera.org/retirees/" class="hover:underline">BENEFIT RECIPIENTS</a>
+            <a href="https://mnpera.org/employers/" class="hover:underline">EMPLOYERS</a>
+            <a href="https://mnpera.org/employers/resources/" class="hover:underline">RESOURCES</a>
+            <a href="https://mnpera.org/financial/" class="hover:underline">FINANCIAL</a>
+            <a href="https://mnpera.org/about/" class="hover:underline">ABOUT</a>
+        </div>
+    </nav>
+</header>
+```
+
+3. Let's add the footer section:
+
+```html
+<footer class="bg-[#4A4A4A] text-white py-8">
+    <div class="container mx-auto">
+        <!-- Social media icons -->
+        <div class="flex justify-center gap-4 mb-6">
+            <img src="https://mnpera.org/wp-content/uploads/2018/06/facebook-32.png" alt="Facebook" class="w-8 h-8">
+            <img src="https://mnpera.org/wp-content/uploads/2018/06/twitter-32.png" alt="Twitter" class="w-8 h-8">
+        </div>
+
+        <!-- Organization name and address -->
+        <div class="text-center mb-6">
+            <h2 class="text-xl font-bold mb-2">PUBLIC EMPLOYEES RETIREMENT ASSOCIATION</h2>
+            <p>60 Empire Drive, Suite 200 | St. Paul, MN 55103</p>
+        </div>
+
+        <!-- Footer links -->
+        <div class="flex justify-center gap-4 text-sm mb-4">
+            <a href="https://mnpera.org/about/contact/" class="hover:underline">CONTACT</a> |
+            <a href="https://mnpera.org/careers/" class="hover:underline">CAREERS</a> |
+            <a href="https://mnpera.org/equal-opportunity-employer/" class="hover:underline">EQUAL OPPORTUNITY EMPLOYER</a> |
+            <a href="https://mnpera.org/page-sitemap.xml" class="hover:underline">SITEMAP</a> |
+            <a href="https://mnpera.org/data-privacy-legal/" class="hover:underline">DATA PRACTICES & LEGAL</a>
+        </div>
+
+        <!-- Copyright -->
+        <div class="text-center text-sm">
+            Copyright © PERA. All rights reserved.
+        </div>
+    </div>
+</footer>
+</body>
+</html>

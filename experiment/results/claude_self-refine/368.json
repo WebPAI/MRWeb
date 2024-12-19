@@ -1,0 +1,210 @@
+[
+    {
+        "position": [
+            [
+                1822.0,
+                16.0
+            ],
+            [
+                1904.0,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sign up",
+        "on_click_jump_to": "https://www.tumblr.com/register"
+    },
+    {
+        "position": [
+            [
+                984.5,
+                334.0
+            ],
+            [
+                1069.5,
+                350.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            34,
+            34,
+            34
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "https://www.tumblr.com/policy/terms-of-service"
+    },
+    {
+        "position": [
+            [
+                942.5,
+                334.0
+            ],
+            [
+                1133.5,
+                366.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            34,
+            34,
+            34
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://www.tumblr.com/policy/privacy"
+    },
+    {
+        "position": [
+            [
+                889.5,
+                449.5
+            ],
+            [
+                1030.5,
+                468.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            34,
+            34,
+            34
+        ],
+        "text": "Forgot your password?",
+        "on_click_jump_to": "https://www.tumblr.com/forgot_password"
+    },
+    {
+        "position": [
+            [
+                985.5,
+                658.5
+            ],
+            [
+                1035.5,
+                677.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            34,
+            34,
+            34
+        ],
+        "text": "Sign up!",
+        "on_click_jump_to": "https://www.tumblr.com/register"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                959.5
+            ],
+            [
+                52.0,
+                978.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Terms",
+        "on_click_jump_to": "https://www.tumblr.com/policy"
+    },
+    {
+        "position": [
+            [
+                72.0,
+                959.5
+            ],
+            [
+                115.0,
+                978.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy",
+        "on_click_jump_to": "https://www.tumblr.com/privacy_policy"
+    },
+    {
+        "position": [
+            [
+                135.0,
+                959.5
+            ],
+            [
+                162.0,
+                978.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Jobs",
+        "on_click_jump_to": "https://www.tumblr.com/jobs"
+    },
+    {
+        "position": [
+            [
+                182.0,
+                959.5
+            ],
+            [
+                231.0,
+                978.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Support",
+        "on_click_jump_to": "https://www.tumblr.com/support"
+    },
+    {
+        "position": [
+            [
+                868.9000244140625,
+                541.0
+            ],
+            [
+                888.9000244140625,
+                561.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.google.com/favicon.ico"
+    },
+    {
+        "position": [
+            [
+                873.9166870117188,
+                607.0
+            ],
+            [
+                893.9166870117188,
+                627.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.apple.com/favicon.ico"
+    }
+]

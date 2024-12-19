@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                777.2666625976562,
+                24.0
+            ],
+            [
+                859.8333282470703,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Admissions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                875.8333129882812,
+                24.0
+            ],
+            [
+                955.2499847412109,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Academics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                971.25,
+                24.0
+            ],
+            [
+                1059.3333282470703,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Student Life",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1075.3333740234375,
+                24.0
+            ],
+            [
+                1142.733383178711,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Research",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                418.0,
+                16.0
+            ],
+            [
+                478.0,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1593985887855-77ee9491d163?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczNjZ8&ixlib=rb-4.0.3&w=100&h=50"
+    }
+]

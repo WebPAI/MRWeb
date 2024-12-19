@@ -1,0 +1,304 @@
+[
+    {
+        "position": [
+            [
+                637.4166870117188,
+                56.0
+            ],
+            [
+                716.7500152587891,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Homepage",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                748.75,
+                56.0
+            ],
+            [
+                845.6499938964844,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Current issue",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/current-issue"
+    },
+    {
+        "position": [
+            [
+                877.6500244140625,
+                56.0
+            ],
+            [
+                931.9000244140625,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Archive",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/magarchive"
+    },
+    {
+        "position": [
+            [
+                963.9000244140624,
+                56.0
+            ],
+            [
+                1047.1000366210938,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "For authors",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/rules-for-authors"
+    },
+    {
+        "position": [
+            [
+                1079.0999755859375,
+                56.0
+            ],
+            [
+                1185.066635131836,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Editorial Board",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/editorial"
+    },
+    {
+        "position": [
+            [
+                1217.066650390625,
+                56.0
+            ],
+            [
+                1282.566650390625,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contacts",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/contacts"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                177.5
+            ],
+            [
+                1247.4166259765625,
+                230.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Blood coagulation parameters in rats with acute radiation syndrome receiving activated carbon as a preventive remedy",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2019/04/blood-coagulation-parameters-in-rats-with-acute-radiation-syndrome-receiving-activated-carbon-as-a-preventive-remedy.html"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                360.0
+            ],
+            [
+                318.4166717529297,
+                400.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Read More",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2019/04/blood-coagulation-parameters-in-rats-with-acute-radiation-syndrome-receiving-activated-carbon-as-a-preventive-remedy.html"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                433.5
+            ],
+            [
+                1278.199951171875,
+                458.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Haemostasis modulation by calix[4]arene methylenebisphosphonic acid C-145 and its sulfur-containing analogue",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2018/11/haemostasis-modulation-by-calix4arene-methylenebisphosphonic-acid-c-145-and-its-sulfur-containing-analogue.html"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                484.0
+            ],
+            [
+                318.4166717529297,
+                524.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Read More",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2018/11/haemostasis-modulation-by-calix4arene-methylenebisphosphonic-acid-c-145-and-its-sulfur-containing-analogue.html"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                557.5
+            ],
+            [
+                1042.3499755859375,
+                582.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Blood coagulation and aortic wall integrity in rats with obesity-induced insulin resistance",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2018/03/blood-coagulation-and-aortic-wall-integrity-in-rats-with-obesity-induced-insulin-resistance.html"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                608.0
+            ],
+            [
+                318.4166717529297,
+                648.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Read More",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/2018/03/blood-coagulation-and-aortic-wall-integrity-in-rats-with-obesity-induced-insulin-resistance.html"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                713.5
+            ],
+            [
+                485.1000061035156,
+                730.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "© 2024 The Ukrainian Biochemical Journal",
+        "on_click_jump_to": "http://ukrbiochemjournal.org/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                244.0833282470703,
+                32.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Ukrbiochem2400.png"
+    },
+    {
+        "position": [
+            [
+                1630.933349609375,
+                12.0
+            ],
+            [
+                1682.2833557128906,
+                28.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/uploads/2015/05/Biochem_banner2.jpg"
+    },
+    {
+        "position": [
+            [
+                1690.2833251953125,
+                14.0
+            ],
+            [
+                1711.999984741211,
+                30.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://ukrbiochemjournal.org/wp-content/icons/ua.png"
+    }
+]

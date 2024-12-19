@@ -1,0 +1,136 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                416.0
+            ],
+            [
+                305.76666259765625,
+                456.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "LinkedIn",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                321.76666259765625,
+                416.0
+            ],
+            [
+                405.0500030517578,
+                456.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                421.0499877929687,
+                416.0
+            ],
+            [
+                502.81665039062494,
+                456.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reddit",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                518.816650390625,
+                416.0
+            ],
+            [
+                625.4833221435547,
+                456.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                683.5
+            ],
+            [
+                323.1666717529297,
+                700.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "< More Reviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                351.5
+            ],
+            [
+                1316.5,
+                368.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About Me",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/dune_image.jpg"
+    }
+]

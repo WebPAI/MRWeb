@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Framing Perceptions</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .bg-container {
+            position: relative;
+            width: 1100px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: #f5f5dc;
+        }
+        
+        .border-design {
+            position: absolute;
+            top: 0;
+            bottom: 0;
+            width: 61px;
+            background-repeat: repeat-y;
+        }
+        
+        .border-left {
+            left: 0;
+            background-image: url('https://opus1journal.org/articles/images/leftbgKA.gif');
+        }
+        
+        .border-right {
+            right: 0;
+            background-image: url('https://opus1journal.org/articles/images/rightbgKA.gif');
+        }
+    </style>
+</head>
+<body>
+    <div class="bg-container relative min-h-screen">
+        <div class="border-design border-left"></div>
+        <div class="border-design border-right"></div>
+        
+        <div class="mx-auto max-w-4xl">
+            <h1 class="text-2xl font-bold mb-6 text-center">Framing Perceptions</h1>
+            
+            <div class="border border-gray-400 p-4 mb-6">
+                <p>Since people are risk-averse with respect to gain and risk-seeking with respect to loss, their choices can be easily manipulated by whether an offer is framed as a gain or a loss.</p>
+            </div>
+
+            <p class="mb-4">Suppose a rare disease would claim 600 lives if we did nothing. We are asked to choose between different policy options:</p>
+            
+            <p class="mb-2">A. 200 lives could be saved with certainty.</p>
+            <p class="mb-4">B. 600 lives could be saved with 1/3 chance and 0 lives saved with 2/3 chance.</p>
+            
+            <p class="mb-4">Typically, 72% of us would choose option A even though the <a href="javascript:void(0)" class="text-red-600">expected value¹</a> of option B is equivalent to option A.</p>
+            
+            <p class="mb-4">But if the policy options are as follows:</p>
+            
+            <p class="mb-2">C. 400 people would die with certainty.</p>
+            <p class="mb-4">D. No one would die with 1/3 chance and 600 would die with 2/3 chance.</p>
+            
+            <p class="mb-6">Typically, 78% of us would choose option D even though the expected value of option D is equivalent to option C.</p>
+            
+            <p class="mb-6">Substantively, options A and C are identical and options B and D are identical. It is a case of whether we are viewing the glass as half empty or half full. In the first instance, "lives saved" is framed as a gain. People are instinctively <a href="javascript:void(0)" class="text-red-600">risk averse²</a> with respect to gain and are reluctant to gamble with a sure gain unless the risky gain is so much higher. In the second instance, "certain death" is framed as a loss. People are instinctively <a href="javascript:void(0)" class="text-red-600">risk seeking³</a> with respect to loss and are willing to gamble to reduce loss unless the risky loss is so much larger.</p>
+
+            <!-- Rest of the content -->
+            
+            <div class="mt-12">
+                <div class="text-center">
+                    <!-- Counter images -->
+                    <div class="inline-block">
+                        <img src="https://opus1journal.org/counterimages/bw_00.gif" class="h-3 inline-block">
+                        <img src="https://opus1journal.org/counterimages/bw_01.gif" class="h-3 inline-block">
+                        <img src="https://opus1journal.org/counterimages/bw_01.gif" class="h-3 inline-block">
+                        <img src="https://opus1journal.org/counterimages/bw_07.gif" class="h-3 inline-block">
+                        <img src="https://opus1journal.org/counterimages/bw_02.gif" class="h-3 inline-block">
+                        <img src="https://opus1journal.org/counterimages/bw_05.gif" class="h-3 inline-block">
+                    </div>
+                    <div class="mt-4">
+                        <img src="https://opus1journal.org/articles/images/logobutton.gif" class="h-12 mx-auto">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

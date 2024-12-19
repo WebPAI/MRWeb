@@ -1,0 +1,104 @@
+[
+    {
+        "position": [
+            [
+                380.316650390625,
+                128.0
+            ],
+            [
+                514.3999786376953,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Share on Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                522.4000244140625,
+                128.0
+            ],
+            [
+                636.9333648681641,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Share on Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                644.933349609375,
+                128.0
+            ],
+            [
+                682.7166748046875,
+                152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Email",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                8.0
+            ],
+            [
+                322.8999938964844,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/action-news-logo.png"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                168.0
+            ],
+            [
+                1184.0,
+                192.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/candy-image.jpg"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                188.0
+            ],
+            [
+                1314.9833374023438,
+                252.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/story1.jpg"
+    }
+]

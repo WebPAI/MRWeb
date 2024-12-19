@@ -1,0 +1,36 @@
+[
+    {
+        "position": [
+            [
+                789.11669921875,
+                185.8166656494141
+            ],
+            [
+                1019.4333648681641,
+                245.8166656494141
+            ]
+        ],
+        "type": "a",
+        "color": [
+            21,
+            153,
+            87
+        ],
+        "text": "Jake Scruggs",
+        "on_click_jump_to": "https://jakescruggs.com/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                570.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://jakescruggs.com/assets/images/DALL-E2022-09-24EpicSceneSummoningSkyServersCyberpunk.jpg"
+    }
+]

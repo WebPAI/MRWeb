@@ -1,0 +1,312 @@
+[
+    {
+        "position": [
+            [
+                1821.9000244140625,
+                16.0
+            ],
+            [
+                1904.0000305175781,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            246,
+            247,
+            247
+        ],
+        "text": "Get started",
+        "on_click_jump_to": "https://wordpress.com/start/?ref=marketing_bar"
+    },
+    {
+        "position": [
+            [
+                74.0,
+                1460.0
+            ],
+            [
+                321.6000061035156,
+                1484.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "soundssweetnews.wordpress.com",
+        "on_click_jump_to": "https://soundssweetnews.wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                1513.0
+            ],
+            [
+                1904.0,
+                1537.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "Customize",
+        "on_click_jump_to": "https://soundssweetnews.wordpress.com/wp-admin/customize.php?url=https%3A%2F%2Fsoundssweetnews.wordpress.com%2F2015%2F07%2F20%2Fmotivational-monday-follow-my-dreams%2F"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                1545.0
+            ],
+            [
+                88.86666870117188,
+                1569.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "Subscribe",
+        "on_click_jump_to": "https://soundssweetnews.wordpress.com/2015/07/20/motivational-monday-follow-my-dreams/"
+    },
+    {
+        "position": [
+            [
+                96.86666870117188,
+                1545.0
+            ],
+            [
+                179.25,
+                1569.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "Subscribed",
+        "on_click_jump_to": "https://soundssweetnews.wordpress.com/2015/07/20/motivational-monday-follow-my-dreams/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                1577.0
+            ],
+            [
+                1904.0,
+                1601.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "Sign up",
+        "on_click_jump_to": "https://wordpress.com/start/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                1609.0
+            ],
+            [
+                1904.0,
+                1633.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fsoundssweetnews.wordpress.com%2F2015%2F07%2F20%2Fmotivational-monday-follow-my-dreams%2F&signup_flow=account"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                1641.0
+            ],
+            [
+                1904.0,
+                1665.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "Copy shortlink",
+        "on_click_jump_to": "https://wp.me/p5vIqp-fY"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                1673.0
+            ],
+            [
+                1904.0,
+                1697.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "Report this content",
+        "on_click_jump_to": "https://wordpress.com/abuse/?report_url=https://soundssweetnews.wordpress.com/2015/07/20/motivational-monday-follow-my-dreams/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                1705.0
+            ],
+            [
+                1904.0,
+                1729.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "View post in Reader",
+        "on_click_jump_to": "https://wordpress.com/read/blogs/81440621/posts/990"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                1737.0
+            ],
+            [
+                1904.0,
+                1761.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "Manage subscriptions",
+        "on_click_jump_to": "https://subscribe.wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                1769.0
+            ],
+            [
+                1904.0,
+                1793.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            176,
+            184
+        ],
+        "text": "Collapse this bar",
+        "on_click_jump_to": "https://soundssweetnews.wordpress.com/2015/07/20/motivational-monday-follow-my-dreams/"
+    },
+    {
+        "position": [
+            [
+                810.0,
+                88.0
+            ],
+            [
+                1110.0,
+                313.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/4617.jpg?w=300&h=225"
+    },
+    {
+        "position": [
+            [
+                853.0,
+                345.0
+            ],
+            [
+                1067.0,
+                645.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/funny-every-morning-you-have-two-choices-continue-sleep-with-your-dreams-or-wake-up-and-chase-them-011.jpg?w=214&h=300"
+    },
+    {
+        "position": [
+            [
+                810.0,
+                677.0
+            ],
+            [
+                1110.0,
+                875.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/courage-quote-from-john-odonohue-700x462.jpg?w=300&h=198"
+    },
+    {
+        "position": [
+            [
+                842.0,
+                907.0
+            ],
+            [
+                1078.0,
+                1143.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://soundssweetnews.wordpress.com/wp-content/uploads/2015/07/0ac748da81f81e704a9e141e5b71eab7.jpg?w=768"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                1447.0
+            ],
+            [
+                66.0,
+                1497.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://secure.gravatar.com/blavatar/3b2a139efe03ac706fd3e22bfa0eb7747fa870868a10abd64a211c81b4188a67?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png"
+    }
+]

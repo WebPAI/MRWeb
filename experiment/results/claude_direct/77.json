@@ -1,0 +1,258 @@
+[
+    {
+        "position": [
+            [
+                1462.0333251953125,
+                33.5
+            ],
+            [
+                1505.1499786376953,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://ptsail.org/"
+    },
+    {
+        "position": [
+            [
+                1529.1500244140625,
+                33.5
+            ],
+            [
+                1578.5166931152344,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Racing",
+        "on_click_jump_to": "https://ptsail.org/racing-2/"
+    },
+    {
+        "position": [
+            [
+                1602.5166015625,
+                33.5
+            ],
+            [
+                1667.5499420166016,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "https://ptsail.org/calendar/"
+    },
+    {
+        "position": [
+            [
+                1691.550048828125,
+                33.5
+            ],
+            [
+                1774.8167114257812,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Join/Renew",
+        "on_click_jump_to": "https://ptsail.org/join-renew/"
+    },
+    {
+        "position": [
+            [
+                1798.816650390625,
+                33.5
+            ],
+            [
+                1842.4499816894531,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1866.449951171875,
+                33.5
+            ],
+            [
+                1903.9999542236328,
+                57.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Links",
+        "on_click_jump_to": "https://ptsail.org/links/"
+    },
+    {
+        "position": [
+            [
+                1472.0833740234375,
+                187.0
+            ],
+            [
+                1534.3500518798828,
+                211.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Previous",
+        "on_click_jump_to": "https://ptsail.org/2011/09/11/americas-cup-world-series-plymouth-race-2/"
+    },
+    {
+        "position": [
+            [
+                1550.3499755859375,
+                187.0
+            ],
+            [
+                1583.9999694824219,
+                211.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Next",
+        "on_click_jump_to": "https://ptsail.org/2011/09/15/fall-nightcap-series-starts-sunday-september-18th/"
+    },
+    {
+        "position": [
+            [
+                368.0,
+                455.0
+            ],
+            [
+                476.8333282470703,
+                487.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "race results",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                484.8333129882813,
+                455.0
+            ],
+            [
+                693.8333129882812,
+                487.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "around our neighborhood",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                157.0,
+                83.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/uploads/2019/02/LogoCutout3-75px.png"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                323.0
+            ],
+            [
+                741.3333129882812,
+                347.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/gallery/r-boats-2011-wbf/ace-downwind-port-townsend-2011.jpg"
+    },
+    {
+        "position": [
+            [
+                757.3333129882812,
+                323.0
+            ],
+            [
+                1162.6666564941406,
+                347.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/gallery/r-boats-2011-wbf/ace-port-townsend-2011.jpg"
+    },
+    {
+        "position": [
+            [
+                1178.6666259765625,
+                323.0
+            ],
+            [
+                1583.9999389648438,
+                347.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/gallery/r-boats-2011-wbf/aloha-port-townsend-2011.jpg"
+    }
+]

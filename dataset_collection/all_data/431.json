@@ -1,0 +1,876 @@
+[
+    {
+        "position": [
+            [
+                1278.0,
+                21.0
+            ],
+            [
+                1352.0,
+                51.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Library",
+        "on_click_jump_to": "http://library.curtin.edu.au/"
+    },
+    {
+        "position": [
+            [
+                1352.0,
+                21.0
+            ],
+            [
+                1411.0,
+                51.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Help",
+        "on_click_jump_to": "https://libguides.library.curtin.edu.au/espace"
+    },
+    {
+        "position": [
+            [
+                1461.0,
+                16.0
+            ],
+            [
+                1530.0,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Admin",
+        "on_click_jump_to": "https://espace.curtin.edu.au/login"
+    },
+    {
+        "position": [
+            [
+                390.0,
+                66.0
+            ],
+            [
+                1530.0,
+                108.39999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "espace - Curtin’s institutional repository",
+        "on_click_jump_to": "https://espace.curtin.edu.au/"
+    },
+    {
+        "position": [
+            [
+                741.0,
+                140.39999389648438
+            ],
+            [
+                819.0,
+                154.39999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "espace Home",
+        "on_click_jump_to": "https://espace.curtin.edu.au/"
+    },
+    {
+        "position": [
+            [
+                857.0,
+                140.39999389648438
+            ],
+            [
+                898.0,
+                154.39999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "espace",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/1"
+    },
+    {
+        "position": [
+            [
+                936.0,
+                140.39999389648438
+            ],
+            [
+                1097.0,
+                154.39999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "Curtin Research Publications",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/3"
+    },
+    {
+        "position": [
+            [
+                741.0,
+                632.2666625976562
+            ],
+            [
+                890.4166717529297,
+                649.2666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "Show full item record",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/17808?show=full"
+    },
+    {
+        "position": [
+            [
+                1014.0,
+                461.51666259765625
+            ],
+            [
+                1250.6999969482422,
+                478.51666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "10.1016/S1003-9953(08)60029-8",
+        "on_click_jump_to": "http://doi.org/10.1016/S1003-9953(08)60029-8"
+    },
+    {
+        "position": [
+            [
+                1014.0,
+                529.9666748046875
+            ],
+            [
+                1090.5333404541016,
+                546.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "1003-9953",
+        "on_click_jump_to": "https://trove.nla.gov.au/search/category/books?keyword=issn%3A1003-9953"
+    },
+    {
+        "position": [
+            [
+                1014.0,
+                666.86669921875
+            ],
+            [
+                1304.7166748046875,
+                683.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "http://hdl.handle.net/20.500.11937/17808",
+        "on_click_jump_to": "http://hdl.handle.net/20.500.11937/17808"
+    },
+    {
+        "position": [
+            [
+                1014.0,
+                735.316650390625
+            ],
+            [
+                1220.3333282470703,
+                752.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "Curtin Research Publications",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/3"
+    },
+    {
+        "position": [
+            [
+                741.0,
+                1413.316650390625
+            ],
+            [
+                1189.7000122070312,
+                1432.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "A feasibility study of methane reforming by partial oxidation.",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/1877"
+    },
+    {
+        "position": [
+            [
+                741.0,
+                1552.5999755859375
+            ],
+            [
+                1505.63330078125,
+                1595.88330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "Syngas production by catalytic partial oxidation of methane over (La0.7A0.3)BO3 (A = Ba, Ca, Mg, Sr, and B = Cr or Fe) perovskite oxides for portable fuel cell applications",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/5490"
+    },
+    {
+        "position": [
+            [
+                741.0,
+                1716.1666259765625
+            ],
+            [
+                1478.2999877929688,
+                1759.449951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "H2/CH4/CO2-tolerant properties of SrCo0.8Fe0.1Ga0.1O3 − δ hollow fiber membrane reactors for methane partial oxidation to syngas",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/8618"
+    },
+    {
+        "position": [
+            [
+                741.0,
+                1877.0999755859375
+            ],
+            [
+                939.0,
+                1911.0999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Show Statistical Information",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                396.0,
+                253.0666656494141
+            ],
+            [
+                506.0,
+                269.06666564941406
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "Advanced search",
+        "on_click_jump_to": "https://espace.curtin.edu.au/discover?advanced=true"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                326.4666748046875
+            ],
+            [
+                710.0,
+                359.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Communities & Collections",
+        "on_click_jump_to": "https://espace.curtin.edu.au/community-list"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                358.4666748046875
+            ],
+            [
+                710.0,
+                391.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Issue Date",
+        "on_click_jump_to": "https://espace.curtin.edu.au/browse?type=dateissued"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                390.4666748046875
+            ],
+            [
+                710.0,
+                423.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Author",
+        "on_click_jump_to": "https://espace.curtin.edu.au/browse?type=author"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                422.4666748046875
+            ],
+            [
+                710.0,
+                455.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Title",
+        "on_click_jump_to": "https://espace.curtin.edu.au/browse?type=title"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                454.4666748046875
+            ],
+            [
+                710.0,
+                487.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Subject",
+        "on_click_jump_to": "https://espace.curtin.edu.au/browse?type=subject"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                486.4666748046875
+            ],
+            [
+                710.0,
+                519.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Document Type",
+        "on_click_jump_to": "https://espace.curtin.edu.au/browse?type=type"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                544.86669921875
+            ],
+            [
+                710.0,
+                577.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Issue Date",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/3/browse?type=dateissued"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                576.86669921875
+            ],
+            [
+                710.0,
+                609.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Author",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/3/browse?type=author"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                608.86669921875
+            ],
+            [
+                710.0,
+                641.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Title",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/3/browse?type=title"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                640.86669921875
+            ],
+            [
+                710.0,
+                673.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Subject",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/3/browse?type=subject"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                672.86669921875
+            ],
+            [
+                710.0,
+                705.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Document Type",
+        "on_click_jump_to": "https://espace.curtin.edu.au/handle/20.500.11937/3/browse?type=type"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                766.2666625976562
+            ],
+            [
+                710.0,
+                799.2666625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Admin",
+        "on_click_jump_to": "https://espace.curtin.edu.au/login"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                859.6666870117188
+            ],
+            [
+                710.0,
+                892.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Most Popular Items",
+        "on_click_jump_to": "https://espace.curtin.edu.au/most-popular/item"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                891.6666870117188
+            ],
+            [
+                710.0,
+                924.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Statistics by Country",
+        "on_click_jump_to": "https://espace.curtin.edu.au/most-popular/country"
+    },
+    {
+        "position": [
+            [
+                405.0,
+                923.6666870117188
+            ],
+            [
+                710.0,
+                956.6666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            65,
+            65
+        ],
+        "text": "Most Popular Authors",
+        "on_click_jump_to": "https://espace.curtin.edu.au/most-popular/author"
+    },
+    {
+        "position": [
+            [
+                390.0,
+                1979.5999755859375
+            ],
+            [
+                522.1499938964844,
+                1996.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            76,
+            76,
+            76
+        ],
+        "text": "FOLLOW CURTIN",
+        "on_click_jump_to": "http://www.curtin.edu.au/socialmedia/"
+    },
+    {
+        "position": [
+            [
+                581.5999755859375,
+                1972.0999755859375
+            ],
+            [
+                594.5999755859375,
+                2007.0999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            84,
+            84,
+            84
+        ],
+        "text": "",
+        "on_click_jump_to": "http://twitter.com/curtinuni"
+    },
+    {
+        "position": [
+            [
+                614.5999755859375,
+                1972.0999755859375
+            ],
+            [
+                627.5999755859375,
+                2007.0999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            84,
+            84,
+            84
+        ],
+        "text": "",
+        "on_click_jump_to": "http://facebook.com/curtinuniversity"
+    },
+    {
+        "position": [
+            [
+                647.5999755859375,
+                1972.0999755859375
+            ],
+            [
+                660.5999755859375,
+                2007.0999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            84,
+            84,
+            84
+        ],
+        "text": "",
+        "on_click_jump_to": "http://instagram.com/curtinuniversity"
+    },
+    {
+        "position": [
+            [
+                680.5999755859375,
+                1972.0999755859375
+            ],
+            [
+                693.5999755859375,
+                2007.0999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            84,
+            84,
+            84
+        ],
+        "text": "",
+        "on_click_jump_to": "http://www.youtube.com/user/CurtinUniversity"
+    },
+    {
+        "position": [
+            [
+                713.5999755859375,
+                1972.0999755859375
+            ],
+            [
+                726.5999755859375,
+                2007.0999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            84,
+            84,
+            84
+        ],
+        "text": "",
+        "on_click_jump_to": "http://www.linkedin.com/company/curtinuniversity"
+    },
+    {
+        "position": [
+            [
+                445.0,
+                2088.183349609375
+            ],
+            [
+                513.0,
+                2104.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "PRV12158",
+        "on_click_jump_to": "http://www.teqsa.gov.au/national-register/provider/prv12158"
+    },
+    {
+        "position": [
+            [
+                390.0,
+                2120.60009765625
+            ],
+            [
+                455.0,
+                2136.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "Copyright",
+        "on_click_jump_to": "http://curtin.edu.au/copyright/"
+    },
+    {
+        "position": [
+            [
+                462.0,
+                2120.60009765625
+            ],
+            [
+                531.0,
+                2136.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "Disclaimer",
+        "on_click_jump_to": "http://curtin.edu.au/disclaimer/"
+    },
+    {
+        "position": [
+            [
+                538.0,
+                2120.60009765625
+            ],
+            [
+                654.0,
+                2136.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "Privacy statement",
+        "on_click_jump_to": "http://informationmanagement.curtin.edu.au/privacy/"
+    },
+    {
+        "position": [
+            [
+                661.0,
+                2120.60009765625
+            ],
+            [
+                737.0,
+                2136.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            20,
+            115,
+            171
+        ],
+        "text": "Accessibility",
+        "on_click_jump_to": "http://curtin.edu.au/accessibility/"
+    },
+    {
+        "position": [
+            [
+                390.0,
+                16.0
+            ],
+            [
+                620.0,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://espace.curtin.edu.au/themes/Mirage2//images/logo-curtin-university.png"
+    }
+]

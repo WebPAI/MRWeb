@@ -1,0 +1,150 @@
+[
+    {
+        "position": [
+            [
+                1287.0,
+                28.0
+            ],
+            [
+                1640.3999938964844,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Seirbhís Náisiúnta Meitéareolaíochta na hÉireann",
+        "on_click_jump_to": "https://www.met.ie/ga/"
+    },
+    {
+        "position": [
+            [
+                1656.4000244140625,
+                28.0
+            ],
+            [
+                1759.7166900634766,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Réamhaisnéisí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1775.7166748046875,
+                28.0
+            ],
+            [
+                1904.000015258789,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Tuairiscí is déanaí",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                274.0
+            ],
+            [
+                114.68333435058594,
+                294.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Eolas Fúinn",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                298.0
+            ],
+            [
+                91.21665954589844,
+                318.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            30,
+            58,
+            138
+        ],
+        "text": "Straitéis",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                370.0
+            ],
+            [
+                153.28334045410156,
+                390.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Cookie Information",
+        "on_click_jump_to": "https://www.met.ie/about-us/cookie-information-notice"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                138.18333435058594,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.met.ie/img/met-eireann-small.png"
+    },
+    {
+        "position": [
+            [
+                1900.7166748046875,
+                368.0
+            ],
+            [
+                1904.000015258789,
+                392.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.met.ie/images/social-icons-new.png"
+    }
+]

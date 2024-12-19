@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                49.5
+            ],
+            [
+                58.899993896484375,
+                70.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://scholarship.law.marquette.edu/mulr/vol16/iss1/5/"
+    },
+    {
+        "position": [
+            [
+                74.89999389648438,
+                49.5
+            ],
+            [
+                118.46665954589844,
+                70.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "http://solano.co.il/en/about-en/vision-and-goals/"
+    },
+    {
+        "position": [
+            [
+                134.46665954589844,
+                49.5
+            ],
+            [
+                190.98333740234375,
+                70.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "http://roarstore.weebly.com/our-blog/archives/12-2016"
+    },
+    {
+        "position": [
+            [
+                206.98333740234375,
+                49.5
+            ],
+            [
+                261.6666717529297,
+                70.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.greatfallstribune.com/story/news/2019/01/30/montana-panel-hears-bills-related-murdered-missing-indigenous-women/2720359002/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                88.0
+            ],
+            [
+                1920.0,
+                939.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1480694313141-fce5e697ee25?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjU3MTR8&ixlib=rb-4.0.3&w=1200&h=800"
+    }
+]

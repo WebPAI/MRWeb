@@ -1,0 +1,296 @@
+<html><!-- 
+ single html processed by https://github.com/zTrix/webpage2html
+ title: Compatibility API (GnuTLS 3.8.4)
+ url: https://www.gnutls.org/manual/html_node/Compatibility-API.html
+ date: Fri Aug 23 00:16:31 2024
+--><!-- This manual is last updated 20 March 2024 for version
+3.8.4 of GnuTLS.
+
+Copyright (C) 2001-2024 Free Software Foundation, Inc.\\
+Copyright (C) 2001-2024 Nikos Mavrogiannopoulos
+
+Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.3 or
+any later version published by the Free Software Foundation; with no
+Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.  A
+copy of the license is included in the section entitled "GNU Free
+Documentation License". --><!-- Created by GNU Texinfo 6.7, http://www.gnu.org/software/texinfo/ --><head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+<!--
+a.summary-letter {text-decoration: none}
+blockquote.indentedblock {margin-right: 0em}
+div.display {margin-left: 3.2em}
+div.example {margin-left: 3.2em}
+div.lisp {margin-left: 3.2em}
+kbd {font-style: oblique}
+pre.display {font-family: inherit}
+pre.format {font-family: inherit}
+pre.menu-comment {font-family: serif}
+pre.menu-preformatted {font-family: serif}
+span.nolinebreak {white-space: nowrap}
+span.roman {font-family: initial; font-weight: normal}
+span.sansserif {font-family: sans-serif; font-weight: normal}
+ul.no-bullet {list-style: none}
+body { 
+	margin: 2%;
+	padding: 0 5%;
+	background: #ffffff;
+}
+h1,h2,h3,h4,h5 {
+    font-weight: bold;
+    padding: 5px 5px 5px 5px;
+    background-color: #c2e0ff;
+    color: #336699;
+}
+h1 {
+    padding: 2em 2em 2em 5%;
+    color: white;
+    background: #336699;
+    text-align: center;
+    letter-spacing: 3px;
+}
+h2 { text-decoration: underline; }
+pre {
+  margin: 0 5%;
+  padding: 0.5em;
+}
+pre.example,pre.verbatim {
+  padding-bottom: 1em;
+
+  border: solid #c2e0ff;
+  background: #f0faff;
+  border-width: 1px 1px 1px 5px;
+  margin: 1em auto;
+  width: 90%;
+}
+
+div.node {
+  margin: 0 -5% 0 -2%;
+  padding: 0.5em 0.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  font-weight: bold;
+}
+dd, li {
+  padding-top: 0.1em;
+  padding-bottom: 0.1em;
+}
+div.float {
+
+  margin-bottom: 0.5em;
+  text-align: center;
+}
+
+table {
+  text-align: left;
+  margin-left:auto;
+  margin-right:auto;
+  border-spacing: 7px;
+  width: 50%;
+}
+
+th {
+  padding: 0;
+  color: #336699;
+  background-color: #c2e0ff;
+  border: solid #000000;
+  border-width: 0px;
+  margin: 1em auto;
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+td {
+  padding: 0;
+  border: solid #000000;
+  background-color: #f0faff;
+  border-width: 0px;
+  margin: 1em auto;
+  text-align: left;
+  margin-left:auto;
+  margin-right:auto;
+  padding-left: 1em;
+}
+
+dl {
+  text-align: left;
+  margin-left:auto;
+  margin-right:auto;
+  width: 50%;
+
+  padding-left: 1em;
+  border: solid #c2e0ff;
+  background: #f0faff;
+  border-width: 5px 1px 1px 1px;
+  margin: 1em auto;
+}
+
+-->
+</style>
+</head>
+<body lang="en">
+<div class="header">
+<p>
+Previous: <a accesskey="p" data-href="Cryptographic-API.html" href="https://www.gnutls.org/manual/html_node/Cryptographic-API.html" rel="prev">Cryptographic API</a>, Up: <a accesskey="u" data-href="API-reference.html" href="https://www.gnutls.org/manual/html_node/API-reference.html" rel="up">API reference</a> &nbsp; [<a data-href="index.html#SEC_Contents" href="https://www.gnutls.org/manual/html_node/index.html" rel="contents" title="Table of contents">Contents</a>][<a data-href="Function-and-Data-Index.html" href="https://www.gnutls.org/manual/html_node/Function-and-Data-Index.html" rel="index" title="Index">Index</a>]</p>
+</div>
+
+<span id="Compatibility-API-1"></span><h3 class="section">E.13 Compatibility API</h3>
+<p>The following functions are carried over from old GnuTLS released. They might be removed at a later version.
+Their prototypes lie in <samp>gnutls/compat.h</samp>.
+</p>
+<span id="gnutls_005fcompression_005fget-1"></span><h4 class="subheading">gnutls_compression_get</h4>
+<span id="gnutls_005fcompression_005fget"></span><dl>
+<dt id="index-gnutls_005fcompression_005fget">Function: <em>gnutls_compression_method_t</em> <strong>gnutls_compression_get</strong> <em>(gnutls_session_t <var>session</var>)</em></dt>
+<dd><p><var>session</var>: is a <code>gnutls_session_t</code>  type.
+</p>
+<p>Get the currently used compression algorithm.
+</p>
+<p><strong>Returns:</strong> the currently used compression method, a
+<code>gnutls_compression_method_t</code>  value.
+</p></dd></dl>
+<span id="gnutls_005fcompression_005fget_005fid-1"></span><h4 class="subheading">gnutls_compression_get_id</h4>
+<span id="gnutls_005fcompression_005fget_005fid"></span><dl>
+<dt id="index-gnutls_005fcompression_005fget_005fid">Function: <em>gnutls_compression_method_t</em> <strong>gnutls_compression_get_id</strong> <em>(const char * <var>name</var>)</em></dt>
+<dd><p><var>name</var>: is a compression method name
+</p>
+<p>The names are compared in a case insensitive way.
+</p>
+<p><strong>Returns:</strong> an id of the specified in a string compression method, or
+<code>GNUTLS_COMP_UNKNOWN</code>  on error.
+</p></dd></dl>
+<span id="gnutls_005fcompression_005fget_005fname-1"></span><h4 class="subheading">gnutls_compression_get_name</h4>
+<span id="gnutls_005fcompression_005fget_005fname"></span><dl>
+<dt id="index-gnutls_005fcompression_005fget_005fname">Function: <em>const char *</em> <strong>gnutls_compression_get_name</strong> <em>(gnutls_compression_method_t <var>algorithm</var>)</em></dt>
+<dd><p><var>algorithm</var>: is a Compression algorithm
+</p>
+<p>Convert a <code>gnutls_compression_method_t</code>  value to a string.
+</p>
+<p><strong>Returns:</strong> a pointer to a string that contains the name of the
+specified compression algorithm, or <code>NULL</code> .
+</p></dd></dl>
+<span id="gnutls_005fcompression_005flist-1"></span><h4 class="subheading">gnutls_compression_list</h4>
+<span id="gnutls_005fcompression_005flist"></span><dl>
+<dt id="index-gnutls_005fcompression_005flist">Function: <em>const gnutls_compression_method_t *</em> <strong>gnutls_compression_list</strong> <em>( <var>void</var>)</em></dt>
+<dd>
+<p>Get a list of compression methods.
+</p>
+<p><strong>Returns:</strong> a zero-terminated list of <code>gnutls_compression_method_t</code> 
+integers indicating the available compression methods.
+</p></dd></dl>
+<span id="gnutls_005fglobal_005fset_005fmem_005ffunctions-1"></span><h4 class="subheading">gnutls_global_set_mem_functions</h4>
+<span id="gnutls_005fglobal_005fset_005fmem_005ffunctions"></span><dl>
+<dt id="index-gnutls_005fglobal_005fset_005fmem_005ffunctions">Function: <em>void</em> <strong>gnutls_global_set_mem_functions</strong> <em>(gnutls_alloc_function <var>alloc_func</var>, gnutls_alloc_function <var>secure_alloc_func</var>, gnutls_is_secure_function <var>is_secure_func</var>, gnutls_realloc_function <var>realloc_func</var>, gnutls_free_function <var>free_func</var>)</em></dt>
+<dd><p><var>alloc_func</var>: it’s the default memory allocation function. Like <code>malloc()</code> .
+</p>
+<p><var>secure_alloc_func</var>: This is the memory allocation function that will be used for sensitive data.
+</p>
+<p><var>is_secure_func</var>: a function that returns 0 if the memory given is not secure. May be NULL.
+</p>
+<p><var>realloc_func</var>: A realloc function
+</p>
+<p><var>free_func</var>: The function that frees allocated data. Must accept a NULL pointer.
+</p>
+<p><strong>Deprecated:</strong> since 3.3.0 it is no longer possible to replace the internally used 
+memory allocation functions
+</p>
+<p>This is the function where you set the memory allocation functions
+gnutls is going to use. By default the libc’s allocation functions
+(<code>malloc()</code> , <code>free()</code> ), are used by gnutls, to allocate both sensitive
+and not sensitive data.  This function is provided to set the
+memory allocation functions to something other than the defaults
+</p>
+<p>This function must be called before <code>gnutls_global_init()</code>  is called.
+This function is not thread safe.
+</p></dd></dl>
+<span id="gnutls_005fopenpgp_005fprivkey_005fsign_005fhash-1"></span><h4 class="subheading">gnutls_openpgp_privkey_sign_hash</h4>
+<span id="gnutls_005fopenpgp_005fprivkey_005fsign_005fhash"></span><dl>
+<dt id="index-gnutls_005fopenpgp_005fprivkey_005fsign_005fhash">Function: <em>int</em> <strong>gnutls_openpgp_privkey_sign_hash</strong> <em>(gnutls_openpgp_privkey_t <var>key</var>, const gnutls_datum_t * <var>hash</var>, gnutls_datum_t * <var>signature</var>)</em></dt>
+<dd><p><var>key</var>: Holds the key
+</p>
+<p><var>hash</var>: holds the data to be signed
+</p>
+<p><var>signature</var>: will contain newly allocated signature
+</p>
+<p>This function is no-op.
+</p>
+<p><strong>Returns:</strong> <code>GNUTLS_E_UNIMPLEMENTED_FEATURE</code> .
+</p></dd></dl>
+<span id="gnutls_005fpriority_005fcompression_005flist-1"></span><h4 class="subheading">gnutls_priority_compression_list</h4>
+<span id="gnutls_005fpriority_005fcompression_005flist"></span><dl>
+<dt id="index-gnutls_005fpriority_005fcompression_005flist">Function: <em>int</em> <strong>gnutls_priority_compression_list</strong> <em>(gnutls_priority_t <var>pcache</var>, const unsigned int ** <var>list</var>)</em></dt>
+<dd><p><var>pcache</var>: is a <code>gnutls_priority_t</code>  type.
+</p>
+<p><var>list</var>: will point to an integer list
+</p>
+<p>Get a list of available compression method in the priority
+structure.
+</p>
+<p><strong>Returns:</strong> the number of methods, or an error code.
+</p>
+<p><strong>Since:</strong> 3.0
+</p></dd></dl>
+<span id="gnutls_005fx509_005fcrt_005fget_005fpreferred_005fhash_005falgorithm-1"></span><h4 class="subheading">gnutls_x509_crt_get_preferred_hash_algorithm</h4>
+<span id="gnutls_005fx509_005fcrt_005fget_005fpreferred_005fhash_005falgorithm"></span><dl>
+<dt id="index-gnutls_005fx509_005fcrt_005fget_005fpreferred_005fhash_005falgorithm">Function: <em>int</em> <strong>gnutls_x509_crt_get_preferred_hash_algorithm</strong> <em>(gnutls_x509_crt_t <var>crt</var>, gnutls_digest_algorithm_t * <var>hash</var>, unsigned int * <var>mand</var>)</em></dt>
+<dd><p><var>crt</var>: Holds the certificate
+</p>
+<p><var>hash</var>: The result of the call with the hash algorithm used for signature
+</p>
+<p><var>mand</var>: If non-zero it means that the algorithm MUST use this hash. May be <code>NULL</code> .
+</p>
+<p>This function will read the certificate and return the appropriate digest
+algorithm to use for signing with this certificate. Some certificates (i.e.
+DSA might not be able to sign without the preferred algorithm).
+</p>
+<p><strong>Deprecated:</strong> Please use <code>gnutls_pubkey_get_preferred_hash_algorithm()</code> .
+</p>
+<p><strong>Returns:</strong> the 0 if the hash algorithm is found. A negative error code is
+returned on error.
+</p>
+<p><strong>Since:</strong> 2.12.0
+</p></dd></dl>
+<span id="gnutls_005fx509_005fprivkey_005fsign_005fhash-1"></span><h4 class="subheading">gnutls_x509_privkey_sign_hash</h4>
+<span id="gnutls_005fx509_005fprivkey_005fsign_005fhash"></span><dl>
+<dt id="index-gnutls_005fx509_005fprivkey_005fsign_005fhash">Function: <em>int</em> <strong>gnutls_x509_privkey_sign_hash</strong> <em>(gnutls_x509_privkey_t <var>key</var>, const gnutls_datum_t * <var>hash</var>, gnutls_datum_t * <var>signature</var>)</em></dt>
+<dd><p><var>key</var>: a key
+</p>
+<p><var>hash</var>: holds the data to be signed
+</p>
+<p><var>signature</var>: will contain newly allocated signature
+</p>
+<p>This function will sign the given hash using the private key. Do not
+use this function directly unless you know what it is. Typical signing
+requires the data to be hashed and stored in special formats 
+(e.g. BER Digest-Info for RSA).
+</p>
+<p>This API is provided only for backwards compatibility, and thus
+restricted to RSA, DSA and ECDSA key types. For other key types please
+use <code>gnutls_privkey_sign_hash()</code>  and <code>gnutls_privkey_sign_data()</code> .
+</p>
+<p><strong>Returns:</strong> On success, <code>GNUTLS_E_SUCCESS</code>  (0) is returned, otherwise a
+negative error value.
+</p>
+<p>Deprecated in: 2.12.0
+</p></dd></dl>
+<hr>
+<div class="header">
+<p>
+Previous: <a accesskey="p" data-href="Cryptographic-API.html" href="https://www.gnutls.org/manual/html_node/Cryptographic-API.html" rel="prev">Cryptographic API</a>, Up: <a accesskey="u" data-href="API-reference.html" href="https://www.gnutls.org/manual/html_node/API-reference.html" rel="up">API reference</a> &nbsp; [<a data-href="index.html#SEC_Contents" href="https://www.gnutls.org/manual/html_node/index.html" rel="contents" title="Table of contents">Contents</a>][<a data-href="Function-and-Data-Index.html" href="https://www.gnutls.org/manual/html_node/Function-and-Data-Index.html" rel="index" title="Index">Index</a>]</p>
+</div>
+
+
+</body></html>

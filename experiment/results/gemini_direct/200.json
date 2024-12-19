@@ -1,0 +1,936 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                225.56666564941406,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Help",
+        "on_click_jump_to": "https://www.ebsqart.com/FAQ/"
+    },
+    {
+        "position": [
+            [
+                241.5666656494141,
+                16.0
+            ],
+            [
+                281.1666717529297,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Login",
+        "on_click_jump_to": "https://www.ebsqart.com/Login.asp?CMD=INITIATELOGIN&SUCCESSREDIRECT=https%3A//www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Stop/99094/"
+    },
+    {
+        "position": [
+            [
+                297.16668701171875,
+                16.0
+            ],
+            [
+                327.25001525878906,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Join",
+        "on_click_jump_to": "https://www.ebsqart.com/Information/Step-1-Register/85/"
+    },
+    {
+        "position": [
+            [
+                1176.7166748046875,
+                18.0
+            ],
+            [
+                1728.0,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "SALE! Start your year with EBSQ for just $6.50/month! Click here for details.",
+        "on_click_jump_to": "http://www.ebsqart.com/Information/Step-2-Upgrade/87/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                58.0
+            ],
+            [
+                254.73333740234375,
+                78.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Galleries",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-Galleries/1/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                90.0
+            ],
+            [
+                248.56666564941406,
+                110.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Exhibits",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-Shows/Exhibits/1/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                122.0
+            ],
+            [
+                238.9166717529297,
+                142.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Artists",
+        "on_click_jump_to": "https://www.ebsqart.com/Artists/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                154.0
+            ],
+            [
+                275.0,
+                174.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Community",
+        "on_click_jump_to": "https://www.ebsqart.com/forum"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                186.0
+            ],
+            [
+                232.6666717529297,
+                206.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Learn",
+        "on_click_jump_to": "https://www.ebsqart.com/Education/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                218.0
+            ],
+            [
+                235.63333129882812,
+                238.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.ebsqart.com/Information/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                250.0
+            ],
+            [
+                224.5,
+                270.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://blog.ebsqart.com/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                282.0
+            ],
+            [
+                233.0,
+                302.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "COAs",
+        "on_click_jump_to": "https://www.ebsqart.com/Certificates-of-Authenticity/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                314.0
+            ],
+            [
+                293.3000030517578,
+                334.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Art of the Day",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-of-the-Day/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                346.0
+            ],
+            [
+                242.5,
+                366.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Search",
+        "on_click_jump_to": "https://www.ebsqart.com/Search/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                378.0
+            ],
+            [
+                264.71665954589844,
+                398.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "My Profile",
+        "on_click_jump_to": "https://www.ebsqart.com/Edit-Profile/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                925.0833129882812
+            ],
+            [
+                251.11666870117188,
+                945.0833129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Thumbs",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/1/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                947.0833129882812
+            ],
+            [
+                492.79998779296875,
+                971.0833129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Thumbs",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/1/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                973.0833129882812
+            ],
+            [
+                238.03334045410156,
+                993.0833129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "< Item",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Say-AaaaahNFS/56935/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1029.0833740234375
+            ],
+            [
+                201.3333282470703,
+                1049.0833740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "2",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Draconis-SOLD/42529/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1085.0833740234375
+            ],
+            [
+                242.56666564941406,
+                1105.0833740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Page >",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Draconis-SOLD/42529/"
+    },
+    {
+        "position": [
+            [
+                263.066650390625,
+                1085.0833740234375
+            ],
+            [
+                309.09999084472656,
+                1105.0833740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Item >",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Autumn-Woods/71291/"
+    },
+    {
+        "position": [
+            [
+                524.7999877929688,
+                146.0
+            ],
+            [
+                567.9166564941406,
+                166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.ebsqart.com/"
+    },
+    {
+        "position": [
+            [
+                583.9166870117188,
+                146.0
+            ],
+            [
+                694.2833557128906,
+                166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Artist Directory",
+        "on_click_jump_to": "https://www.ebsqart.com/Artists/"
+    },
+    {
+        "position": [
+            [
+                710.2833251953125,
+                146.0
+            ],
+            [
+                856.1333160400391,
+                166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Cathy Kate Johnson",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/"
+    },
+    {
+        "position": [
+            [
+                872.13330078125,
+                146.0
+            ],
+            [
+                975.3332977294922,
+                166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Exhibit Entries",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/1/"
+    },
+    {
+        "position": [
+            [
+                564.1666870117188,
+                234.0
+            ],
+            [
+                610.3500213623047,
+                254.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Profile",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/"
+    },
+    {
+        "position": [
+            [
+                564.1666870117188,
+                258.0
+            ],
+            [
+                625.1000213623047,
+                278.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Portfolio",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Art-Portfolio/1/"
+    },
+    {
+        "position": [
+            [
+                564.1666870117188,
+                282.0
+            ],
+            [
+                661.0833435058594,
+                302.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Commissions",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Art-Commissions/"
+    },
+    {
+        "position": [
+            [
+                564.1666870117188,
+                306.0
+            ],
+            [
+                630.0666809082031,
+                326.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Interview",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Artist-Interview/"
+    },
+    {
+        "position": [
+            [
+                564.1666870117188,
+                330.0
+            ],
+            [
+                667.3666839599609,
+                350.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Exhibit Entries",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/1/"
+    },
+    {
+        "position": [
+            [
+                564.1666870117188,
+                354.0
+            ],
+            [
+                677.6166839599609,
+                374.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Winning Entries",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Artist-Winning-Entries/1/"
+    },
+    {
+        "position": [
+            [
+                564.1666870117188,
+                378.0
+            ],
+            [
+                665.4666748046875,
+                398.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Art of the Day",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Artist-AOTD-Selections/1/"
+    },
+    {
+        "position": [
+            [
+                524.7999877929688,
+                434.0
+            ],
+            [
+                583.9166564941406,
+                454.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Thumbs",
+        "on_click_jump_to": "https://www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/1/"
+    },
+    {
+        "position": [
+            [
+                1427.199951171875,
+                84.0
+            ],
+            [
+                1727.9999389648438,
+                108.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Login",
+        "on_click_jump_to": "https://www.ebsqart.com/login.asp"
+    },
+    {
+        "position": [
+            [
+                1427.199951171875,
+                108.0
+            ],
+            [
+                1727.9999389648438,
+                132.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Create Account",
+        "on_click_jump_to": "https://www.ebsqart.com/Information/Step-1-Register/85/"
+    },
+    {
+        "position": [
+            [
+                1427.199951171875,
+                192.0
+            ],
+            [
+                1727.9999389648438,
+                216.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Browse Art Galleries",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-Galleries/1/"
+    },
+    {
+        "position": [
+            [
+                1427.199951171875,
+                216.0
+            ],
+            [
+                1727.9999389648438,
+                240.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Browse Art Exhibits",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-Shows/Exhibits/1/"
+    },
+    {
+        "position": [
+            [
+                1427.199951171875,
+                240.0
+            ],
+            [
+                1727.9999389648438,
+                264.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Browse Artists",
+        "on_click_jump_to": "https://www.ebsqart.com/Artists/"
+    },
+    {
+        "position": [
+            [
+                1427.199951171875,
+                264.0
+            ],
+            [
+                1727.9999389648438,
+                288.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Browse Art of the Day",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-of-the-Day/1/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                432.0
+            ],
+            [
+                492.79998779296875,
+                779.0833129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://art.ebsqart.com/Art/Gallery/Media-Style/205532/Title.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                875.0833129882812
+            ],
+            [
+                208.0,
+                891.0833129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/ebsqIcon.png"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                875.0833129882812
+            ],
+            [
+                232.0,
+                891.0833129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/website.png"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                875.0833129882812
+            ],
+            [
+                256.0,
+                891.0833129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/email.png"
+    },
+    {
+        "position": [
+            [
+                264.0,
+                875.0833129882812
+            ],
+            [
+                280.0,
+                891.0833129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/blog.png"
+    },
+    {
+        "position": [
+            [
+                288.0,
+                875.0833129882812
+            ],
+            [
+                304.0,
+                891.0833129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/ebay.png"
+    },
+    {
+        "position": [
+            [
+                312.0,
+                875.0833129882812
+            ],
+            [
+                328.0,
+                891.0833129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/cafepress.png"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                875.0833129882812
+            ],
+            [
+                352.0,
+                891.0833129882812
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/rss.png"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1139.0833740234375
+            ],
+            [
+                492.79998779296875,
+                1523.2167053222656
+            ]
+        ],
+        "type": "img",
+        "src": "https://art.ebsqart.com/Art/Figures-and-Edges/acrylic/99094/650/650/Stop.jpg"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                1531.2166748046875
+            ],
+            [
+                492.79998779296875,
+                1766.8500213623047
+            ]
+        ],
+        "type": "img",
+        "src": "https://art.ebsqart.com/Art/Figures-and-Edges/acrylic/99095/300/300/Stop.jpg"
+    },
+    {
+        "position": [
+            [
+                524.7999877929688,
+                488.0
+            ],
+            [
+                1427.2000122070312,
+                1640.38330078125
+            ]
+        ],
+        "type": "img",
+        "src": "https://art.ebsqart.com/Art/Figures-and-Edges/acrylic/99094/650/650/Stop.jpg"
+    }
+]

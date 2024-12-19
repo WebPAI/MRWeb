@@ -1,0 +1,330 @@
+[
+    {
+        "position": [
+            [
+                220.0,
+                20.71665954589844
+            ],
+            [
+                302.6666717529297,
+                40.71665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Photos",
+        "on_click_jump_to": "https://carsbase.com/photo/"
+    },
+    {
+        "position": [
+            [
+                307.16668701171875,
+                20.71665954589844
+            ],
+            [
+                379.45001220703125,
+                40.71665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://carsbase.com/news/"
+    },
+    {
+        "position": [
+            [
+                383.9500122070313,
+                20.71665954589844
+            ],
+            [
+                462.3166809082032,
+                40.71665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Forum",
+        "on_click_jump_to": "https://carsbase.com/photoforum/"
+    },
+    {
+        "position": [
+            [
+                466.816650390625,
+                20.71665954589844
+            ],
+            [
+                545.0499877929688,
+                40.71665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Rating",
+        "on_click_jump_to": "https://carsbase.com/photo-rating/"
+    },
+    {
+        "position": [
+            [
+                1868.4000244140625,
+                18.71665954589844
+            ],
+            [
+                1908.0000305175781,
+                42.71665954589844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "Login",
+        "on_click_jump_to": "https://carsbase.com/login/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                77.43333435058594
+            ],
+            [
+                66.66667175292969,
+                101.43333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Photos",
+        "on_click_jump_to": "https://carsbase.com/photo/"
+    },
+    {
+        "position": [
+            [
+                87.23333740234375,
+                77.43333435058594
+            ],
+            [
+                170.26666259765625,
+                101.43333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Alfa Romeo",
+        "on_click_jump_to": "https://carsbase.com/photo/alfa-romeo/"
+    },
+    {
+        "position": [
+            [
+                190.8333282470703,
+                77.43333435058594
+            ],
+            [
+                304.25,
+                101.43333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "Alfa Romeo 147",
+        "on_click_jump_to": "https://carsbase.com/photo/alfa-romeo/147/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                133.43333435058594
+            ],
+            [
+                74.23333740234375,
+                157.43333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "prev pic",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1846.683349609375,
+                133.43333435058594
+            ],
+            [
+                1904.000015258789,
+                157.43333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            185,
+            28,
+            28
+        ],
+        "text": "next pic",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1448.0,
+                349.433349609375
+            ],
+            [
+                1888.0,
+                373.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Alfa Romeo pictures 2006",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1448.0,
+                381.433349609375
+            ],
+            [
+                1888.0,
+                405.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "147 photos 59",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1448.0,
+                413.433349609375
+            ],
+            [
+                1888.0,
+                437.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Alfa Romeo news",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                373.816650390625,
+                255.4333343505859
+            ],
+            [
+                431.0333251953125,
+                275.43333435058594
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "car pics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                271.48333740234375,
+                279.433349609375
+            ],
+            [
+                347.8000030517578,
+                299.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            114,
+            128
+        ],
+        "text": "eto design",
+        "on_click_jump_to": "https://www.eto-design.ru/"
+    },
+    {
+        "position": [
+            [
+                12.0,
+                12.0
+            ],
+            [
+                204.0,
+                49.43333435058594
+            ]
+        ],
+        "type": "img",
+        "src": "https://carsbase.com/images/design/logo_carsbase_200.png"
+    },
+    {
+        "position": [
+            [
+                1432.0,
+                189.4333343505859
+            ],
+            [
+                1560.0,
+                317.43333435058594
+            ]
+        ],
+        "type": "img",
+        "src": "https://carsbase.com/cache/storage/catalog/logos/54-gthumb-gwdata128-ghdata128.jpg"
+    }
+]

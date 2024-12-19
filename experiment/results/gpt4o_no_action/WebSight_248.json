@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                855.816650390625,
+                381.5
+            ],
+            [
+                898.9333190917969,
+                405.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                930.933349609375,
+                381.5
+            ],
+            [
+                974.5666809082031,
+                405.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1006.566650390625,
+                381.5
+            ],
+            [
+                1064.1666564941406,
+                405.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                864.0,
+                437.5
+            ],
+            [
+                1056.0,
+                461.5
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/image-url.jpg"
+    }
+]

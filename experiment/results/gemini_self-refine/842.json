@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                931.316650390625,
+                409.5833129882813
+            ],
+            [
+                1194.7999877929688,
+                429.5833129882813
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "What to Ask the Person in the Mirror",
+        "on_click_jump_to": "http://www.amazon.com/What-Ask-Person-Mirror-Questions/dp/1422170012"
+    },
+    {
+        "position": [
+            [
+                1680.0,
+                60.0
+            ],
+            [
+                1904.0,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Learn About TEC",
+        "on_click_jump_to": "http://www.tecmidwest.com/about-tec.cfm"
+    },
+    {
+        "position": [
+            [
+                1680.0,
+                92.0
+            ],
+            [
+                1904.0,
+                116.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "TEC Programs",
+        "on_click_jump_to": "http://www.tecmidwest.com/program-details.cfm"
+    },
+    {
+        "position": [
+            [
+                1680.0,
+                124.0
+            ],
+            [
+                1904.0,
+                148.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact TEC",
+        "on_click_jump_to": "mailto:info@tecmidwest.com?subject=Learn About TEC From Sam's Blog"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                0.0
+            ],
+            [
+                1712.0,
+                235.5833282470703
+            ]
+        ],
+        "type": "img",
+        "src": "http://1.bp.blogspot.com/_tJMW7Ckh2Xw/S6eJ7T566cI/AAAAAAAAAFM/Io-v8ZA96bA/S1600-R/tec_banner_v3.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                479.5833129882813
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.tecmidwest.com/images/bg-page.jpg"
+    }
+]

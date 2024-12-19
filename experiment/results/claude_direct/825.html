@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .blog-header {
+            font-size: 24px;
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+        
+        .link-blue {
+            color: rgb(78, 78, 196);
+            text-decoration: none;
+        }
+        
+        .link-blue:hover {
+            text-decoration: underline;
+        }
+        
+        .white-bg-overlay {
+            background-image: url('https://resources.blogblog.com/blogblog/data/1kt/transparent/white80.png');
+            background-repeat: repeat;
+        }
+        
+        .black-bg-overlay {
+            background-image: url('https://resources.blogblog.com/blogblog/data/1kt/transparent/black50.png');
+            background-repeat: repeat;
+        }
+
+        .share-buttons {
+            background-image: url('https://www.blogger.com/img/share_buttons_20_3.png');
+            width: 20px;
+            height: 20px;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body class="bg-gray-100">
+    <div class="container mx-auto px-4">
+        <!-- Header -->
+        <header class="py-6">
+            <a href="http://nofearofthefuture.blogspot.com/" class="blog-header">
+                No Fear of the Future
+            </a>
+            <div class="text-sm text-gray-600">A nexus of speculative word and thought</div>
+        </header>
+
+        <!-- Main Content Area -->
+        <div class="flex">
+            <!-- Sidebar -->
+            <div class="w-1/4 pr-8">
+                <div class="white-bg-overlay p-4 rounded">
+                    <!-- Contributors Section -->
+                    <div class="mb-8">
+                        <h3 class="font-bold mb-4">Contributors</h3>
+                        <ul class="space-y-2">
+                            <li><a href="#" class="link-blue">Alexis Glynn Latner</a></li>
+                            <li><a href="#" class="link-blue">Chris N. Brown</a></li>
+                            <li><a href="#" class="link-blue">Jayme Lynn Blaschke</a></li>
+                            <!-- Add other contributors... -->
+                        </ul>
+                    </div>
+
+                    <!-- Blog List Section -->
+                    <div class="mb-8">
+                        <h3 class="font-bold mb-4">Blogs</h3>
+                        <ul class="space-y-2">
+                            <li><a href="#" class="link-blue">Gibberish</a></li>
+                            <li><a href="#" class="link-blue">Friday Night Videos</a></li>
+                            <!-- Add other blogs... -->
+                        </ul>
+                    </div>
+
+                    <!-- Archive Section -->
+                    <div class="mb-8">
+                        <h3 class="font-bold mb-4">Blog Archive</h3>
+                        <ul class="space-y-2">
+                            <li>
+                                <span class="cursor-pointer">► 2020</span>
+                                <!-- Add dropdown content -->
+                            </li>
+                            <!-- Add other years... -->
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Content -->
+            <div class="w-3/4">
+                <div class="white-bg-overlay p-8 rounded">
+                    <!-- Blog Post Content -->
+                    <article class="mb-8">
+                        <h2 class="text-xl font-bold mb-4">MEMORY: 42</h2>
+                        <!-- Add post content -->
+                    </article>
+
+                    <!-- Post Navigation -->
+                    <div class="flex justify-between mt-8">
+                        <a href="#" class="link-blue">Newer Post</a>
+                        <a href="#" class="link-blue">Home</a>
+                        <a href="#" class="link-blue">Older Post</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="black-bg-overlay mt-8 p-4 text-white">
+            <div class="flex justify-between items-center">
+                <div>
+                    <span>Posted by </span>
+                    <a href="#" class="link-blue">Jayme Lynn Blaschke</a>
+                </div>
+                <div class="flex space-x-2">
+                    <!-- Share buttons -->
+                    <div class="share-buttons"></div>
+                    <div class="share-buttons"></div>
+                    <div class="share-buttons"></div>
+                    <div class="share-buttons"></div>
+                    <div class="share-buttons"></div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

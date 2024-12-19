@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                825.0999755859375,
+                608.0
+            ],
+            [
+                867.9999694824219,
+                632.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                892.0,
+                608.0
+            ],
+            [
+                935.5666656494141,
+                632.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                959.566650390625,
+                608.0
+            ],
+            [
+                1016.1999816894531,
+                632.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Vehicles",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1040.199951171875,
+                608.0
+            ],
+            [
+                1094.883285522461,
+                632.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                600.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/green-truck.jpg"
+    }
+]

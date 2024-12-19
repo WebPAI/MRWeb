@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Healthcare Provider</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .bg-overlay {
+            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6));
+        }
+    </style>
+</head>
+<body>
+    <div class="relative h-[560px] w-full">
+        <!-- Background Image -->
+        <div class="absolute inset-0 z-0">
+            <img src="https://source.unsplash.com/random/1600x900/?healthcare" 
+                 class="w-full h-full object-cover" alt="Healthcare Background">
+            <div class="absolute inset-0 bg-overlay"></div>
+        </div>
+
+        <!-- Content -->
+        <div class="relative z-10 px-4">
+            <!-- Header -->
+            <header class="pt-6">
+                <h1 class="text-white text-3xl font-bold mb-8">Healthcare Provider</h1>
+                <nav class="ml-[12px]">
+                    <div class="flex space-x-4">
+                        <a href="https://www.scottishahlulbaytsociety.org/first-aid-training-session/" 
+                           class="text-white hover:text-gray-200 py-[10.5px]">Services</a>
+                        <a href="https://list.uvm.edu/cgi-bin/wa?A2=ind9506d&amp;L=MEDLIB-L&amp;P=106878" 
+                           class="text-white hover:text-gray-200 py-[10.5px]">Testimonials</a>
+                        <a href="https://www.pcworld.com/article/135814/article.html" 
+                           class="text-white hover:text-gray-200 py-[10.5px]">Insurance Providers</a>
+                    </div>
+                </nav>
+            </header>
+
+            <!-- Main Content -->
+            <main class="mt-16 px-4">
+                <section class="mb-12">
+                    <h2 class="text-white text-2xl font-semibold mb-4">Our Services</h2>
+                    <p class="text-white">We provide a wide range of healthcare services to meet your needs. From primary care to specialty care, we have you covered.</p>
+                </section>
+
+                <section class="mb-12">
+                    <h2 class="text-white text-2xl font-semibold mb-4">Patient Testimonials</h2>
+                    <p class="text-white">Hear what our patients have to say about our services.</p>
+                </section>
+
+                <section class="mb-12">
+                    <h2 class="text-white text-2xl font-semibold mb-4">Insurance Providers</h2>
+                    <p class="text-white">We are partnered with many insurance providers to ensure you get the care you need.</p>
+                </section>
+            </main>
+
+            <!-- Footer -->
+            <footer class="absolute bottom-0 left-0 w-full px-4 pb-4">
+                <div class="text-white mb-4">Phone: 123-456-7890</div>
+                <nav>
+                    <div class="flex space-x-4 ml-[12px]">
+                        <a href="http://news.urbrainy.com/2019/04/15/10512/" 
+                           class="text-white hover:text-gray-200 py-[10.5px]">Privacy Policy</a>
+                        <a href="http://profile.nashikonline.in/one-touch-solution_2835154" 
+                           class="text-white hover:text-gray-200 py-[10.5px]">Terms of Service</a>
+                    </div>
+                </nav>
+            </footer>
+        </div>
+    </div>
+</body>
+</html>

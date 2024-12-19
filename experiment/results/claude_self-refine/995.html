@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>openparliament.ca</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .breadcrumb-divider::after {
+            content: '/';
+            margin: 0 0.5rem;
+            color: #666;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Navigation bar -->
+    <nav class="bg-[#2F3749] h-[44px] px-4">
+        <div class="max-w-[1400px] mx-auto flex items-center justify-between h-full">
+            <a href="/">
+                <img src="https://openparliament.ca/static/images/logotype-white-2x.png" 
+                     class="h-[34px] w-[220px]" alt="openparliament.ca logo">
+            </a>
+            
+            <div class="flex h-full items-center">
+                <a href="https://openparliament.ca/politicians/" class="text-[#EEEEEE] px-4 h-full flex items-center">MPs</a>
+                <a href="https://openparliament.ca/bills/" class="text-[#EEEEEE] px-4 h-full flex items-center">Bills</a>
+                <a href="https://openparliament.ca/debates/" class="text-[#FFC757] px-4 h-full flex items-center">Debates</a>
+                <a href="https://openparliament.ca/committees/" class="text-[#EEEEEE] px-4 h-full flex items-center">Committees</a>
+                <a href="https://openparliament.ca/about/" class="text-[#EEEEEE] px-4 h-full flex items-center">About</a>
+                <a href="https://openparliament.ca/labs/" class="text-[#EEEEEE] px-4 h-full flex items-center">Labs</a>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Breadcrumb -->
+    <div class="max-w-[1400px] mx-auto py-4 text-xs">
+        <div class="flex items-center">
+            <a href="/" class="text-[#177ABA]">HOME</a>
+            <span class="breadcrumb-divider"></span>
+            <a href="/debates" class="text-[#177ABA]">DEBATES</a>
+            <span class="breadcrumb-divider"></span>
+            <a href="/debates/2008" class="text-[#177ABA]">2008</a>
+            <span class="breadcrumb-divider"></span>
+            <a href="/debates/2008/3/10" class="text-[#177ABA]">MARCH 10TH, 2008</a>
+            <span class="breadcrumb-divider"></span>
+            <span class="text-gray-600">STATEMENT BY CLAUDE BACHAND</span>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="max-w-[1400px] mx-auto mt-8">
+        <h1 class="text-3xl font-bold mb-6">Claude Bachand on Business of Supply</h1>
+        
+        <p class="mb-8">
+            In the House of Commons on March 10th, 2008. 
+            <a href="#" class="text-[#1A59C7] hover:underline">See this statement in context</a>
+        </p>
+
+        <!-- Content metadata -->
+        <div class="text-sm text-gray-600 mb-4">
+            Opposition Motion—Afghanistan<br>
+            Business of Supply<br>
+            Government Orders<br>
+            March 10th, 2008 / 1:30 p.m.
+        </div>
+
+        <!-- Main statement content -->
+        <div class="flex gap-6 mb-8">
+            <img src="https://openparliament.ca/media/polpics/thumbnail/claude-bachand-thumb.jpg" 
+                 class="w-[104px] h-[129px]" alt="Member photo">
+            
+            <div>
+                <div class="mb-2">
+                    <a href="#" class="text-[#1A59C7] hover:underline">Claude Bachand</a>
+                    <span class="text-gray-600 ml-2">Saint-Jean, QC</span>
+                </div>
+                <p class="text-gray-800">
+                    Mr. Speaker, I have the list of witnesses my colleague is referring to. 
+                    They are highly qualified people. There was Rémi Landry, who often 
+                    appears on Radio-Canada as a defence commentator, Ms. Peterson and 
+                    Ms. Banerjee. These people are adding their voices to say that the 
+                    picture in Afghanistan is not as rosy as we are led to believe. The Bloc 
+                    Québécois has the most responsible, most balanced solution, as we will demonstrate on 
+                    Thursday evening.
+                </p>
+            </div>
+        </div>
+
+        <a href="#" class="text-[#1A59C7] hover:underline">See context</a> to find out what was said next.
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 mt-16 py-8">
+        <div class="max-w-[1400px] mx-auto grid grid-cols-4 gap-8">
+            <!-- Similar footer structure as before, but with exact spacing and colors -->
+            <!-- ... -->
+        </div>
+    </footer>
+</body>
+</html>

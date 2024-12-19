@@ -1,0 +1,494 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                241.56666564941406,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Help",
+        "on_click_jump_to": "https://www.ebsqart.com/FAQ/"
+    },
+    {
+        "position": [
+            [
+                257.566650390625,
+                16.0
+            ],
+            [
+                297.1666564941406,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Login",
+        "on_click_jump_to": "https://www.ebsqart.com/Login.asp?CMD=INITIATELOGIN&SUCCESSREDIRECT=https%3A//www.ebsqart.com/Artist/Cathy-Kate-Johnson/1494/Exhibit-Entries/Stop/99094/"
+    },
+    {
+        "position": [
+            [
+                313.16668701171875,
+                16.0
+            ],
+            [
+                343.25001525878906,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Join",
+        "on_click_jump_to": "https://www.ebsqart.com/Information/Step-1-Register/85/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                56.0
+            ],
+            [
+                1712.0,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Galleries",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-Galleries/1/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                88.0
+            ],
+            [
+                1712.0,
+                112.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Exhibits",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-Shows/Exhibits/1/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                120.0
+            ],
+            [
+                1712.0,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Artists",
+        "on_click_jump_to": "https://www.ebsqart.com/Artists/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                152.0
+            ],
+            [
+                1712.0,
+                176.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Community",
+        "on_click_jump_to": "https://www.ebsqart.com/forum"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                184.0
+            ],
+            [
+                1712.0,
+                208.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Learn",
+        "on_click_jump_to": "https://www.ebsqart.com/Education/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                216.0
+            ],
+            [
+                1712.0,
+                240.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.ebsqart.com/Information/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                248.0
+            ],
+            [
+                1712.0,
+                272.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://blog.ebsqart.com/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                280.0
+            ],
+            [
+                1712.0,
+                304.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "COAs",
+        "on_click_jump_to": "https://www.ebsqart.com/Certificates-of-Authenticity/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                312.0
+            ],
+            [
+                1712.0,
+                336.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Art of the Day",
+        "on_click_jump_to": "https://www.ebsqart.com/Art-of-the-Day/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                344.0
+            ],
+            [
+                1712.0,
+                368.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Search",
+        "on_click_jump_to": "https://www.ebsqart.com/Search/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                376.0
+            ],
+            [
+                1712.0,
+                400.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "My Profile",
+        "on_click_jump_to": "https://www.ebsqart.com/Edit-Profile/"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                426.0
+            ],
+            [
+                365.1000061035156,
+                446.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Click here for details",
+        "on_click_jump_to": "http://www.ebsqart.com/Information/Step-2-Upgrade/87/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2508.63330078125
+            ],
+            [
+                1712.0,
+                2532.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Community Guidelines",
+        "on_click_jump_to": "https://www.ebsqart.com/Information/Community-Guidelines/15/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2540.63330078125
+            ],
+            [
+                1712.0,
+                2564.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://www.ebsqart.com/Information/Privacy-Policy/16/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2572.63330078125
+            ],
+            [
+                1712.0,
+                2596.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "https://www.ebsqart.com/Information/Terms-of-Service/17/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                2604.63330078125
+            ],
+            [
+                1712.0,
+                2628.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Help",
+        "on_click_jump_to": "https://www.ebsqart.com/FAQ/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                532.0
+            ],
+            [
+                232.0,
+                556.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/ebsqIcon.png"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                532.0
+            ],
+            [
+                264.0,
+                556.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/website.png"
+    },
+    {
+        "position": [
+            [
+                272.0,
+                532.0
+            ],
+            [
+                296.0,
+                556.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/email.png"
+    },
+    {
+        "position": [
+            [
+                304.0,
+                532.0
+            ],
+            [
+                328.0,
+                556.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/blog.png"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                532.0
+            ],
+            [
+                360.0,
+                556.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/ebay.png"
+    },
+    {
+        "position": [
+            [
+                368.0,
+                532.0
+            ],
+            [
+                392.0,
+                556.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/cafepress.png"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                532.0
+            ],
+            [
+                424.0,
+                556.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.ebsqart.com/css/affiliateIcons/rss.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                572.0
+            ],
+            [
+                1712.0,
+                2492.63330078125
+            ]
+        ],
+        "type": "img",
+        "src": "https://art.ebsqart.com/Art/Figures-and-Edges/acrylic/99094/650/650/Stop.jpg"
+    }
+]

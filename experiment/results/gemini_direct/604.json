@@ -1,0 +1,558 @@
+[
+    {
+        "position": [
+            [
+                1451.8333740234375,
+                36.0
+            ],
+            [
+                1495.4667053222656,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/about"
+    },
+    {
+        "position": [
+            [
+                1511.4666748046875,
+                36.0
+            ],
+            [
+                1541.7166748046875,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/faq"
+    },
+    {
+        "position": [
+            [
+                1557.7166748046875,
+                36.0
+            ],
+            [
+                1614.3500213623047,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reports",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/yearly_report"
+    },
+    {
+        "position": [
+            [
+                1630.3499755859375,
+                36.0
+            ],
+            [
+                1711.9999694824219,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/contact"
+    },
+    {
+        "position": [
+            [
+                310.25,
+                617.1666870117188
+            ],
+            [
+                463.43333435058594,
+                637.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Elsevier Science, Inc.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publishers/1116-Elsevier_Science_Inc"
+    },
+    {
+        "position": [
+            [
+                920.2333374023438,
+                775.1666870117188
+            ],
+            [
+                1105.3500061035156,
+                805.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Export to EndNote / Excel",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/search/export?amp=&fq%5B%5D=year_facet%3A%222011%22&id=813&publication_id=813&total_hits=18&view=all"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                857.1666870117188
+            ],
+            [
+                288.9499969482422,
+                881.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "← Previous",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                304.95001220703125,
+                857.1666870117188
+            ],
+            [
+                314.2833557128906,
+                881.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "2",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&page=2&view=all"
+    },
+    {
+        "position": [
+            [
+                330.2833251953125,
+                857.1666870117188
+            ],
+            [
+                382.6166534423828,
+                881.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Next →",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&page=2&view=all"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                913.1666870117188
+            ],
+            [
+                288.9499969482422,
+                937.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "← Previous",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                304.95001220703125,
+                913.1666870117188
+            ],
+            [
+                314.2833557128906,
+                937.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "2",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&page=2&view=all"
+    },
+    {
+        "position": [
+            [
+                330.2833251953125,
+                913.1666870117188
+            ],
+            [
+                382.6166534423828,
+                937.1666870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Next →",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&page=2&view=all"
+    },
+    {
+        "position": [
+            [
+                248.0,
+                1067.1666259765625
+            ],
+            [
+                295.6333312988281,
+                1091.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "\"2011\"",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?view=all"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                1131.1666259765625
+            ],
+            [
+                568.0,
+                1155.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Journal Article (18)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=type_facet%3A%22Journal+article%22&view=all"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1291.1666259765625
+            ],
+            [
+                1712.0,
+                1315.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "2011 (18)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&view=all"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1355.1666259765625
+            ],
+            [
+                1712.0,
+                1379.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            117,
+            230
+        ],
+        "text": "Elsevier Science, Inc. (18)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=publisher_facet%3A%22Elsevier+Science%2C+Inc.%22&view=all"
+    },
+    {
+        "position": [
+            [
+                906.2333374023438,
+                1445.1666259765625
+            ],
+            [
+                1013.75,
+                1465.1666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Follow Us on",
+        "on_click_jump_to": "https://www.twitter.com/MSKLibrary"
+    },
+    {
+        "position": [
+            [
+                527.61669921875,
+                1486.9666748046875
+            ],
+            [
+                819.61669921875,
+                1506.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Memorial Sloan Kettering Cancer Center",
+        "on_click_jump_to": "http://www.mskcc.org/"
+    },
+    {
+        "position": [
+            [
+                840.11669921875,
+                1486.9666748046875
+            ],
+            [
+                1197.7833862304688,
+                1506.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Memorial Hospital for Cancer and Allied Diseases",
+        "on_click_jump_to": "http://www.mskcc.org/cancer-care"
+    },
+    {
+        "position": [
+            [
+                1218.2833251953125,
+                1486.9666748046875
+            ],
+            [
+                1392.3666534423828,
+                1506.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sloan Kettering Institute",
+        "on_click_jump_to": "http://ski.edu/"
+    },
+    {
+        "position": [
+            [
+                633.066650390625,
+                1518.9666748046875
+            ],
+            [
+                1110.316650390625,
+                1538.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Gerstner Sloan Kettering Graduate School of Biomedical Sciences",
+        "on_click_jump_to": "http://www.sloankettering.edu/"
+    },
+    {
+        "position": [
+            [
+                1130.816650390625,
+                1518.9666748046875
+            ],
+            [
+                1286.9333190917969,
+                1538.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Patients & Caregivers",
+        "on_click_jump_to": "https://library.mskcc.org/resource/patient-and-caregivers"
+    },
+    {
+        "position": [
+            [
+                816.4000244140625,
+                1550.9666748046875
+            ],
+            [
+                935.5166931152344,
+                1570.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Legal Disclaimer",
+        "on_click_jump_to": "https://library.mskcc.org/legal-disclaimer"
+    },
+    {
+        "position": [
+            [
+                956.0166625976562,
+                1550.9666748046875
+            ],
+            [
+                1103.5833282470703,
+                1570.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Giving to the Library",
+        "on_click_jump_to": "https://library.mskcc.org/about/giving-to-the-library"
+    },
+    {
+        "position": [
+            [
+                786.5333251953125,
+                1582.9666748046875
+            ],
+            [
+                1133.4666442871094,
+                1602.9666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Memorial Sloan Kettering Cancer Center Library",
+        "on_click_jump_to": "https://library.mskcc.org/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                639.7666625976562,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/synapse_tag-0d09920709c0b95b6c6ed3caa108c1153c9f18ce1a91527709b51136c1e3db46.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                96.0
+            ],
+            [
+                1712.0,
+                535.1666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/mskflatbar-26f2717478fd3e8e9bddde39a77d7346195c5b5eda3ac95863bd3e1e60c5d934.png"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                1071.1666259765625
+            ],
+            [
+                240.0,
+                1087.1666259765625
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/cross-button.png"
+    },
+    {
+        "position": [
+            [
+                1011.75,
+                1444.9666748046875
+            ],
+            [
+                1013.75,
+                1468.9666748046875
+            ]
+        ],
+        "type": "img",
+        "src": "https://library.mskcc.org/sites/library.mskcc.org/media/graphics/social-media.png?v=3"
+    }
+]

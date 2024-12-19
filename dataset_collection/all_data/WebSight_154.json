@@ -1,0 +1,104 @@
+[
+    {
+        "position": [
+            [
+                177.43333435058594,
+                28.0
+            ],
+            [
+                217.63333129882812,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.healthgrades.com/physician/dr-raghunath-reddy-x2shy"
+    },
+    {
+        "position": [
+            [
+                238.4333343505859,
+                28.0
+            ],
+            [
+                280.43333435058594,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.axminster.co.uk/ujk-technology-multifunction-workbench-for-twist-dogs-717979"
+    },
+    {
+        "position": [
+            [
+                301.23333740234375,
+                28.0
+            ],
+            [
+                354.8333282470703,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            17,
+            24,
+            39
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://rmc.library.cornell.edu/EAD/htmldocs/RMM03083.html"
+    },
+    {
+        "position": [
+            [
+                984.0,
+                148.0
+            ],
+            [
+                1704.0,
+                1048.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1506974210756-8e1b8985d348?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NDJ8&ixlib=rb-4.0.3&w=800&h=600"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                1224.0
+            ],
+            [
+                936.0,
+                2124.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1497898871738-28f5fb9b275c?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNzE1NDN8&ixlib=rb-4.0.3&w=800&h=600"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                2228.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?real-estate"
+    }
+]

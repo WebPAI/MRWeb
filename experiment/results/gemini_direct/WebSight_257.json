@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                879.9833374023438,
+                16.0
+            ],
+            [
+                923.6166687011719,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.lincolnshirelive.co.uk/news/local-news/make-friends-lincolnian-theyre-your-122006"
+    },
+    {
+        "position": [
+            [
+                939.61669921875,
+                16.0
+            ],
+            [
+                990.2666931152344,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Gallery",
+        "on_click_jump_to": "https://corporatedir.com/canada/company/234567012896-braebon-medical-corporation"
+    },
+    {
+        "position": [
+            [
+                1006.2666625976562,
+                16.0
+            ],
+            [
+                1038.7666625976562,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "http://www.theunstitchd.com/fashion/white-t-shirt-outfit-ideas/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                248.0
+            ],
+            [
+                656.0,
+                546.6666870117188
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1520856990214-7a9e59dd5ff7?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczNjF8&ixlib=rb-4.0.3&w=300&h=200"
+    }
+]

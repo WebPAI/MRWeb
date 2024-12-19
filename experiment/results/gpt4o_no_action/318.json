@@ -1,0 +1,150 @@
+[
+    {
+        "position": [
+            [
+                522.0,
+                110.0
+            ],
+            [
+                560.2333374023438,
+                127.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                580.7333374023438,
+                110.0
+            ],
+            [
+                659.7166595458984,
+                127.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Trip Reports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                680.2166748046875,
+                110.0
+            ],
+            [
+                754.1666870117188,
+                127.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Site Stories",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                774.6666870117188,
+                110.0
+            ],
+            [
+                810.4666748046875,
+                127.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Lifers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                830.9666748046875,
+                110.0
+            ],
+            [
+                869.7666778564453,
+                127.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                890.2666625976562,
+                110.0
+            ],
+            [
+                969.7833404541016,
+                127.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact Info",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                530.0,
+                18.0
+            ],
+            [
+                594.0,
+                82.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                530.0,
+                204.0
+            ],
+            [
+                1390.0,
+                228.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/coot.jpg"
+    }
+]

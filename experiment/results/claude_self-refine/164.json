@@ -1,0 +1,424 @@
+[
+    {
+        "position": [
+            [
+                1501.36669921875,
+                40.0
+            ],
+            [
+                1547.8166961669922,
+                64.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            102,
+            102,
+            102
+        ],
+        "text": "sign in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1583.6500244140625,
+                40.0
+            ],
+            [
+                1670.0000305175781,
+                64.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            102,
+            102,
+            102
+        ],
+        "text": "sign up now",
+        "on_click_jump_to": "http://www.eehealthbook.com/member_registration.php"
+    },
+    {
+        "position": [
+            [
+                246.0,
+                107.0
+            ],
+            [
+                288.8999938964844,
+                131.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                320.8999938964844,
+                107.0
+            ],
+            [
+                365.9499969482422,
+                131.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Profile",
+        "on_click_jump_to": "file:///profile.php"
+    },
+    {
+        "position": [
+            [
+                397.9500122070313,
+                107.0
+            ],
+            [
+                472.2833557128907,
+                131.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Symptoms",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                504.2833251953125,
+                107.0
+            ],
+            [
+                565.7166442871094,
+                131.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Wellness",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                597.7166748046875,
+                107.0
+            ],
+            [
+                656.0666809082031,
+                131.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "My Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                688.066650390625,
+                107.0
+            ],
+            [
+                716.5166473388672,
+                131.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GPS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                748.5166625976562,
+                107.0
+            ],
+            [
+                863.6000061035156,
+                131.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Medical Tourism",
+        "on_click_jump_to": "file:///medical_tourism.php"
+    },
+    {
+        "position": [
+            [
+                895.5999755859375,
+                107.0
+            ],
+            [
+                972.4499664306641,
+                131.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contactus.php"
+    },
+    {
+        "position": [
+            [
+                246.0,
+                136.0
+            ],
+            [
+                279.0,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "file:///news_list.php"
+    },
+    {
+        "position": [
+            [
+                295.0,
+                136.0
+            ],
+            [
+                370.0,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Expert Panel",
+        "on_click_jump_to": "file:///expert_panel.php"
+    },
+    {
+        "position": [
+            [
+                386.0,
+                136.0
+            ],
+            [
+                477.0,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Expert Opinion",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                493.0,
+                136.0
+            ],
+            [
+                576.0,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Photo Gallery",
+        "on_click_jump_to": "file:///photo_gallery.php"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                136.0
+            ],
+            [
+                633.0,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Videos",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                649.0,
+                136.0
+            ],
+            [
+                714.0,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Exhibitions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                730.0,
+                136.0
+            ],
+            [
+                804.0,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                820.0,
+                136.0
+            ],
+            [
+                877.0,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Affiliation",
+        "on_click_jump_to": "file:///affiliation.php"
+    },
+    {
+        "position": [
+            [
+                893.0,
+                136.0
+            ],
+            [
+                925.0,
+                156.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                230.0,
+                0.0
+            ],
+            [
+                605.0,
+                107.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///templates/images/logo.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                107.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///templates/images/headerbg.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                107.0
+            ],
+            [
+                1920.0,
+                132.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:///templates/images/navbg.jpg"
+    }
+]

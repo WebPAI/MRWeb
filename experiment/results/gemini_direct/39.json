@@ -1,0 +1,142 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                33.5
+            ],
+            [
+                246.23333740234375,
+                50.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.eweek.com/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                54.0
+            ],
+            [
+                307.01666259765625,
+                82.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Networking",
+        "on_click_jump_to": "https://www.eweek.com/networking/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                141.5
+            ],
+            [
+                284.75,
+                158.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "By Jeff Burt",
+        "on_click_jump_to": "https://www.eweek.com/author/jeff-burt/"
+    },
+    {
+        "position": [
+            [
+                1202.36669921875,
+                194.0
+            ],
+            [
+                1289.1333618164062,
+                214.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Learn More.",
+        "on_click_jump_to": "https://www.eweek.com/editorial-policy/"
+    },
+    {
+        "position": [
+            [
+                421.3999938964844,
+                610.0
+            ],
+            [
+                510.26666259765625,
+                630.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Red Hat Inc.",
+        "on_click_jump_to": "https://www.eweek.com/c/a/Linux-and-Open-Source/Red-Hat-Cans-Linux-Distribution/"
+    },
+    {
+        "position": [
+            [
+                546.316650390625,
+                610.0
+            ],
+            [
+                653.3666534423828,
+                630.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "SuSE Linux AG",
+        "on_click_jump_to": "https://www.eweek.com/c/a/Linux-and-Open-Source/Novell-to-Buy-SuSE-Linux-for-210-Million/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                634.0
+            ],
+            [
+                589.2999877929688,
+                654.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Read “MS Delay Hinders Itanium Software Upgrade.”",
+        "on_click_jump_to": "https://www.eweek.com/c/a/Infrastructure/MS-Delay-Hinders-Itanium-Software-Upgrade/"
+    }
+]

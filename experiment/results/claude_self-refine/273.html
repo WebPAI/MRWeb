@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply px-4 h-[67px] flex items-center text-white hover:bg-blue-900 transition-colors;
+        }
+        .warning-icon {
+            background-size: contain;
+            background-repeat: no-repeat;
+            width: 21px;
+            height: 21px;
+            margin-right: 8px;
+        }
+        .side-nav-link {
+            @apply py-4 px-6 text-black hover:bg-gray-100 block;
+        }
+        .social-icon {
+            background-size: 168px 40px;
+            width: 40px;
+            height: 40px;
+            display: block;
+        }
+        .twitter-icon { background-position: 0 0; }
+        .facebook-icon { background-position: -42px 0; }
+        .youtube-icon { background-position: -84px 0; }
+        .linkedin-icon { background-position: -126px 0; }
+    </style>
+</head>
+<body class="min-h-screen flex flex-col">
+    <header class="bg-[#003060]">
+        <div class="max-w-[1515px] mx-auto flex items-center">
+            <a href="https://www.met.ie/ga/" class="flex items-center p-3 text-white">
+                <img src="https://www.met.ie/img/met-eireann-small.png" alt="Met Éireann" class="h-11">
+                <span class="ml-3 text-sm">Seirbhís Náisiúnta Meitéareolaíochta na hÉireann</span>
+            </a>
+            <nav class="flex ml-auto">
+                <a href="#" class="nav-link">Réamhaisnéisí</a>
+                <a href="#" class="nav-link">Tuairiscí is déanaí</a>
+                <a href="#" class="nav-link">Aeráid</a>
+                <a href="#" class="nav-link">Oideachas</a>
+                <a href="#" class="nav-link">Eolaíocht</a>
+                <a href="#" class="nav-link">Podchraoladh</a>
+                <a href="#" class="nav-link">Eolas Fúinn</a>
+            </nav>
+        </div>
+    </header>
+
+    <div class="max-w-[1515px] mx-auto mt-4 flex gap-6">
+        <a href="https://www.met.ie/ga/warnings/today" class="flex items-center text-[#003060]">
+            Rabhaidh
+        </a>
+        <a href="https://www.met.ie/ga/warnings/today" class="flex items-center text-[#003060]">
+            <div class="warning-icon" style="background-image: url('https://www.met.ie/images/warning-yellow@3x.png')"></div>
+            Aimsir
+        </a>
+        <a href="https://www.met.ie/ga/warnings/today" class="flex items-center text-[#003060]">
+            <div class="warning-icon" style="background-image: url('https://www.met.ie/images/warning-yellow@3x.png')"></div>
+            Muirí
+        </a>
+    </div>
+
+    <main class="max-w-[1515px] mx-auto mt-8 flex flex-1">
+        <div class="w-3/4 pr-8">
+            <h1 class="text-2xl text-[#003060] mb-6">Climate Statements for 2018 and December 2018</h1>
+            <!-- Main content -->
+        </div>
+
+        <aside class="w-1/4">
+            <h2 class="text-[#003060] font-bold mb-4">Eolas Fúinn</h2>
+            <nav class="flex flex-col border border-gray-200">
+                <a href="https://www.met.ie/ga/about-us" class="side-nav-link">Eolas Fúinn</a>
+                <a href="https://www.met.ie/ga/about-us/strategy" class="side-nav-link">Straitéis</a>
+                <!-- Additional side navigation links -->
+            </nav>
+        </aside>
+    </main>
+
+    <footer class="bg-[#333333] text-white mt-16 py-8">
+        <div class="max-w-[1515px] mx-auto">
+            <div class="flex justify-between items-center mt-8">
+                <div class="flex gap-6">
+                    <img src="https://cdn-b.metweb.ie/images/met-eireann-long.png" alt="Met Éireann" class="h-[182px]">
+                    <img src="https://cdn-b.metweb.ie/images/department-logo-2020.png" alt="Department Logo" class="h-[74px] mt-[108px]">
+                    <img src="https://cdn-b.metweb.ie/images/wwis.png" alt="WWIS" class="h-[66px] mt-[108px]">
+                </div>
+                <div class="flex gap-8">
+                    <a href="https://twitter.com/MetEireann" class="social-icon twitter-icon" style="background-image: url('https://www.met.ie/images/social-icons-new.png')"></a>
+                    <a href="https://www.facebook.com/Met-Éireann-123518233000/" class="social-icon facebook-icon" style="background-image: url('https://www.met.ie/images/social-icons-new.png')"></a>
+                    <a href="https://www.youtube.com/channel/UC67dRUD00xsU-hH93bqIQ_g" class="social-icon youtube-icon" style="background-image: url('https://www.met.ie/images/social-icons-new.png')"></a>
+                    <a href="https://ie.linkedin.com/company/met-ireann" class="social-icon linkedin-icon" style="background-image: url('https://www.met.ie/images/social-icons-new.png')"></a>
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

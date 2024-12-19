@@ -1,0 +1,724 @@
+[
+    {
+        "position": [
+            [
+                1457.800048828125,
+                12.0
+            ],
+            [
+                1518.2500457763672,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ALUMNI",
+        "on_click_jump_to": "https://www.cahill.com/alumni/index"
+    },
+    {
+        "position": [
+            [
+                1534.25,
+                12.0
+            ],
+            [
+                1626.683334350586,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SUBSCRIBE",
+        "on_click_jump_to": "https://www.cahill.com/publications/subscribe"
+    },
+    {
+        "position": [
+            [
+                1642.683349609375,
+                12.0
+            ],
+            [
+                1712.000015258789,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "OFFICES",
+        "on_click_jump_to": "https://www.cahill.com/offices/index"
+    },
+    {
+        "position": [
+            [
+                528.0166625976562,
+                64.0
+            ],
+            [
+                560.0,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Firm",
+        "on_click_jump_to": "https://www.cahill.com/firm"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                64.0
+            ],
+            [
+                688.0500030517578,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Professionals",
+        "on_click_jump_to": "https://www.cahill.com/professionals"
+    },
+    {
+        "position": [
+            [
+                720.0499877929688,
+                64.0
+            ],
+            [
+                785.8499908447266,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Practices",
+        "on_click_jump_to": "https://www.cahill.com/practices"
+    },
+    {
+        "position": [
+            [
+                817.8499755859375,
+                64.0
+            ],
+            [
+                904.1166381835938,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publications",
+        "on_click_jump_to": "https://www.cahill.com/publications"
+    },
+    {
+        "position": [
+            [
+                936.11669921875,
+                64.0
+            ],
+            [
+                976.11669921875,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://www.cahill.com/news"
+    },
+    {
+        "position": [
+            [
+                1008.11669921875,
+                64.0
+            ],
+            [
+                1074.8333587646484,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Pro Bono",
+        "on_click_jump_to": "https://www.cahill.com/pro-bono"
+    },
+    {
+        "position": [
+            [
+                1106.8333740234375,
+                64.0
+            ],
+            [
+                1303.0667114257812,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Diversity, Equity & Inclusion",
+        "on_click_jump_to": "https://www.cahill.com/diversity"
+    },
+    {
+        "position": [
+            [
+                1335.066650390625,
+                64.0
+            ],
+            [
+                1391.9833221435547,
+                88.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "https://www.cahill.com/careers"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                155.5
+            ],
+            [
+                284.43333435058594,
+                172.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Firm News",
+        "on_click_jump_to": "https://www.cahill.com/news/index"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                179.5
+            ],
+            [
+                378.76666259765625,
+                196.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Rankings & Recognition",
+        "on_click_jump_to": "https://www.cahill.com/news/rankings"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                203.5
+            ],
+            [
+                377.9166717529297,
+                220.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Speaking Engagements",
+        "on_click_jump_to": "https://www.cahill.com/news/events"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                347.5
+            ],
+            [
+                342.53334045410156,
+                364.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            139
+        ],
+        "text": "jcohen@cahill.com",
+        "on_click_jump_to": "mailto:jcohen@cahill.com"
+    },
+    {
+        "position": [
+            [
+                1404.933349609375,
+                479.5
+            ],
+            [
+                1509.0166778564453,
+                496.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            139
+        ],
+        "text": "accessed here",
+        "on_click_jump_to": "https://www.benchmarklitigation.com/articles/benchmark-top-women-in-litigation-2018/arwwxnul"
+    },
+    {
+        "position": [
+            [
+                744.0,
+                521.0
+            ],
+            [
+                1058.8833312988281,
+                538.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            139
+        ],
+        "text": "Benchmark Litigation press release (L. Best)",
+        "on_click_jump_to": "https://www.benchmarklitigation.com/document/BEST18"
+    },
+    {
+        "position": [
+            [
+                744.0,
+                546.5
+            ],
+            [
+                1075.4666748046875,
+                563.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            83,
+            139
+        ],
+        "text": "Benchmark Litigation press release (P. Windle)",
+        "on_click_jump_to": "https://www.benchmarklitigation.com/document/WIND18"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                666.5
+            ],
+            [
+                312.06666564941406,
+                683.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Landis C. Best",
+        "on_click_jump_to": "https://www.cahill.com/professionals/landis-best"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                746.5
+            ],
+            [
+                361.8500061035156,
+                763.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Commercial Litigation",
+        "on_click_jump_to": "https://www.cahill.com/practices/litigation-general-commercial"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                770.5
+            ],
+            [
+                461.48333740234375,
+                787.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "First Amendment & Media Litigation",
+        "on_click_jump_to": "https://www.cahill.com/practices/litigation-first-amendment-media"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                794.5
+            ],
+            [
+                472.2166748046875,
+                811.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Insurance and Reinsurance Litigation",
+        "on_click_jump_to": "https://www.cahill.com/practices/litigation-insurance"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                818.5
+            ],
+            [
+                542.4500122070312,
+                835.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Securities Litigation, Regulation & Enforcement",
+        "on_click_jump_to": "https://www.cahill.com/practices/litigation-securities-litigation-regulation-enforcement"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                842.5
+            ],
+            [
+                476.6000061035156,
+                859.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "White Collar Defense & Investigations",
+        "on_click_jump_to": "https://www.cahill.com/practices/litigation-white-collar-defense-investigations"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1025.5
+            ],
+            [
+                267.4166717529297,
+                1040.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "New York",
+        "on_click_jump_to": "https://www.cahill.com/offices/new_york"
+    },
+    {
+        "position": [
+            [
+                278.816650390625,
+                1025.5
+            ],
+            [
+                387.9833221435547,
+                1040.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Washington, D.C.",
+        "on_click_jump_to": "https://www.cahill.com/offices/washington_dc"
+    },
+    {
+        "position": [
+            [
+                399.3833312988281,
+                1025.5
+            ],
+            [
+                458.53334045410156,
+                1040.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Delaware",
+        "on_click_jump_to": "https://www.cahill.com/offices/delaware"
+    },
+    {
+        "position": [
+            [
+                469.933349609375,
+                1025.5
+            ],
+            [
+                516.6333465576172,
+                1040.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "London",
+        "on_click_jump_to": "https://www.cahill.com/offices/london"
+    },
+    {
+        "position": [
+            [
+                1585.7833251953125,
+                983.0
+            ],
+            [
+                1711.9833221435547,
+                1023.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SUBSCRIBE",
+        "on_click_jump_to": "https://www.cahill.com/publications/subscribe"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1047.0
+            ],
+            [
+                1712.0,
+                1071.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Terms of Use",
+        "on_click_jump_to": "https://www.cahill.com/misc/terms"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1075.0
+            ],
+            [
+                1712.0,
+                1099.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Privacy/Cookies",
+        "on_click_jump_to": "https://www.cahill.com/misc/privacy"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1103.0
+            ],
+            [
+                1712.0,
+                1127.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "https://www.cahill.com/misc/sitemap"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1131.0
+            ],
+            [
+                1712.0,
+                1155.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Credits",
+        "on_click_jump_to": "https://www.cahill.com/misc/credits"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                1159.0
+            ],
+            [
+                1712.0,
+                1183.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            224,
+            68,
+            3
+        ],
+        "text": "Transparency in Coverage",
+        "on_click_jump_to": "https://www.cahill.com/misc/transparency-in-coverage"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                316.3999938964844,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.cahill.com/images/layout/logo.svg"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                292.0
+            ],
+            [
+                816.0,
+                365.46665954589844
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.cahill.com/news/rankings/2018-07-17-benchmark-litigation-names-cahill-partners-among-top-250-women-in-litigation-2018/_res/id=Picture/Benchmarak%20Top%20250%20SMALL.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                943.0
+            ],
+            [
+                355.9166717529297,
+                1007.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.cahill.com/images/layout/logo-full-stacked.svg"
+    }
+]

@@ -1,0 +1,216 @@
+[
+    {
+        "position": [
+            [
+                503.23333740234375,
+                16.0
+            ],
+            [
+                744.0500030517578,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About SALTO\nWhy? What? Where? When? Who?",
+        "on_click_jump_to": "https://www.salto-youth.net/about/"
+    },
+    {
+        "position": [
+            [
+                760.0499877929688,
+                16.0
+            ],
+            [
+                1008.2166442871094,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Resource Centres\nOur activities and resources for you",
+        "on_click_jump_to": "https://www.salto-youth.net/rc/"
+    },
+    {
+        "position": [
+            [
+                1024.2166748046875,
+                16.0
+            ],
+            [
+                1282.6000366210938,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Tools\nFor European youth work and training",
+        "on_click_jump_to": "https://www.salto-youth.net/tools/"
+    },
+    {
+        "position": [
+            [
+                1298.5999755859375,
+                16.0
+            ],
+            [
+                1575.9999694824219,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "MySALTO\nLogin to your personal SALTO dashboard",
+        "on_click_jump_to": "https://www.salto-youth.net/mysalto/"
+    },
+    {
+        "position": [
+            [
+                928.9166870117188,
+                128.0
+            ],
+            [
+                1097.6666870117188,
+                168.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Find training offers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1113.6666259765625,
+                128.0
+            ],
+            [
+                1270.2166137695312,
+                168.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Your applications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1286.2166748046875,
+                128.0
+            ],
+            [
+                1518.433349609375,
+                168.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Manage your training offers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1534.433349609375,
+                128.0
+            ],
+            [
+                1600.000015258789,
+                168.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Help",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1521.3333740234375,
+                186.0
+            ],
+            [
+                1600.0000457763672,
+                206.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "Login now!",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                420.0833129882813,
+                226.0
+            ],
+            [
+                455.4166564941407,
+                246.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            219,
+            39,
+            119
+        ],
+        "text": "Start",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                344.0,
+                16.0
+            ],
+            [
+                503.23333740234375,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/path-to-salto-logo.png"
+    }
+]

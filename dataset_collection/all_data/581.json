@@ -1,0 +1,3160 @@
+[
+    {
+        "position": [
+            [
+                1045.0,
+                18.0
+            ],
+            [
+                1144.0,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "SUBSCRIBE",
+        "on_click_jump_to": "http://feeds.feedburner.com/HealthYourWayOnline"
+    },
+    {
+        "position": [
+            [
+                1144.0,
+                18.0
+            ],
+            [
+                1241.0,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "FACEBOOK",
+        "on_click_jump_to": "http://www.facebook.com/pages/Health-Your-Way-Online/197280086971483"
+    },
+    {
+        "position": [
+            [
+                1241.0,
+                18.0
+            ],
+            [
+                1328.0,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "TWITTER",
+        "on_click_jump_to": "http://twitter.com/"
+    },
+    {
+        "position": [
+            [
+                1328.0,
+                18.0
+            ],
+            [
+                1425.0,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "PINTEREST",
+        "on_click_jump_to": "http://pinterest.com/healthywaymag/"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                128.0
+            ],
+            [
+                542.0,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/"
+    },
+    {
+        "position": [
+            [
+                542.0,
+                128.0
+            ],
+            [
+                610.0,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/about/"
+    },
+    {
+        "position": [
+            [
+                610.0,
+                128.0
+            ],
+            [
+                719.0,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PRESS CENTER",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/press-center/"
+    },
+    {
+        "position": [
+            [
+                719.0,
+                128.0
+            ],
+            [
+                837.0,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOW TO SUBMIT",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/how-to-submit/"
+    },
+    {
+        "position": [
+            [
+                837.0,
+                128.0
+            ],
+            [
+                927.0,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ADVERTISE",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/advertise/"
+    },
+    {
+        "position": [
+            [
+                927.0,
+                128.0
+            ],
+            [
+                1010.0,
+                164.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/contact/"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                168.0
+            ],
+            [
+                568.0,
+                201.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "ASK A PRO",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/ask-a-pro/"
+    },
+    {
+        "position": [
+            [
+                568.0,
+                168.0
+            ],
+            [
+                705.0,
+                201.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "AGING GRACEFULLY",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/aging-gracefully/"
+    },
+    {
+        "position": [
+            [
+                705.0,
+                168.0
+            ],
+            [
+                811.0,
+                201.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "GET FIT QUICK",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/get-fit-quick/"
+    },
+    {
+        "position": [
+            [
+                811.0,
+                168.0
+            ],
+            [
+                940.0,
+                201.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "KIDS/TEEN CORNER",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/kids-teen-corner/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                224.5
+            ],
+            [
+                976.2833251953125,
+                249.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Should Kids Lift Weights? By Brett Klika C.S.C.S.",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/should-kids-lift-weights-by-brett-klika-c-s-c-s/"
+    },
+    {
+        "position": [
+            [
+                625.0,
+                259.5
+            ],
+            [
+                655.0,
+                274.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "hywo",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/author/hywo/"
+    },
+    {
+        "position": [
+            [
+                680.0,
+                259.5
+            ],
+            [
+                784.0,
+                274.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Leave a Comment",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/should-kids-lift-weights-by-brett-klika-c-s-c-s/"
+    },
+    {
+        "position": [
+            [
+                947.0,
+                1144.5
+            ],
+            [
+                1059.0,
+                1159.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "www.brettklika.com",
+        "on_click_jump_to": "http://www.brettklika.com/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                1264.5
+            ],
+            [
+                717.0,
+                1279.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "www.undergroundworkoutmanual.com",
+        "on_click_jump_to": "http://www.undergroundworkoutmanual.com/"
+    },
+    {
+        "position": [
+            [
+                597.0,
+                1320.5
+            ],
+            [
+                670.0,
+                1335.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Your Fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/your-fitness/"
+    },
+    {
+        "position": [
+            [
+                775.0,
+                1320.5
+            ],
+            [
+                885.0,
+                1335.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "children and sports",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/children-and-sports/"
+    },
+    {
+        "position": [
+            [
+                893.0,
+                1320.5
+            ],
+            [
+                967.0,
+                1335.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy living",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-living/"
+    },
+    {
+        "position": [
+            [
+                975.0,
+                1320.5
+            ],
+            [
+                1077.0,
+                1335.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "kids and exercise",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/kids-and-exercise/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                1340.5
+            ],
+            [
+                566.0,
+                1355.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "kids fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/kids-fitness/"
+    },
+    {
+        "position": [
+            [
+                574.0,
+                1340.5
+            ],
+            [
+                680.0,
+                1355.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "kids lifting weights",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/kids-lifting-weights/"
+    },
+    {
+        "position": [
+            [
+                688.0,
+                1340.5
+            ],
+            [
+                741.0,
+                1355.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "parenting",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/parenting/"
+    },
+    {
+        "position": [
+            [
+                749.0,
+                1340.5
+            ],
+            [
+                823.0,
+                1355.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "youth fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/youth-fitness/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                1395.5
+            ],
+            [
+                953.566650390625,
+                1420.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Exercise Tips for New Moms by Tatum Rebelle",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/exercise-tips-for-new-moms-by-tatum-rebelle/"
+    },
+    {
+        "position": [
+            [
+                625.0,
+                1430.5
+            ],
+            [
+                655.0,
+                1445.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "hywo",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/author/hywo/"
+    },
+    {
+        "position": [
+            [
+                680.0,
+                1430.5
+            ],
+            [
+                784.0,
+                1445.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Leave a Comment",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/exercise-tips-for-new-moms-by-tatum-rebelle/"
+    },
+    {
+        "position": [
+            [
+                773.0,
+                2415.5
+            ],
+            [
+                946.0,
+                2430.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "www.totalmommyfitness.com",
+        "on_click_jump_to": "http://www.totalmommyfitness.com/"
+    },
+    {
+        "position": [
+            [
+                597.0,
+                2491.5
+            ],
+            [
+                670.0,
+                2506.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Your Fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/your-fitness/"
+    },
+    {
+        "position": [
+            [
+                775.0,
+                2491.5
+            ],
+            [
+                935.0,
+                2506.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "exercise after having a baby",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/exercise-after-having-a-baby/"
+    },
+    {
+        "position": [
+            [
+                943.0,
+                2491.5
+            ],
+            [
+                981.0,
+                2506.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/fitness/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                2491.5
+            ],
+            [
+                1083.0,
+                2526.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "fitness with your baby",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/fitness-with-your-baby/"
+    },
+    {
+        "position": [
+            [
+                535.0,
+                2511.5
+            ],
+            [
+                567.0,
+                2526.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "get fit",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/get-fit/"
+    },
+    {
+        "position": [
+            [
+                575.0,
+                2511.5
+            ],
+            [
+                665.0,
+                2526.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy lifestyle",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-lifestyle/"
+    },
+    {
+        "position": [
+            [
+                673.0,
+                2511.5
+            ],
+            [
+                764.0,
+                2526.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "how to exercise",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/how-to-exercise/"
+    },
+    {
+        "position": [
+            [
+                772.0,
+                2511.5
+            ],
+            [
+                893.0,
+                2526.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "how to start exercise",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/how-to-start-exercise/"
+    },
+    {
+        "position": [
+            [
+                901.0,
+                2511.5
+            ],
+            [
+                976.0,
+                2526.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "losing weight",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/losing-weight/"
+    },
+    {
+        "position": [
+            [
+                984.0,
+                2511.5
+            ],
+            [
+                1055.0,
+                2526.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "mom fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/mom-fitness/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                2531.5
+            ],
+            [
+                553.0,
+                2546.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "parenting",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/parenting/"
+    },
+    {
+        "position": [
+            [
+                561.0,
+                2531.5
+            ],
+            [
+                683.0,
+                2546.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "post-partum exercise",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/post-partum-exercise/"
+    },
+    {
+        "position": [
+            [
+                691.0,
+                2531.5
+            ],
+            [
+                829.0,
+                2546.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "pregnancy and exercise",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/pregnancy-and-exercise/"
+    },
+    {
+        "position": [
+            [
+                837.0,
+                2531.5
+            ],
+            [
+                991.0,
+                2546.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "pregnancy and weight gain",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/pregnancy-and-weight-gain/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                2586.5
+            ],
+            [
+                836.066650390625,
+                2611.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Brain Super Foods by Maggie Ayre",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/brain-super-foods-by-maggie-ayre/"
+    },
+    {
+        "position": [
+            [
+                635.0,
+                2621.5
+            ],
+            [
+                665.0,
+                2636.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "hywo",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/author/hywo/"
+    },
+    {
+        "position": [
+            [
+                690.0,
+                2621.5
+            ],
+            [
+                794.0,
+                2636.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Leave a Comment",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/brain-super-foods-by-maggie-ayre/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                3551.5
+            ],
+            [
+                1062.0,
+                3586.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "“Nutrition for Exam Success – A Parent’s Guide”",
+        "on_click_jump_to": "http://www.amazon.com/Nutrition-Exam-Success-Parents-Guide/dp/1475281218/ref=sr_1_1?ie=UTF8&qid=1361189327&sr=8-1&keywords=maggie+ayre,"
+    },
+    {
+        "position": [
+            [
+                597.0,
+                3627.5
+            ],
+            [
+                670.0,
+                3642.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Your Fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/your-fitness/"
+    },
+    {
+        "position": [
+            [
+                775.0,
+                3627.5
+            ],
+            [
+                895.0,
+                3642.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "children and nutrition",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/children-and-nutrition/"
+    },
+    {
+        "position": [
+            [
+                903.0,
+                3627.5
+            ],
+            [
+                1006.0,
+                3642.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "good study habits",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/good-study-habits/"
+    },
+    {
+        "position": [
+            [
+                1014.0,
+                3627.5
+            ],
+            [
+                1095.0,
+                3642.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy eating",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-eating/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                3647.5
+            ],
+            [
+                636.0,
+                3662.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy lifestyle for kids",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-lifestyle-for-kids/"
+    },
+    {
+        "position": [
+            [
+                644.0,
+                3647.5
+            ],
+            [
+                718.0,
+                3662.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy living",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-living/"
+    },
+    {
+        "position": [
+            [
+                726.0,
+                3647.5
+            ],
+            [
+                839.0,
+                3662.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "improve brain power",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/improve-brain-power/"
+    },
+    {
+        "position": [
+            [
+                847.0,
+                3647.5
+            ],
+            [
+                920.0,
+                3662.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Maggie Ayre",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/maggie-ayre/"
+    },
+    {
+        "position": [
+            [
+                928.0,
+                3647.5
+            ],
+            [
+                1048.0,
+                3662.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "nutrition and learning",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/nutrition-and-learning/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                3667.5
+            ],
+            [
+                592.0,
+                3682.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "nutritious recipe",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/nutritious-recipe/"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                3667.5
+            ],
+            [
+                653.0,
+                3682.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "parenting",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/parenting/"
+    },
+    {
+        "position": [
+            [
+                661.0,
+                3667.5
+            ],
+            [
+                718.0,
+                3682.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "teenagers",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/teenagers/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                3722.5
+            ],
+            [
+                958.8333129882812,
+                3747.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "What NOT to say to your Teen! By Maggie Ayre",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/what-not-to-say-to-your-teen-by-maggie-ayre/"
+    },
+    {
+        "position": [
+            [
+                644.0,
+                3757.5
+            ],
+            [
+                674.0,
+                3772.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "hywo",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/author/hywo/"
+    },
+    {
+        "position": [
+            [
+                699.0,
+                3757.5
+            ],
+            [
+                803.0,
+                3772.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Leave a Comment",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/what-not-to-say-to-your-teen-by-maggie-ayre/"
+    },
+    {
+        "position": [
+            [
+                597.0,
+                4543.5
+            ],
+            [
+                670.0,
+                4558.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Your Fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/your-fitness/"
+    },
+    {
+        "position": [
+            [
+                775.0,
+                4543.5
+            ],
+            [
+                824.0,
+                4558.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "athletics",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/athletics/"
+    },
+    {
+        "position": [
+            [
+                832.0,
+                4543.5
+            ],
+            [
+                927.0,
+                4558.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "childhood sports",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/childhood-sports/"
+    },
+    {
+        "position": [
+            [
+                935.0,
+                4543.5
+            ],
+            [
+                987.0,
+                4558.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "coaching",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/coaching/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                4543.5
+            ],
+            [
+                1047.0,
+                4578.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "coaching adolescents",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/coaching-adolescents/"
+    },
+    {
+        "position": [
+            [
+                578.0,
+                4563.5
+            ],
+            [
+                655.0,
+                4578.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "coaching tips",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/coaching-tips/"
+    },
+    {
+        "position": [
+            [
+                663.0,
+                4563.5
+            ],
+            [
+                742.0,
+                4578.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy family",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-family/"
+    },
+    {
+        "position": [
+            [
+                750.0,
+                4563.5
+            ],
+            [
+                828.0,
+                4578.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy teens",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-teens/"
+    },
+    {
+        "position": [
+            [
+                836.0,
+                4563.5
+            ],
+            [
+                949.0,
+                4578.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "how to coach teens",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/how-to-coach-teens/"
+    },
+    {
+        "position": [
+            [
+                957.0,
+                4563.5
+            ],
+            [
+                1030.0,
+                4578.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Maggie Ayre",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/maggie-ayre/"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                4563.5
+            ],
+            [
+                1095.0,
+                4598.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "mentoring teens",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/mentoring-teens/"
+    },
+    {
+        "position": [
+            [
+                540.0,
+                4583.5
+            ],
+            [
+                593.0,
+                4598.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "parenting",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/parenting/"
+    },
+    {
+        "position": [
+            [
+                601.0,
+                4583.5
+            ],
+            [
+                679.0,
+                4598.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "teen athletics",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/teen-athletics/"
+    },
+    {
+        "position": [
+            [
+                1133.0,
+                499.5
+            ],
+            [
+                1228.0,
+                514.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Aging Gracefully",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/aging-gracefully/"
+    },
+    {
+        "position": [
+            [
+                1133.0,
+                522.5
+            ],
+            [
+                1191.0,
+                537.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Ask a Pro",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/ask-a-pro/"
+    },
+    {
+        "position": [
+            [
+                1133.0,
+                545.5
+            ],
+            [
+                1252.0,
+                560.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Big Picture of Health",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/big-picture-of-health/"
+    },
+    {
+        "position": [
+            [
+                1133.0,
+                568.5
+            ],
+            [
+                1211.0,
+                583.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Get Fit Quick",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/get-fit-quick/"
+    },
+    {
+        "position": [
+            [
+                1133.0,
+                591.5
+            ],
+            [
+                1232.0,
+                606.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Kids/Teen Corner",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/kids-teen-corner/"
+    },
+    {
+        "position": [
+            [
+                1133.0,
+                614.5
+            ],
+            [
+                1233.0,
+                629.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Research Update",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/research-update/"
+    },
+    {
+        "position": [
+            [
+                1133.0,
+                637.5
+            ],
+            [
+                1206.0,
+                652.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Your Fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/category/your-fitness/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                718.0
+            ],
+            [
+                1200.0,
+                732.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "core exercises",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/core-exercises/"
+    },
+    {
+        "position": [
+            [
+                1204.0,
+                719.0
+            ],
+            [
+                1276.0,
+                731.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "core strength",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/core-strength/"
+    },
+    {
+        "position": [
+            [
+                1280.0,
+                716.0
+            ],
+            [
+                1401.0,
+                732.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "core strengthening",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/core-strengthening/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                740.0
+            ],
+            [
+                1238.0,
+                755.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "end of day stretches",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/end-of-day-stretches/"
+    },
+    {
+        "position": [
+            [
+                1242.0,
+                734.0
+            ],
+            [
+                1315.1666717529297,
+                756.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "exercise",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/exercise/"
+    },
+    {
+        "position": [
+            [
+                1319.1666259765625,
+                741.0
+            ],
+            [
+                1401.1666259765625,
+                755.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "exercise article",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/exercise-article/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                761.5
+            ],
+            [
+                1259.2666625976562,
+                779.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "exercise motivation",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/exercise-motivation/"
+    },
+    {
+        "position": [
+            [
+                1263.2666015625,
+                754.5
+            ],
+            [
+                1332.6332702636719,
+                781.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/fitness/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                760.5
+            ],
+            [
+                1387.3666687011719,
+                803.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "fitness article",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/fitness-article/"
+    },
+    {
+        "position": [
+            [
+                1170.8333740234375,
+                786.5
+            ],
+            [
+                1249.8333740234375,
+                802.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "fitness goals",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/fitness-goals/"
+    },
+    {
+        "position": [
+            [
+                1253.8333740234375,
+                780.5
+            ],
+            [
+                1414.2667083740234,
+                803.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "fitness motivation",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/fitness-motivation/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                808.5
+            ],
+            [
+                1239.0,
+                822.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "fitness motivation tips",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/fitness-motivation-tips/"
+    },
+    {
+        "position": [
+            [
+                1243.0,
+                807.5
+            ],
+            [
+                1275.0,
+                822.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "get fit",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/get-fit/"
+    },
+    {
+        "position": [
+            [
+                1279.0,
+                807.5
+            ],
+            [
+                1332.0,
+                822.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "getting fit",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/getting-fit/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                809.5
+            ],
+            [
+                1411.0,
+                843.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "getting workout results",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/getting-workout-results/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                827.0
+            ],
+            [
+                1404.7000122070312,
+                866.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "goal setting for health wellness and fitness results",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/goal-setting-for-health-wellness-and-fitness-results/"
+    },
+    {
+        "position": [
+            [
+                1220.949951171875,
+                850.0
+            ],
+            [
+                1303.949951171875,
+                866.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "gym workout",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/gym-workout/"
+    },
+    {
+        "position": [
+            [
+                1307.949951171875,
+                848.0
+            ],
+            [
+                1408.3666229248047,
+                866.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy eating",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-eating/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                869.0
+            ],
+            [
+                1257.7166595458984,
+                894.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy habits",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-habits/"
+    },
+    {
+        "position": [
+            [
+                1261.7166748046875,
+                879.0
+            ],
+            [
+                1318.7166748046875,
+                891.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy kids",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-kids/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                862.0
+            ],
+            [
+                1417.316650390625,
+                921.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy lifestyle",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-lifestyle/"
+    },
+    {
+        "position": [
+            [
+                1221.816650390625,
+                904.5
+            ],
+            [
+                1327.816650390625,
+                918.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy lifestyle tips",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-lifestyle-tips/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                898.5
+            ],
+            [
+                1392.0166625976562,
+                942.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "healthy living",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/healthy-living/"
+    },
+    {
+        "position": [
+            [
+                1166.550048828125,
+                926.0
+            ],
+            [
+                1251.550048828125,
+                941.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "home exercise",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/home-exercise/"
+    },
+    {
+        "position": [
+            [
+                1255.550048828125,
+                926.0
+            ],
+            [
+                1329.550048828125,
+                941.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "home fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/home-fitness/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                924.0
+            ],
+            [
+                1376.2333374023438,
+                962.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Home workout",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/home-workout/"
+    },
+    {
+        "position": [
+            [
+                1180.0333251953125,
+                947.0
+            ],
+            [
+                1271.0333251953125,
+                962.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "how to exercise",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/how-to-exercise/"
+    },
+    {
+        "position": [
+            [
+                1275.0333251953125,
+                946.0
+            ],
+            [
+                1355.0333251953125,
+                962.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "how to get fit",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/how-to-get-fit/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                946.0
+            ],
+            [
+                1400.0333251953125,
+                983.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "how to improve exercise motivation",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/how-to-improve-exercise-motivation/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                966.0
+            ],
+            [
+                1380.7333374023438,
+                1004.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "how to start fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/how-to-start-fitness/"
+    },
+    {
+        "position": [
+            [
+                1170.25,
+                989.0
+            ],
+            [
+                1331.25,
+                1004.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "how to strengthen your core",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/how-to-strengthen-your-core/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                988.0
+            ],
+            [
+                1378.25,
+                1024.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "how to workout",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/how-to-workout/"
+    },
+    {
+        "position": [
+            [
+                1175.0,
+                1008.5
+            ],
+            [
+                1245.0,
+                1024.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "lose weight",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/lose-weight/"
+    },
+    {
+        "position": [
+            [
+                1249.0,
+                1008.5
+            ],
+            [
+                1301.0,
+                1024.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Nutrition",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/nutrition/"
+    },
+    {
+        "position": [
+            [
+                1305.0,
+                1011.5
+            ],
+            [
+                1385.0,
+                1023.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "nutrition article",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/nutrition-article/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                1032.0
+            ],
+            [
+                1211.0,
+                1046.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "outdoor exercise",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/outdoor-exercise/"
+    },
+    {
+        "position": [
+            [
+                1215.0,
+                1028.0
+            ],
+            [
+                1319.5833282470703,
+                1047.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "overall fitness",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/overall-fitness/"
+    },
+    {
+        "position": [
+            [
+                1323.5833740234375,
+                1033.0
+            ],
+            [
+                1391.5833740234375,
+                1045.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "reduce stress",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/reduce-stress/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                1051.0
+            ],
+            [
+                1168.0,
+                1067.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "running",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/running/"
+    },
+    {
+        "position": [
+            [
+                1172.0,
+                1054.0
+            ],
+            [
+                1250.0,
+                1066.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "strength training",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/strength-training/"
+    },
+    {
+        "position": [
+            [
+                1254.0,
+                1054.0
+            ],
+            [
+                1318.0,
+                1066.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "stretch break",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/stretch-break/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                1053.0
+            ],
+            [
+                1376.0,
+                1089.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "stretching exercises",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/stretching-exercises/"
+    },
+    {
+        "position": [
+            [
+                1177.0,
+                1075.5
+            ],
+            [
+                1239.0,
+                1089.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "strong core",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/strong-core/"
+    },
+    {
+        "position": [
+            [
+                1243.0,
+                1071.5
+            ],
+            [
+                1301.0166625976562,
+                1090.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "workout",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/workout/"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                1069.5
+            ],
+            [
+                1370.3833312988281,
+                1113.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "workout motivation",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/tag/workout-motivation/"
+    },
+    {
+        "position": [
+            [
+                1288.0,
+                1174.0
+            ],
+            [
+                1370.0,
+                1189.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/privacy-policy/"
+    },
+    {
+        "position": [
+            [
+                1288.0,
+                1197.0
+            ],
+            [
+                1401.0,
+                1212.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            102,
+            153
+        ],
+        "text": "Terms & Conditions",
+        "on_click_jump_to": "http://www.healthyourwayonline.com/terms-conditions/"
+    },
+    {
+        "position": [
+            [
+                495.0,
+                4658.0
+            ],
+            [
+                562.0,
+                4670.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "TOP OF PAGE",
+        "on_click_jump_to": "#wrap"
+    },
+    {
+        "position": [
+            [
+                1055.0,
+                22.0
+            ],
+            [
+                1075.0,
+                37.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/rss_blog.gif"
+    },
+    {
+        "position": [
+            [
+                1154.0,
+                22.0
+            ],
+            [
+                1174.0,
+                37.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/facebook_icon.gif"
+    },
+    {
+        "position": [
+            [
+                1251.0,
+                22.0
+            ],
+            [
+                1271.0,
+                37.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/twitter_icon.gif"
+    },
+    {
+        "position": [
+            [
+                1338.0,
+                22.0
+            ],
+            [
+                1358.0,
+                37.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/pinterest_icon.gif"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                287.0
+            ],
+            [
+                650.0,
+                437.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/uploads/2013/04/HYWO.Baseball-150x150.jpg"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                1458.0
+            ],
+            [
+                650.0,
+                1608.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/uploads/2013/04/HYWO.Baby_-150x150.jpg"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                2649.0
+            ],
+            [
+                650.0,
+                2799.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/uploads/2013/03/HYWO.Study_-150x150.jpg"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                3785.0
+            ],
+            [
+                650.0,
+                3935.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.healthyourwayonline.com/wp-content/uploads/2013/01/HYWO.Award_-150x150.jpg"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                48.0
+            ],
+            [
+                1440.0,
+                128.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/healthyourwayonline_header.png"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                167.0
+            ],
+            [
+                1440.0,
+                202.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/subnav.png"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                202.0
+            ],
+            [
+                1440.0,
+                4641.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/inner.png"
+    },
+    {
+        "position": [
+            [
+                503.0,
+                259.5
+            ],
+            [
+                601.0,
+                276.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-time.png"
+    },
+    {
+        "position": [
+            [
+                662.0,
+                259.5
+            ],
+            [
+                784.0,
+                276.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                503.0,
+                1320.5
+            ],
+            [
+                670.0,
+                1337.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-categories.png"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                1320.5
+            ],
+            [
+                1081.0,
+                1357.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-tags.png"
+    },
+    {
+        "position": [
+            [
+                503.0,
+                1430.5
+            ],
+            [
+                601.0,
+                1447.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-time.png"
+    },
+    {
+        "position": [
+            [
+                662.0,
+                1430.5
+            ],
+            [
+                784.0,
+                1447.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                503.0,
+                2491.5
+            ],
+            [
+                670.0,
+                2508.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-categories.png"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                2491.5
+            ],
+            [
+                1083.0,
+                2548.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-tags.png"
+    },
+    {
+        "position": [
+            [
+                503.0,
+                2621.5
+            ],
+            [
+                611.0,
+                2638.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-time.png"
+    },
+    {
+        "position": [
+            [
+                672.0,
+                2621.5
+            ],
+            [
+                794.0,
+                2638.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                503.0,
+                3627.5
+            ],
+            [
+                670.0,
+                3644.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-categories.png"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                3627.5
+            ],
+            [
+                1099.0,
+                3684.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-tags.png"
+    },
+    {
+        "position": [
+            [
+                503.0,
+                3757.5
+            ],
+            [
+                620.0,
+                3774.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-time.png"
+    },
+    {
+        "position": [
+            [
+                681.0,
+                3757.5
+            ],
+            [
+                803.0,
+                3774.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-comments.png"
+    },
+    {
+        "position": [
+            [
+                503.0,
+                4543.5
+            ],
+            [
+                670.0,
+                4560.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-categories.png"
+    },
+    {
+        "position": [
+            [
+                500.0,
+                4543.5
+            ],
+            [
+                1095.0,
+                4600.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/icon-tags.png"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                311.0
+            ],
+            [
+                1420.0,
+                438.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/enews.png"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                497.0
+            ],
+            [
+                1420.0,
+                517.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/sidebar-list.png"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                520.0
+            ],
+            [
+                1420.0,
+                540.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/sidebar-list.png"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                543.0
+            ],
+            [
+                1420.0,
+                563.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/sidebar-list.png"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                566.0
+            ],
+            [
+                1420.0,
+                586.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/sidebar-list.png"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                589.0
+            ],
+            [
+                1420.0,
+                609.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/sidebar-list.png"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                612.0
+            ],
+            [
+                1420.0,
+                632.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/sidebar-list.png"
+    },
+    {
+        "position": [
+            [
+                1120.0,
+                635.0
+            ],
+            [
+                1420.0,
+                655.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/sidebar-list.png"
+    },
+    {
+        "position": [
+            [
+                1275.0,
+                1171.5
+            ],
+            [
+                1420.0,
+                1191.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/sidebar-list.png"
+    },
+    {
+        "position": [
+            [
+                1275.0,
+                1194.5
+            ],
+            [
+                1420.0,
+                1214.5
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.healthyourwayonline.com/wp-content/themes/news/images/sidebar-list.png"
+    }
+]

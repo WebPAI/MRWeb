@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-gray-600 px-4 py-3 hover:text-gray-800;
+        }
+        
+        .sidebar-link {
+            @apply block py-2 text-sm hover:text-gray-800;
+        }
+        
+        .tag-link {
+            @apply text-xs text-gray-800 mr-2 hover:underline;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Navigation -->
+    <nav class="flex justify-center space-x-4 py-2 border-b">
+        <a href="/" class="nav-link">Home</a>
+        <a href="/about" class="nav-link">About</a>
+        <a href="/results" class="nav-link">Results</a>
+        <a href="/teams" class="nav-link">Teams & Drivers</a>
+        <a href="/calendar" class="nav-link">Calendar</a>
+        <a href="/rules" class="nav-link">Rules 2012</a>
+        <a href="/race-weekend" class="nav-link">Race Weekend</a>
+        <a href="/glossary" class="nav-link">Glossary</a>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="max-w-6xl mx-auto px-4 py-8">
+        <div class="flex">
+            <!-- Main Article -->
+            <main class="w-2/3">
+                <div class="mb-4">
+                    <span class="text-sm">Posted by</span>
+                    <a href="#" class="text-sm text-gray-800 hover:underline">rookief1</a>
+                    <a href="#" class="text-sm text-gray-800 hover:underline ml-4">Leave a Comment</a>
+                </div>
+
+                <h1 class="text-3xl font-bold mb-6">The Super Seven</h1>
+
+                <!-- Article content -->
+                <!-- Race Stats table -->
+                <table class="w-full border-collapse border my-6">
+                    <!-- Table content -->
+                </table>
+
+                <!-- Awesome-O-Meter image -->
+                <img src="germany-gp.png" class="my-6 w-full" alt="Race statistics graph">
+
+                <!-- Social Share -->
+                <div class="flex space-x-2 my-6">
+                    <button class="bg-blue-400 text-white px-4 py-2 rounded">Twitter</button>
+                    <button class="bg-blue-600 text-white px-4 py-2 rounded">Facebook</button>
+                </div>
+            </main>
+
+            <!-- Sidebar -->
+            <aside class="w-1/3 pl-8">
+                <div class="mb-8">
+                    <h3 class="font-bold mb-4">@ROOKIEF1</h3>
+                    <p class="text-sm">Tweets by rookief1</p>
+                </div>
+
+                <div class="mb-8">
+                    <h3 class="font-bold mb-4">BLOGROLL</h3>
+                    <div class="space-y-2">
+                        <a href="#" class="sidebar-link">F1 Hooked</a>
+                        <a href="#" class="sidebar-link">F1 Rogues</a>
+                        <a href="#" class="sidebar-link">Fanalistas</a>
+                        <!-- More sidebar links -->
+                    </div>
+                </div>
+            </aside>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 py-8 mt-12">
+        <div class="max-w-6xl mx-auto px-4">
+            <!-- Footer content -->
+        </div>
+    </footer>
+</body>
+</html>

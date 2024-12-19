@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                8.0
+            ],
+            [
+                263.8833312988281,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "VC Star",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1619.4166259765625,
+                12.0
+            ],
+            [
+                1659.699951171875,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1680.199951171875,
+                12.0
+            ],
+            [
+                1727.9999542236328,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                200.0
+            ],
+            [
+                1704.0,
+                1040.9500122070312
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.vcstar.com/gcdn/-mm-/be136a0966053d026512148c6177cbcde4d8e977/c=0-158-3000-1853/local/-/media/2017/09/12/Camarillo/Camarillo/636408457297776586-Kobe24.jpg?width=660&height=373&fit=crop&format=pjpg&auto=webp"
+    }
+]

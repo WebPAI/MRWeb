@@ -1,0 +1,122 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                9.5
+            ],
+            [
+                246.23333740234375,
+                26.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                262.76666259765625,
+                9.5
+            ],
+            [
+                333.3999938964844,
+                26.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Academics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                349.933349609375,
+                9.5
+            ],
+            [
+                475.2166748046875,
+                26.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Academic Divisions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                491.75,
+                9.5
+            ],
+            [
+                665.4833374023438,
+                26.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Math and Natural Sciences",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                682.0166625976562,
+                9.5
+            ],
+            [
+                747.9166717529297,
+                26.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Chemistry",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                194.0
+            ],
+            [
+                334.53334045410156,
+                214.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "jkappel@jscc.edu",
+        "on_click_jump_to": "mailto:jkappel@jscc.edu"
+    }
+]

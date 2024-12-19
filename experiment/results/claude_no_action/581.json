@@ -1,0 +1,150 @@
+[
+    {
+        "position": [
+            [
+                1330.800048828125,
+                20.0
+            ],
+            [
+                1430.7833862304688,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "MY ACCOUNT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1454.7833251953125,
+                20.0
+            ],
+            [
+                1532.249984741211,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "FACEBOOK",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1556.25,
+                20.0
+            ],
+            [
+                1618.9166717529297,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "TWITTER",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1642.9166259765625,
+                20.0
+            ],
+            [
+                1711.9999542236328,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                339.0
+            ],
+            [
+                1276.0,
+                359.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "tag1",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1284.0,
+                339.0
+            ],
+            [
+                1312.0,
+                359.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "tag2",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                315.8500061035156,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                185.0
+            ],
+            [
+                1200.0,
+                209.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/kids-exercise.jpg"
+    }
+]

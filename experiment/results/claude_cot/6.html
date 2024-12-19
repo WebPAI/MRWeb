@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Barcelona Tourist Guide</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-white hover:text-blue-200;
+        }
+        .footer-link {
+            @apply text-[#436E7E] hover:text-blue-700;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Header -->
+    <header class="container mx-auto px-4">
+        <div class="flex items-center justify-between py-2">
+            <img src="https://www.barcelona-tourist-guide.com/images/sd/header/logo.gif" 
+                 alt="Barcelona Tourist Guide Logo" 
+                 class="w-[181px] h-[55px]">
+            <a href="#" class="text-[#00DEFF] text-lg">
+                Barcelona Essentials Pass: unlimited transport with city audio guide
+            </a>
+        </div>
+        
+        <!-- Navigation breadcrumb -->
+        <div class="flex gap-2 text-[#0066CC] py-4">
+            <a href="#" class="hover:underline">Home</a> &gt;
+            <a href="#" class="hover:underline">Hotels</a> &gt;
+            <a href="#" class="hover:underline">Reviews</a>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container mx-auto px-4 flex">
+        <!-- Left Sidebar Navigation -->
+        <nav class="w-[200px] bg-[#0066CC] text-white p-4">
+            <ul class="space-y-2">
+                <li><a href="#" class="nav-link">Home</a></li>
+                <li><a href="#" class="nav-link">Brexit (UK)</a></li>
+                <li><a href="#" class="nav-link">Barcelona Cruise Port</a></li>
+                <!-- Add other navigation items -->
+            </ul>
+        </nav>
+
+        <!-- Main Content Area -->
+        <main class="flex-1 px-8">
+            <h1 class="text-2xl font-bold mb-4">Site Visitor Review: Citadines Aparthotel Barcelona</h1>
+            <!-- Review content -->
+            <div class="mb-4">
+                <p>Name: Riche Lloyd from Chester UK</p>
+                <p>Hotel Name: Citadines Aparthotel</p>
+                <p>Review Title: always a great stay</p>
+                <p>Hotel Rating: Very Good</p>
+                <!-- Add review text -->
+            </div>
+        </main>
+
+        <!-- Right Sidebar -->
+        <aside class="w-[250px]">
+            <!-- Related Pages -->
+            <div class="bg-[#0066CC] text-white p-4 mb-4">
+                <h2 class="font-bold">Related Pages</h2>
+                <ul>
+                    <li><a href="#" class="nav-link">Site Map</a></li>
+                </ul>
+            </div>
+            <!-- Promotional content -->
+            <!-- Add promo boxes -->
+        </aside>
+    </div>
+
+    <!-- Footer -->
+    <footer class="mt-8 border-t py-4">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-center gap-4">
+                <a href="#" class="footer-link">About us</a>
+                <a href="#" class="footer-link">Advertise with us</a>
+                <a href="#" class="footer-link">Partner with us</a>
+                <a href="#" class="footer-link">Site Map</a>
+                <a href="#" class="footer-link">Contact Us</a>
+                <a href="#" class="footer-link">Our other sites</a>
+            </div>
+            <div class="flex justify-center gap-4 mt-4 text-sm text-[#436E7E]">
+                <a href="#" class="footer-link">Terms of use</a> |
+                <a href="#" class="footer-link">Privacy Policy / Cookies</a>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

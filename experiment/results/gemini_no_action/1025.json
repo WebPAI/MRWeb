@@ -1,0 +1,176 @@
+[
+    {
+        "position": [
+            [
+                712.3499755859375,
+                14.0
+            ],
+            [
+                755.4666290283203,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                775.9666748046875,
+                14.0
+            ],
+            [
+                840.683349609375,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Business",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                861.183349609375,
+                14.0
+            ],
+            [
+                913.1333465576172,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Politics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                933.63330078125,
+                14.0
+            ],
+            [
+                1007.3666381835938,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Interviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1027.86669921875,
+                14.0
+            ],
+            [
+                1080.6333618164062,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Culture",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1101.13330078125,
+                14.0
+            ],
+            [
+                1157.0499725341797,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Opinion",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1177.550048828125,
+                14.0
+            ],
+            [
+                1225.3500518798828,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Sports",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1245.8499755859375,
+                14.0
+            ],
+            [
+                1306.5832977294922,
+                34.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Lifestyle",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                252.0
+            ],
+            [
+                1712.0,
+                276.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/wind_turbines.jpg"
+    }
+]

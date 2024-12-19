@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Futon Critic</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .nav-link {
+            @apply text-[#004A94] hover:underline;
+        }
+        .calendar-cell {
+            @apply px-2 py-1 text-center;
+        }
+        .calendar-link {
+            @apply text-[#004A94] hover:underline text-sm;
+        }
+        .news-link {
+            @apply text-[#004A94] hover:underline block mb-4 text-sm;
+        }
+        .calendar-table {
+            @apply w-full border-collapse;
+        }
+        .calendar-table td {
+            @apply text-center p-1;
+        }
+    </style>
+</head>
+<body class="bg-white min-h-screen">
+    <div class="max-w-[1370px] mx-auto">
+        <!-- Header Section -->
+        <header class="h-[82px] bg-[url('http://www.thefutoncritic.com/images/global/bg-header.jpg')] relative">
+            <div class="absolute top-7 left-10">
+                <img src="http://www.thefutoncritic.com/images/global/logo.gif" alt="Logo">
+            </div>
+            <div class="absolute top-7 right-[270px]">
+                <img src="http://www.thefutoncritic.com/images/myfuton-email.gif" alt="Email">
+            </div>
+            <div class="absolute top-7 right-[150px]">
+                <img src="http://www.thefutoncritic.com/images/password.gif" alt="Password">
+            </div>
+        </header>
+
+        <!-- Navigation Bar -->
+        <nav class="h-[36px] bg-[url('http://www.thefutoncritic.com/images/global/bg-nav-bar.gif')] flex">
+            <!-- Navigation items -->
+            <div class="flex space-x-4">
+                <!-- Add nav items with proper background images -->
+            </div>
+        </nav>
+
+        <!-- Main Content Area -->
+        <div class="flex">
+            <!-- Left Content -->
+            <div class="w-2/3 p-4">
+                <!-- News content -->
+            </div>
+
+            <!-- Right Sidebar -->
+            <div class="w-1/3 p-4">
+                <!-- Calendar -->
+                <div class="mb-8">
+                    <h3 class="text-lg font-bold mb-2">July 2014</h3>
+                    <table class="calendar-table">
+                        <thead>
+                            <tr>
+                                <th class="calendar-cell">S</th>
+                                <th class="calendar-cell">M</th>
+                                <th class="calendar-cell">T</th>
+                                <th class="calendar-cell">W</th>
+                                <th class="calendar-cell">T</th>
+                                <th class="calendar-cell">F</th>
+                                <th class="calendar-cell">S</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td></td>
+                                <td></td>
+                                <td><a href="#" class="calendar-link">1</a></td>
+                                <td><a href="#" class="calendar-link">2</a></td>
+                                <td><a href="#" class="calendar-link">3</a></td>
+                                <td><a href="#" class="calendar-link">4</a></td>
+                                <td><a href="#" class="calendar-link">5</a></td>
+                            </tr>
+                            <!-- Add remaining calendar rows -->
+                        </tbody>
+                    </table>
+                </div>
+
+                <!-- Links Section -->
+                <div class="mb-8">
+                    <a href="http://www.thefutoncritic.com/showatch/" class="nav-link block mb-2">SHOWATCH</a>
+                    <a href="http://www.thefutoncritic.com/devwatch/" class="nav-link block mb-2">DEVWATCH</a>
+                    <a href="http://www.thefutoncritic.com/moviewatch/" class="nav-link block mb-2">MOVIEWATCH</a>
+                </div>
+
+                <!-- News Links -->
+                <div>
+                    <div class="space-y-4">
+                        <a href="#" class="news-link">Hulu Announces October 18th Release Date for Highly Anticipated Original Series "Rivals"</a>
+                        <!-- Add remaining news links -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="h-[28px] bg-[url('http://www.thefutoncritic.com/images/global/bg-footer.jpg')] mt-8">
+            <!-- Footer content -->
+        </footer>
+    </div>
+</body>
+</html>

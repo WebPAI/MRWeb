@@ -1,0 +1,152 @@
+[
+    {
+        "position": [
+            [
+                837.1666870117188,
+                277.5
+            ],
+            [
+                880.0666809082031,
+                298.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.somfypro.com.au/glydea-range"
+    },
+    {
+        "position": [
+            [
+                896.066650390625,
+                277.5
+            ],
+            [
+                939.6333160400391,
+                298.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.appfactorydigital.com/expert-22.html"
+    },
+    {
+        "position": [
+            [
+                955.63330078125,
+                277.5
+            ],
+            [
+                1012.1499633789062,
+                298.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "http://dimsumkingnow.com/"
+    },
+    {
+        "position": [
+            [
+                1028.1500244140625,
+                277.5
+            ],
+            [
+                1082.8333587646484,
+                298.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "http://shop.theacc.com/catalog/product/Miami_Hurricanes_8_x_8_Digi_Camo_Oval_Car_Magnet"
+    },
+    {
+        "position": [
+            [
+                874.5499877929688,
+                64.0
+            ],
+            [
+                1045.4333190917969,
+                192.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1447968954315-3f0c44f7313c?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2Mzh8&ixlib=rb-4.0.3&w=300&h=200"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                320.0
+            ],
+            [
+                1920.0,
+                1315.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?law"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                1315.0
+            ],
+            [
+                1920.0,
+                2310.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?team"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                2310.0
+            ],
+            [
+                1920.0,
+                3305.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?services"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                3305.0
+            ],
+            [
+                1920.0,
+                4300.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?contact"
+    }
+]

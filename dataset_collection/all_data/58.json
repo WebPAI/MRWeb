@@ -1,0 +1,3242 @@
+[
+    {
+        "position": [
+            [
+                1074.949951171875,
+                5.0
+            ],
+            [
+                1157.3999481201172,
+                55.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Surgeries",
+        "on_click_jump_to": "https://www.marham.pk/surgeries"
+    },
+    {
+        "position": [
+            [
+                1161.7833251953125,
+                5.0
+            ],
+            [
+                1246.2333221435547,
+                55.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Medicines",
+        "on_click_jump_to": "https://www.marham.pk/medicine"
+    },
+    {
+        "position": [
+            [
+                1250.61669921875,
+                5.0
+            ],
+            [
+                1333.0666961669922,
+                55.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Lab Tests",
+        "on_click_jump_to": "https://www.marham.pk/radiology-pathology-labs/pakistan"
+    },
+    {
+        "position": [
+            [
+                1337.449951171875,
+                5.0
+            ],
+            [
+                1383.9832916259766,
+                55.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://www.marham.pk/healthblog"
+    },
+    {
+        "position": [
+            [
+                1388.36669921875,
+                5.0
+            ],
+            [
+                1503.7333679199219,
+                55.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Join as Doctor",
+        "on_click_jump_to": "https://www.marham.pk/register/doctor"
+    },
+    {
+        "position": [
+            [
+                1561.5,
+                22.5
+            ],
+            [
+                1601.5,
+                38.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Login",
+        "on_click_jump_to": "https://www.marham.pk/login"
+    },
+    {
+        "position": [
+            [
+                308.5,
+                121.3000030517578
+            ],
+            [
+                344.03334045410156,
+                135.3000030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.marham.pk/"
+    },
+    {
+        "position": [
+            [
+                360.7166748046875,
+                121.3000030517578
+            ],
+            [
+                516.9166870117188,
+                135.3000030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Find a Doctor by Disease",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases"
+    },
+    {
+        "position": [
+            [
+                857.5,
+                174.1999969482422
+            ],
+            [
+                943.8000030517578,
+                212.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Clear Filters",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                953.7999877929688,
+                174.1999969482422
+            ],
+            [
+                1065.2999877929688,
+                212.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Doctors Near Me",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1075.300048828125,
+                174.1999969482422
+            ],
+            [
+                1168.5000457763672,
+                212.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Fee Upto 500",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1178.5,
+                174.1999969482422
+            ],
+            [
+                1274.6999969482422,
+                212.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Top Reviewed",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1284.699951171875,
+                174.1999969482422
+            ],
+            [
+                1367.699951171875,
+                212.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            1,
+            78,
+            120
+        ],
+        "text": "Online Now",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                247.1999969482422
+            ],
+            [
+                1275.0,
+                285.8999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dr. Saba Samreen\nPMDC Verified",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/dr-saba-samreen"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                350.3999938964844
+            ],
+            [
+                737.5,
+                392.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Reviews\n188",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/dr-saba-samreen"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                262.20001220703125
+            ],
+            [
+                1597.5,
+                300.20001220703125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Video Call",
+        "on_click_jump_to": "https://www.marham.pk/online-consultation/request?id=57&d_id=16934"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                310.20001220703125
+            ],
+            [
+                1597.5,
+                348.20001220703125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Profile",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/dr-saba-samreen"
+    },
+    {
+        "position": [
+            [
+                322.5,
+                402.0
+            ],
+            [
+                440.5,
+                417.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Osteoarthritis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/dr-saba-samreen"
+    },
+    {
+        "position": [
+            [
+                440.5,
+                402.0
+            ],
+            [
+                596.5,
+                417.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Rheumatoid Arthritis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/dr-saba-samreen"
+    },
+    {
+        "position": [
+            [
+                596.5,
+                402.0
+            ],
+            [
+                814.5,
+                417.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Systemic Lupus Erythematosus",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/dr-saba-samreen"
+    },
+    {
+        "position": [
+            [
+                814.5,
+                402.0
+            ],
+            [
+                933.5,
+                417.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Osteoporosis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/dr-saba-samreen"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                561.4000244140625
+            ],
+            [
+                1275.0,
+                600.1000366210938
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Asst. Prof. Dr. Shahida Perveen\nPMDC Verified",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/asst-prof-dr-shahida-perveen"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                664.5999755859375
+            ],
+            [
+                737.5,
+                706.1999664306641
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Reviews\n11",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/asst-prof-dr-shahida-perveen"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                576.4000244140625
+            ],
+            [
+                1597.5,
+                614.4000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Video Call",
+        "on_click_jump_to": "https://www.marham.pk/online-consultation/request?id=57&d_id=37330"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                624.4000244140625
+            ],
+            [
+                1597.5,
+                662.4000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Profile",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/asst-prof-dr-shahida-perveen"
+    },
+    {
+        "position": [
+            [
+                322.5,
+                716.2000122070312
+            ],
+            [
+                478.5,
+                731.2000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Rheumatoid Arthritis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/asst-prof-dr-shahida-perveen"
+    },
+    {
+        "position": [
+            [
+                478.5,
+                716.2000122070312
+            ],
+            [
+                696.5,
+                731.2000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Systemic Lupus Erythematosus",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/asst-prof-dr-shahida-perveen"
+    },
+    {
+        "position": [
+            [
+                696.5,
+                716.2000122070312
+            ],
+            [
+                1036.5,
+                731.2000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Juvenile Idiopathic Arthritis (Arthritis Affecting Children)",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/asst-prof-dr-shahida-perveen"
+    },
+    {
+        "position": [
+            [
+                1036.5,
+                716.2000122070312
+            ],
+            [
+                1323.5,
+                731.2000122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Frozen Shoulder And Shoulder Impingement",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/asst-prof-dr-shahida-perveen"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                875.5999755859375
+            ],
+            [
+                1275.0,
+                914.2999725341797
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dr. Tania Sultana\nPMDC Verified",
+        "on_click_jump_to": "https://www.marham.pk/online-consultation/internal-medicine/islamabad/dr-tania-sultana-16233"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                978.7999877929688
+            ],
+            [
+                737.5,
+                1020.3999786376953
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Reviews\n61",
+        "on_click_jump_to": "https://www.marham.pk/online-consultation/internal-medicine/islamabad/dr-tania-sultana-16233"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                890.5999755859375
+            ],
+            [
+                1597.5,
+                928.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Video Call",
+        "on_click_jump_to": "https://www.marham.pk/online-consultation/request?id=52&d_id=16233"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                938.5999755859376
+            ],
+            [
+                1597.5,
+                976.5999755859376
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Profile",
+        "on_click_jump_to": "https://www.marham.pk/online-consultation/internal-medicine/islamabad/dr-tania-sultana-16233"
+    },
+    {
+        "position": [
+            [
+                322.5,
+                1030.4000244140625
+            ],
+            [
+                446.5,
+                1045.4000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Rheumatology",
+        "on_click_jump_to": "https://www.marham.pk/online-consultation/internal-medicine/islamabad/dr-tania-sultana-16233"
+    },
+    {
+        "position": [
+            [
+                446.5,
+                1030.4000244140625
+            ],
+            [
+                578.5,
+                1045.4000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Rheumatologist",
+        "on_click_jump_to": "https://www.marham.pk/online-consultation/internal-medicine/islamabad/dr-tania-sultana-16233"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                1384.800048828125
+            ],
+            [
+                1275.0,
+                1423.5000457763672
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dr. Nasim Arshad\nPMDC Verified",
+        "on_click_jump_to": "https://www.marham.pk/doctors/faisalabad/rheumatologist/dr-nasim-arshad"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                1488.0
+            ],
+            [
+                737.5,
+                1529.6000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Reviews\n64",
+        "on_click_jump_to": "https://www.marham.pk/doctors/faisalabad/rheumatologist/dr-nasim-arshad"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                1399.800048828125
+            ],
+            [
+                1597.5,
+                1437.800048828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Video Call",
+        "on_click_jump_to": "https://www.marham.pk/online-consultation/request?id=57&d_id=16999"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                1447.800048828125
+            ],
+            [
+                1597.5,
+                1485.800048828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Profile",
+        "on_click_jump_to": "https://www.marham.pk/doctors/faisalabad/rheumatologist/dr-nasim-arshad"
+    },
+    {
+        "position": [
+            [
+                322.5,
+                1539.5999755859375
+            ],
+            [
+                440.5,
+                1554.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Osteoarthritis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/faisalabad/rheumatologist/dr-nasim-arshad"
+    },
+    {
+        "position": [
+            [
+                440.5,
+                1539.5999755859375
+            ],
+            [
+                596.5,
+                1554.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Rheumatoid Arthritis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/faisalabad/rheumatologist/dr-nasim-arshad"
+    },
+    {
+        "position": [
+            [
+                596.5,
+                1539.5999755859375
+            ],
+            [
+                814.5,
+                1554.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Systemic Lupus Erythematosus",
+        "on_click_jump_to": "https://www.marham.pk/doctors/faisalabad/rheumatologist/dr-nasim-arshad"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                1699.0
+            ],
+            [
+                1275.0,
+                1719.8000030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dr. Fazli Hanan",
+        "on_click_jump_to": "https://www.marham.pk/doctors/peshawar/rheumatologist/dr-fazli-hanan"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                1714.0
+            ],
+            [
+                1597.5,
+                1752.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Profile",
+        "on_click_jump_to": "https://www.marham.pk/doctors/peshawar/rheumatologist/dr-fazli-hanan"
+    },
+    {
+        "position": [
+            [
+                322.5,
+                1862.3333740234375
+            ],
+            [
+                453.5,
+                1877.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Abdominal Pain",
+        "on_click_jump_to": "https://www.marham.pk/doctors/peshawar/rheumatologist/dr-fazli-hanan"
+    },
+    {
+        "position": [
+            [
+                453.5,
+                1862.3333740234375
+            ],
+            [
+                607.5,
+                1877.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Acid Peptic Disease",
+        "on_click_jump_to": "https://www.marham.pk/doctors/peshawar/rheumatologist/dr-fazli-hanan"
+    },
+    {
+        "position": [
+            [
+                607.5,
+                1862.3333740234375
+            ],
+            [
+                678.5,
+                1877.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "AIDS",
+        "on_click_jump_to": "https://www.marham.pk/doctors/peshawar/rheumatologist/dr-fazli-hanan"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                1927.3333740234375
+            ],
+            [
+                1275.0,
+                1948.1333770751953
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dr. Shamaila Mumtaz",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/dr-shamaila-mumtaz"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                1942.3333740234375
+            ],
+            [
+                1597.5,
+                1980.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Profile",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi/rheumatologist/dr-shamaila-mumtaz"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                2130.666748046875
+            ],
+            [
+                1275.0,
+                2151.4667358398438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dr. Tahira Perveen Umer",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi/rheumatologist/dr-tahira-perveen-umer"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                2145.666748046875
+            ],
+            [
+                1597.5,
+                2183.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Profile",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi/rheumatologist/dr-tahira-perveen-umer"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                2334.0
+            ],
+            [
+                1275.0,
+                2372.699996948242
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dr. Saadia Riaz\nPMDC Verified",
+        "on_click_jump_to": "https://www.marham.pk/doctors/islamabad/rheumatologist/dr-saadia-riaz"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                2437.199951171875
+            ],
+            [
+                737.5,
+                2478.7999572753906
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Reviews\n144",
+        "on_click_jump_to": "https://www.marham.pk/doctors/islamabad/rheumatologist/dr-saadia-riaz"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                2349.0
+            ],
+            [
+                1597.5,
+                2387.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Profile",
+        "on_click_jump_to": "https://www.marham.pk/doctors/islamabad/rheumatologist/dr-saadia-riaz"
+    },
+    {
+        "position": [
+            [
+                322.5,
+                2497.333251953125
+            ],
+            [
+                440.5,
+                2512.333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Osteoarthritis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/islamabad/rheumatologist/dr-saadia-riaz"
+    },
+    {
+        "position": [
+            [
+                440.5,
+                2497.333251953125
+            ],
+            [
+                596.5,
+                2512.333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Rheumatoid Arthritis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/islamabad/rheumatologist/dr-saadia-riaz"
+    },
+    {
+        "position": [
+            [
+                596.5,
+                2497.333251953125
+            ],
+            [
+                814.5,
+                2512.333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Systemic Lupus Erythematosus",
+        "on_click_jump_to": "https://www.marham.pk/doctors/islamabad/rheumatologist/dr-saadia-riaz"
+    },
+    {
+        "position": [
+            [
+                814.5,
+                2497.333251953125
+            ],
+            [
+                933.5,
+                2512.333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Osteoporosis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/islamabad/rheumatologist/dr-saadia-riaz"
+    },
+    {
+        "position": [
+            [
+                933.5,
+                2497.333251953125
+            ],
+            [
+                1273.5,
+                2512.333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Juvenile Idiopathic Arthritis (Arthritis Affecting Children)",
+        "on_click_jump_to": "https://www.marham.pk/doctors/islamabad/rheumatologist/dr-saadia-riaz"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                2562.333251953125
+            ],
+            [
+                1275.0,
+                2583.133255004883
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dr. Shafaq Abbas",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi/rheumatologist/dr-shafaq-abbas"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                2577.333251953125
+            ],
+            [
+                1597.5,
+                2615.333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Profile",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi/rheumatologist/dr-shafaq-abbas"
+    },
+    {
+        "position": [
+            [
+                322.5,
+                2725.666748046875
+            ],
+            [
+                440.5,
+                2740.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Osteoarthritis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi/rheumatologist/dr-shafaq-abbas"
+    },
+    {
+        "position": [
+            [
+                440.5,
+                2725.666748046875
+            ],
+            [
+                596.5,
+                2740.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Rheumatoid Arthritis",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi/rheumatologist/dr-shafaq-abbas"
+    },
+    {
+        "position": [
+            [
+                596.5,
+                2725.666748046875
+            ],
+            [
+                936.5,
+                2740.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Juvenile Idiopathic Arthritis (Arthritis Affecting Children)",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi/rheumatologist/dr-shafaq-abbas"
+    },
+    {
+        "position": [
+            [
+                936.5,
+                2725.666748046875
+            ],
+            [
+                1223.5,
+                2740.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Frozen Shoulder And Shoulder Impingement",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi/rheumatologist/dr-shafaq-abbas"
+    },
+    {
+        "position": [
+            [
+                483.75,
+                2790.666748046875
+            ],
+            [
+                1275.0,
+                2811.4667358398438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dr. Zafar Iqbal",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi/rheumatologist/dr-zafar-iqbal"
+    },
+    {
+        "position": [
+            [
+                1290.0,
+                2805.666748046875
+            ],
+            [
+                1597.5,
+                2843.666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "View Profile",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi/rheumatologist/dr-zafar-iqbal"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                3994.64990234375
+            ],
+            [
+                753.5333404541016,
+                4009.64990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Chronic Fatigue Syndrome treatment",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/chronic-fatigue-syndrome"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                3994.64990234375
+            ],
+            [
+                1104.433334350586,
+                4009.64990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Osteoporosis treatment",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/osteoporosis"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4030.449951171875
+            ],
+            [
+                619.8666687011719,
+                4045.449951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Gout treatment",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/gout"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4030.449951171875
+            ],
+            [
+                1101.433334350586,
+                4045.449951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Fibromyalgia treatment",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/fibromyalgia"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4066.25
+            ],
+            [
+                638.7833404541016,
+                4081.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Arthritis treatment",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/arthritis"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4066.25
+            ],
+            [
+                1163.2666625976562,
+                4081.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Ankylosing Spondylitis treatment",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/ankylosing-spondylitis"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4102.0498046875
+            ],
+            [
+                811.6000061035156,
+                4117.0498046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Systemic Lupus Erythematosus Sle treatment",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/systemic-lupus-erythematosus-sle"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4102.0498046875
+            ],
+            [
+                1078.5166625976562,
+                4117.0498046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "View All Diseases",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4219.10009765625
+            ],
+            [
+                645.0166625976562,
+                4234.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Bone Densitometry",
+        "on_click_jump_to": "https://www.marham.pk/all-services/bone-densitometry"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4219.10009765625
+            ],
+            [
+                1067.75,
+                4234.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Pharmacotherapy",
+        "on_click_jump_to": "https://www.marham.pk/all-services/pharmacotherapy"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4254.89990234375
+            ],
+            [
+                756.7666625976562,
+                4269.89990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Recommendation For Use Of Dmards",
+        "on_click_jump_to": "https://www.marham.pk/all-services/recommendation-for-use-of-dmards"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4254.89990234375
+            ],
+            [
+                1126.9666595458984,
+                4269.89990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Treatment Of Joint Disease",
+        "on_click_jump_to": "https://www.marham.pk/all-services/treatment-of-joint-disease"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4290.7001953125
+            ],
+            [
+                645.0166625976562,
+                4305.7001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "View All Services",
+        "on_click_jump_to": "https://www.marham.pk/services"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4407.75
+            ],
+            [
+                820.1333312988281,
+                4422.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Ankylosing Spondylitis treatment in Abbottabad",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/ankylosing-spondylitis/abbottabad"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4407.75
+            ],
+            [
+                1253.6333312988281,
+                4422.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Ankylosing Spondylitis treatment in Bahawalpur",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/ankylosing-spondylitis/bahawalpur"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4443.5498046875
+            ],
+            [
+                817.1333312988281,
+                4458.5498046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Ankylosing Spondylitis treatment in Faisalabad",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/ankylosing-spondylitis/faisalabad"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4443.5498046875
+            ],
+            [
+                1250.6333312988281,
+                4458.5498046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Ankylosing Spondylitis treatment in Gujranwala",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/ankylosing-spondylitis/gujranwala"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4479.35009765625
+            ],
+            [
+                793.9833374023438,
+                4494.35009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Ankylosing Spondylitis treatment in Haripur",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/ankylosing-spondylitis/haripur"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4479.35009765625
+            ],
+            [
+                1248.25,
+                4494.35009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Ankylosing Spondylitis treatment in Hyderabad",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/ankylosing-spondylitis/hyderabad"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4515.14990234375
+            ],
+            [
+                812.75,
+                4530.14990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Ankylosing Spondylitis treatment in Islamabad",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/ankylosing-spondylitis/islamabad"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4515.14990234375
+            ],
+            [
+                1230.8666687011719,
+                4530.14990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Ankylosing Spondylitis treatment in Istanbul",
+        "on_click_jump_to": "https://www.marham.pk/all-diseases/ankylosing-spondylitis/istanbul"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4632.2001953125
+            ],
+            [
+                745.1499938964844,
+                4647.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Best Rheumatologist in Abbottabad",
+        "on_click_jump_to": "https://www.marham.pk/doctors/abbottabad/rheumatologist"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4632.2001953125
+            ],
+            [
+                1178.6499938964844,
+                4647.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Best Rheumatologist in Bahawalpur",
+        "on_click_jump_to": "https://www.marham.pk/doctors/bahawalpur/rheumatologist"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4668.0
+            ],
+            [
+                742.1499938964844,
+                4683.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Best Rheumatologist in Faisalabad",
+        "on_click_jump_to": "https://www.marham.pk/doctors/faisalabad/rheumatologist"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4668.0
+            ],
+            [
+                1175.6499938964844,
+                4683.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Best Rheumatologist in Gujranwala",
+        "on_click_jump_to": "https://www.marham.pk/doctors/gujranwala/rheumatologist"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4703.7998046875
+            ],
+            [
+                719.0,
+                4718.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Best Rheumatologist in Haripur",
+        "on_click_jump_to": "https://www.marham.pk/doctors/haripur/rheumatologist"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4703.7998046875
+            ],
+            [
+                1173.2666625976562,
+                4718.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Best Rheumatologist in Hyderabad",
+        "on_click_jump_to": "https://www.marham.pk/doctors/hyderabad/rheumatologist"
+    },
+    {
+        "position": [
+            [
+                527.5,
+                4739.60009765625
+            ],
+            [
+                737.7666625976562,
+                4754.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Best Rheumatologist in Islamabad",
+        "on_click_jump_to": "https://www.marham.pk/doctors/islamabad/rheumatologist"
+    },
+    {
+        "position": [
+            [
+                960.0,
+                4739.60009765625
+            ],
+            [
+                1155.8833312988281,
+                4754.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Best Rheumatologist in Istanbul",
+        "on_click_jump_to": "https://www.marham.pk/doctors/istanbul/rheumatologist"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                4873.7998046875
+            ],
+            [
+                348.8000030517578,
+                4888.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Lahore",
+        "on_click_jump_to": "https://www.marham.pk/doctors/lahore"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                4904.60009765625
+            ],
+            [
+                354.18333435058594,
+                4919.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Karachi",
+        "on_click_jump_to": "https://www.marham.pk/doctors/karachi"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                4935.39990234375
+            ],
+            [
+                369.9499969482422,
+                4950.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Islamabad",
+        "on_click_jump_to": "https://www.marham.pk/doctors/islamabad"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                4966.2001953125
+            ],
+            [
+                373.3333282470703,
+                4981.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Rawalpindi",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rawalpindi"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                4997.0
+            ],
+            [
+                374.3333282470703,
+                5012.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Faisalabad",
+        "on_click_jump_to": "https://www.marham.pk/doctors/faisalabad"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5027.7998046875
+            ],
+            [
+                367.56666564941406,
+                5042.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Peshawar",
+        "on_click_jump_to": "https://www.marham.pk/doctors/peshawar"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5058.60009765625
+            ],
+            [
+                348.8000030517578,
+                5073.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Multan",
+        "on_click_jump_to": "https://www.marham.pk/doctors/multan"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5089.39990234375
+            ],
+            [
+                348.8000030517578,
+                5104.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Quetta",
+        "on_click_jump_to": "https://www.marham.pk/doctors/quetta"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5120.2001953125
+            ],
+            [
+                375.3333282470703,
+                5135.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Gujranwala",
+        "on_click_jump_to": "https://www.marham.pk/doctors/gujranwala"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5151.0
+            ],
+            [
+                365.56666564941406,
+                5166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Sargodha",
+        "on_click_jump_to": "https://www.marham.pk/doctors/sargodha"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5181.7998046875
+            ],
+            [
+                372.9499969482422,
+                5196.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Hyderabad",
+        "on_click_jump_to": "https://www.marham.pk/doctors/hyderabad"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5212.60009765625
+            ],
+            [
+                378.3333282470703,
+                5227.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Bahawalpur",
+        "on_click_jump_to": "https://www.marham.pk/doctors/bahawalpur"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5243.39990234375
+            ],
+            [
+                350.18333435058594,
+                5258.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Sialkot",
+        "on_click_jump_to": "https://www.marham.pk/doctors/sialkot"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5274.2001953125
+            ],
+            [
+                406.8666687011719,
+                5289.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Rahim Yar Khan",
+        "on_click_jump_to": "https://www.marham.pk/doctors/rahim-yar-khan"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5305.0
+            ],
+            [
+                397.25,
+                5320.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "View All Cities",
+        "on_click_jump_to": "https://www.marham.pk/doctors-in-pakistan"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                4873.7998046875
+            ],
+            [
+                722.4833374023438,
+                4888.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Dermatologist",
+        "on_click_jump_to": "https://www.marham.pk/doctors/dermatologist"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                4904.60009765625
+            ],
+            [
+                706.7166595458984,
+                4919.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Neurologist",
+        "on_click_jump_to": "https://www.marham.pk/doctors/neuro-physician"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                4935.39990234375
+            ],
+            [
+                718.1000061035156,
+                4950.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Gynecologist",
+        "on_click_jump_to": "https://www.marham.pk/doctors/gynecologist"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                4966.2001953125
+            ],
+            [
+                691.9499969482422,
+                4981.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Urologist",
+        "on_click_jump_to": "https://www.marham.pk/doctors/urologist"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                4997.0
+            ],
+            [
+                750.3999938964844,
+                5012.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Gastroenterologist",
+        "on_click_jump_to": "https://www.marham.pk/doctors/gastroenterologist"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                5027.7998046875
+            ],
+            [
+                832.3833312988281,
+                5042.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Pulmonologist / Lung Specialist",
+        "on_click_jump_to": "https://www.marham.pk/doctors/pulmonologist"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                5058.60009765625
+            ],
+            [
+                759.3999938964844,
+                5073.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Orthopedic Surgeon",
+        "on_click_jump_to": "https://www.marham.pk/doctors/orthopedic-surgeon"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                5089.39990234375
+            ],
+            [
+                710.1000061035156,
+                5104.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Pediatrician",
+        "on_click_jump_to": "https://www.marham.pk/doctors/pediatrician"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                5120.2001953125
+            ],
+            [
+                750.0166625976562,
+                5135.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "General Physician",
+        "on_click_jump_to": "https://www.marham.pk/doctors/general-physician"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                5151.0
+            ],
+            [
+                714.1000061035156,
+                5166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Nephrologist",
+        "on_click_jump_to": "https://www.marham.pk/doctors/nephrologist"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                5181.7998046875
+            ],
+            [
+                702.3333282470703,
+                5196.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Sexologist",
+        "on_click_jump_to": "https://www.marham.pk/doctors/sexologist"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                5212.60009765625
+            ],
+            [
+                723.8666687011719,
+                5227.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Ent Specialist",
+        "on_click_jump_to": "https://www.marham.pk/doctors/ent-specialist"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                5243.39990234375
+            ],
+            [
+                716.7166595458984,
+                5258.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Eye Surgeon",
+        "on_click_jump_to": "https://www.marham.pk/doctors/eye-surgeon"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                5274.2001953125
+            ],
+            [
+                728.4833374023438,
+                5289.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Neuro Surgeon",
+        "on_click_jump_to": "https://www.marham.pk/doctors/neuro-surgeon"
+    },
+    {
+        "position": [
+            [
+                637.5,
+                5305.0
+            ],
+            [
+                763.5500030517578,
+                5320.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "View All Specialities",
+        "on_click_jump_to": "https://www.marham.pk/doctors"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                4873.7998046875
+            ],
+            [
+                1125.8500061035156,
+                4888.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "City International Hospital",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/quetta/city-international-hospital/zarghon-road"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                4904.60009765625
+            ],
+            [
+                1069.6333312988281,
+                4919.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Doctors Hospital",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/lahore/doctors-hospital/johar-town"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                4935.39990234375
+            ],
+            [
+                1102.5500030517578,
+                4950.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Hameed Latif Hospital",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/lahore/hameed-latif-hospital/garden-town"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                4966.2001953125
+            ],
+            [
+                1061.8666687011719,
+                4981.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Akram Hospital",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/quetta/akram-hospital/quetta-city"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                4997.0
+            ],
+            [
+                1118.316665649414,
+                5012.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Chughtai Medical Center",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/lahore/chughtai-medical-center/dha-defence"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                5027.7998046875
+            ],
+            [
+                1154.6166687011719,
+                5042.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Iqra Medical Complex Hospital",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/lahore/iqra-medical-complex-hospital/johar-town"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                5058.60009765625
+            ],
+            [
+                1080.0166625976562,
+                5073.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Surgimed Hospital",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/lahore/surgimed-hospital/gulberg-4"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                5089.39990234375
+            ],
+            [
+                1165.0,
+                5104.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Omar Hospital & Cardiac Centre",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/lahore/omar-hospital-cardiac-centre/jail-road"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                5120.2001953125
+            ],
+            [
+                1150.2333374023438,
+                5135.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Hilal-E-Ahmar House Hospital",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/karachi/hilal-e-ahmar-house-hospital/clifton"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                5151.0
+            ],
+            [
+                1216.4499969482422,
+                5166.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Health Icon Medical & Diagnostic Centre",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/karachi/health-icon-medical-diagnostic-centre/gulshan-e-iqbal"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                5181.7998046875
+            ],
+            [
+                1134.4666595458984,
+                5196.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Khan Medical City Hospital",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/multan/khan-medical-city-hospital/al-rahim-colony"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                5212.60009765625
+            ],
+            [
+                1059.25,
+                5227.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Faisal Hospital",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/faisalabad/faisal-hospital/peoples-colony"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                5243.39990234375
+            ],
+            [
+                1178.3833312988281,
+                5258.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Saleem Medical Complex Hospital",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/quetta/saleem-medical-complex-hospital/quetta-city"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                5274.2001953125
+            ],
+            [
+                1045.1000061035156,
+                5289.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Kanan Clinic",
+        "on_click_jump_to": "https://www.marham.pk/hospitals/lahore/kanan-clinic/gor-1"
+    },
+    {
+        "position": [
+            [
+                967.5,
+                5305.0
+            ],
+            [
+                1079.3999938964844,
+                5320.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "View All Hospitals",
+        "on_click_jump_to": "https://www.marham.pk/hospitals"
+    },
+    {
+        "position": [
+            [
+                1297.5,
+                4873.7998046875
+            ],
+            [
+                1387.8666687011719,
+                4888.7998046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Labs in Lahore",
+        "on_click_jump_to": "https://www.marham.pk/radiology-pathology-labs/lahore"
+    },
+    {
+        "position": [
+            [
+                1297.5,
+                4904.60009765625
+            ],
+            [
+                1393.25,
+                4919.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Labs in Karachi",
+        "on_click_jump_to": "https://www.marham.pk/radiology-pathology-labs/karachi"
+    },
+    {
+        "position": [
+            [
+                1297.5,
+                4935.39990234375
+            ],
+            [
+                1409.0166625976562,
+                4950.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Labs in Islamabad",
+        "on_click_jump_to": "https://www.marham.pk/radiology-pathology-labs/islamabad"
+    },
+    {
+        "position": [
+            [
+                1297.5,
+                4966.2001953125
+            ],
+            [
+                1400.6333312988281,
+                4981.2001953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Labs in Pakistan",
+        "on_click_jump_to": "https://www.marham.pk/radiology-pathology-labs/pakistan"
+    },
+    {
+        "position": [
+            [
+                307.5,
+                5377.60009765625
+            ],
+            [
+                394.8666687011719,
+                5392.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://www.marham.pk/privacy"
+    },
+    {
+        "position": [
+            [
+                420.25,
+                5377.60009765625
+            ],
+            [
+                511.0,
+                5392.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Delivery Policy",
+        "on_click_jump_to": "https://www.marham.pk/delivery-policy"
+    },
+    {
+        "position": [
+            [
+                536.38330078125,
+                5377.60009765625
+            ],
+            [
+                621.3666381835938,
+                5392.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Refund Policy",
+        "on_click_jump_to": "https://www.marham.pk/refunds-privacy"
+    },
+    {
+        "position": [
+            [
+                646.75,
+                5377.60009765625
+            ],
+            [
+                742.7333374023438,
+                5392.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Payment Terms",
+        "on_click_jump_to": "https://www.marham.pk/payment-privacy"
+    },
+    {
+        "position": [
+            [
+                768.11669921875,
+                5377.60009765625
+            ],
+            [
+                893.7833709716797,
+                5392.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Cancellations Policy",
+        "on_click_jump_to": "https://www.marham.pk/cancellation-policy"
+    },
+    {
+        "position": [
+            [
+                919.1666870117188,
+                5377.60009765625
+            ],
+            [
+                999.7666778564453,
+                5392.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Terms of Use",
+        "on_click_jump_to": "https://www.marham.pk/termsofuse-privacy"
+    },
+    {
+        "position": [
+            [
+                1025.1500244140625,
+                5377.60009765625
+            ],
+            [
+                1059.683364868164,
+                5392.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "FAQs",
+        "on_click_jump_to": "https://www.marham.pk/faqs-policy"
+    },
+    {
+        "position": [
+            [
+                1085.066650390625,
+                5377.60009765625
+            ],
+            [
+                1142.133316040039,
+                5392.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://www.marham.pk/about"
+    },
+    {
+        "position": [
+            [
+                1167.5166015625,
+                5377.60009765625
+            ],
+            [
+                1236.3499450683594,
+                5392.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://www.marham.pk/contact"
+    },
+    {
+        "position": [
+            [
+                1261.7333984375,
+                5377.60009765625
+            ],
+            [
+                1309.416732788086,
+                5392.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            77,
+            113
+        ],
+        "text": "Doctors",
+        "on_click_jump_to": "https://www.marham.pk/doctors"
+    },
+    {
+        "position": [
+            [
+                322.5,
+                247.1999969482422
+            ],
+            [
+                468.75,
+                393.4499969482422
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    },
+    {
+        "position": [
+            [
+                322.5,
+                561.4000244140625
+            ],
+            [
+                468.75,
+                707.6500244140625
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    },
+    {
+        "position": [
+            [
+                322.5,
+                875.5999755859375
+            ],
+            [
+                468.75,
+                1021.8499755859375
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    },
+    {
+        "position": [
+            [
+                322.5,
+                1384.800048828125
+            ],
+            [
+                468.75,
+                1531.050048828125
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    },
+    {
+        "position": [
+            [
+                322.5,
+                1699.0
+            ],
+            [
+                468.75,
+                1856.433334350586
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    },
+    {
+        "position": [
+            [
+                322.5,
+                1927.3333740234375
+            ],
+            [
+                468.75,
+                2084.7667083740234
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    },
+    {
+        "position": [
+            [
+                322.5,
+                2130.666748046875
+            ],
+            [
+                468.75,
+                2288.100082397461
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    },
+    {
+        "position": [
+            [
+                322.5,
+                2334.0
+            ],
+            [
+                468.75,
+                2491.433334350586
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    },
+    {
+        "position": [
+            [
+                322.5,
+                2562.333251953125
+            ],
+            [
+                468.75,
+                2719.766586303711
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    },
+    {
+        "position": [
+            [
+                322.5,
+                2790.666748046875
+            ],
+            [
+                468.75,
+                2948.100082397461
+            ]
+        ],
+        "type": "img",
+        "src": ""
+    }
+]

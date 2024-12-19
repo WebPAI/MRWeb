@@ -1,0 +1,182 @@
+[
+    {
+        "position": [
+            [
+                602.5,
+                8.5
+            ],
+            [
+                639.5,
+                27.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                655.5,
+                8.5
+            ],
+            [
+                688.5,
+                27.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                704.5,
+                8.5
+            ],
+            [
+                753.5,
+                27.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Courses",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                769.5,
+                8.5
+            ],
+            [
+                849.5,
+                27.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Examinations",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                865.5,
+                8.5
+            ],
+            [
+                919.5,
+                27.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Activities",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                935.5,
+                8.5
+            ],
+            [
+                1035.5,
+                27.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Accommodation",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1051.5,
+                8.5
+            ],
+            [
+                1144.5,
+                27.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Dates and Fees",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1160.5,
+                8.5
+            ],
+            [
+                1233.5,
+                27.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Registration",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1249.5,
+                8.5
+            ],
+            [
+                1317.5,
+                27.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    }
+]

@@ -1,0 +1,256 @@
+[
+    {
+        "position": [
+            [
+                888.7833251953125,
+                16.0
+            ],
+            [
+                1031.2166442871094,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "DiagnosisDude",
+        "on_click_jump_to": "https://diagnosisdude.com/"
+    },
+    {
+        "position": [
+            [
+                724.88330078125,
+                68.0
+            ],
+            [
+                771.3666381835938,
+                92.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://diagnosisdude.com/"
+    },
+    {
+        "position": [
+            [
+                787.36669921875,
+                68.0
+            ],
+            [
+                841.36669921875,
+                92.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://diagnosisdude.com/about-2/"
+    },
+    {
+        "position": [
+            [
+                857.36669921875,
+                68.0
+            ],
+            [
+                1100.3833618164062,
+                92.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "REFERENCE TABLES (SCROLL)",
+        "on_click_jump_to": "https://diagnosisdude.com/page-6/"
+    },
+    {
+        "position": [
+            [
+                1116.38330078125,
+                68.0
+            ],
+            [
+                1195.1166381835938,
+                92.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "WELCOME",
+        "on_click_jump_to": "https://diagnosisdude.com/welcome/"
+    },
+    {
+        "position": [
+            [
+                1744.0,
+                290.75
+            ],
+            [
+                1803.75,
+                310.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Register",
+        "on_click_jump_to": "https://wordpress.com/start?ref=wplogin"
+    },
+    {
+        "position": [
+            [
+                1744.0,
+                314.75
+            ],
+            [
+                1788.1000061035156,
+                334.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Log in",
+        "on_click_jump_to": "https://diagnosisduh.wordpress.com/wp-login.php"
+    },
+    {
+        "position": [
+            [
+                1744.0,
+                338.75
+            ],
+            [
+                1830.8000030517578,
+                358.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Entries feed",
+        "on_click_jump_to": "https://diagnosisdude.com/feed/"
+    },
+    {
+        "position": [
+            [
+                1744.0,
+                362.75
+            ],
+            [
+                1859.4666595458984,
+                382.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "Comments feed",
+        "on_click_jump_to": "https://diagnosisdude.com/comments/feed/"
+    },
+    {
+        "position": [
+            [
+                1744.0,
+                386.75
+            ],
+            [
+                1858.25,
+                406.75
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "WordPress.com",
+        "on_click_jump_to": "https://wordpress.com/"
+    },
+    {
+        "position": [
+            [
+                64.0,
+                592.0
+            ],
+            [
+                173.48333740234375,
+                616.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            96,
+            255
+        ],
+        "text": "DiagnosisDude",
+        "on_click_jump_to": "https://diagnosisdude.com/"
+    },
+    {
+        "position": [
+            [
+                1729.800048828125,
+                592.0
+            ],
+            [
+                1904.0000457763672,
+                616.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            136,
+            136,
+            136
+        ],
+        "text": "Blog at WordPress.com.",
+        "on_click_jump_to": "https://wordpress.com/?ref=footer_blog"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                584.0
+            ],
+            [
+                56.0,
+                624.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://s2.wp.com/i/logo/wpcom-gray-white.png"
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "position": [
+            [
+                833.5,
+                21.5
+            ],
+            [
+                944.9499969482422,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Blog Categories",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                973.3333129882812,
+                21.5
+            ],
+            [
+                1025.3999786376953,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Fun Sol",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1053.7833251953125,
+                21.5
+            ],
+            [
+                1161.8333129882812,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Store Locations",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1190.2166748046875,
+                21.5
+            ],
+            [
+                1252.750015258789,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Work UV",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1281.13330078125,
+                21.5
+            ],
+            [
+                1391.9999694824219,
+                42.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About Our Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                544.0,
+                717.5
+            ],
+            [
+                787.75,
+                738.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Color Change Nail Art Tutorial (49)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                544.0,
+                749.5
+            ],
+            [
+                685.7833404541016,
+                770.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Company News (34)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                861.5
+            ],
+            [
+                703.0833282470703,
+                882.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Del Sol Family Fun Guide",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                893.5
+            ],
+            [
+                768.9499969482422,
+                914.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            239,
+            68,
+            68
+        ],
+        "text": "Find the Best Before & After Items",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                16.0
+            ],
+            [
+                617.7166595458984,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/delsol-logo.png"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                236.0
+            ],
+            [
+                1392.0,
+                260.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/surf-experience-day.jpg"
+    }
+]

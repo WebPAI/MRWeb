@@ -1,0 +1,270 @@
+[
+    {
+        "position": [
+            [
+                48.0,
+                90.60000610351562
+            ],
+            [
+                93.46665954589844,
+                109.60000610351562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "http://reviewon.com/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                110.1999969482422
+            ],
+            [
+                189.81666564941406,
+                129.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "PRODUCT REVIEWS",
+        "on_click_jump_to": "https://product.reviewon.com/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                129.8000030517578
+            ],
+            [
+                87.96665954589844,
+                148.8000030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "BLOG",
+        "on_click_jump_to": "https://reviewon.com/category/blog"
+    },
+    {
+        "position": [
+            [
+                322.6333312988281,
+                2102.39990234375
+            ],
+            [
+                377.46665954589844,
+                2121.39990234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "scarcity",
+        "on_click_jump_to": "https://en.wikipedia.org/wiki/Scarcity_(social_psychology)"
+    },
+    {
+        "position": [
+            [
+                727.0999755859375,
+                2401.2666015625
+            ],
+            [
+                805.6833038330078,
+                2420.2666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "depression",
+        "on_click_jump_to": "https://reviewon.com/when-youre-feeling-down-and-moody-natural-ways-to-boost-you-up.html"
+    },
+    {
+        "position": [
+            [
+                72.30000305175781,
+                2789.13330078125
+            ],
+            [
+                115.33332824707031,
+                2808.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://reviewon.com/"
+    },
+    {
+        "position": [
+            [
+                127.16667175292967,
+                2789.13330078125
+            ],
+            [
+                192.36666870117188,
+                2808.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "https://reviewon.com/about"
+    },
+    {
+        "position": [
+            [
+                204.1999969482422,
+                2789.13330078125
+            ],
+            [
+                337.8333282470703,
+                2808.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Affiliate Disclaimer",
+        "on_click_jump_to": "https://reviewon.com/affiliate-disclaimer"
+    },
+    {
+        "position": [
+            [
+                349.66668701171875,
+                2789.13330078125
+            ],
+            [
+                445.65000915527344,
+                2808.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Cookie Policy",
+        "on_click_jump_to": "https://reviewon.com/cookie-policy"
+    },
+    {
+        "position": [
+            [
+                457.48333740234375,
+                2789.13330078125
+            ],
+            [
+                502.8000030517578,
+                2808.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "DMCA",
+        "on_click_jump_to": "https://reviewon.com/dmca"
+    },
+    {
+        "position": [
+            [
+                514.63330078125,
+                2789.13330078125
+            ],
+            [
+                613.13330078125,
+                2808.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://reviewon.com/privacy-policy"
+    },
+    {
+        "position": [
+            [
+                624.9666748046875,
+                2789.13330078125
+            ],
+            [
+                746.4166870117188,
+                2808.13330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Terms Of Service",
+        "on_click_jump_to": "https://reviewon.com/terms-of-service"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                8.0
+            ],
+            [
+                205.0,
+                70.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://reviewon.com/wp-content/uploads/2020/08/cropped-latestreviewonlogo_master220-4.png"
+    },
+    {
+        "position": [
+            [
+                8.0,
+                217.63333129882812
+            ],
+            [
+                808.0,
+                617.6333312988281
+            ]
+        ],
+        "type": "img",
+        "src": "https://reviewon.com/wp-content/uploads/2018/06/the-scarcity-mindset.jpg"
+    }
+]

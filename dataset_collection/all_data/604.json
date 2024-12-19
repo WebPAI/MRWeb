@@ -1,0 +1,3778 @@
+[
+    {
+        "position": [
+            [
+                1174.4666748046875,
+                12.166671752929688
+            ],
+            [
+                1211.8333435058594,
+                30.166671752929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/about"
+    },
+    {
+        "position": [
+            [
+                1221.4000244140625,
+                12.166671752929688
+            ],
+            [
+                1246.7166900634766,
+                30.166671752929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/faq"
+    },
+    {
+        "position": [
+            [
+                1256.2833251953125,
+                12.166671752929688
+            ],
+            [
+                1303.1833190917969,
+                30.166671752929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reports",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/yearly_report"
+    },
+    {
+        "position": [
+            [
+                1312.75,
+                12.166671752929688
+            ],
+            [
+                1378.75,
+                30.166671752929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/contact"
+    },
+    {
+        "position": [
+            [
+                485.0,
+                140.28334045410156
+            ],
+            [
+                534.4166717529297,
+                169.28334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Works",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works?view=all"
+    },
+    {
+        "position": [
+            [
+                536.4166870117188,
+                140.28334045410156
+            ],
+            [
+                591.7000122070312,
+                169.28334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Groups",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups"
+    },
+    {
+        "position": [
+            [
+                593.7000122070312,
+                140.28334045410156
+            ],
+            [
+                646.1333465576172,
+                169.28334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "People",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people"
+    },
+    {
+        "position": [
+            [
+                648.13330078125,
+                140.28334045410156
+            ],
+            [
+                738.6999664306641,
+                169.28334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publications",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications"
+    },
+    {
+        "position": [
+            [
+                740.7000122070312,
+                140.28334045410156
+            ],
+            [
+                814.7166748046875,
+                169.28334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Publishers",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publishers"
+    },
+    {
+        "position": [
+            [
+                816.7166748046875,
+                140.28334045410156
+            ],
+            [
+                874.7833557128906,
+                169.28334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "In Press",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/inpress"
+    },
+    {
+        "position": [
+            [
+                1338.9833984375,
+                151.9499969482422
+            ],
+            [
+                1383.0000610351562,
+                164.9499969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Advanced",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/search/advanced"
+    },
+    {
+        "position": [
+            [
+                631.2833251953125,
+                240.76666259765625
+            ],
+            [
+                772.4333190917969,
+                260.76666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Elsevier Science, Inc.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publishers/1116-Elsevier_Science_Inc"
+    },
+    {
+        "position": [
+            [
+                531.5333251953125,
+                416.6000061035156
+            ],
+            [
+                564.9166564941406,
+                432.6000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Russo",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/1519"
+    },
+    {
+        "position": [
+            [
+                641.5333251953125,
+                416.6000061035156
+            ],
+            [
+                684.9666442871094,
+                432.6000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Sandhu",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/85"
+    },
+    {
+        "position": [
+            [
+                751.5333251953125,
+                416.6000061035156
+            ],
+            [
+                800.0999908447266,
+                432.6000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Eastham",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/5929"
+    },
+    {
+        "position": [
+            [
+                861.5333251953125,
+                416.6000061035156
+            ],
+            [
+                913.0333251953125,
+                432.6000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Coleman",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/101"
+    },
+    {
+        "position": [
+            [
+                971.5333251953124,
+                416.6000061035156
+            ],
+            [
+                996.8499908447264,
+                432.6000061035156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Herr",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/7116"
+    },
+    {
+        "position": [
+            [
+                531.5333251953125,
+                573.5999755859375
+            ],
+            [
+                581.1333160400391,
+                589.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Scardino",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/1991"
+    },
+    {
+        "position": [
+            [
+                641.5333251953125,
+                573.5999755859375
+            ],
+            [
+                692.9999847412109,
+                589.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Solomon",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/5759"
+    },
+    {
+        "position": [
+            [
+                751.5333251953125,
+                573.5999755859375
+            ],
+            [
+                789.0166473388672,
+                589.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Tickoo",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/3595"
+    },
+    {
+        "position": [
+            [
+                861.5333251953125,
+                573.5999755859375
+            ],
+            [
+                909.0499877929688,
+                589.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Bochner",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/5880"
+    },
+    {
+        "position": [
+            [
+                971.5333251953124,
+                573.5999755859375
+            ],
+            [
+                1022.7999877929686,
+                589.5999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Dalbagni",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/people/1763"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                282.1499938964844
+            ],
+            [
+                1189.4166717529297,
+                307.1499938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Groups",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                321.6166687011719
+            ],
+            [
+                1170.066665649414,
+                337.6166687011719
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Surgery",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/20"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                345.45001220703125
+            ],
+            [
+                1170.7333374023438,
+                361.45001220703125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/126"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                367.6000061035156
+            ],
+            [
+                1411.1000061035156,
+                402.28334045410156
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Molecular Pharmacology and Chemistry Program Faculty",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/40"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                410.1166687011719
+            ],
+            [
+                1304.9499969482422,
+                426.1166687011719
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Sloan Kettering Institute Faculty",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/33"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                433.9500122070313
+            ],
+            [
+                1346.0333404541016,
+                449.9500122070313
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Center for Pancreatic Cancer Research",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/119"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                457.7833251953125
+            ],
+            [
+                1311.4833374023438,
+                473.7833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Interventional Radiology Service",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/46"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                481.6166687011719
+            ],
+            [
+                1273.6499938964844,
+                497.6166687011719
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Radiology, Department of",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/43"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                505.4500122070313
+            ],
+            [
+                1251.6499938964844,
+                521.4500122070312
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Survivorship Research",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/76"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                529.2833251953125
+            ],
+            [
+                1266.5833282470703,
+                545.2833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Department of Medicine",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/124"
+    },
+    {
+        "position": [
+            [
+                1125.0,
+                553.11669921875
+            ],
+            [
+                1299.0333404541016,
+                569.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Epidemiology and Biostatistics",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/groups/77"
+    },
+    {
+        "position": [
+            [
+                557.36669921875,
+                762.86669921875
+            ],
+            [
+                588.9333648681641,
+                777.86669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "\"2011\"",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                834.7333374023438
+            ],
+            [
+                638.5333404541016,
+                849.7333374023438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal Article (18)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=type_facet%3A%22Journal+article%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                906.5999755859376
+            ],
+            [
+                603.4666595458984,
+                921.5999755859376
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Surgery (17)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Surgery%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                925.2333374023438
+            ],
+            [
+                604.1000061035156,
+                940.2333374023438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Urology (17)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Urology%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                942.0499877929688
+            ],
+            [
+                674.6999969482422,
+                990.8666534423828
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Molecular Pharmacology and Chemistry Program Faculty (3)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Molecular+Pharmacology+and+Chemistry+Program+Faculty%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                992.683349609375
+            ],
+            [
+                667.8833312988281,
+                1025.500015258789
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Sloan Kettering Institute Faculty (3)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Sloan+Kettering+Institute+Faculty%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1027.316650390625
+            ],
+            [
+                653.0333404541016,
+                1060.133316040039
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Center for Pancreatic Cancer Research (2)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Center+for+Pancreatic+Cancer+Research%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1061.949951171875
+            ],
+            [
+                671.9333343505859,
+                1094.766616821289
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Interventional Radiology Service (2)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=group_facet%3A%22Interventional+Radiology+Service%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1109.316650390625
+            ],
+            [
+                605.25,
+                1123.316650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "More Groups",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/x"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1183.8333740234375
+            ],
+            [
+                614.4499969482422,
+                1198.8333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Paul Russo (8)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22Paul+Russo%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1202.4666748046875
+            ],
+            [
+                650.1666717529297,
+                1217.4666748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Ari Adamy Junior (6)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22Ari+Adamy+Junior%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1221.0999755859375
+            ],
+            [
+                653.2833404541016,
+                1236.0999755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Melanie Bernstein (5)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22Melanie+Bernstein%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1239.7333984375
+            ],
+            [
+                645.5833282470703,
+                1254.7333984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Jaspreet Sandhu (4)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22Jaspreet+Sandhu%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1258.36669921875
+            ],
+            [
+                639.1333312988281,
+                1273.36669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "James Eastham (3)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22James+Eastham%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1277.0
+            ],
+            [
+                634.8000030517578,
+                1292.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Matthew Kaag (3)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=person_facet%3A%22Matthew+Kaag%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1306.550048828125
+            ],
+            [
+                602.8833312988281,
+                1320.550048828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "More People",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/x"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1381.066650390625
+            ],
+            [
+                583.9166717529297,
+                1396.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "2011 (18)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&view=all"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                1452.933349609375
+            ],
+            [
+                671.4166717529297,
+                1467.933349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Elsevier Science, Inc. (18)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&fq%5B%5D=publisher_facet%3A%22Elsevier+Science%2C+Inc.%22&view=all"
+    },
+    {
+        "position": [
+            [
+                1232.0,
+                645.7333374023438
+            ],
+            [
+                1391.683334350586,
+                663.7333374023438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Export to EndNote / Excel",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/search/export?amp=&fq%5B%5D=year_facet%3A%222011%22&id=813&publication_id=813&total_hits=18&view=all"
+    },
+    {
+        "position": [
+            [
+                1060.5333251953125,
+                755.0499877929688
+            ],
+            [
+                1079.6166534423828,
+                777.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            40,
+            117,
+            180
+        ],
+        "text": "2",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&page=2&view=all"
+    },
+    {
+        "position": [
+            [
+                1083.4833984375,
+                755.0499877929688
+            ],
+            [
+                1137.6833953857422,
+                777.0499877929688
+            ]
+        ],
+        "type": "a",
+        "color": [
+            40,
+            117,
+            180
+        ],
+        "text": "Next →",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&page=2&view=all"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                829.4833374023438
+            ],
+            [
+                1181.4500122070312,
+                845.4833374023438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Surgical innovation and outcome measures for male urethral surgery",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/13603"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                865.0333251953125
+            ],
+            [
+                815.6666717529297,
+                880.0333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Sandhu, J. S.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/25017"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                881.0333251953125
+            ],
+            [
+                847.8000030517578,
+                896.0333251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                903.0833129882812
+            ],
+            [
+                823.5166625976562,
+                918.0833129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Surgical+innovation+and+outcome+measures+for+male+urethral+surgery&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-11-01&rft.volume=186&rft.issue=5&rft.spage=1938&rft.epage=&rft.au=Sandhu%2C+J.+S.&sid=Entrez:PubMed&id=pmid:21993110&rft_id=info:10.1016%2Fj.juro.2011.08.015"
+    },
+    {
+        "position": [
+            [
+                833.63330078125,
+                903.0833129882812
+            ],
+            [
+                858.4666290283203,
+                918.0833129882812
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/13603/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                935.9166870117188
+            ],
+            [
+                1283.0,
+                951.9166870117188
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Use of empiric antibiotics in the setting of an increased prostate specific antigen: con",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/13123"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                971.4666748046876
+            ],
+            [
+                815.6666717529297,
+                986.4666748046876
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Sandhu, J. S.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/25017"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                987.4666748046876
+            ],
+            [
+                847.8000030517578,
+                1002.4666748046876
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1009.5166625976562
+            ],
+            [
+                823.5166625976562,
+                1024.5166625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Use+of+empiric+antibiotics+in+the+setting+of+an+increased+prostate+specific+antigen%3A+con&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-07-01&rft.volume=186&rft.issue=1&rft.spage=18&rft.epage=19&rft.au=Sandhu%2C+J.+S.&sid=Entrez:PubMed&id=pmid:21805693"
+    },
+    {
+        "position": [
+            [
+                833.63330078125,
+                1009.5166625976562
+            ],
+            [
+                858.4666290283203,
+                1024.5166625976562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/13123/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1042.3499755859375
+            ],
+            [
+                1274.6000366210938,
+                1058.3499755859375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Is repeat transurethral resection needed for minimally invasive T1 urothelial cancer?",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/12999"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1077.9000244140625
+            ],
+            [
+                806.75,
+                1092.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Herr, H. W.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/22172"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1093.9000244140625
+            ],
+            [
+                847.8000030517578,
+                1108.9000244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1115.949951171875
+            ],
+            [
+                823.5166625976562,
+                1130.949951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Is+repeat+transurethral+resection+needed+for+minimally+invasive+T1+urothelial+cancer%3F&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-09-01&rft.volume=186&rft.issue=3&rft.spage=787&rft.epage=788&rft.au=Herr%2C+H.+W.&sid=Entrez:PubMed&id=pmid:21788040&rft_id=info:10.1016%2Fj.juro.2011.06.016"
+    },
+    {
+        "position": [
+            [
+                833.63330078125,
+                1115.949951171875
+            ],
+            [
+                858.4666290283203,
+                1130.949951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/12999/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1148.7833251953125
+            ],
+            [
+                1282.0,
+                1164.7833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Use of empiric antibiotics in the setting of an increased prostate specific antigen: pro",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/9500"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1184.3333740234375
+            ],
+            [
+                792.5166625976562,
+                1199.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Loeb, S.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/43619"
+    },
+    {
+        "position": [
+            [
+                799.0,
+                1184.3333740234375
+            ],
+            [
+                864.1833343505859,
+                1199.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Sandhu, J. S.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/25017"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1200.3333740234375
+            ],
+            [
+                847.8000030517578,
+                1215.3333740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1222.38330078125
+            ],
+            [
+                823.5166625976562,
+                1237.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Use+of+empiric+antibiotics+in+the+setting+of+an+increased+prostate+specific+antigen%3A+pro&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-07-01&rft.volume=186&rft.issue=1&rft.spage=17&rft.epage=19&rft.au=Loeb%2C+S.&rft.au=Sandhu%2C+J.+S.&sid=Entrez:PubMed&id=pmid:21571331&rft_id=info:10.1016%2Fj.juro.2011.04.048"
+    },
+    {
+        "position": [
+            [
+                833.63330078125,
+                1222.38330078125
+            ],
+            [
+                858.4666290283203,
+                1237.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/9500/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1255.2166748046875
+            ],
+            [
+                1218.0833129882812,
+                1271.2166748046875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Routine drain placement after partial nephrectomy is not always necessary",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/9446"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1290.7666015625
+            ],
+            [
+                802.8999938964844,
+                1305.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Godoy, G.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/22553"
+    },
+    {
+        "position": [
+            [
+                809.38330078125,
+                1290.7666015625
+            ],
+            [
+                858.0832977294922,
+                1305.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Katz, D. J.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/9769"
+    },
+    {
+        "position": [
+            [
+                864.566650390625,
+                1290.7666015625
+            ],
+            [
+                918.4499816894531,
+                1305.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Adamy, A.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/29900"
+    },
+    {
+        "position": [
+            [
+                924.933349609375,
+                1290.7666015625
+            ],
+            [
+                979.4833526611328,
+                1305.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Jamal, J. E.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/43506"
+    },
+    {
+        "position": [
+            [
+                985.9666748046876,
+                1290.7666015625
+            ],
+            [
+                1054.683349609375,
+                1305.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Bernstein, M.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/21970"
+    },
+    {
+        "position": [
+            [
+                1061.1666259765625,
+                1290.7666015625
+            ],
+            [
+                1105.0999603271484,
+                1305.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Russo, P.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/4431"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1306.7666015625
+            ],
+            [
+                847.8000030517578,
+                1321.7666015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1328.816650390625
+            ],
+            [
+                823.5166625976562,
+                1343.816650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Routine+drain+placement+after+partial+nephrectomy+is+not+always+necessary&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-08-01&rft.volume=186&rft.issue=2&rft.spage=411&rft.epage=415&rft.au=Godoy%2C+G.&rft.au=Katz%2C+D.+J.&rft.au=Adamy%2C+A.&rft.au=Jamal%2C+J.+E.&rft.au=Bernstein%2C+M.&rft.au=Russo%2C+P.&sid=Entrez:PubMed&id=pmid:21683403&rft_id=info:10.1016%2Fj.juro.2011.03.151"
+    },
+    {
+        "position": [
+            [
+                833.63330078125,
+                1328.816650390625
+            ],
+            [
+                858.4666290283203,
+                1343.816650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/9446/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1361.6500244140625
+            ],
+            [
+                1309.5,
+                1393.6500244140625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Age, obesity, medical comorbidities and surgical technique are predictive of symptomatic anastomotic strictures after contemporary radical prostatectomy",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/5937"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1413.199951171875
+            ],
+            [
+                815.6666717529297,
+                1428.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Sandhu, J. S.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/25017"
+    },
+    {
+        "position": [
+            [
+                822.1500244140625,
+                1413.199951171875
+            ],
+            [
+                881.3333587646484,
+                1428.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Gotto, G. T.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/16612"
+    },
+    {
+        "position": [
+            [
+                887.816650390625,
+                1413.199951171875
+            ],
+            [
+                953.7166442871094,
+                1428.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Herran, L. A.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/38143"
+    },
+    {
+        "position": [
+            [
+                960.2000122070312,
+                1413.199951171875
+            ],
+            [
+                1030.2833557128906,
+                1428.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Scardino, P. T.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/5859"
+    },
+    {
+        "position": [
+            [
+                1036.7666015625,
+                1413.199951171875
+            ],
+            [
+                1108.3999328613281,
+                1428.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Eastham, J. A.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/21973"
+    },
+    {
+        "position": [
+            [
+                1114.88330078125,
+                1413.199951171875
+            ],
+            [
+                1171.88330078125,
+                1428.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Rabbani, F.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/7413"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1429.199951171875
+            ],
+            [
+                847.8000030517578,
+                1444.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1451.25
+            ],
+            [
+                823.5166625976562,
+                1466.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Age%2C+obesity%2C+medical+comorbidities+and+surgical+technique+are+predictive+of+symptomatic+anastomotic+strictures+after+contemporary+radical+prostatectomy&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-06-01&rft.volume=185&rft.issue=6&rft.spage=2148&rft.epage=2152&rft.au=Sandhu%2C+J.+S.&rft.au=Gotto%2C+G.+T.&rft.au=Herran%2C+L.+A.&rft.au=Scardino%2C+P.+T.&rft.au=Eastham%2C+J.+A.&rft.au=Rabbani%2C+F.&sid=Entrez:PubMed&id=pmid:21496848&rft_id=info:10.1016%2Fj.juro.2011.02.003"
+    },
+    {
+        "position": [
+            [
+                833.63330078125,
+                1451.25
+            ],
+            [
+                858.4666290283203,
+                1466.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/5937/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1484.0833740234375
+            ],
+            [
+                1366.8833618164062,
+                1500.0833740234375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Cold intravascular organ perfusion for renal hypothermia during laparoscopic partial nephrectomy",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/5815"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1519.63330078125
+            ],
+            [
+                815.1666717529297,
+                1534.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Marley, C. S.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/37877"
+    },
+    {
+        "position": [
+            [
+                821.6500244140625,
+                1519.63330078125
+            ],
+            [
+                873.6833648681641,
+                1534.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Siegrist, T.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/35889"
+    },
+    {
+        "position": [
+            [
+                880.1666870117188,
+                1519.63330078125
+            ],
+            [
+                920.8666839599609,
+                1534.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Kurta, J.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/12509"
+    },
+    {
+        "position": [
+            [
+                927.3499755859376,
+                1519.63330078125
+            ],
+            [
+                980.3999633789064,
+                1534.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "O'Brien, F.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/26757"
+    },
+    {
+        "position": [
+            [
+                986.88330078125,
+                1519.63330078125
+            ],
+            [
+                1055.5999755859375,
+                1534.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Bernstein, M.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/21970"
+    },
+    {
+        "position": [
+            [
+                1062.0833740234375,
+                1519.63330078125
+            ],
+            [
+                1125.2500457763672,
+                1534.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Solomon, S.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/17592"
+    },
+    {
+        "position": [
+            [
+                1131.7333984375,
+                1519.63330078125
+            ],
+            [
+                1206.0833892822266,
+                1534.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Coleman, J. A.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/22814"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1535.63330078125
+            ],
+            [
+                847.8000030517578,
+                1550.63330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1557.683349609375
+            ],
+            [
+                823.5166625976562,
+                1572.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Cold+intravascular+organ+perfusion+for+renal+hypothermia+during+laparoscopic+partial+nephrectomy&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-06-01&rft.volume=185&rft.issue=6&rft.spage=2191&rft.epage=2195&rft.au=Marley%2C+C.+S.&rft.au=Siegrist%2C+T.&rft.au=Kurta%2C+J.&rft.au=O%27Brien%2C+F.&rft.au=Bernstein%2C+M.&rft.au=Solomon%2C+S.&rft.au=Coleman%2C+J.+A.&sid=Entrez:PubMed&id=pmid:21497840&rft_id=info:10.1016%2Fj.juro.2011.02.013"
+    },
+    {
+        "position": [
+            [
+                833.63330078125,
+                1557.683349609375
+            ],
+            [
+                858.4666290283203,
+                1572.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/5815/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1590.5166015625
+            ],
+            [
+                1363.1333618164062,
+                1622.5166015625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Transitional cell carcinoma of the bladder: Racial and gender disparities in survival (1993 to 2002), stage and grade (1993 to 2007)",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/5810"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1642.066650390625
+            ],
+            [
+                797.9333343505859,
+                1657.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Mallin, K.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/23006"
+    },
+    {
+        "position": [
+            [
+                804.4166870117188,
+                1642.066650390625
+            ],
+            [
+                865.0166778564453,
+                1657.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "David, K. A.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/23005"
+    },
+    {
+        "position": [
+            [
+                871.5,
+                1642.066650390625
+            ],
+            [
+                932.6333312988281,
+                1657.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Carroll, P. R.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/23008"
+    },
+    {
+        "position": [
+            [
+                939.11669921875,
+                1642.066650390625
+            ],
+            [
+                1015.1333618164062,
+                1657.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Milowsky, M. I.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/13211"
+    },
+    {
+        "position": [
+            [
+                1021.61669921875,
+                1642.066650390625
+            ],
+            [
+                1088.9666900634766,
+                1657.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Nanus, D. M.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/23009"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1658.066650390625
+            ],
+            [
+                847.8000030517578,
+                1673.066650390625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1680.11669921875
+            ],
+            [
+                823.5166625976562,
+                1695.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Transitional+cell+carcinoma+of+the+bladder%3A+Racial+and+gender+disparities+in+survival+%281993+to+2002%29%2C+stage+and+grade+%281993+to+2007%29&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-05-01&rft.volume=185&rft.issue=5&rft.spage=1631&rft.epage=1636&rft.au=Mallin%2C+K.&rft.au=David%2C+K.+A.&rft.au=Carroll%2C+P.+R.&rft.au=Milowsky%2C+M.+I.&rft.au=Nanus%2C+D.+M.&sid=Entrez:PubMed&id=pmid:21419456&rft_id=info:10.1016%2Fj.juro.2010.12.049"
+    },
+    {
+        "position": [
+            [
+                833.63330078125,
+                1680.11669921875
+            ],
+            [
+                858.4666290283203,
+                1695.11669921875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/5810/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1712.949951171875
+            ],
+            [
+                1333.183349609375,
+                1744.949951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Selective arterial embolization for pseudoaneurysms and arteriovenous fistula of renal artery branches following partial nephrectomy",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/5652"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1764.5
+            ],
+            [
+                823.4166717529297,
+                1779.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Ghoneim, T. P.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/37613"
+    },
+    {
+        "position": [
+            [
+                829.9000244140625,
+                1764.5
+            ],
+            [
+                910.3000335693359,
+                1779.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Thornton, R. H.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/18027"
+    },
+    {
+        "position": [
+            [
+                916.7833251953124,
+                1764.5
+            ],
+            [
+                993.199981689453,
+                1779.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Solomon, S. B.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/24354"
+    },
+    {
+        "position": [
+            [
+                999.683349609375,
+                1764.5
+            ],
+            [
+                1053.5666809082031,
+                1779.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Adamy, A.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/29900"
+    },
+    {
+        "position": [
+            [
+                1060.050048828125,
+                1764.5
+            ],
+            [
+                1137.116714477539,
+                1779.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Favaretto, R. L.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/30956"
+    },
+    {
+        "position": [
+            [
+                1143.5999755859375,
+                1764.5
+            ],
+            [
+                1187.5333099365234,
+                1779.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Russo, P.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/4431"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1780.5
+            ],
+            [
+                847.8000030517578,
+                1795.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1802.550048828125
+            ],
+            [
+                823.5166625976562,
+                1817.550048828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Selective+arterial+embolization+for+pseudoaneurysms+and+arteriovenous+fistula+of+renal+artery+branches+following+partial+nephrectomy&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-06-01&rft.volume=185&rft.issue=6&rft.spage=2061&rft.epage=2065&rft.au=Ghoneim%2C+T.+P.&rft.au=Thornton%2C+R.+H.&rft.au=Solomon%2C+S.+B.&rft.au=Adamy%2C+A.&rft.au=Favaretto%2C+R.+L.&rft.au=Russo%2C+P.&sid=Entrez:PubMed&id=pmid:21496835&rft_id=info:10.1016%2Fj.juro.2011.02.049"
+    },
+    {
+        "position": [
+            [
+                833.63330078125,
+                1802.550048828125
+            ],
+            [
+                858.4666290283203,
+                1817.550048828125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/5652/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1835.38330078125
+            ],
+            [
+                1360.5833129882812,
+                1867.38330078125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Intraoperative conversion from partial to radical nephrectomy at a single institution from 2003 to 2008",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/5642"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1886.933349609375
+            ],
+            [
+                809.1000061035156,
+                1901.933349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Galvin, D. J.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/16447"
+    },
+    {
+        "position": [
+            [
+                815.5833129882812,
+                1886.933349609375
+            ],
+            [
+                880.3999786376953,
+                1901.933349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Savage, C. J.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/22171"
+    },
+    {
+        "position": [
+            [
+                886.88330078125,
+                1886.933349609375
+            ],
+            [
+                940.7666320800781,
+                1901.933349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Adamy, A.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/29900"
+    },
+    {
+        "position": [
+            [
+                947.25,
+                1886.933349609375
+            ],
+            [
+                993.4666595458984,
+                1901.933349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Kaag, M.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/13024"
+    },
+    {
+        "position": [
+            [
+                999.9500122070312,
+                1886.933349609375
+            ],
+            [
+                1070.1333465576172,
+                1901.933349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "O'brien, M. F.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/16112"
+    },
+    {
+        "position": [
+            [
+                1076.61669921875,
+                1886.933349609375
+            ],
+            [
+                1138.0166931152344,
+                1901.933349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Kallingal, G.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/29901"
+    },
+    {
+        "position": [
+            [
+                1144.5,
+                1886.933349609375
+            ],
+            [
+                1188.433334350586,
+                1901.933349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Russo, P.",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/name_strings/4431"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1902.933349609375
+            ],
+            [
+                847.8000030517578,
+                1917.933349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813"
+    },
+    {
+        "position": [
+            [
+                750.4833374023438,
+                1924.9833984375
+            ],
+            [
+                823.5166625976562,
+                1939.9833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Fulltext@MSK",
+        "on_click_jump_to": "https://mskcc-primo.hosted.exlibrisgroup.com/openurl/01MSKCC/MSKCC?ctx_ver=Z39.88-2004&rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&rft.genre=article&rft.atitle=Intraoperative+conversion+from+partial+to+radical+nephrectomy+at+a+single+institution+from+2003+to+2008&rft.jtitle=Journal+of+Urology&rft.issn=00225347&rft.date=2011-04-01&rft.volume=185&rft.issue=4&rft.spage=1204&rft.epage=1209&rft.au=Galvin%2C+D.+J.&rft.au=Savage%2C+C.+J.&rft.au=Adamy%2C+A.&rft.au=Kaag%2C+M.&rft.au=O%27brien%2C+M.+F.&rft.au=Kallingal%2C+G.&rft.au=Russo%2C+P.&sid=Entrez:PubMed&id=pmid:21334022&rft_id=info:10.1016%2Fj.juro.2010.11.077"
+    },
+    {
+        "position": [
+            [
+                833.63330078125,
+                1924.9833984375
+            ],
+            [
+                858.4666290283203,
+                1939.9833984375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Save",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/works/5642/add_to_saved"
+    },
+    {
+        "position": [
+            [
+                1060.5333251953125,
+                1983.7833251953125
+            ],
+            [
+                1079.6166534423828,
+                2005.7833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            40,
+            117,
+            180
+        ],
+        "text": "2",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&page=2&view=all"
+    },
+    {
+        "position": [
+            [
+                1083.4833984375,
+                1983.7833251953125
+            ],
+            [
+                1137.6833953857422,
+                2005.7833251953125
+            ]
+        ],
+        "type": "a",
+        "color": [
+            40,
+            117,
+            180
+        ],
+        "text": "Next →",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813?fq%5B%5D=year_facet%3A%222011%22&page=2&view=all"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2175.683349609375
+            ],
+            [
+                922.699951171875,
+                2212.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "6th Cambridge Conference on Innovations and Challenges in Prostate Cancer",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/5959-6th_Cambridge_Conference_on_Innovations_and_Challenges_in_Prostate_Cancer"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2221.683349609375
+            ],
+            [
+                657.5499725341797,
+                2239.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/12800-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2248.683349609375
+            ],
+            [
+                657.5499725341797,
+                2266.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/8974-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2285.183349609375
+            ],
+            [
+                657.5499725341797,
+                2303.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/9247-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2321.683349609375
+            ],
+            [
+                657.5499725341797,
+                2339.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/813-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2348.683349609375
+            ],
+            [
+                657.5499725341797,
+                2366.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/23600-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2375.683349609375
+            ],
+            [
+                657.5499725341797,
+                2393.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/13364-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2402.683349609375
+            ],
+            [
+                657.5499725341797,
+                2420.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/23866-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2429.683349609375
+            ],
+            [
+                657.5499725341797,
+                2447.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/79-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2456.683349609375
+            ],
+            [
+                657.5499725341797,
+                2474.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/124-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2483.683349609375
+            ],
+            [
+                657.5499725341797,
+                2501.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/1149-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2510.683349609375
+            ],
+            [
+                657.5499725341797,
+                2528.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/10393-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2547.183349609375
+            ],
+            [
+                657.5499725341797,
+                2565.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/8859-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2583.683349609375
+            ],
+            [
+                657.5499725341797,
+                2601.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/20635-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2620.183349609375
+            ],
+            [
+                657.5499725341797,
+                2638.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/9380-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2656.683349609375
+            ],
+            [
+                657.5499725341797,
+                2674.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/10153-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2683.683349609375
+            ],
+            [
+                657.5499725341797,
+                2701.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/10154-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2720.183349609375
+            ],
+            [
+                657.5499725341797,
+                2738.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/10925-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2766.183349609375
+            ],
+            [
+                657.5499725341797,
+                2784.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/1200-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2802.683349609375
+            ],
+            [
+                657.5499725341797,
+                2820.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/6109-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2829.683349609375
+            ],
+            [
+                657.5499725341797,
+                2847.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/10466-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2866.183349609375
+            ],
+            [
+                657.5499725341797,
+                2884.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/8424-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2912.183349609375
+            ],
+            [
+                657.5499725341797,
+                2930.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/9454-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2948.683349609375
+            ],
+            [
+                657.5499725341797,
+                2966.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/9722-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                2975.683349609375
+            ],
+            [
+                657.5499725341797,
+                2993.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/25085-Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                3002.683349609375
+            ],
+            [
+                682.9999694824219,
+                3020.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "The Journal of urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/3136-The_Journal_of_urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                3029.683349609375
+            ],
+            [
+                682.9999694824219,
+                3047.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "The Journal of urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/26184-The_Journal_of_urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                3056.683349609375
+            ],
+            [
+                682.9999694824219,
+                3074.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "The Journal of urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/13389-The_Journal_of_urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                3083.683349609375
+            ],
+            [
+                682.9999694824219,
+                3101.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "The Journal of urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/3410-The_Journal_of_urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                3110.683349609375
+            ],
+            [
+                684.6666412353516,
+                3128.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "The Journal of Urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/23897-The_Journal_of_Urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                3137.683349609375
+            ],
+            [
+                682.9999694824219,
+                3155.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "The Journal of urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/2985-The_Journal_of_urology"
+    },
+    {
+        "position": [
+            [
+                544.0999755859375,
+                3164.683349609375
+            ],
+            [
+                682.9999694824219,
+                3182.683349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            28,
+            117,
+            205
+        ],
+        "text": "The Journal of urology",
+        "on_click_jump_to": "https://synapse.mskcc.org/synapse/publications/13274-The_Journal_of_urology"
+    },
+    {
+        "position": [
+            [
+                900.25,
+                3258.10009765625
+            ],
+            [
+                1019.75,
+                3297.10009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Follow Us on",
+        "on_click_jump_to": "https://www.twitter.com/MSKLibrary"
+    },
+    {
+        "position": [
+            [
+                603.75,
+                3306.60009765625
+            ],
+            [
+                842.2833404541016,
+                3322.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Memorial Sloan Kettering Cancer Center",
+        "on_click_jump_to": "http://www.mskcc.org/"
+    },
+    {
+        "position": [
+            [
+                863.5333251953125,
+                3306.60009765625
+            ],
+            [
+                1154.8999633789062,
+                3322.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Memorial Hospital for Cancer and Allied Diseases",
+        "on_click_jump_to": "http://www.mskcc.org/cancer-care"
+    },
+    {
+        "position": [
+            [
+                1176.1500244140625,
+                3306.60009765625
+            ],
+            [
+                1316.2333679199219,
+                3322.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sloan Kettering Institute",
+        "on_click_jump_to": "http://ski.edu/"
+    },
+    {
+        "position": [
+            [
+                698.0833129882812,
+                3329.60009765625
+            ],
+            [
+                1082.4333190917969,
+                3345.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Gerstner Sloan Kettering Graduate School of Biomedical Sciences",
+        "on_click_jump_to": "http://www.sloankettering.edu/"
+    },
+    {
+        "position": [
+            [
+                1096.4166259765625,
+                3329.60009765625
+            ],
+            [
+                1221.9166259765625,
+                3345.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Patients & Caregivers",
+        "on_click_jump_to": "https://library.mskcc.org/resource/patient-and-caregivers"
+    },
+    {
+        "position": [
+            [
+                835.4666748046875,
+                3364.60009765625
+            ],
+            [
+                935.9833526611328,
+                3382.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Legal Disclaimer",
+        "on_click_jump_to": "https://library.mskcc.org/legal-disclaimer"
+    },
+    {
+        "position": [
+            [
+                957.7666625976562,
+                3364.60009765625
+            ],
+            [
+                1084.5333404541016,
+                3382.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Giving to the Library",
+        "on_click_jump_to": "https://library.mskcc.org/about/giving-to-the-library"
+    },
+    {
+        "position": [
+            [
+                838.2666625976562,
+                3388.60009765625
+            ],
+            [
+                1134.8666687011719,
+                3406.60009765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Memorial Sloan Kettering Cancer Center Library",
+        "on_click_jump_to": "https://library.mskcc.org/"
+    },
+    {
+        "position": [
+            [
+                525.0,
+                23.666671752929688
+            ],
+            [
+                1004.0,
+                94.66667175292969
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/synapse_tag-0d09920709c0b95b6c6ed3caa108c1153c9f18ce1a91527709b51136c1e3db46.png"
+    },
+    {
+        "position": [
+            [
+                1115.0,
+                42.66667175292969
+            ],
+            [
+                1365.0,
+                115.66667175292969
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/assets/mskflatbar-26f2717478fd3e8e9bddde39a77d7346195c5b5eda3ac95863bd3e1e60c5d934.png"
+    },
+    {
+        "position": [
+            [
+                526.0,
+                315.70001220703125
+            ],
+            [
+                607.0,
+                421.70001220703125
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1200/original/russo_paul.jpg?1407346719"
+    },
+    {
+        "position": [
+            [
+                636.0,
+                315.70001220703125
+            ],
+            [
+                717.0,
+                421.70001220703125
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1206/original/sandhu_jaspreet.jpg?1408567337"
+    },
+    {
+        "position": [
+            [
+                746.0,
+                315.70001220703125
+            ],
+            [
+                827.0,
+                421.70001220703125
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1311/original/eastham_james.jpg?1408047752"
+    },
+    {
+        "position": [
+            [
+                856.0,
+                315.70001220703125
+            ],
+            [
+                937.0,
+                421.70001220703125
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1047/original/coleman_jonathan.jpg?1408567499"
+    },
+    {
+        "position": [
+            [
+                966.0,
+                315.70001220703125
+            ],
+            [
+                1047.0,
+                421.70001220703125
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1104/original/herr_harry.jpg?1411482502"
+    },
+    {
+        "position": [
+            [
+                526.0,
+                472.7000122070313
+            ],
+            [
+                607.0,
+                578.7000122070312
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1646/original/scardino_peter.jpg?1408044757"
+    },
+    {
+        "position": [
+            [
+                636.0,
+                472.7000122070313
+            ],
+            [
+                717.0,
+                578.7000122070312
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1457/original/solomon_stephen.jpg?1411675668"
+    },
+    {
+        "position": [
+            [
+                746.0,
+                472.7000122070313
+            ],
+            [
+                827.0,
+                578.7000122070312
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1239/original/tickoo_satish.jpg?1408048768"
+    },
+    {
+        "position": [
+            [
+                856.0,
+                472.7000122070313
+            ],
+            [
+                937.0,
+                578.7000122070312
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1609/original/bochner_bernard.png?1459958208"
+    },
+    {
+        "position": [
+            [
+                966.0,
+                472.7000122070313
+            ],
+            [
+                1047.0,
+                578.7000122070312
+            ]
+        ],
+        "type": "img",
+        "src": "https://synapse.mskcc.org/synapse/system/data/1301/original/dalbagni_guido.jpg?1411491378"
+    },
+    {
+        "position": [
+            [
+                538.7333374023438,
+                760.5499877929688
+            ],
+            [
+                694.7333374023438,
+                779.1833190917969
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://synapse.mskcc.org/synapse/assets/cross-button.png"
+    },
+    {
+        "position": [
+            [
+                987.75,
+                3263.10009765625
+            ],
+            [
+                1019.75,
+                3295.10009765625
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://library.mskcc.org/sites/library.mskcc.org/media/graphics/social-media.png?v=3"
+    }
+]

@@ -1,0 +1,320 @@
+[
+    {
+        "position": [
+            [
+                1367.0,
+                11.5
+            ],
+            [
+                1408.0,
+                30.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                544.5
+            ],
+            [
+                561.0,
+                563.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Reply",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                596.0
+            ],
+            [
+                597.0,
+                616.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Newer Post",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                944.0,
+                596.0
+            ],
+            [
+                981.0,
+                616.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1328.0,
+                596.0
+            ],
+            [
+                1392.0,
+                616.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Older Post",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                896.0,
+                648.0
+            ],
+            [
+                1024.0,
+                682.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Publications",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                912.0,
+                690.0
+            ],
+            [
+                1008.0,
+                724.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Funding",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                920.0,
+                732.0
+            ],
+            [
+                1000.0,
+                766.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "People",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                896.0,
+                774.0
+            ],
+            [
+                1024.0,
+                832.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Iowa City Guide",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                912.0,
+                840.0
+            ],
+            [
+                1008.0,
+                898.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                912.0,
+                906.0
+            ],
+            [
+                1008.0,
+                940.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Research",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                736.0,
+                72.0
+            ],
+            [
+                784.0,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/microscope.png"
+    },
+    {
+        "position": [
+            [
+                816.0,
+                72.0
+            ],
+            [
+                864.0,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/frame.png"
+    },
+    {
+        "position": [
+            [
+                896.0,
+                72.0
+            ],
+            [
+                944.0,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/books.png"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                72.0
+            ],
+            [
+                1024.0,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/computer.png"
+    },
+    {
+        "position": [
+            [
+                1056.0,
+                72.0
+            ],
+            [
+                1104.0,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/phone.png"
+    },
+    {
+        "position": [
+            [
+                1136.0,
+                72.0
+            ],
+            [
+                1184.0,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/circle.png"
+    },
+    {
+        "position": [
+            [
+                864.0,
+                228.0
+            ],
+            [
+                1056.0,
+                252.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/profile.jpg"
+    }
+]

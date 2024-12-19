@@ -1,0 +1,296 @@
+[
+    {
+        "position": [
+            [
+                1745.8499755859375,
+                8.0
+            ],
+            [
+                1809.1499633789062,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "sign in",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1809.1500244140625,
+                8.0
+            ],
+            [
+                1912.0000305175781,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Registration",
+        "on_click_jump_to": "file:///member_registration.php"
+    },
+    {
+        "position": [
+            [
+                1842.25,
+                40.0
+            ],
+            [
+                1920.0,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "sign up now",
+        "on_click_jump_to": "file:///member_registration.php"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                130.0
+            ],
+            [
+                251.11666870117188,
+                150.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                267.1166687011719,
+                130.0
+            ],
+            [
+                313.3000030517578,
+                150.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Profile",
+        "on_click_jump_to": "file:///profile.php"
+    },
+    {
+        "position": [
+            [
+                329.29998779296875,
+                130.0
+            ],
+            [
+                406.7833251953125,
+                150.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Symptoms",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                422.7833251953125,
+                130.0
+            ],
+            [
+                487.24998474121094,
+                150.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Wellness",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                503.25,
+                130.0
+            ],
+            [
+                562.2833404541016,
+                150.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "My Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                578.2833251953125,
+                130.0
+            ],
+            [
+                609.6499786376953,
+                150.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GPS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                625.6500244140625,
+                130.0
+            ],
+            [
+                744.1667022705078,
+                150.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Medical Tourism",
+        "on_click_jump_to": "file:///medical_tourism.php"
+    },
+    {
+        "position": [
+            [
+                760.1666870117188,
+                130.0
+            ],
+            [
+                841.8166809082031,
+                150.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contactus.php"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                258.0
+            ],
+            [
+                320.3333282470703,
+                278.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Abdominal Pain",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                290.0
+            ],
+            [
+                285.73333740234375,
+                310.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Chest Pain",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                322.0
+            ],
+            [
+                271.31666564941406,
+                342.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Dyspnea",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                112.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_direct/headerbg.jpg"
+    }
+]

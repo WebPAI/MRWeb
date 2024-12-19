@@ -1,0 +1,336 @@
+[
+    {
+        "position": [
+            [
+                1029.86669921875,
+                30.0
+            ],
+            [
+                1129.0833587646484,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GET TICKETS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1153.0833740234375,
+                30.0
+            ],
+            [
+                1234.2000427246094,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "NOMINEES",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1258.199951171875,
+                30.0
+            ],
+            [
+                1354.0499572753906,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CATEGORIES",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1378.050048828125,
+                30.0
+            ],
+            [
+                1432.050048828125,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1456.050048828125,
+                30.0
+            ],
+            [
+                1541.3167114257812,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SPONSORS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1565.316650390625,
+                30.0
+            ],
+            [
+                1614.2833251953125,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PRESS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1638.2833251953125,
+                30.0
+            ],
+            [
+                1711.999984741211,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                499.0,
+                470.0
+            ],
+            [
+                637.5333404541016,
+                490.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "@PHILGeekAwards",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                505.5833129882813,
+                758.0
+            ],
+            [
+                644.1166534423828,
+                778.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "@PHILGeekAwards",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                807.88330078125,
+                758.0
+            ],
+            [
+                918.7333068847656,
+                778.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "@geekadelphia",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1027.5833740234375,
+                1118.0
+            ],
+            [
+                1138.4333801269531,
+                1138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "@geekadelphia",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1282.699951171875,
+                1118.0
+            ],
+            [
+                1379.0666198730469,
+                1138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "@technical.ly",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1549.61669921875,
+                1118.0
+            ],
+            [
+                1688.1500244140625,
+                1138.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "@PHILGeekAwards",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1592.9833984375,
+                1430.0
+            ],
+            [
+                1706.6333923339844,
+                1450.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "email protected",
+        "on_click_jump_to": "mailto:email@protected"
+    },
+    {
+        "position": [
+            [
+                693.7166748046875,
+                1454.0
+            ],
+            [
+                807.3666839599609,
+                1474.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "email protected",
+        "on_click_jump_to": "mailto:email@protected"
+    },
+    {
+        "position": [
+            [
+                1060.199951171875,
+                1557.5
+            ],
+            [
+                1084.0666198730469,
+                1574.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Top",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                345.8999938964844,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/logo.png"
+    }
+]

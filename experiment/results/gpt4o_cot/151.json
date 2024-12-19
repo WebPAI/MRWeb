@@ -1,0 +1,210 @@
+[
+    {
+        "position": [
+            [
+                187.4333343505859,
+                36.0
+            ],
+            [
+                304.6166687011719,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "(03) 9883 6237",
+        "on_click_jump_to": "tel:+61398836237"
+    },
+    {
+        "position": [
+            [
+                1582.2833251953125,
+                36.0
+            ],
+            [
+                1662.633316040039,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "FUNERALS",
+        "on_click_jump_to": "https://jewishfunerals.org.au/funerals/"
+    },
+    {
+        "position": [
+            [
+                1678.63330078125,
+                36.0
+            ],
+            [
+                1756.4999694824219,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "MINYANIM",
+        "on_click_jump_to": "https://jewishfunerals.org.au/minyanim/"
+    },
+    {
+        "position": [
+            [
+                1772.5,
+                36.0
+            ],
+            [
+                1904.0,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "CONSECRATIONS",
+        "on_click_jump_to": "https://jewishfunerals.org.au/consecrations/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                564.183349609375
+            ],
+            [
+                117.66667175292967,
+                584.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            245,
+            158,
+            11
+        ],
+        "text": "03 9510 1488",
+        "on_click_jump_to": "tel:+61395101488"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                588.183349609375
+            ],
+            [
+                124.0,
+                608.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            245,
+            158,
+            11
+        ],
+        "text": "www.tbi.org.au",
+        "on_click_jump_to": "http://www.tbi.org.au/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                612.183349609375
+            ],
+            [
+                126.11666870117188,
+                632.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            245,
+            158,
+            11
+        ],
+        "text": "info@tbi.org.au",
+        "on_click_jump_to": "mailto:info@tbi.org.au"
+    },
+    {
+        "position": [
+            [
+                1803.5333251953125,
+                564.183349609375
+            ],
+            [
+                1903.9833221435547,
+                584.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            245,
+            158,
+            11
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://jewishfunerals.org.au/privacy-policy"
+    },
+    {
+        "position": [
+            [
+                1803.5333251953125,
+                588.183349609375
+            ],
+            [
+                1878.5999908447266,
+                608.183349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            245,
+            158,
+            11
+        ],
+        "text": "Promotem",
+        "on_click_jump_to": "http://promotem.com.au/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                171.43333435058594,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://jewishfunerals.org.au/wp-content/uploads/2023/08/BetOlamLogo2023_D1.png"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                160.0
+            ],
+            [
+                1392.0,
+                474.183349609375
+            ]
+        ],
+        "type": "img",
+        "src": "https://jewishfunerals.org.au/wp-content/uploads/2018/01/betOlamArranging1100x400.jpg"
+    }
+]

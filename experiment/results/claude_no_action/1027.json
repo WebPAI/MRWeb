@@ -1,0 +1,136 @@
+[
+    {
+        "position": [
+            [
+                735.6500244140625,
+                269.5
+            ],
+            [
+                781.5500335693359,
+                290.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                805.5499877929688,
+                269.5
+            ],
+            [
+                856.4833221435547,
+                290.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                880.4833374023438,
+                269.5
+            ],
+            [
+                1022.8999938964844,
+                290.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "VOGEL FAMILY TREE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1046.9000244140625,
+                269.5
+            ],
+            [
+                1184.3500366210938,
+                290.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FIRST GENERATION",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1210.6666259765625,
+                503.5
+            ],
+            [
+                1298.8332824707031,
+                524.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            202,
+            138,
+            4
+        ],
+        "text": "Legacy Links",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1210.6666259765625,
+                535.5
+            ],
+            [
+                1408.9332885742188,
+                556.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            202,
+            138,
+            4
+        ],
+        "text": "A Whimsical Legacy Series 8",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                256.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/header-house.jpg"
+    }
+]

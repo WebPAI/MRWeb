@@ -1,0 +1,506 @@
+[
+    {
+        "position": [
+            [
+                0.0,
+                254.0
+            ],
+            [
+                110.0,
+                294.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            24,
+            48
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://www.bluehorsekona.com/home.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                294.0
+            ],
+            [
+                110.0,
+                358.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            24,
+            48
+        ],
+        "text": "Kona in Pictures",
+        "on_click_jump_to": "https://www.bluehorsekona.com/KonaPictures.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                358.0
+            ],
+            [
+                110.0,
+                422.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            24,
+            48
+        ],
+        "text": "Healthy Kona Coffee",
+        "on_click_jump_to": "https://www.bluehorsekona.com/healthykonacoffee.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                422.0
+            ],
+            [
+                110.0,
+                486.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            24,
+            48
+        ],
+        "text": "Kona Coffee Economics",
+        "on_click_jump_to": "https://www.bluehorsekona.com/KonaCoffeeEconomics.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                486.0
+            ],
+            [
+                110.0,
+                550.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            24,
+            48
+        ],
+        "text": "Kona Old News",
+        "on_click_jump_to": "https://www.bluehorsekona.com/KonaOldNews.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                550.0
+            ],
+            [
+                110.0,
+                614.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            24,
+            48
+        ],
+        "text": "Defining Coffee Tastes",
+        "on_click_jump_to": "https://www.bluehorsekona.com/coffeetastes.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                614.0
+            ],
+            [
+                110.0,
+                678.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            24,
+            48
+        ],
+        "text": "Kona Coffee Handling",
+        "on_click_jump_to": "https://www.bluehorsekona.com/KonaCoffeeHandling.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                678.0
+            ],
+            [
+                110.0,
+                742.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            24,
+            48
+        ],
+        "text": "Happy Customers",
+        "on_click_jump_to": "https://www.bluehorsekona.com/HappyCustomers.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                742.0
+            ],
+            [
+                110.0,
+                806.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            24,
+            48
+        ],
+        "text": "Our Newsletters",
+        "on_click_jump_to": "https://www.bluehorsekona.com/newsletters.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                806.0
+            ],
+            [
+                110.0,
+                846.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            16,
+            24,
+            48
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.bluehorsekona.com/contact.html"
+    },
+    {
+        "position": [
+            [
+                917.3333129882812,
+                598.0
+            ],
+            [
+                1112.6499786376953,
+                618.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "aloha@bluehorsekona.com",
+        "on_click_jump_to": "mailto:aloha@bluehorsekona.com"
+    },
+    {
+        "position": [
+            [
+                757.316650390625,
+                662.0
+            ],
+            [
+                1272.683349609375,
+                682.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "You can also visit our Blue Horse Kona Coffee Farm Store on AMAZON!",
+        "on_click_jump_to": "javascript:void(0)"
+    },
+    {
+        "position": [
+            [
+                130.0,
+                716.0
+            ],
+            [
+                168.23333740234375,
+                736.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://www.bluehorsekona.com/home.html"
+    },
+    {
+        "position": [
+            [
+                184.23333740234375,
+                716.0
+            ],
+            [
+                316.75,
+                736.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "Healthy Kona Coffee",
+        "on_click_jump_to": "http://www.bluehorsekona.com/healthykonacoffee.html"
+    },
+    {
+        "position": [
+            [
+                332.75,
+                716.0
+            ],
+            [
+                403.0833282470703,
+                736.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "Economics",
+        "on_click_jump_to": "http://www.bluehorsekona.com/KonaCoffeeEconomics.html"
+    },
+    {
+        "position": [
+            [
+                419.0833129882813,
+                716.0
+            ],
+            [
+                471.93331909179693,
+                736.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "Pictures",
+        "on_click_jump_to": "http://www.bluehorsekona.com/KonaPictures.html"
+    },
+    {
+        "position": [
+            [
+                487.933349609375,
+                716.0
+            ],
+            [
+                534.2500152587891,
+                736.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "History",
+        "on_click_jump_to": "http://www.bluehorsekona.com/KonaOldNews.html"
+    },
+    {
+        "position": [
+            [
+                550.25,
+                716.0
+            ],
+            [
+                584.8999938964844,
+                736.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "Taste",
+        "on_click_jump_to": "http://www.bluehorsekona.com/coffeetastes.html"
+    },
+    {
+        "position": [
+            [
+                600.9000244140625,
+                716.0
+            ],
+            [
+                705.4000244140625,
+                736.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "Coffee Handling",
+        "on_click_jump_to": "http://www.bluehorsekona.com/KonaCoffeeHandling.html"
+    },
+    {
+        "position": [
+            [
+                721.4000244140625,
+                716.0
+            ],
+            [
+                791.3000335693359,
+                736.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "Comments",
+        "on_click_jump_to": "http://www.bluehorsekona.com/HappyCustomers.html"
+    },
+    {
+        "position": [
+            [
+                807.2999877929688,
+                716.0
+            ],
+            [
+                884.1333160400391,
+                736.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            128,
+            0,
+            0
+        ],
+        "text": "Newsletters",
+        "on_click_jump_to": "http://www.bluehorsekona.com/newsletters.html"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                929.0,
+                254.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.bluehorsekona.com/f/design/t_header_left.jpg?_=1631309878"
+    },
+    {
+        "position": [
+            [
+                327.66668701171875,
+                286.0
+            ],
+            [
+                511.66668701171875,
+                516.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.bluehorsekona.com/i/Dark_no.jpg"
+    },
+    {
+        "position": [
+            [
+                923.0,
+                286.0
+            ],
+            [
+                1107.0,
+                516.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.bluehorsekona.com/i/Med_no.jpg"
+    },
+    {
+        "position": [
+            [
+                1518.3333740234375,
+                286.0
+            ],
+            [
+                1702.3333740234375,
+                516.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.bluehorsekona.com/i/Light_no_1.jpg"
+    },
+    {
+        "position": [
+            [
+                1583.0,
+                294.0
+            ],
+            [
+                1920.0,
+                654.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.bluehorsekona.com/i/beans.gif"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                254.0
+            ],
+            [
+                110.0,
+                990.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.bluehorsekona.com/f/design/t_index_background.jpg"
+    }
+]

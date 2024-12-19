@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                131.6999969482422,
+                33.5
+            ],
+            [
+                174.60000610351562,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.theravive.com/cities/il/christian-counseling-lincolnwood.aspx"
+    },
+    {
+        "position": [
+            [
+                202.98333740234375,
+                33.5
+            ],
+            [
+                243.81666564941406,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "http://bristol-re.co.uk/relhsv.asp?V=TWW766F"
+    },
+    {
+        "position": [
+            [
+                272.20001220703125,
+                33.5
+            ],
+            [
+                315.7666778564453,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.thestructuralmadness.com/p/hello-structural-madness-was-hello-i-am.html"
+    },
+    {
+        "position": [
+            [
+                344.1499938964844,
+                33.5
+            ],
+            [
+                398.8333282470703,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://clintonwhitehouse6.archives.gov/1998/11/1998-11-05-remarks-at-presentation-of-medal-of-the-arts-ceremony.html"
+    },
+    {
+        "position": [
+            [
+                24.0,
+                24.0
+            ],
+            [
+                83.69999694824219,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1439127989242-c3749a012eac?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczNTR8&ixlib=rb-4.0.3&w=100&h=100"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                88.0
+            ],
+            [
+                1920.0,
+                1083.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?food"
+    }
+]

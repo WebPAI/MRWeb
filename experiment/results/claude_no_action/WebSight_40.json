@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                379.0
+            ],
+            [
+                239.85000610351562,
+                403.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                255.8500061035156,
+                379.0
+            ],
+            [
+                310.53334045410156,
+                403.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                326.5333251953125,
+                379.0
+            ],
+            [
+                355.79998779296875,
+                403.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                17.0
+            ],
+            [
+                248.0,
+                57.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    }
+]

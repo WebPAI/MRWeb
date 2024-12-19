@@ -1,0 +1,142 @@
+[
+    {
+        "position": [
+            [
+                8.0,
+                16.25
+            ],
+            [
+                50.68333435058594,
+                35.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.ablekitchen.com/"
+    },
+    {
+        "position": [
+            [
+                71.13333129882812,
+                16.25
+            ],
+            [
+                103.14999389648438,
+                35.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "https://www.ablekitchen.com/blog/"
+    },
+    {
+        "position": [
+            [
+                123.60000610351562,
+                16.25
+            ],
+            [
+                220.25,
+                35.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "View Account",
+        "on_click_jump_to": "https://www.ablekitchen.com/account.php"
+    },
+    {
+        "position": [
+            [
+                240.6999969482422,
+                16.25
+            ],
+            [
+                273.6000061035156,
+                35.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Help",
+        "on_click_jump_to": "https://www.ablekitchen.com/help.html"
+    },
+    {
+        "position": [
+            [
+                294.04998779296875,
+                16.25
+            ],
+            [
+                415.04998779296875,
+                35.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Request a Quote",
+        "on_click_jump_to": "https://www.ablekitchen.com/request-quote.php"
+    },
+    {
+        "position": [
+            [
+                435.5,
+                16.25
+            ],
+            [
+                490.6499938964844,
+                35.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.ablekitchen.com/contact_us.php"
+    },
+    {
+        "position": [
+            [
+                511.1000061035156,
+                16.25
+            ],
+            [
+                665.8999938964844,
+                35.25
+            ]
+        ],
+        "type": "a",
+        "color": [
+            93,
+            86,
+            74
+        ],
+        "text": "International Shipping",
+        "on_click_jump_to": "https://www.ablekitchen.com/shipping-information.html"
+    }
+]

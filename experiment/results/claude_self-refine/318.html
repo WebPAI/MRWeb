@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Planet Scott</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .site-link {
+            color: rgb(0, 128, 0);
+            text-decoration: none;
+        }
+        .site-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <div class="container mx-auto px-4">
+        <!-- Header -->
+        <div class="bg-white relative mb-4">
+            <div class="w-full h-16 bg-green-700"></div>
+            <img src="https://www.planetscott.com/_images/graphics/planetscottlogo2.gif" 
+                 class="absolute top-4 left-4 w-32" alt="Planet Scott Logo">
+        </div>
+
+        <!-- Navigation -->
+        <nav class="flex gap-8 mb-6 text-sm">
+            <a href="https://www.planetscott.com/lifelist/index.aspx" class="site-link">Home</a>
+            <a href="https://www.planetscott.com/lifelist/tripList.aspx" class="site-link">Trip Reports</a>
+            <a href="https://www.planetscott.com/lifelist/siteList.aspx" class="site-link">Site Reviews</a>
+            <a href="https://www.planetscott.com/lifelist/lifelistList.aspx" class="site-link">Lifelists</a>
+            <a href="https://www.planetscott.com/lifelist/help.aspx" class="site-link">About</a>
+            <a href="https://www.planetscott.com/contact.aspx" class="site-link">Contact Info</a>
+        </nav>
+
+        <!-- Main Content -->
+        <div class="grid grid-cols-4 gap-8">
+            <!-- Left Column -->
+            <div class="col-span-3">
+                <div class="mb-4">
+                    <img src="https://www.planetscott.com/img/8117/large/eurasian-coot-(fulica-atra).jpg" 
+                         class="w-full" alt="Eurasian Coot">
+                </div>
+                
+                <div class="flex gap-2">
+                    <img src="https://www.planetscott.com/img/8117/small/eurasian-coot-(fulica-atra).jpg" 
+                         class="w-20 h-16" alt="Thumbnail 1">
+                    <img src="https://www.planetscott.com/img/2005/small/common-coot-(fulica-atra)-.jpg" 
+                         class="w-20 h-16" alt="Thumbnail 2">
+                </div>
+            </div>
+
+            <!-- Right Column -->
+            <div class="col-span-1">
+                <div class="mb-8">
+                    <h3 class="font-bold mb-2">Trip Reports</h3>
+                    <div class="flex flex-col gap-1 text-sm">
+                        <a href="https://www.planetscott.com/trip/21/africa-egypt-and-ethiopia" class="site-link">Africa: Egypt and Ethiopia</a>
+                        <a href="https://www.planetscott.com/trip/27/around-the-world-in-66-days" class="site-link">Around The World in 66 Days</a>
+                        <a href="https://www.planetscott.com/trip/26/eastern-australia" class="site-link">Eastern Australia</a>
+                        <a href="https://www.planetscott.com/trip/8/india" class="site-link">India</a>
+                        <a href="https://www.planetscott.com/trip/55/japan" class="site-link">Japan</a>
+                        <!-- Add more trip report links as needed -->
+                    </div>
+                </div>
+
+                <div class="mb-8">
+                    <h3 class="font-bold mb-2">Member Lifelists</h3>
+                    <div class="flex flex-col gap-1 text-sm">
+                        <a href="https://www.planetscott.com/ll/6/africa" class="site-link">Africa</a>
+                        <a href="https://www.planetscott.com/ll/5/asia" class="site-link">Asia</a>
+                        <a href="https://www.planetscott.com/ll/21/australasia" class="site-link">Australasia</a>
+                        <!-- Add more lifelist links as needed -->
+                    </div>
+                </div>
+
+                <div>
+                    <h3 class="font-bold mb-2">Sites Where Observed</h3>
+                    <div class="flex flex-col gap-1 text-sm">
+                        <a href="https://www.planetscott.com/site/116/amsterdam-netherlands" class="site-link">Amsterdam, Netherlands</a>
+                        <a href="https://www.planetscott.com/site/39/kheoladeo-national-park-india" class="site-link">Kheoladeo National Park, India</a>
+                        <!-- Add more site links as needed -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="mt-16 mb-8 text-sm">
+            <div class="flex justify-between">
+                <div class="flex gap-4">
+                    <a href="https://www.planetscott.com/sitemap.xml" class="site-link">Sitemap</a>
+                    <a href="https://www.planetscott.com/spammers.aspx" class="site-link">Hackers Challenge</a>
+                    <a href="https://www.planetscott.com/contact.aspx" class="site-link">Contact</a>
+                </div>
+                <a href="http://www.planetscott.com/" class="site-link">PlanetScott.com</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

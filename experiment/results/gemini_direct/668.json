@@ -1,0 +1,162 @@
+[
+    {
+        "position": [
+            [
+                1314.88330078125,
+                16.0
+            ],
+            [
+                1385.2999725341797,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            179,
+            8
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1401.300048828125,
+                16.0
+            ],
+            [
+                1461.1333770751953,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            179,
+            8
+        ],
+        "text": "Youtube",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1477.13330078125,
+                16.0
+            ],
+            [
+                1527.13330078125,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            179,
+            8
+        ],
+        "text": "Twitter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1543.13330078125,
+                16.0
+            ],
+            [
+                1615.449966430664,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            179,
+            8
+        ],
+        "text": "Instagram",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1631.449951171875,
+                16.0
+            ],
+            [
+                1695.9999542236328,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            179,
+            8
+        ],
+        "text": "Pinterest",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1390.066650390625,
+                56.0
+            ],
+            [
+                1467.566650390625,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            179,
+            8
+        ],
+        "text": "SOCOLIVE",
+        "on_click_jump_to": "https://missing.report/"
+    },
+    {
+        "position": [
+            [
+                1483.566650390625,
+                56.0
+            ],
+            [
+                1566.3999786376953,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            179,
+            8
+        ],
+        "text": "KIẾN THỨC",
+        "on_click_jump_to": "https://missing.report/kien-thuc/"
+    },
+    {
+        "position": [
+            [
+                1582.4000244140625,
+                56.0
+            ],
+            [
+                1712.0000305175781,
+                80.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            234,
+            179,
+            8
+        ],
+        "text": "BÊN LỀ BÓNG ĐÁ",
+        "on_click_jump_to": "https://missing.report/ben-le-bong-da/"
+    }
+]

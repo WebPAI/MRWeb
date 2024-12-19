@@ -1,0 +1,90 @@
+[
+    {
+        "position": [
+            [
+                1611.4833984375,
+                20.0
+            ],
+            [
+                1727.6333923339844,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Success Stories",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1743.63330078125,
+                20.0
+            ],
+            [
+                1792.13330078125,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Events",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1808.13330078125,
+                20.0
+            ],
+            [
+                1903.9999694824219,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Ways to Help",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                52.08332824707031,
+                48.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                64.0
+            ],
+            [
+                1920.0,
+                88.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/road.jpg"
+    }
+]

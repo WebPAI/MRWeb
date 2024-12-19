@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TransNewGuinea.org</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .tng-blue {
+            color: rgb(23, 98, 115);
+        }
+        .tng-gray {
+            color: rgb(119, 119, 119);
+        }
+    </style>
+</head>
+<body class="p-4">
+    <!-- Header -->
+    <header class="flex justify-between items-center mb-8">
+        <a href="http://transnewguinea.org/" class="tng-gray text-xl">
+            TransNewGuinea.org - database of the languages of New Guinea
+        </a>
+        <a href="http://twitter.com/transnewguinea" class="text-gray-700">
+            @transnewguinea
+        </a>
+    </header>
+
+    <!-- Main Content -->
+    <div class="flex">
+        <!-- Left Sidebar -->
+        <nav class="w-64 pr-8">
+            <ul class="space-y-2">
+                <li><a href="http://transnewguinea.org/" class="tng-blue">Main</a></li>
+                <li><a href="http://transnewguinea.org/about" class="tng-blue">About</a></li>
+                <li><a href="http://transnewguinea.org/family/" class="tng-blue">Families</a></li>
+                <li><a href="http://transnewguinea.org/language/" class="tng-blue">Languages</a></li>
+                <li><a href="http://transnewguinea.org/source/" class="tng-blue">Sources</a></li>
+                <li><a href="http://transnewguinea.org/maps/language/" class="tng-blue">Language Map</a></li>
+                <li><a href="http://transnewguinea.org/word/" class="tng-blue">Words</a></li>
+                <li><a href="http://transnewguinea.org/cognacy/" class="tng-blue">Cognates</a></li>
+                <li><a href="http://transnewguinea.org/pronouns/" class="tng-blue">Pronouns</a></li>
+                <li><a href="http://transnewguinea.org/statistics/" class="tng-blue">Statistics</a></li>
+            </ul>
+
+            <div class="mt-8">
+                <a href="http://transnewguinea.org/accounts/login/" class="tng-blue">Log-in</a>
+            </div>
+
+            <!-- Logos -->
+            <div class="mt-8 space-y-8">
+                <img src="https://assets.transnewguinea.org/tng/img/anu.png" alt="ANU logo" class="w-48">
+                <img src="https://assets.transnewguinea.org/tng/img/arc.png" alt="ARC logo" class="w-48">
+                <img src="https://assets.transnewguinea.org/tng/img/mpi.png" alt="MPI logo" class="w-24">
+            </div>
+        </nav>
+
+        <!-- Main Content Area -->
+        <div class="flex-1">
+            <!-- Breadcrumb -->
+            <div class="text-sm mb-8">
+                <a href="/" class="tng-blue">Home</a> &gt;
+                <a href="/source/" class="tng-blue">Sources</a> &gt;
+                <a href="/source/franklin1975" class="tng-blue">Franklin (1975)</a>
+            </div>
+
+            <!-- Table -->
+            <table class="w-full">
+                <thead>
+                    <tr class="text-left">
+                        <th class="pb-4"><a href="#" class="tng-blue">ID</a></th>
+                        <th class="pb-4"><a href="#" class="tng-blue">Language</a></th>
+                        <th class="pb-4"><a href="#" class="tng-blue">Word</a></th>
+                        <th class="pb-4"><a href="#" class="tng-blue">Entry</a></th>
+                        <th class="pb-4"><a href="#" class="tng-blue">Source Gloss</a></th>
+                        <th class="pb-4"><a href="#" class="tng-blue">Annotation</a></th>
+                        <th class="pb-4"><a href="#" class="tng-blue">Loan</a></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Table rows would go here -->
+                </tbody>
+            </table>
+
+            <!-- Pagination -->
+            <div class="flex justify-center mt-8 space-x-2">
+                <span class="px-3 py-2 bg-gray-200 text-gray-600">1</span>
+                <a href="#" class="px-3 py-2 tng-blue">2</a>
+                <a href="#" class="px-3 py-2 tng-blue">3</a>
+                <!-- ... more pagination items ... -->
+                <a href="#" class="px-3 py-2 tng-blue">&raquo;</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="mt-16 text-sm">
+        <p>© 2024 <a href="http://simon.net.nz/" class="tng-blue">Simon J. Greenhill</a></p>
+        <p class="mt-2">
+            <img src="https://i.creativecommons.org/l/by/4.0/88x31.png" alt="CC License" class="inline mr-2">
+            <a href="http://creativecommons.org/licenses/by/4.0/" class="tng-blue">
+                Creative Commons Attribution 4.0 International License
+            </a>
+        </p>
+    </footer>
+</body>
+</html>

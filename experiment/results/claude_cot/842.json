@@ -1,0 +1,204 @@
+[
+    {
+        "position": [
+            [
+                708.816650390625,
+                254.0
+            ],
+            [
+                972.2999877929688,
+                274.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            85,
+            136,
+            170
+        ],
+        "text": "What to Ask the Person in the Mirror",
+        "on_click_jump_to": "http://www.amazon.com/What-Ask-Person-Mirror-Questions/dp/1422170012"
+    },
+    {
+        "position": [
+            [
+                1141.3333740234375,
+                160.0
+            ],
+            [
+                1376.0000457763672,
+                184.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Learn About TEC",
+        "on_click_jump_to": "http://www.tecmidwest.com/about-tec.cfm"
+    },
+    {
+        "position": [
+            [
+                1141.3333740234375,
+                192.0
+            ],
+            [
+                1376.0000457763672,
+                216.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "TEC Programs",
+        "on_click_jump_to": "http://www.tecmidwest.com/program-details.cfm"
+    },
+    {
+        "position": [
+            [
+                1141.3333740234375,
+                224.0
+            ],
+            [
+                1376.0000457763672,
+                248.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact TEC",
+        "on_click_jump_to": "mailto:info@tecmidwest.com"
+    },
+    {
+        "position": [
+            [
+                1125.3333740234375,
+                402.0
+            ],
+            [
+                1220.1667175292969,
+                422.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            85,
+            136,
+            170
+        ],
+        "text": "SAM KELLER",
+        "on_click_jump_to": "https://www.blogger.com/profile/06901589774544382486"
+    },
+    {
+        "position": [
+            [
+                1125.3333740234375,
+                528.0
+            ],
+            [
+                1392.0000610351562,
+                552.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            85,
+            136,
+            170
+        ],
+        "text": "CEO Issues (14)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1125.3333740234375,
+                552.0
+            ],
+            [
+                1392.0000610351562,
+                576.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            85,
+            136,
+            170
+        ],
+        "text": "General (7)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1125.3333740234375,
+                576.0
+            ],
+            [
+                1392.0000610351562,
+                600.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            85,
+            136,
+            170
+        ],
+        "text": "Leadership (13)",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                512.0,
+                0.0
+            ],
+            [
+                1408.0,
+                128.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://1.bp.blogspot.com/_tJMW7Ckh2Xw/S6eJ7T566cI/AAAAAAAAAFM/Io-v8ZA96bA/S1600-R/tec_banner_v3.jpg"
+    },
+    {
+        "position": [
+            [
+                1125.3333740234375,
+                288.0
+            ],
+            [
+                1205.3333740234375,
+                384.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://3.bp.blogspot.com/_m98EU-n2Yeo/S6qRnUkVvlI/AAAAAAAAAAM/e0abU3UTB7E/S220-s80/Sam-Keller+TEC.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://www.tecmidwest.com/images/bg-page.jpg"
+    }
+]

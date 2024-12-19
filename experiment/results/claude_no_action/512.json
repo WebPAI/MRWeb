@@ -1,0 +1,246 @@
+[
+    {
+        "position": [
+            [
+                1292.5166015625,
+                61.0
+            ],
+            [
+                1353.1832733154297,
+                85.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "My Tests",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1369.183349609375,
+                61.0
+            ],
+            [
+                1476.3333435058594,
+                85.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Log In/Register",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                138.5
+            ],
+            [
+                245.0,
+                157.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                770.0333251953125,
+                710.0
+            ],
+            [
+                812.9333190917969,
+                734.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                828.933349609375,
+                710.0
+            ],
+            [
+                894.6666870117188,
+                734.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                910.6666870117188,
+                710.0
+            ],
+            [
+                1005.0500183105469,
+                734.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1021.0499877929688,
+                710.0
+            ],
+            [
+                1057.0999908447266,
+                734.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "FAQs",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1073.0999755859375,
+                710.0
+            ],
+            [
+                1149.949966430664,
+                734.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                57.0
+            ],
+            [
+                274.1000061035156,
+                89.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.png"
+    },
+    {
+        "position": [
+            [
+                436.0,
+                206.0
+            ],
+            [
+                460.0,
+                230.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/qa-product.png"
+    },
+    {
+        "position": [
+            [
+                948.0,
+                206.0
+            ],
+            [
+                972.0,
+                230.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/pdf-product.png"
+    },
+    {
+        "position": [
+            [
+                1460.0,
+                206.0
+            ],
+            [
+                1484.0,
+                230.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/desktop-product.png"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                422.0
+            ],
+            [
+                232.0,
+                446.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/bundle-product.png"
+    },
+    {
+        "position": [
+            [
+                948.0,
+                750.0
+            ],
+            [
+                972.0,
+                774.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/payment-methods.png"
+    }
+]

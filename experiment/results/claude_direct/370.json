@@ -1,0 +1,304 @@
+[
+    {
+        "position": [
+            [
+                1115.1500244140625,
+                30.5
+            ],
+            [
+                1230.86669921875,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Blog Categories",
+        "on_click_jump_to": "http://www.delsol.com/blog"
+    },
+    {
+        "position": [
+            [
+                1262.86669921875,
+                30.5
+            ],
+            [
+                1322.7500305175781,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Fan Mail",
+        "on_click_jump_to": "https://blog.delsol.com/fan-mail/"
+    },
+    {
+        "position": [
+            [
+                1354.75,
+                30.5
+            ],
+            [
+                1468.0333404541016,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Store Locations",
+        "on_click_jump_to": "http://www.delsol.com/stores.html"
+    },
+    {
+        "position": [
+            [
+                1500.0333251953125,
+                30.5
+            ],
+            [
+                1568.0333251953125,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Media Kit",
+        "on_click_jump_to": "https://blog.delsol.com/wp-content/uploads/2024/01/DelSol_MediaKit_2024.pdf"
+    },
+    {
+        "position": [
+            [
+                1600.0333251953125,
+                30.5
+            ],
+            [
+                1711.999984741211,
+                54.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About Our Blog",
+        "on_click_jump_to": "https://blog.delsol.com/about/"
+    },
+    {
+        "position": [
+            [
+                252.0,
+                195.0
+            ],
+            [
+                337.46665954589844,
+                219.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Scott.Brady",
+        "on_click_jump_to": "https://blog.delsol.com/author/scott-brady/"
+    },
+    {
+        "position": [
+            [
+                1234.6666259765625,
+                155.0
+            ],
+            [
+                1458.8666229248047,
+                175.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Color Change Nail Art Tutorials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1234.6666259765625,
+                187.0
+            ],
+            [
+                1350.1166229248047,
+                207.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Company Props",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1234.6666259765625,
+                219.0
+            ],
+            [
+                1343.1166229248047,
+                239.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Cruise + Travel",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1210.6666259765625,
+                343.0
+            ],
+            [
+                1568.5332946777344,
+                363.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Del Sol: Finding Fall Colors, Sunshine Everywhere",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1210.6666259765625,
+                383.0
+            ],
+            [
+                1453.7999572753906,
+                403.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Five A+ Tips Before School Starts",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1287.199951171875
+            ],
+            [
+                270.75,
+                1307.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Email Us",
+        "on_click_jump_to": "mailto:[email protected]"
+    },
+    {
+        "position": [
+            [
+                1660.88330078125,
+                1261.199951171875
+            ],
+            [
+                1711.9999694824219,
+                1285.199951171875
+            ]
+        ],
+        "type": "a",
+        "color": [
+            220,
+            38,
+            38
+        ],
+        "text": "Del Sol",
+        "on_click_jump_to": "https://www.facebook.com/delsolcolor"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                400.0,
+                69.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://blog.delsol.com/wp-content/uploads/2022/12/imageonline-co-whitebackgroundremoved_1_1624297182__06649.webp"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                189.0
+            ],
+            [
+                244.0,
+                225.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://secure.gravatar.com/avatar/e07701aeba183022d776869a1ddb3e9c?s=36&d=mm&r=g"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                249.0
+            ],
+            [
+                1178.6666870117188,
+                1109.2000122070312
+            ]
+        ],
+        "type": "img",
+        "src": "http://www.delsol.com/blog/wp-content/uploads/2018/08/MOF_SurfExperienceDay_Waikiki_April2018.png"
+    }
+]

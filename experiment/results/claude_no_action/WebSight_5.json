@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1556.0,
+                14.5
+            ],
+            [
+                1668.0,
+                33.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Vacation Packages",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1692.0,
+                14.5
+            ],
+            [
+                1768.0,
+                33.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Destinations",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1792.0,
+                14.5
+            ],
+            [
+                1904.0,
+                33.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Customer Reviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                48.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/path-to-logo.png"
+    }
+]

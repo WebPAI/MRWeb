@@ -1,0 +1,546 @@
+[
+    {
+        "position": [
+            [
+                336.0,
+                8.0
+            ],
+            [
+                457.98333740234375,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "+1(407)491-2165",
+        "on_click_jump_to": "tel:1-407-491-2165"
+    },
+    {
+        "position": [
+            [
+                777.7166748046875,
+                8.0
+            ],
+            [
+                998.3833465576172,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "sales@onlinelotteryservice.com",
+        "on_click_jump_to": "https://www.onlinelotteryservice.com/contact_us.html"
+    },
+    {
+        "position": [
+            [
+                1318.11669921875,
+                8.0
+            ],
+            [
+                1504.0000305175781,
+                32.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "Current Winning Numbers",
+        "on_click_jump_to": "https://www.onlinelotteryservice.com/current_florida_lottery_winning_numbers.html"
+    },
+    {
+        "position": [
+            [
+                1148.9166259765625,
+                76.0
+            ],
+            [
+                1191.8166198730469,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "Home",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                1223.816650390625,
+                76.0
+            ],
+            [
+                1277.499984741211,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "Sign up",
+        "on_click_jump_to": "file:///new_member.html"
+    },
+    {
+        "position": [
+            [
+                1309.5,
+                76.0
+            ],
+            [
+                1403.8833312988281,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "How it Works",
+        "on_click_jump_to": "file:///how_it_works.html"
+    },
+    {
+        "position": [
+            [
+                1435.88330078125,
+                76.0
+            ],
+            [
+                1512.7333068847656,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contact_us.html"
+    },
+    {
+        "position": [
+            [
+                1544.7333984375,
+                76.0
+            ],
+            [
+                1584.0000610351562,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "Login",
+        "on_click_jump_to": "file:///login.html"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                220.0
+            ],
+            [
+                640.0,
+                244.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "NUMBER ANALYZER",
+        "on_click_jump_to": "#lotto_number_analysis"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                260.0
+            ],
+            [
+                640.0,
+                284.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "NUMBER COMPOSER",
+        "on_click_jump_to": "file:///lotto_number_composer.html"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                300.0
+            ],
+            [
+                640.0,
+                324.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "NUMBER QUICK PICKER",
+        "on_click_jump_to": "file:///lotto_quick_picker.html"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                340.0
+            ],
+            [
+                640.0,
+                364.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "WHEELING SYSTEMS",
+        "on_click_jump_to": "#florida_lotto_wheeling_systems"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                380.0
+            ],
+            [
+                640.0,
+                404.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "LOTTERY POOLS",
+        "on_click_jump_to": "#florida_lotto_pool_service"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                420.0
+            ],
+            [
+                640.0,
+                444.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "WINNING NUMBERS",
+        "on_click_jump_to": "#florida_lotto_winning_numbers"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                460.0
+            ],
+            [
+                640.0,
+                484.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "TICKET PURCHASE",
+        "on_click_jump_to": "#florida_lotto_ticket_purchase"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                500.0
+            ],
+            [
+                640.0,
+                524.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "SEARCH NUMBERS",
+        "on_click_jump_to": "#search_florida_lotto_numbers"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                540.0
+            ],
+            [
+                640.0,
+                564.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "LOTTO GRAPHIC VIEW",
+        "on_click_jump_to": "file:///florida_lotto_graphic_view.html"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                580.0
+            ],
+            [
+                640.0,
+                604.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "NUMBER SELECTION STRATEGY",
+        "on_click_jump_to": "file:///strategy_to_pick_lotto_numbers.html"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                704.0
+            ],
+            [
+                640.0,
+                728.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "Florida Lottery Online",
+        "on_click_jump_to": "http://www.lottohitter.com/"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                744.0
+            ],
+            [
+                640.0,
+                768.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            105,
+            103,
+            99
+        ],
+        "text": "Florida Lotto Tickets",
+        "on_click_jump_to": "http://www.floridalottotickets.com/"
+    },
+    {
+        "position": [
+            [
+                1073.7333984375,
+                353.5
+            ],
+            [
+                1105.0833892822266,
+                374.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            66,
+            139,
+            202
+        ],
+        "text": "here",
+        "on_click_jump_to": "file:///new_member.html"
+    },
+    {
+        "position": [
+            [
+                704.0,
+                427.0
+            ],
+            [
+                1533.316650390625,
+                472.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            66,
+            139,
+            202
+        ],
+        "text": "Odds and Payouts",
+        "on_click_jump_to": "file:///pages/PK5help.html"
+    },
+    {
+        "position": [
+            [
+                1177.1666259765625,
+                1274.5
+            ],
+            [
+                1253.4166259765625,
+                1295.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            254,
+            152,
+            15
+        ],
+        "text": "usasmt.net",
+        "on_click_jump_to": "http://www.usasmt.net/"
+    },
+    {
+        "position": [
+            [
+                1520.0,
+                8.0
+            ],
+            [
+                1544.0,
+                32.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.onlinelotteryservice.com/images/home/us.png"
+    },
+    {
+        "position": [
+            [
+                1560.0,
+                8.0
+            ],
+            [
+                1584.0,
+                32.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.onlinelotteryservice.com/images/home/cn.png"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                56.0
+            ],
+            [
+                620.0,
+                120.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.onlinelotteryservice.com/images/home/logo.png"
+    },
+    {
+        "position": [
+            [
+                791.5,
+                604.0
+            ],
+            [
+                1464.5,
+                921.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.onlinelotteryservice.com/images/screenshots/buy_florida_pick_5_tickets.png"
+    },
+    {
+        "position": [
+            [
+                336.0,
+                1118.0
+            ],
+            [
+                597.0,
+                1177.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.onlinelotteryservice.com/images/home/footer_logo.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                1329.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://www.onlinelotteryservice.com/images/Florida_Lotto_Games.gif"
+    }
+]

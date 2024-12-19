@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1526.6500244140625,
+                54.0
+            ],
+            [
+                1569.7666931152344,
+                74.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1590.2666015625,
+                54.0
+            ],
+            [
+                1633.8999328613281,
+                74.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1654.4000244140625,
+                54.0
+            ],
+            [
+                1712.0000305175781,
+                74.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                32.0
+            ],
+            [
+                272.0,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/image.jpg"
+    }
+]

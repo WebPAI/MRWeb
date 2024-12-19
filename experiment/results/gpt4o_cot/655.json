@@ -1,0 +1,204 @@
+[
+    {
+        "position": [
+            [
+                689.25,
+                24.0
+            ],
+            [
+                735.7333374023438,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "https://keyes.ie/"
+    },
+    {
+        "position": [
+            [
+                767.7333374023438,
+                24.0
+            ],
+            [
+                832.4166717529297,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "PYTHON",
+        "on_click_jump_to": "https://keyes.ie/python/"
+    },
+    {
+        "position": [
+            [
+                864.4166870117188,
+                24.0
+            ],
+            [
+                922.8500213623047,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "THINGS",
+        "on_click_jump_to": "https://keyes.ie/things/"
+    },
+    {
+        "position": [
+            [
+                954.8499755859376,
+                24.0
+            ],
+            [
+                1021.7999725341798,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "ARCHIVE",
+        "on_click_jump_to": "https://keyes.ie/archive/"
+    },
+    {
+        "position": [
+            [
+                1053.800048828125,
+                24.0
+            ],
+            [
+                1107.800048828125,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://keyes.ie/about/"
+    },
+    {
+        "position": [
+            [
+                297.6499938964844,
+                154.0
+            ],
+            [
+                389.03334045410156,
+                174.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Baseliner 1.0",
+        "on_click_jump_to": "https://keyes.ie/things/baseliner"
+    },
+    {
+        "position": [
+            [
+                511.2833251953125,
+                154.0
+            ],
+            [
+                841.6999816894531,
+                174.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "does not want to be a target of mouse events",
+        "on_click_jump_to": "https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events"
+    },
+    {
+        "position": [
+            [
+                224.23333740234375,
+                194.0
+            ],
+            [
+                314.6999969482422,
+                214.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "bookmarklet",
+        "on_click_jump_to": "https://keyes.ie/things/baseliner"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                309.06666564941406,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://keyes.ie/images/logo.png"
+    },
+    {
+        "position": [
+            [
+                1488.0,
+                20.0
+            ],
+            [
+                1600.0,
+                52.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://keyes.ie/images/keyes.png"
+    },
+    {
+        "position": [
+            [
+                1616.0,
+                20.0
+            ],
+            [
+                1728.0,
+                52.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://keyes.ie/images/keyes.png"
+    }
+]

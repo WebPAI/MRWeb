@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Audax Private Equity</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <script>
+    function toggleMobileMenu() {
+      const menu = document.getElementById('mobile-menu');
+      menu.classList.toggle('hidden');
+    }
+  </script>
+</head>
+<body class="bg-white">
+  <div class="flex flex-col h-screen">
+    <div class="bg-blue-700 text-white py-2 px-4">
+      <div class="container mx-auto flex justify-between items-center">
+        <div class="hidden md:block">
+          <ul class="flex space-x-4">
+            <li><a href="#" class="hover:underline text-sm">About</a></li>
+            <li><a href="https://www.audaxprivateequity.com/" class="hover:underline text-sm">Overview</a></li>
+            <li><a href="https://www.audaxprivateequity.com/approach" class="hover:underline text-sm">Approach</a></li>
+            <li><a href="https://www.audaxprivateequity.com/news" class="hover:underline text-sm">News</a></li>
+            <li><a href="https://www.audaxprivateequity.com/citizenship" class="hover:underline text-sm">Citizenship</a></li>
+            <li><a href="https://www.audaxprivateequity.com/citizenship" class="hover:underline text-sm">Charitable Foundation</a></li>
+            <li><a href="https://www.audaxprivateequity.com/citizenship" class="hover:underline text-sm">ESG</a></li>
+            <li><a href="https://www.audaxprivateequity.com/citizenship" class="hover:underline text-sm">DEI</a></li>
+            <li><a href="https://www.audaxprivateequity.com/portfolio" class="hover:underline text-sm">Portfolio</a></li>
+            <li><a href="https://www.audaxprivateequity.com/team" class="hover:underline text-sm">Team</a></li>
+            <li><a href="https://www.audaxprivateequity.com/contact" class="hover:underline text-sm">Contact</a></li>
+            <li><a href="https://dynamo.dynamosoftware.com/tenant/dynamo.netagesolutions.com/Audax/Investors" class="hover:underline text-sm">Investor Login</a></li>
+          </ul>
+        </div>
+        <div class="md:hidden">
+          <button class="text-white focus:outline-none" onclick="toggleMobileMenu()">
+            <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7"></path>
+            </svg>
+          </button>
+          <div id="mobile-menu" class="absolute top-0 left-0 w-full bg-blue-700 mt-12 py-4 px-6 hidden">
+            <ul class="flex flex-col space-y-2">
+              <li><a href="#" class="hover:underline text-sm">About</a></li>
+              <li><a href="https://www.audaxprivateequity.com/" class="hover:underline text-sm">Overview</a></li>
+              <li><a href="https://www.audaxprivateequity.com/approach" class="hover:underline text-sm">Approach</a></li>
+              <li><a href="https://www.audaxprivateequity.com/news" class="hover:underline text-sm">News</a></li>
+              <li><a href="https://www.audaxprivateequity.com/citizenship" class="hover:underline text-sm">Citizenship</a></li>
+              <li><a href="https://www.audaxprivateequity.com/citizenship" class="hover:underline text-sm">Charitable Foundation</a></li>
+              <li><a href="https://www.audaxprivateequity.com/citizenship" class="hover:underline text-sm">ESG</a></li>
+              <li><a href="https://www.audaxprivateequity.com/citizenship" class="hover:underline text-sm">DEI</a></li>
+              <li><a href="https://www.audaxprivateequity.com/portfolio" class="hover:underline text-sm">Portfolio</a></li>
+              <li><a href="https://www.audaxprivateequity.com/team" class="hover:underline text-sm">Team</a></li>
+              <li><a href="https://www.audaxprivateequity.com/contact" class="hover:underline text-sm">Contact</a></li>
+              <li><a href="https://dynamo.dynamosoftware.com/tenant/dynamo.netagesolutions.com/Audax/Investors" class="hover:underline text-sm">Investor Login</a></li>
+            </ul>
+          </div>
+        </div>
+        <div>
+          <span class="font-bold text-xl">Audax Private Equity</span>
+        </div>
+      </div>
+    </div>
+    <div class="flex-grow overflow-y-auto">
+      <div class="container mx-auto py-12 px-4">
+        <p class="text-gray-600 text-sm">This website uses cookies. For more information, please visit our <a href="https://www.audaxprivateequity.com/privacy-policy" class="text-blue-700 hover:underline">Privacy Policy</a></p>
+      </div>
+    </div>
+    <div class="bg-blue-700 py-2 px-4">
+      <div class="container mx-auto flex justify-end items-center">
+        <button class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded inline-flex items-center text-xs">
+          <span>Hide</span>
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

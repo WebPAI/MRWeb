@@ -1,0 +1,578 @@
+[
+    {
+        "position": [
+            [
+                192.0,
+                0.0
+            ],
+            [
+                284.51666259765625,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Latest",
+        "on_click_jump_to": "https://www.biostars.org/"
+    },
+    {
+        "position": [
+            [
+                284.51666259765625,
+                0.0
+            ],
+            [
+                373.03334045410156,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Open",
+        "on_click_jump_to": "https://www.biostars.org/t/open/"
+    },
+    {
+        "position": [
+            [
+                373.0333251953125,
+                0.0
+            ],
+            [
+                455.54998779296875,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Jobs",
+        "on_click_jump_to": "https://www.biostars.org/t/jobs/"
+    },
+    {
+        "position": [
+            [
+                455.5499877929687,
+                0.0
+            ],
+            [
+                563.0666503906249,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Tutorials",
+        "on_click_jump_to": "https://www.biostars.org/t/tutorials/"
+    },
+    {
+        "position": [
+            [
+                563.066650390625,
+                0.0
+            ],
+            [
+                646.5833129882812,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Tags",
+        "on_click_jump_to": "https://www.biostars.org/t/"
+    },
+    {
+        "position": [
+            [
+                646.5833129882812,
+                0.0
+            ],
+            [
+                737.0999908447266,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.biostars.org/info/about/"
+    },
+    {
+        "position": [
+            [
+                737.0999755859375,
+                0.0
+            ],
+            [
+                818.6166381835938,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://www.biostars.org/info/faq/"
+    },
+    {
+        "position": [
+            [
+                451.0,
+                55.0
+            ],
+            [
+                553.0,
+                121.14999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            120,
+            194
+        ],
+        "text": "Community",
+        "on_click_jump_to": "https://www.biostars.org/user/list/"
+    },
+    {
+        "position": [
+            [
+                553.0,
+                55.0
+            ],
+            [
+                637.0,
+                121.14999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            120,
+            194
+        ],
+        "text": "Planet",
+        "on_click_jump_to": "https://www.biostars.org/planet/"
+    },
+    {
+        "position": [
+            [
+                637.0,
+                55.0
+            ],
+            [
+                727.0,
+                121.14999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            120,
+            194
+        ],
+        "text": "New Post",
+        "on_click_jump_to": "https://www.biostars.org/new/post/"
+    },
+    {
+        "position": [
+            [
+                1645.0,
+                55.0
+            ],
+            [
+                1729.0,
+                121.14999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            120,
+            194
+        ],
+        "text": "Log In",
+        "on_click_jump_to": "https://www.biostars.org/accounts/login/"
+    },
+    {
+        "position": [
+            [
+                1192.6500244140625,
+                393.4166870117187
+            ],
+            [
+                1283.683364868164,
+                410.4166870117187
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "pavlov.ivan095",
+        "on_click_jump_to": "https://www.biostars.org/u/29018/"
+    },
+    {
+        "position": [
+            [
+                252.6666717529297,
+                454.76666259765625
+            ],
+            [
+                355.1999969482422,
+                477.76666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            107,
+            62,
+            74
+        ],
+        "text": "phylogenetics",
+        "on_click_jump_to": "https://www.biostars.org/tag/phylogenetics/"
+    },
+    {
+        "position": [
+            [
+                367.3500061035156,
+                485.26666259765625
+            ],
+            [
+                391.06666564941406,
+                504.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "link",
+        "on_click_jump_to": "https://www.biostars.org/p/200351/"
+    },
+    {
+        "position": [
+            [
+                1163.7666015625,
+                485.26666259765625
+            ],
+            [
+                1265.9832763671875,
+                504.26666259765625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "pavlov.ivan095",
+        "on_click_jump_to": "https://www.biostars.org/u/29018/"
+    },
+    {
+        "position": [
+            [
+                226.0,
+                566.0999755859375
+            ],
+            [
+                296.53334045410156,
+                589.9333038330078
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Login",
+        "on_click_jump_to": "https://www.biostars.org/accounts/login/"
+    },
+    {
+        "position": [
+            [
+                715.63330078125,
+                652.433349609375
+            ],
+            [
+                760.1833038330078,
+                671.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "Search",
+        "on_click_jump_to": "https://www.biostars.org/"
+    },
+    {
+        "position": [
+            [
+                715.63330078125,
+                672.433349609375
+            ],
+            [
+                752.4499664306641,
+                691.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "Users",
+        "on_click_jump_to": "https://www.biostars.org/user/list/"
+    },
+    {
+        "position": [
+            [
+                715.63330078125,
+                692.433349609375
+            ],
+            [
+                745.2333068847656,
+                711.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "Tags",
+        "on_click_jump_to": "https://www.biostars.org/t/"
+    },
+    {
+        "position": [
+            [
+                715.63330078125,
+                712.433349609375
+            ],
+            [
+                764.4833068847656,
+                731.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "Badges",
+        "on_click_jump_to": "https://www.biostars.org/b/list/"
+    },
+    {
+        "position": [
+            [
+                932.9500122070312,
+                652.433349609375
+            ],
+            [
+                974.4833526611328,
+                671.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.biostars.org/info/about/"
+    },
+    {
+        "position": [
+            [
+                932.9500122070312,
+                672.433349609375
+            ],
+            [
+                960.683349609375,
+                691.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "https://www.biostars.org/info/faq/"
+    },
+    {
+        "position": [
+            [
+                1134.61669921875,
+                652.433349609375
+            ],
+            [
+                1159.9167022705078,
+                671.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "RSS",
+        "on_click_jump_to": "https://www.biostars.org/info/rss/"
+    },
+    {
+        "position": [
+            [
+                1164.066650390625,
+                652.433349609375
+            ],
+            [
+                1186.5999908447266,
+                671.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "API",
+        "on_click_jump_to": "https://www.biostars.org/info/api/"
+    },
+    {
+        "position": [
+            [
+                1134.61669921875,
+                672.433349609375
+            ],
+            [
+                1166.8500366210938,
+                691.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "Stats",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                994.36669921875,
+                776.433349609375
+            ],
+            [
+                1226.5166931152344,
+                795.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            65,
+            131,
+            196
+        ],
+        "text": "User Agreement and Privacy Policy",
+        "on_click_jump_to": "https://www.biostars.org/info/policy/"
+    },
+    {
+        "position": [
+            [
+                196.0,
+                55.0
+            ],
+            [
+                446.0,
+                116.14999389648438
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.biostars.org/static/images/logo6.svg"
+    },
+    {
+        "position": [
+            [
+                1220.5,
+                290.16668701171875
+            ],
+            [
+                1300.5,
+                370.16668701171875
+            ]
+        ],
+        "type": "img",
+        "src": "https://secure.gravatar.com/avatar/97ec245852060d44d8e4fb461c70383c?s=80&d=identicon"
+    },
+    {
+        "position": [
+            [
+                724.9166870117188,
+                406.3666687011719
+            ],
+            [
+                918.3833465576172,
+                425.3666687011719
+            ]
+        ],
+        "type": "img",
+        "src": "https://s32.postimg.org/fxdjz3mfp/tree_multigene.jpg"
+    },
+    {
+        "position": [
+            [
+                925.183349609375,
+                811.6500244140625
+            ],
+            [
+                1015.183349609375,
+                831.6500244140625
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.biostars.org/static/images/badge-forum.svg"
+    }
+]

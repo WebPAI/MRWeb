@@ -1,0 +1,112 @@
+[
+    {
+        "position": [
+            [
+                299.16668701171875,
+                162.0
+            ],
+            [
+                392.9833526611328,
+                182.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "click here >>",
+        "on_click_jump_to": "http://www.aemo.com.au/"
+    },
+    {
+        "position": [
+            [
+                340.51666259765625,
+                226.0
+            ],
+            [
+                526.3000030517578,
+                246.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "AEMO Information Centre",
+        "on_click_jump_to": "mailto:infocentre@aemo.com.au"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                140.60000610351562,
+                32.0
+            ]
+        ],
+        "type": "img",
+        "src": "http://nemmco.com.au/media/images/logo.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://nemmco.com.au/media/images/background.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                32.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://nemmco.com.au/media/images/topmenu-bg.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                32.0
+            ],
+            [
+                1920.0,
+                128.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://nemmco.com.au/media/images/banner-bg.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                947.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://nemmco.com.au/media/images/footer-bg.jpg"
+    }
+]

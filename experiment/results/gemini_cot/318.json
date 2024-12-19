@@ -1,0 +1,258 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                120.0
+            ],
+            [
+                251.11666870117188,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/index.aspx"
+    },
+    {
+        "position": [
+            [
+                267.1166687011719,
+                120.0
+            ],
+            [
+                355.76666259765625,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Trip Reports",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/tripList.aspx"
+    },
+    {
+        "position": [
+            [
+                371.76666259765625,
+                120.0
+            ],
+            [
+                463.25,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Site Reviews",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/siteList.aspx"
+    },
+    {
+        "position": [
+            [
+                479.25,
+                120.0
+            ],
+            [
+                534.3333282470703,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Lifelists",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/lifelistList.aspx"
+    },
+    {
+        "position": [
+            [
+                550.3333129882812,
+                120.0
+            ],
+            [
+                593.9666442871094,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.planetscott.com/lifelist/help.aspx"
+    },
+    {
+        "position": [
+            [
+                609.9666748046875,
+                120.0
+            ],
+            [
+                699.3000183105469,
+                144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Contact Info",
+        "on_click_jump_to": "https://www.planetscott.com/contact.aspx"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1867.0
+            ],
+            [
+                260.76666259765625,
+                1887.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "https://www.planetscott.com/sitemap.xml"
+    },
+    {
+        "position": [
+            [
+                276.76666259765625,
+                1867.0
+            ],
+            [
+                397.76666259765625,
+                1887.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Hackers Challenge",
+        "on_click_jump_to": "https://www.planetscott.com/spammers.aspx"
+    },
+    {
+        "position": [
+            [
+                413.76666259765625,
+                1867.0
+            ],
+            [
+                465.01666259765625,
+                1887.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.planetscott.com/contact.aspx"
+    },
+    {
+        "position": [
+            [
+                1605.5,
+                1867.0
+            ],
+            [
+                1712.0,
+                1887.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            22,
+            163,
+            74
+        ],
+        "text": "PlanetScott.com",
+        "on_click_jump_to": "http://www.planetscott.com/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                304.0,
+                104.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/_images/graphics/planetscottlogo2.gif"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                230.0
+            ],
+            [
+                1712.0,
+                1358.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/8117/large/eurasian-coot-(fulica-atra).jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1366.0
+            ],
+            [
+                288.0,
+                1426.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/8117/small/eurasian-coot-(fulica-atra).jpg"
+    },
+    {
+        "position": [
+            [
+                296.0,
+                1366.0
+            ],
+            [
+                376.0,
+                1426.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.planetscott.com/img/2005/small/common-coot-(fulica-atra)-.jpg"
+    }
+]

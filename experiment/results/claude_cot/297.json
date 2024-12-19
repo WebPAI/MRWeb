@@ -1,0 +1,158 @@
+[
+    {
+        "position": [
+            [
+                1563.2833251953125,
+                62.0
+            ],
+            [
+                1671.999984741211,
+                90.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "WATCH LIVE",
+        "on_click_jump_to": "https://6abc.com/watch/"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                834.0
+            ],
+            [
+                414.48333740234375,
+                858.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "KENNETT SQUARE BOROUGH",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                430.48333740234375,
+                834.0
+            ],
+            [
+                504.8666687011719,
+                858.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "PA. NEWS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                520.86669921875,
+                834.0
+            ],
+            [
+                616.7000274658203,
+                858.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "HALLOWEEN",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                632.7000122070312,
+                834.0
+            ],
+            [
+                686.4833526611328,
+                858.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "CANDY",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                52.0
+            ],
+            [
+                241.3333282470703,
+                100.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_icon.png"
+    },
+    {
+        "position": [
+            [
+                257.33331298828125,
+                48.0
+            ],
+            [
+                520.8666381835938,
+                104.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.net/abcotv/assets/news/global/images/feature-header/wpvi_desktop-logo.png"
+    },
+    {
+        "position": [
+            [
+                1688.0,
+                56.0
+            ],
+            [
+                1728.0,
+                96.0
+            ]
+        ],
+        "type": "img",
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOCIgaGVpZ2h0PSIyMCI+PHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMTEuMzcgMTIuNDM4YTUuNDI2IDUuNDI2IDAgMSAxLTcuNDUyLTcuODg2IDUuNDI2IDUuNDI2IDAgMCAxIDcuNDUyIDcuODg1bTEuNzQtOS4yNzhDMTAuMjczLjIgNS40ODguMTEgMi40MjQgMi45NnMtMy4yNDYgNy41NjItLjQwNyAxMC41MjJjMi42MSAyLjcyIDYuODYgMy4wMTUgOS45MS44MzJsNC42MSA0LjgwNEwxOCAxNy43NTdsLTQuNjA4LTQuODA0YzIuMzg2LTIuODc1IDIuMzI4LTcuMDc0LS4yOC05Ljc5NCIvPjwvc3ZnPg=="
+    },
+    {
+        "position": [
+            [
+                192.0,
+                200.0
+            ],
+            [
+                1184.0,
+                758.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://cdn.abcotvs.com/dip/images/1063980_110215-wpvi-needles-in-candy-1230-video.jpg"
+    }
+]

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .header-bg {
+            background-image: url('https://www.takt-lbc.com/wp-content/uploads/2023/03/header_bg-1-1.png');
+            background-size: cover;
+            background-position: center;
+        }
+        
+        .gallery-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 20px;
+            padding: 20px;
+        }
+
+        .gallery-item {
+            position: relative;
+            aspect-ratio: 1;
+            overflow: hidden;
+        }
+
+        .gallery-item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .gallery-item-text {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 10px;
+            text-align: center;
+            font-size: 14px;
+            color: rgb(46, 46, 46);
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <header class="header-bg h-[150px] relative">
+        <div class="container mx-auto flex items-center h-full">
+            <!-- Logo -->
+            <img src="https://www.takt-lbc.com/wp-content/uploads/2023/03/logoweb.svg" 
+                 class="w-[150px] h-[150px] ml-[280px]" alt="Logo">
+            
+            <!-- Navigation -->
+            <nav class="flex ml-[34px] text-white">
+                <a href="#" class="px-4">O NÁS</a>
+                <a href="#" class="px-4">STREET DANCE</a>
+                <a href="#" class="px-4">DISCO DANCE</a>
+                <a href="#" class="px-4">CONTEMPORARY</a>
+                <a href="#" class="px-4">JABLONEC N.N.</a>
+                <a href="https://www.takt-lbc.com/leto-s-taktem-2/" class="px-4">LÉTO S TAKTEM</a>
+                <a href="#" class="px-4">ONLINE PŘIHLÁŠKA</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto">
+        <!-- Home link -->
+        <div class="text-right my-4">
+            <a href="https://www.takt-lbc.com/" class="text-white">HOME</a>
+        </div>
+
+        <!-- Gallery Grid -->
+        <div class="gallery-grid">
+            <!-- Gallery items would be repeated for each image/link pair -->
+            <a href="#" class="gallery-item">
+                <img src="https://www.takt-lbc.com/wp-content/uploads/cache/2018/11/PB240035/91614461.jpg" alt="">
+                <div class="gallery-item-text">
+                    EXTRALIGA DISCO DANCE CHOMUTOV 2018<br>
+                    23 FOTEK
+                </div>
+            </a>
+            <!-- Repeat for other gallery items -->
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-black text-gray-400 py-8">
+        <div class="container mx-auto">
+            <div class="flex justify-between">
+                <div>
+                    <img src="https://www.takt-lbc.com/wp-content/uploads/2023/03/logo2-1-1.png" 
+                         class="w-[170px]" alt="Footer Logo">
+                    <a href="mailto:takt-lbc@seznam.cz" class="block mt-4">takt-lbc@seznam.cz</a>
+                    <a href="tel:+420777256959" class="block">+420 777 256 959</a>
+                </div>
+                <div class="flex flex-col">
+                    <img src="https://www.takt-lbc.com/wp-content/uploads/2023/04/lk-logotype-pantone-red-032-c.png" 
+                         class="h-12 mb-4" alt="">
+                    <img src="https://www.takt-lbc.com/wp-content/uploads/2019/11/pruihledny.png" 
+                         class="h-12 mb-4" alt="">
+                    <img src="https://www.takt-lbc.com/wp-content/uploads/2019/02/lionsport_logo_negativ-500x94.jpg" 
+                         class="h-8" alt="">
+                </div>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>

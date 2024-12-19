@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1702.4833984375,
+                30.0
+            ],
+            [
+                1741.6833953857422,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Team",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1762.183349609375,
+                30.0
+            ],
+            [
+                1824.2333526611328,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1844.7333984375,
+                30.0
+            ],
+            [
+                1904.0000610351562,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Reviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                52.08332824707031,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/logo.png"
+    }
+]

@@ -1,0 +1,202 @@
+[
+    {
+        "position": [
+            [
+                8.0,
+                9.600006103515623
+            ],
+            [
+                60.0,
+                25.600006103515625
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "VC Star",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                46.80000305175781
+            ],
+            [
+                84.43333435058594,
+                62.80000305175781
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://www.vcstar.com/news/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                68.0
+            ],
+            [
+                88.91667175292969,
+                84.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Sports",
+        "on_click_jump_to": "https://www.vcstar.com/sports/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                89.19999694824219
+            ],
+            [
+                100.44999694824219,
+                105.19999694824219
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Opinion",
+        "on_click_jump_to": "https://www.vcstar.com/opinion/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                110.39999389648438
+            ],
+            [
+                138.64999389648438,
+                126.39999389648438
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Entertainment",
+        "on_click_jump_to": "https://www.vcstar.com/entertainment/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                131.60000610351562
+            ],
+            [
+                112.86666870117188,
+                147.60000610351562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Education",
+        "on_click_jump_to": "https://www.vcstar.com/news/schoolwatch/"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                152.8000030517578
+            ],
+            [
+                110.21665954589844,
+                168.8000030517578
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Advertise",
+        "on_click_jump_to": "https://cm.vcstar.com/advertise-with-us/?cid=Web_LiQ_Network_AdvertiseWithUs_AdvertiseInquiry&publication=vc_star_ventura_county_star&utm_source=local_publication&utm_medium=topnav&utm_campaign=advertise_with_us"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                174.0
+            ],
+            [
+                114.66667175292969,
+                190.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Obituaries",
+        "on_click_jump_to": "https://www.vcstar.com/obituaries"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                195.1999969482422
+            ],
+            [
+                127.06666564941406,
+                211.1999969482422
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "eNewspaper",
+        "on_click_jump_to": "https://user.vcstar.com/user/enewspaper"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                216.3999938964844
+            ],
+            [
+                90.64999389648438,
+                232.3999938964844
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            238
+        ],
+        "text": "Legals",
+        "on_click_jump_to": "https://www.vcstar.com/public-notices"
+    }
+]

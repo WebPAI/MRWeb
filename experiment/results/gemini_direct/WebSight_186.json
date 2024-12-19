@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                1509.7166748046875,
+                30.0
+            ],
+            [
+                1550.2333526611328,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Menu",
+        "on_click_jump_to": "http://theposhforum.co.uk/viewforum.php?f=12&start=100"
+    },
+    {
+        "position": [
+            [
+                1570.7333984375,
+                30.0
+            ],
+            [
+                1614.1333923339844,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Hours",
+        "on_click_jump_to": "https://mybirthday.ninja/?m=September&d=9&y=1989&go=Go"
+    },
+    {
+        "position": [
+            [
+                1634.63330078125,
+                30.0
+            ],
+            [
+                1727.9999694824219,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Reservations",
+        "on_click_jump_to": "http://www.signdesignandfabrication.com/OSHA/final_full_manual_29.htm"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                272.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1647006873308-2f0f9e34f23a?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczMjF8&ixlib=rb-4.0.3&w=100&h=50"
+    }
+]

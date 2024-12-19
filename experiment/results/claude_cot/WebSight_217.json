@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                28.0,
+                28.0
+            ],
+            [
+                76.25,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.fromroses.co.uk/blog/omroses.co.uk/2014/07/introducing-advertisers-on-from-roses-5.html"
+    },
+    {
+        "position": [
+            [
+                96.25,
+                28.0
+            ],
+            [
+                145.28334045410156,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.thebeadsbar.com/products/mini-melina"
+    },
+    {
+        "position": [
+            [
+                165.28334045410156,
+                28.0
+            ],
+            [
+                226.8333282470703,
+                56.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.topgear.com.au/product.php?product_id=714"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://source.unsplash.com/random/1600x900/?property"
+    }
+]

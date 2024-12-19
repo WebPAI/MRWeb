@@ -1,0 +1,316 @@
+[
+    {
+        "position": [
+            [
+                408.0,
+                79.5
+            ],
+            [
+                450.8999938964844,
+                100.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                498.8999938964844,
+                79.5
+            ],
+            [
+                524.8666687011719,
+                100.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Buy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                572.86669921875,
+                79.5
+            ],
+            [
+                621.9167022705078,
+                100.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Drivers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                669.9166870117188,
+                79.5
+            ],
+            [
+                801.2666778564453,
+                100.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Windows Software",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                849.2666625976562,
+                79.5
+            ],
+            [
+                906.75,
+                100.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Vendors",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                954.75,
+                79.5
+            ],
+            [
+                987.7666625976562,
+                100.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Help",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                635.5,
+                517.5
+            ],
+            [
+                673.5,
+                537.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                689.5,
+                517.5
+            ],
+            [
+                757.5,
+                537.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                773.5,
+                517.5
+            ],
+            [
+                845.5,
+                537.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Press Room",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                861.5,
+                517.5
+            ],
+            [
+                935.5,
+                537.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Testimonials",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                951.5,
+                517.5
+            ],
+            [
+                1027.5,
+                537.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Partnerships",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1043.5,
+                517.5
+            ],
+            [
+                1086.5,
+                537.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Privacy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1102.5,
+                517.5
+            ],
+            [
+                1128.5,
+                537.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "FAQ",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1144.5,
+                517.5
+            ],
+            [
+                1198.5,
+                537.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Site Map",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1214.5,
+                517.5
+            ],
+            [
+                1284.5,
+                537.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Email Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1273.0,
+                233.0
+            ],
+            [
+                1289.0,
+                249.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/update-icon.png"
+    }
+]

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Restaurant Layout</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body>
+    <div class="min-h-screen">
+        <!-- Top Banner -->
+        <div class="bg-orange-400 h-32">
+            <!-- Food Image -->
+            <div class="max-w-5xl mx-auto">
+                <img src="food-image.jpg" alt="Food dish" class="w-full h-24 object-cover rounded-lg">
+            </div>
+        </div>
+
+        <!-- Main Content Area -->
+        <div class="flex">
+            <!-- Left Sidebar -->
+            <div class="w-72 bg-gray-900 min-h-screen">
+                <!-- Profile Image -->
+                <div class="p-4">
+                    <img src="profile-image.jpg" alt="Profile" class="w-12 h-12 rounded-lg">
+                </div>
+            </div>
+
+            <!-- Right Content Area -->
+            <div class="flex-1 bg-red-500 min-h-screen">
+                <!-- Content goes here -->
+            </div>
+        </div>
+    </div>
+</body>
+</html>

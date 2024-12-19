@@ -1,0 +1,1464 @@
+[
+    {
+        "position": [
+            [
+                224.0,
+                51.0
+            ],
+            [
+                274.9499969482422,
+                73.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                287.76666259765625,
+                51.0
+            ],
+            [
+                418.1333312988281,
+                73.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "English Lodges",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                430.9500122070313,
+                51.0
+            ],
+            [
+                570.2500152587891,
+                73.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Scottish Lodges",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                583.066650390625,
+                51.0
+            ],
+            [
+                703.0499877929688,
+                73.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Welsh Lodges",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                715.86669921875,
+                51.0
+            ],
+            [
+                820.8333587646484,
+                73.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Area Guides",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                79.0
+            ],
+            [
+                345.93333435058594,
+                101.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Special Offers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                174.0
+            ],
+            [
+                336.0,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Holiday Lodges",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                354.76666259765625,
+                174.0
+            ],
+            [
+                413.21665954589844,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "England",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                431.98333740234375,
+                174.0
+            ],
+            [
+                501.4166717529297,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Somerset",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                520.183349609375,
+                174.0
+            ],
+            [
+                617.3500213623047,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Wivelscombe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                636.11669921875,
+                174.0
+            ],
+            [
+                729.9000244140625,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            4,
+            120,
+            87
+        ],
+        "text": "Exmoor Gate",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                248.0,
+                2396.0
+            ],
+            [
+                453.26666259765625,
+                2416.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Restaurants in Wivelscombe",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                248.0,
+                2420.0
+            ],
+            [
+                469.1333312988281,
+                2440.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Visitor Attractions in Somerset",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                342.933349609375,
+                2689.0
+            ],
+            [
+                467.16668701171875,
+                2709.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "More Information",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                986.933349609375,
+                2761.0
+            ],
+            [
+                1111.1666870117188,
+                2781.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "More Information",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                241.0,
+                2967.0
+            ],
+            [
+                365.23333740234375,
+                2987.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "More Information",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                737.0,
+                2967.0
+            ],
+            [
+                861.2333374023438,
+                2987.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "More Information",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                461.933349609375,
+                3221.0
+            ],
+            [
+                586.1666870117188,
+                3241.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "More Information",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                444.0
+            ],
+            [
+                1410.566665649414,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "View Full sized Photos",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                980.0
+            ],
+            [
+                1368.8000030517578,
+                1000.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Holiday Villas",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1004.0
+            ],
+            [
+                1388.9666595458984,
+                1024.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Villas with pools",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1028.0
+            ],
+            [
+                1396.75,
+                1048.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Holiday Cottages",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1052.0
+            ],
+            [
+                1371.8999938964844,
+                1072.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Holiday Boats",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1076.0
+            ],
+            [
+                1393.6499938964844,
+                1096.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Romantic Breaks",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1100.0
+            ],
+            [
+                1397.6999969482422,
+                1120.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Caravan Holidays",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1124.0
+            ],
+            [
+                1403.2666625976562,
+                1144.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Camping Holidays",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1148.0
+            ],
+            [
+                1370.6166687011719,
+                1168.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Holiday Parks",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1248.0
+            ],
+            [
+                1402.0500030517578,
+                1268.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Visitor Attractions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1272.0
+            ],
+            [
+                1390.566665649414,
+                1292.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Travel Insurance",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                697.5,
+                3661.5
+            ],
+            [
+                758.4333343505859,
+                3678.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Advertise",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                769.7666625976562,
+                3661.5
+            ],
+            [
+                855.6000061035156,
+                3678.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Terms of Use",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                866.933349609375,
+                3661.5
+            ],
+            [
+                914.0500183105469,
+                3678.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Privacy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                925.38330078125,
+                3661.5
+            ],
+            [
+                977.2833099365234,
+                3678.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Cookies",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                988.61669921875,
+                3661.5
+            ],
+            [
+                1046.550033569336,
+                3678.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "About us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1057.88330078125,
+                3661.5
+            ],
+            [
+                1140.7666320800781,
+                3678.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Site Network",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1152.0999755859375,
+                3661.5
+            ],
+            [
+                1222.4833068847656,
+                3678.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Contact us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                212.0
+            ],
+            [
+                385.1000061035156,
+                308.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/lodge-image.jpg"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                424.0
+            ],
+            [
+                688.0,
+                448.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/hot-tub.jpg"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                424.0
+            ],
+            [
+                1184.0,
+                448.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/play-area.jpg"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                628.0
+            ],
+            [
+                688.0,
+                652.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/gym.jpg"
+    },
+    {
+        "position": [
+            [
+                241.0,
+                2539.0
+            ],
+            [
+                671.0,
+                2563.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/chalet-image.jpg"
+    },
+    {
+        "position": [
+            [
+                737.0,
+                2539.0
+            ],
+            [
+                1167.0,
+                2563.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/long-hazel-park-image.jpg"
+    },
+    {
+        "position": [
+            [
+                241.0,
+                2865.0
+            ],
+            [
+                671.0,
+                2889.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/no-image.jpg"
+    },
+    {
+        "position": [
+            [
+                737.0,
+                2865.0
+            ],
+            [
+                1167.0,
+                2889.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/no-image.jpg"
+    },
+    {
+        "position": [
+            [
+                241.0,
+                3071.0
+            ],
+            [
+                671.0,
+                3095.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/home-farm-image.jpg"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                3324.0
+            ],
+            [
+                1168.0,
+                3348.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/consider-cottage.jpg"
+    },
+    {
+        "position": [
+            [
+                1265.0,
+                317.0
+            ],
+            [
+                1294.683334350586,
+                341.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/star-full.gif"
+    },
+    {
+        "position": [
+            [
+                1294.683349609375,
+                317.0
+            ],
+            [
+                1324.366683959961,
+                341.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/star-full.gif"
+    },
+    {
+        "position": [
+            [
+                1324.36669921875,
+                317.0
+            ],
+            [
+                1354.050033569336,
+                341.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/star-full.gif"
+    },
+    {
+        "position": [
+            [
+                1354.050048828125,
+                317.0
+            ],
+            [
+                1383.733383178711,
+                341.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/star-full.gif"
+    },
+    {
+        "position": [
+            [
+                1383.7333984375,
+                317.0
+            ],
+            [
+                1413.416732788086,
+                341.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/star-empty.gif"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                474.0
+            ],
+            [
+                1468.0,
+                498.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/gallery-1.jpg"
+    },
+    {
+        "position": [
+            [
+                1476.0,
+                474.0
+            ],
+            [
+                1696.0,
+                498.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/gallery-2.jpg"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                506.0
+            ],
+            [
+                1468.0,
+                530.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/gallery-3.jpg"
+    },
+    {
+        "position": [
+            [
+                1476.0,
+                506.0
+            ],
+            [
+                1696.0,
+                530.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/gallery-4.jpg"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                538.0
+            ],
+            [
+                1468.0,
+                562.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/gallery-5.jpg"
+    },
+    {
+        "position": [
+            [
+                1476.0,
+                538.0
+            ],
+            [
+                1696.0,
+                562.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/gallery-6.jpg"
+    },
+    {
+        "position": [
+            [
+                1248.0,
+                570.0
+            ],
+            [
+                1468.0,
+                594.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/gallery-7.jpg"
+    },
+    {
+        "position": [
+            [
+                1476.0,
+                570.0
+            ],
+            [
+                1696.0,
+                594.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/gallery-8.jpg"
+    },
+    {
+        "position": [
+            [
+                1256.0,
+                678.0
+            ],
+            [
+                1460.0,
+                702.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/family-lodges.jpg"
+    },
+    {
+        "position": [
+            [
+                1484.0,
+                678.0
+            ],
+            [
+                1688.0,
+                702.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/dog-lodges.jpg"
+    },
+    {
+        "position": [
+            [
+                1256.0,
+                758.0
+            ],
+            [
+                1460.0,
+                782.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/seaside-lodges.jpg"
+    },
+    {
+        "position": [
+            [
+                1484.0,
+                758.0
+            ],
+            [
+                1688.0,
+                782.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/golfing-lodges.jpg"
+    },
+    {
+        "position": [
+            [
+                1256.0,
+                838.0
+            ],
+            [
+                1460.0,
+                862.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/hot-tub-lodges.jpg"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1371.800048828125
+            ],
+            [
+                1330.4499969482422,
+                1395.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/england-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1397.5999755859375
+            ],
+            [
+                1315.5166625976562,
+                1421.5999755859375
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/wales-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1423.4000244140625
+            ],
+            [
+                1321.1166687011719,
+                1447.4000244140625
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/ireland-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1449.199951171875
+            ],
+            [
+                1335.933334350586,
+                1473.199951171875
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/scotland-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1551.0
+            ],
+            [
+                1321.6000061035156,
+                1575.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/france-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1576.800048828125
+            ],
+            [
+                1337.4166717529297,
+                1600.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/denmark-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1602.5999755859375
+            ],
+            [
+                1302.0833282470703,
+                1626.5999755859375
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/italy-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1628.4000244140625
+            ],
+            [
+                1312.5,
+                1652.4000244140625
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/spain-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1654.199951171875
+            ],
+            [
+                1337.566665649414,
+                1678.199951171875
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/germany-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1680.0
+            ],
+            [
+                1332.8833312988281,
+                1704.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/portugal-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1705.800048828125
+            ],
+            [
+                1322.5,
+                1729.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/austria-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1731.5999755859375
+            ],
+            [
+                1330.433334350586,
+                1755.5999755859375
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/belgium-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1757.4000244140625
+            ],
+            [
+                1323.9833374023438,
+                1781.4000244140625
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/croatia-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1783.199951171875
+            ],
+            [
+                1362.5333404541016,
+                1807.199951171875
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/luxembourg-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1809.0
+            ],
+            [
+                1356.5333404541016,
+                1833.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/switzerland-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1272.0,
+                1834.800048828125
+            ],
+            [
+                1360.433334350586,
+                1858.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/netherlands-flag.gif"
+    },
+    {
+        "position": [
+            [
+                1256.0,
+                1974.800048828125
+            ],
+            [
+                1460.0,
+                2022.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/winter-lodge.jpg"
+    },
+    {
+        "position": [
+            [
+                1484.0,
+                1974.800048828125
+            ],
+            [
+                1688.0,
+                2022.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/lodges-hot-tubs.jpg"
+    },
+    {
+        "position": [
+            [
+                1256.0,
+                2102.800048828125
+            ],
+            [
+                1460.0,
+                2150.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/nature-lodge.jpg"
+    },
+    {
+        "position": [
+            [
+                1484.0,
+                2102.800048828125
+            ],
+            [
+                1688.0,
+                2150.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/school-holidays.jpg"
+    },
+    {
+        "position": [
+            [
+                1264.0,
+                2262.800048828125
+            ],
+            [
+                1680.0,
+                2286.800048828125
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/book-cottage.jpg"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                3592.0
+            ],
+            [
+                704.0,
+                3616.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/find-lodge.jpg"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                3592.0
+            ],
+            [
+                1200.0,
+                3616.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/romantic-breaks.jpg"
+    },
+    {
+        "position": [
+            [
+                1216.0,
+                3592.0
+            ],
+            [
+                1696.0,
+                3616.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/wedding-lodges.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                3756.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/wood-bg.jpg"
+    }
+]

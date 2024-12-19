@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                857.4166870117188,
+                532.0
+            ],
+            [
+                900.3166809082031,
+                556.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                932.316650390625,
+                532.0
+            ],
+            [
+                975.8833160400391,
+                556.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1007.88330078125,
+                532.0
+            ],
+            [
+                1062.566635131836,
+                556.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                400.0,
+                0.0
+            ],
+            [
+                1520.0,
+                500.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/architecture.jpg"
+    }
+]

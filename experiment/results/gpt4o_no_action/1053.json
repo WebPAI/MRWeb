@@ -1,0 +1,116 @@
+[
+    {
+        "position": [
+            [
+                1483.25,
+                18.0
+            ],
+            [
+                1526.3666687011719,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1542.36669921875,
+                18.0
+            ],
+            [
+                1663.5000305175781,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Product Reviews",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1679.5,
+                18.0
+            ],
+            [
+                1712.0,
+                38.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                885.933349609375,
+                909.5
+            ],
+            [
+                975.4666748046875,
+                926.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                986.7999877929688,
+                909.5
+            ],
+            [
+                1095.5833129882812,
+                926.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                172.0
+            ],
+            [
+                1680.0,
+                196.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/image.jpg"
+    }
+]

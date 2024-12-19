@@ -1,0 +1,862 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                270.68333435058594,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "News",
+        "on_click_jump_to": "https://www.seacoastonline.com/news/"
+    },
+    {
+        "position": [
+            [
+                270.683349609375,
+                16.0
+            ],
+            [
+                339.7333526611328,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Sports",
+        "on_click_jump_to": "https://www.seacoastonline.com/sports/"
+    },
+    {
+        "position": [
+            [
+                339.73333740234375,
+                16.0
+            ],
+            [
+                463.3333282470703,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Entertainment",
+        "on_click_jump_to": "https://www.seacoastonline.com/entertainment/"
+    },
+    {
+        "position": [
+            [
+                463.3333129882813,
+                16.0
+            ],
+            [
+                544.316650390625,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Lifestyle",
+        "on_click_jump_to": "https://www.seacoastonline.com/lifestyle/"
+    },
+    {
+        "position": [
+            [
+                544.316650390625,
+                16.0
+            ],
+            [
+                625.0333251953125,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Opinion",
+        "on_click_jump_to": "https://www.seacoastonline.com/opinion/"
+    },
+    {
+        "position": [
+            [
+                625.0333251953125,
+                16.0
+            ],
+            [
+                714.816650390625,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Advertise",
+        "on_click_jump_to": "https://cm.seacoastonline.com/advertise-with-us/"
+    },
+    {
+        "position": [
+            [
+                714.816650390625,
+                16.0
+            ],
+            [
+                811.3666534423828,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Obituaries",
+        "on_click_jump_to": "https://www.seacoastonline.com/obituaries"
+    },
+    {
+        "position": [
+            [
+                811.36669921875,
+                16.0
+            ],
+            [
+                923.2833709716797,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "eNewspaper",
+        "on_click_jump_to": "https://cm.fosters.com/enewspapers"
+    },
+    {
+        "position": [
+            [
+                923.2833251953124,
+                16.0
+            ],
+            [
+                991.3999786376952,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Legals",
+        "on_click_jump_to": "https://www.seacoastonline.com/public-notices"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                200.0
+            ],
+            [
+                560.0,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "https://www.gannett.com/careers/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                240.0
+            ],
+            [
+                560.0,
+                264.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Staff Directory",
+        "on_click_jump_to": "https://www.seacoastonline.com/contact/staff/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                280.0
+            ],
+            [
+                560.0,
+                304.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Accessibility",
+        "on_click_jump_to": "https://cm.seacoastonline.com/accessibility/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                320.0
+            ],
+            [
+                560.0,
+                344.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "https://www.seacoastonline.com/sitemap/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                360.0
+            ],
+            [
+                560.0,
+                384.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Legal - NH",
+        "on_click_jump_to": "https://www.seacoastonline.com/public-notices"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                400.0
+            ],
+            [
+                560.0,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Our Ethical Principles",
+        "on_click_jump_to": "https://cm.seacoastonline.com/ethical-conduct/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                440.0
+            ],
+            [
+                560.0,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Responsible Disclosure",
+        "on_click_jump_to": "https://www.gannett.com/responsible-disclosure-program/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                480.0
+            ],
+            [
+                560.0,
+                504.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Subscription Terms & Conditions",
+        "on_click_jump_to": "https://cm.seacoastonline.com/about-your-subscription/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                520.0
+            ],
+            [
+                560.0,
+                544.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Terms of Service",
+        "on_click_jump_to": "https://cm.seacoastonline.com/terms/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                560.0
+            ],
+            [
+                560.0,
+                584.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://cm.seacoastonline.com/privacy/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                600.0
+            ],
+            [
+                560.0,
+                624.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Your Privacy Choices",
+        "on_click_jump_to": "https://cm.seacoastonline.com/your-privacy-choices/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                640.0
+            ],
+            [
+                560.0,
+                664.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Legal - Maine",
+        "on_click_jump_to": "https://www.mainenotices.com/"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                200.0
+            ],
+            [
+                944.0,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://help.seacoastonline.com/contact-us"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                240.0
+            ],
+            [
+                944.0,
+                264.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Support Local Business",
+        "on_click_jump_to": "https://supportlocal.usatoday.com/"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                280.0
+            ],
+            [
+                944.0,
+                304.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Advertise Your Business",
+        "on_click_jump_to": "https://cm.seacoastonline.com/advertise-with-us/"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                320.0
+            ],
+            [
+                944.0,
+                344.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Advertising Terms and Conditions",
+        "on_click_jump_to": "https://cm.seacoastonline.com/advertising-terms-conditions"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                360.0
+            ],
+            [
+                944.0,
+                384.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Buy and Sell",
+        "on_click_jump_to": "https://adportal.marketplaceadsonline.com/gatehouse-adportal/nhpor-classified/index.html"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                400.0
+            ],
+            [
+                944.0,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Licensing & Reprints",
+        "on_click_jump_to": "https://imagn.com/licensing-reprints/"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                440.0
+            ],
+            [
+                944.0,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Help Center",
+        "on_click_jump_to": "https://help.seacoastonline.com/"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                480.0
+            ],
+            [
+                944.0,
+                504.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Subscriber Guide",
+        "on_click_jump_to": "https://cm.seacoastonline.com/subscriberguide"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                520.0
+            ],
+            [
+                944.0,
+                544.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Manage Account",
+        "on_click_jump_to": "https://account.seacoastonline.com/"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                560.0
+            ],
+            [
+                944.0,
+                584.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Give Feedback",
+        "on_click_jump_to": "https://cm.seacoastonline.com/site-feedback/"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                200.0
+            ],
+            [
+                1328.0,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Subscribe Today",
+        "on_click_jump_to": "https://subscribe.seacoastonline.com/"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                240.0
+            ],
+            [
+                1328.0,
+                264.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Newsletters",
+        "on_click_jump_to": "https://profile.seacoastonline.com/newsletters/manage"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                280.0
+            ],
+            [
+                1328.0,
+                304.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Facebook",
+        "on_click_jump_to": "https://www.facebook.com/seacoastonline"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                320.0
+            ],
+            [
+                1328.0,
+                344.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "X",
+        "on_click_jump_to": "https://twitter.com/seacoastonline"
+    },
+    {
+        "position": [
+            [
+                976.0,
+                360.0
+            ],
+            [
+                1328.0,
+                384.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "eNewspaper",
+        "on_click_jump_to": "https://cm.fosters.com/enewspapers"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                200.0
+            ],
+            [
+                1712.0,
+                224.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Jobs",
+        "on_click_jump_to": "https://www.seacoastonline.com/marketplace/jobs/"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                240.0
+            ],
+            [
+                1712.0,
+                264.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Cars",
+        "on_click_jump_to": "https://www.seacoastonline.com/marketplace/cars/"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                280.0
+            ],
+            [
+                1712.0,
+                304.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Homes",
+        "on_click_jump_to": "https://portsmouthnh.kotohomes.com/"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                320.0
+            ],
+            [
+                1712.0,
+                344.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Classifieds",
+        "on_click_jump_to": "https://classifieds.seacoastonline.com/"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                360.0
+            ],
+            [
+                1712.0,
+                384.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Reviewed.com",
+        "on_click_jump_to": "https://reviewed.usatoday.com/"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                400.0
+            ],
+            [
+                1712.0,
+                424.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "10Best",
+        "on_click_jump_to": "https://www.10best.com/"
+    },
+    {
+        "position": [
+            [
+                1360.0,
+                440.0
+            ],
+            [
+                1712.0,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "LocaliQ Digital Marketing Solutions",
+        "on_click_jump_to": "https://localiq.com/"
+    }
+]

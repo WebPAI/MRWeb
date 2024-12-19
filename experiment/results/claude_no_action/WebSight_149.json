@@ -1,0 +1,56 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                75.5,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Features",
+        "on_click_jump_to": "#features"
+    },
+    {
+        "position": [
+            [
+                99.5,
+                16.0
+            ],
+            [
+                131.35000610351562,
+                40.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Blog",
+        "on_click_jump_to": "#blog"
+    },
+    {
+        "position": [
+            [
+                528.0,
+                56.0
+            ],
+            [
+                1392.0,
+                556.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/hero-image.jpg"
+    }
+]

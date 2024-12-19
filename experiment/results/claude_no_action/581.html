@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HealthYourWay</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50">
+    <header class="bg-white border-b border-gray-200">
+        <div class="container mx-auto px-4">
+            <div class="flex justify-between items-center py-4">
+                <div class="flex items-center">
+                    <img src="logo.png" alt="HealthYourWay" class="h-8">
+                </div>
+                <nav class="flex space-x-6">
+                    <a href="#" class="text-gray-600 hover:text-gray-900">MY ACCOUNT</a>
+                    <a href="#" class="text-gray-600 hover:text-gray-900">FACEBOOK</a>
+                    <a href="#" class="text-gray-600 hover:text-gray-900">TWITTER</a>
+                    <a href="#" class="text-gray-600 hover:text-gray-900">CONTACT</a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <main class="container mx-auto px-4 py-8">
+        <div class="grid grid-cols-3 gap-8">
+            <!-- Main Content -->
+            <div class="col-span-2">
+                <article class="mb-12">
+                    <h1 class="text-2xl font-bold mb-4">Should Kids Lift Weights? By Brett Klika C.S.C.S.</h1>
+                    <div class="text-gray-500 mb-4">April 20, 2013 by Team</div>
+                    
+                    <img src="kids-exercise.jpg" alt="Exercise" class="mb-4 rounded">
+                    
+                    <div class="prose max-w-none">
+                        <!-- Article content -->
+                        <p class="mb-4">Text content here...</p>
+                    </div>
+                </article>
+
+                <!-- Additional articles follow the same pattern -->
+            </div>
+
+            <!-- Sidebar -->
+            <div class="col-span-1">
+                <div class="bg-white p-4 rounded shadow mb-6">
+                    <h2 class="font-bold mb-4">SEARCH</h2>
+                    <form>
+                        <input type="search" class="w-full border rounded p-2">
+                        <button class="bg-purple-600 text-white px-4 py-2 rounded mt-2">Search</button>
+                    </form>
+                </div>
+
+                <div class="bg-white p-4 rounded shadow">
+                    <h2 class="font-bold mb-4">TOPICS</h2>
+                    <div class="flex flex-wrap gap-2">
+                        <!-- Tag cloud -->
+                        <a href="#" class="text-blue-600 hover:text-blue-800 text-sm">tag1</a>
+                        <a href="#" class="text-blue-600 hover:text-blue-800 text-sm">tag2</a>
+                        <!-- More tags -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="bg-gray-100 border-t border-gray-200 mt-12">
+        <div class="container mx-auto px-4 py-6">
+            <!-- Footer content -->
+        </div>
+    </footer>
+</body>
+</html>

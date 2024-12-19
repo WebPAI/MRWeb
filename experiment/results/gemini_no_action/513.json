@@ -1,0 +1,432 @@
+[
+    {
+        "position": [
+            [
+                208.0,
+                16.0
+            ],
+            [
+                239.81666564941406,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "NEW",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                271.816650390625,
+                16.0
+            ],
+            [
+                311.6833190917969,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "WEAR",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                343.683349609375,
+                16.0
+            ],
+            [
+                442.0500183105469,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "KIDS INTERIOR",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                474.0499877929687,
+                16.0
+            ],
+            [
+                510.1833190917968,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "TOYS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                802.2166748046875,
+                16.0
+            ],
+            [
+                846.3666839599609,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "PARTY",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                878.36669921875,
+                16.0
+            ],
+            [
+                919.5166931152344,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                951.5166625976562,
+                16.0
+            ],
+            [
+                985.5500030517578,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "SALE",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1017.5499877929688,
+                16.0
+            ],
+            [
+                1073.8999786376953,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "BRANDS",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1365.949951171875,
+                16.0
+            ],
+            [
+                1489.7832946777344,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "LOG IN / REGISTER",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1521.7833251953125,
+                16.0
+            ],
+            [
+                1615.1166534423828,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "MY ACCOUNT",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1647.11669921875,
+                16.0
+            ],
+            [
+                1712.0000305175781,
+                36.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "WISHLIST",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1004.0
+            ],
+            [
+                289.6499938964844,
+                1024.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1036.0
+            ],
+            [
+                281.51666259765625,
+                1056.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Gift Cards",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1068.0
+            ],
+            [
+                271.78334045410156,
+                1088.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Ordering",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1100.0
+            ],
+            [
+                358.6666717529297,
+                1120.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Shipping Information",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1132.0
+            ],
+            [
+                264.25,
+                1152.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Returns",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                1004.0
+            ],
+            [
+                677.8666687011719,
+                1024.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Who we are",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                592.0,
+                1036.0
+            ],
+            [
+                734.5333404541016,
+                1056.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Terms & Conditions",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                116.0
+            ],
+            [
+                928.0,
+                140.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/product-image.jpg"
+    },
+    {
+        "position": [
+            [
+                225.0,
+                657.0
+            ],
+            [
+                543.0,
+                705.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/related-product-1.jpg"
+    },
+    {
+        "position": [
+            [
+                609.0,
+                657.0
+            ],
+            [
+                927.0,
+                705.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/related-product-2.jpg"
+    },
+    {
+        "position": [
+            [
+                993.0,
+                609.0
+            ],
+            [
+                1311.0,
+                657.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/related-product-3.jpg"
+    },
+    {
+        "position": [
+            [
+                1377.0,
+                609.0
+            ],
+            [
+                1695.0,
+                633.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/related-product-4.jpg"
+    }
+]

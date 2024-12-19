@@ -1,0 +1,310 @@
+[
+    {
+        "position": [
+            [
+                641.7833251953125,
+                24.0
+            ],
+            [
+                727.6499786376953,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Who we are",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                748.1500244140625,
+                24.0
+            ],
+            [
+                834.6667022705078,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "What we do",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                855.1666870117188,
+                24.0
+            ],
+            [
+                921.5500183105469,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Our work",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                942.0499877929688,
+                24.0
+            ],
+            [
+                1038.066650390625,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Our thoughts",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1058.566650390625,
+                24.0
+            ],
+            [
+                1137.749984741211,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Contact us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1158.25,
+                24.0
+            ],
+            [
+                1214.7666625976562,
+                44.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                889.38330078125,
+                944.0
+            ],
+            [
+                1030.5999755859375,
+                968.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Let's work together",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                501.316650390625,
+                1002.0
+            ],
+            [
+                560.5999908447266,
+                1022.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Sitemap",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                581.0999755859375,
+                1002.0
+            ],
+            [
+                683.1666412353516,
+                1022.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Privacy notice",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                703.6666870117188,
+                1002.0
+            ],
+            [
+                801.3333435058594,
+                1022.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Cookie policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                821.8333129882812,
+                1002.0
+            ],
+            [
+                983.6333160400391,
+                1022.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Carbon reduction plan",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1004.13330078125,
+                1002.0
+            ],
+            [
+                1115.7999725341797,
+                1022.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Modern slavery",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1136.300048828125,
+                1002.0
+            ],
+            [
+                1304.0000457763672,
+                1022.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Accessibility statement",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1324.5,
+                1002.0
+            ],
+            [
+                1418.683334350586,
+                1022.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            156,
+            163,
+            175
+        ],
+        "text": "Terms of use",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                240.0,
+                472.0
+            ],
+            [
+                920.0,
+                664.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/image1.jpg"
+    },
+    {
+        "position": [
+            [
+                1000.0,
+                472.0
+            ],
+            [
+                1680.0,
+                664.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/image2.jpg"
+    }
+]

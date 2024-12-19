@@ -1,0 +1,130 @@
+[
+    {
+        "position": [
+            [
+                1588.2166748046875,
+                30.0
+            ],
+            [
+                1631.3333435058594,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Home",
+        "on_click_jump_to": "http://weeklyosm.eu/archives/9595"
+    },
+    {
+        "position": [
+            [
+                1659.8333740234375,
+                30.0
+            ],
+            [
+                1703.4667053222656,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.val-tours.hr/en/sea-kayaking-dubrovnik-elafiti"
+    },
+    {
+        "position": [
+            [
+                1731.9666748046875,
+                30.0
+            ],
+            [
+                1801.9000091552734,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Programs",
+        "on_click_jump_to": "https://www.easyoffices.com/blog/work-environment/new-soho-serviced-offices-available"
+    },
+    {
+        "position": [
+            [
+                1830.4000244140625,
+                30.0
+            ],
+            [
+                1888.0000305175781,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            236,
+            72,
+            153
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.bucksbullsbears.com/2017/01/24/can-trapping-make-you-a-better-hunter/"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                644.0
+            ],
+            [
+                162.3333282470703,
+                692.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Learn More",
+        "on_click_jump_to": "http://myshoplah.com/2018/02/hand-jewelry/hand-bracelet-hamsa-hand-jewelry-with-pearl-accent/"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                16.0
+            ],
+            [
+                63.68333435058594,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1718808618610-6f5682da4831?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQyMzExNTd8&ixlib=rb-4.0.3&w=100&h=50"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                128.0
+            ],
+            [
+                1888.0,
+                512.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1678885977987-1c0ae9907113?ixlib=rb-4.0.3&ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQ0MjY0NTV8&auto=format&fit=crop&w=1932&q=80"
+    }
+]

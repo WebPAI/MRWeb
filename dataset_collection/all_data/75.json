@@ -1,0 +1,170 @@
+[
+    {
+        "position": [
+            [
+                375.0,
+                20.0
+            ],
+            [
+                593.6666717529297,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "TERRIFIC & NEAT",
+        "on_click_jump_to": "#page-top"
+    },
+    {
+        "position": [
+            [
+                1329.0,
+                20.0
+            ],
+            [
+                1411.0,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "#about"
+    },
+    {
+        "position": [
+            [
+                1411.0,
+                20.0
+            ],
+            [
+                1530.0,
+                70.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "DOWNLOAD",
+        "on_click_jump_to": "#download"
+    },
+    {
+        "position": [
+            [
+                1055.183349609375,
+                475.5
+            ],
+            [
+                1121.8833465576172,
+                504.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            154,
+            179
+        ],
+        "text": "Ghost",
+        "on_click_jump_to": "https://ghost.org/"
+    },
+    {
+        "position": [
+            [
+                978.566650390625,
+                1367.0
+            ],
+            [
+                1131.8999786376953,
+                1389.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            154,
+            179
+        ],
+        "text": "HAPPY CODING",
+        "on_click_jump_to": "http://happy-coding.com/"
+    },
+    {
+        "position": [
+            [
+                1055.0166015625,
+                1434.0
+            ],
+            [
+                1265.0666046142578,
+                1456.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            154,
+            179
+        ],
+        "text": "Coding w/ Passion Mag",
+        "on_click_jump_to": "http://mag.codingwithpassion.com/"
+    },
+    {
+        "position": [
+            [
+                857.1666870117188,
+                1998.0
+            ],
+            [
+                1062.8333435058594,
+                2044.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            33,
+            154,
+            179
+        ],
+        "text": "VISIT GITHUB PAGE",
+        "on_click_jump_to": "https://github.com/happy-coding/ordentlich"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                995.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://happy-coding.github.io/ordentlich/img/intro-bg.jpg"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                1763.0
+            ],
+            [
+                1920.0,
+                2144.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://happy-coding.github.io/ordentlich/img/downloads-bg.jpg"
+    }
+]

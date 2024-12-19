@@ -1,0 +1,196 @@
+[
+    {
+        "position": [
+            [
+                1546.9166259765625,
+                28.0
+            ],
+            [
+                1590.0332946777344,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/index.html"
+    },
+    {
+        "position": [
+            [
+                1606.0333251953125,
+                28.0
+            ],
+            [
+                1652.7333221435547,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Hotels",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/hotels/00-hotels.html"
+    },
+    {
+        "position": [
+            [
+                1668.7333984375,
+                28.0
+            ],
+            [
+                1728.0000610351562,
+                52.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Reviews",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/hotels/reviews/00-hotels-reviews.html"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                97.5
+            ],
+            [
+                781.0,
+                122.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Barcelona Essentials Pass: unlimited transport with city audio guide",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/products/barcelona-essentials-pass.html"
+    },
+    {
+        "position": [
+            [
+                216.0,
+                376.0
+            ],
+            [
+                1704.0,
+                432.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Click here to learn more about the Barcelona Essentials Pass...",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/products/barcelona-essentials-pass.html"
+    },
+    {
+        "position": [
+            [
+                212.0,
+                502.0
+            ],
+            [
+                389.8666687011719,
+                522.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Aparthotels in Barcelona",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/hotels/aparthotels-in-barcelona.html"
+    },
+    {
+        "position": [
+            [
+                212.0,
+                526.0
+            ],
+            [
+                389.3999938964844,
+                546.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Hotel in Barcelona Spain",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/hotels/hotel-in-barcelona-spain.html"
+    },
+    {
+        "position": [
+            [
+                212.0,
+                550.0
+            ],
+            [
+                399.56666564941406,
+                570.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Send us your hotel review",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/feedback/feedback-hotel.html"
+    },
+    {
+        "position": [
+            [
+                212.0,
+                574.0
+            ],
+            [
+                428.23333740234375,
+                594.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Back To The Top Of The Page",
+        "on_click_jump_to": "#top"
+    },
+    {
+        "position": [
+            [
+                192.0,
+                16.0
+            ],
+            [
+                348.8999938964844,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.barcelona-tourist-guide.com/images/sd/header/logo.gif"
+    }
+]

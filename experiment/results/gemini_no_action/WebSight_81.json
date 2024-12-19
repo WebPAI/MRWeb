@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                448.9166870117187,
+                22.0
+            ],
+            [
+                492.03335571289057,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                512.5333251953125,
+                22.0
+            ],
+            [
+                577.7999877929688,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Products",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                598.2999877929688,
+                22.0
+            ],
+            [
+                665.9833221435547,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                686.4833374023438,
+                22.0
+            ],
+            [
+                744.0833282470703,
+                42.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                128.0
+            ],
+            [
+                960.0,
+                152.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/shoe.jpg"
+    }
+]

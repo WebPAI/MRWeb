@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vogel Legacy</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .header-background {
+            background-image: url('https://vogellegacy.wordpress.com/wp-content/uploads/2015/02/cropped-02-05-15_11-10c2a0am.png');
+            background-size: cover;
+            background-position: center;
+            height: 574.7px;
+        }
+        
+        .nav-link {
+            @apply text-white px-4 py-2 hover:text-gray-200;
+        }
+        
+        .sidebar-link {
+            @apply text-[#8B681C] hover:text-[#CF9E38];
+        }
+    </style>
+</head>
+<body class="bg-white">
+    <!-- Header Background -->
+    <div class="header-background relative">
+        <div class="absolute top-6 right-6">
+            <a href="https://wordpress.com/start/?ref=marketing_bar" 
+               class="bg-white/10 text-[#F6F7F7] px-6 py-4 rounded">
+                Get started
+            </a>
+        </div>
+        
+        <!-- Site Title -->
+        <div class="absolute top-[280px] right-[320px]">
+            <a href="https://vogellegacy.wordpress.com/" 
+               class="text-white text-4xl font-bold">
+                VOGEL LEGACY
+            </a>
+        </div>
+    </div>
+
+    <!-- Navigation Menu -->
+    <nav class="bg-black">
+        <div class="container mx-auto flex flex-wrap justify-center">
+            <a href="/" class="nav-link">HOME</a>
+            <a href="/about" class="nav-link">ABOUT</a>
+            <a href="/family-tree" class="nav-link">VOGEL FAMILY TREE</a>
+            <a href="/founder" class="nav-link">FOUNDER GENERATION</a>
+            <a href="/first-gen" class="nav-link">FIRST GENERATION</a>
+            <a href="/second-gen" class="nav-link">SECOND GENERATION</a>
+        </div>
+        <div class="container mx-auto flex flex-wrap justify-center">
+            <a href="/third-gen" class="nav-link">THIRD GENERATION</a>
+            <a href="/gen-4" class="nav-link">GENERATION 4</a>
+            <a href="/gen-5" class="nav-link">GENERATION 5</a>
+            <a href="/gen-6" class="nav-link">GENERATION 6</a>
+            <a href="/gen-7" class="nav-link">GENERATION 7</a>
+            <a href="/gen-8" class="nav-link">GENERATION 8</a>
+        </div>
+        <div class="container mx-auto flex flex-wrap justify-center">
+            <a href="/gen-9" class="nav-link">GENERATION 9</a>
+            <a href="/other-stories" class="nav-link">OTHER STORIES</a>
+            <a href="/legacy-2" class="nav-link">VOGEL LEGACY II</a>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="container mx-auto mt-8 flex">
+        <!-- Main Content Area -->
+        <div class="w-2/3 px-4">
+            <h1 class="text-2xl font-bold mb-4">I Refuse</h1>
+            <!-- Content Images -->
+            <div class="grid grid-cols-2 gap-4 mb-4">
+                <img src="https://i0.wp.com/vogellegacy.wordpress.com/wp-content/uploads/2016/01/01-18-16_7-10-10c2a0pm.png?w=334&h=188&ssl=1" 
+                     class="w-full">
+                <img src="https://i0.wp.com/vogellegacy.wordpress.com/wp-content/uploads/2016/01/01-18-16_7-10-28c2a0pm.png?w=334&h=188&ssl=1"
+                     class="w-full">
+            </div>
+            <!-- More content images... -->
+        </div>
+
+        <!-- Sidebar -->
+        <div class="w-1/3 px-4">
+            <div class="bg-gray-100 p-4 rounded">
+                <h2 class="text-xl font-bold mb-4">BLOGROLL</h2>
+                <div class="flex flex-col space-y-2">
+                    <!-- Sidebar Links -->
+                    <a href="http://rainbowplumbobsimlitimages.wordpress.com/" 
+                       class="sidebar-link">RainbowPlumbobs Image dump</a>
+                    <a href="http://littlelovebigdream.wordpress.com/" 
+                       class="sidebar-link">Loves Legacy</a>
+                    <!-- More sidebar links... -->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,312 @@
+[
+    {
+        "position": [
+            [
+                1228.5999755859375,
+                114.0
+            ],
+            [
+                1275.0832977294922,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1307.0833740234375,
+                114.0
+            ],
+            [
+                1386.9500427246094,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "ABOUT US",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1418.949951171875,
+                114.0
+            ],
+            [
+                1543.516616821289,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "PRIVACY POLICY",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1575.5166015625,
+                114.0
+            ],
+            [
+                1668.083267211914,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "SEND EMAIL",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1700.0833740234375,
+                114.0
+            ],
+            [
+                1771.4500427246094,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "SITE MAP",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1803.449951171875,
+                114.0
+            ],
+            [
+                1887.9999542236328,
+                134.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "VIEW CART",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                234.0
+            ],
+            [
+                314.70001220703125,
+                254.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Acrylic Heart Keychains & Necklaces",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                266.0
+            ],
+            [
+                279.8833312988281,
+                286.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Laser Engraved Heart Keepsake",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1571.1500244140625,
+                526.0
+            ],
+            [
+                1614.2666931152344,
+                550.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1630.2666015625,
+                526.0
+            ],
+            [
+                1697.949935913086,
+                550.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1713.949951171875,
+                526.0
+            ],
+            [
+                1814.3999481201172,
+                550.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1830.4000244140625,
+                526.0
+            ],
+            [
+                1888.0000305175781,
+                550.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                24.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/header-top-curve.jpg"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                40.0
+            ],
+            [
+                188.46665954589844,
+                88.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/logo-img.jpg"
+    },
+    {
+        "position": [
+            [
+                1824.0,
+                50.0
+            ],
+            [
+                1852.0,
+                78.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/twitter-icon.jpg"
+    },
+    {
+        "position": [
+            [
+                1860.0,
+                50.0
+            ],
+            [
+                1888.0,
+                78.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/facebook-icon.jpg"
+    },
+    {
+        "position": [
+            [
+                544.0,
+                240.0
+            ],
+            [
+                1188.0,
+                264.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/claude_cot/gold-cufflink-set.jpg"
+    }
+]

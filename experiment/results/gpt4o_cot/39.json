@@ -1,0 +1,222 @@
+[
+    {
+        "position": [
+            [
+                16.0,
+                16.0
+            ],
+            [
+                59.116668701171875,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.eweek.com/"
+    },
+    {
+        "position": [
+            [
+                75.11666870117188,
+                16.0
+            ],
+            [
+                174.13333129882812,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Networking",
+        "on_click_jump_to": "https://www.eweek.com/networking/"
+    },
+    {
+        "position": [
+            [
+                547.566650390625,
+                113.5
+            ],
+            [
+                603.8833160400391,
+                130.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Jeff Burt",
+        "on_click_jump_to": "https://www.eweek.com/author/jeff-burt/"
+    },
+    {
+        "position": [
+            [
+                682.316650390625,
+                174.0
+            ],
+            [
+                764.6499786376953,
+                194.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            59,
+            130,
+            246
+        ],
+        "text": "Learn More",
+        "on_click_jump_to": "https://www.eweek.com/editorial-policy/"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                262.0
+            ],
+            [
+                140.56666564941406,
+                282.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "PRIVACY POLICY",
+        "on_click_jump_to": "https://technologyadvice.com/privacy-policy/"
+    },
+    {
+        "position": [
+            [
+                161.06666564941406,
+                262.0
+            ],
+            [
+                213.78334045410156,
+                282.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "TERMS",
+        "on_click_jump_to": "https://technologyadvice.com/terms-conditions/"
+    },
+    {
+        "position": [
+            [
+                234.28334045410156,
+                262.0
+            ],
+            [
+                288.28334045410156,
+                282.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ABOUT",
+        "on_click_jump_to": "https://technologyadvice.com/about-us/"
+    },
+    {
+        "position": [
+            [
+                308.7833251953125,
+                262.0
+            ],
+            [
+                382.49998474121094,
+                282.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CONTACT",
+        "on_click_jump_to": "https://technologyadvice.com/contact-us/"
+    },
+    {
+        "position": [
+            [
+                403.0,
+                262.0
+            ],
+            [
+                487.0833282470703,
+                282.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "ADVERTISE",
+        "on_click_jump_to": "https://solutions.technologyadvice.com/advertise-on-eweek/?utm_source=eweek&utm_medium=portfolio_footer&utm_campaign=advertise_contact-us"
+    },
+    {
+        "position": [
+            [
+                507.5833129882813,
+                262.0
+            ],
+            [
+                574.4499816894531,
+                282.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "SITEMAP",
+        "on_click_jump_to": "https://www.eweek.com/sitemap/"
+    },
+    {
+        "position": [
+            [
+                594.9500122070312,
+                262.0
+            ],
+            [
+                945.4666748046875,
+                282.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "CALIFORNIA – DO NOT SELL MY INFORMATION",
+        "on_click_jump_to": "https://technologyadvice.com/privacy-policy/ccpa-opt-out-form/"
+    }
+]

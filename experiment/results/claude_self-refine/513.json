@@ -1,0 +1,524 @@
+[
+    {
+        "position": [
+            [
+                1634.0,
+                8.0
+            ],
+            [
+                1735.0,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Log In / Register",
+        "on_click_jump_to": "file:///my-account"
+    },
+    {
+        "position": [
+            [
+                1751.0,
+                8.0
+            ],
+            [
+                1825.0,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "My Account",
+        "on_click_jump_to": "file:///my-account"
+    },
+    {
+        "position": [
+            [
+                1841.0,
+                8.0
+            ],
+            [
+                1888.0,
+                28.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Wishlist",
+        "on_click_jump_to": "file:///wishlist"
+    },
+    {
+        "position": [
+            [
+                756.9666748046875,
+                36.0
+            ],
+            [
+                791.9833526611328,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "NEW",
+        "on_click_jump_to": "file:///new-arrival"
+    },
+    {
+        "position": [
+            [
+                791.9833374023438,
+                36.0
+            ],
+            [
+                834.9166717529297,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "WEAR",
+        "on_click_jump_to": "file:///wear"
+    },
+    {
+        "position": [
+            [
+                834.9166870117188,
+                36.0
+            ],
+            [
+                940.7000122070312,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "KIDS INTERIOR",
+        "on_click_jump_to": "file:///kids-interior"
+    },
+    {
+        "position": [
+            [
+                940.7000122070312,
+                36.0
+            ],
+            [
+                977.3500213623047,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "TOYS",
+        "on_click_jump_to": "file:///toys"
+    },
+    {
+        "position": [
+            [
+                977.3499755859376,
+                36.0
+            ],
+            [
+                1021.9333038330079,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "PARTY",
+        "on_click_jump_to": "file:///party"
+    },
+    {
+        "position": [
+            [
+                1021.933349609375,
+                36.0
+            ],
+            [
+                1067.8333435058594,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "HOME",
+        "on_click_jump_to": "file:///homeware"
+    },
+    {
+        "position": [
+            [
+                1067.8333740234375,
+                36.0
+            ],
+            [
+                1102.2833862304688,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "SALE",
+        "on_click_jump_to": "file:///sale"
+    },
+    {
+        "position": [
+            [
+                1102.2833251953125,
+                36.0
+            ],
+            [
+                1163.0166473388672,
+                60.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "BRANDS",
+        "on_click_jump_to": "file:///brands"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                93.0
+            ],
+            [
+                290.0,
+                113.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "LEO & BELLA",
+        "on_click_jump_to": "file:///"
+    },
+    {
+        "position": [
+            [
+                311.0,
+                93.0
+            ],
+            [
+                347.0,
+                113.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "SHOP",
+        "on_click_jump_to": "file:///shop"
+    },
+    {
+        "position": [
+            [
+                368.0,
+                93.0
+            ],
+            [
+                535.0,
+                113.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "BLOCK PUZZLES & GAMES",
+        "on_click_jump_to": "file:///toys/games"
+    },
+    {
+        "position": [
+            [
+                556.0,
+                93.0
+            ],
+            [
+                608.0,
+                113.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "BRANDS",
+        "on_click_jump_to": "file:///brands"
+    },
+    {
+        "position": [
+            [
+                629.0,
+                93.0
+            ],
+            [
+                721.0,
+                113.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "KIDS INTERIOR",
+        "on_click_jump_to": "file:///kids-interior"
+    },
+    {
+        "position": [
+            [
+                742.0,
+                93.0
+            ],
+            [
+                782.0,
+                113.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            57,
+            57,
+            57
+        ],
+        "text": "KIKO+",
+        "on_click_jump_to": "file:///brands/kiko"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1368.0
+            ],
+            [
+                688.0,
+                1392.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "file:///contact-us"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1408.0
+            ],
+            [
+                688.0,
+                1432.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Gift Cards",
+        "on_click_jump_to": "file:///gift-cards"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1448.0
+            ],
+            [
+                688.0,
+                1472.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Ordering",
+        "on_click_jump_to": "file:///ordering"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1488.0
+            ],
+            [
+                688.0,
+                1512.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Shipping Information",
+        "on_click_jump_to": "file:///shipping"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1528.0
+            ],
+            [
+                688.0,
+                1552.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Returns",
+        "on_click_jump_to": "file:///returns"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                1368.0
+            ],
+            [
+                1200.0,
+                1392.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Who we are",
+        "on_click_jump_to": "file:///who-we-are"
+    },
+    {
+        "position": [
+            [
+                720.0,
+                1408.0
+            ],
+            [
+                1200.0,
+                1432.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Terms & Conditions",
+        "on_click_jump_to": "file:///terms"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                145.0
+            ],
+            [
+                936.0,
+                873.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://leoandbella.com.au/wp-content/uploads/2014/12/kiko-gatcha-gatcha-gumball.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                889.0
+            ],
+            [
+                378.0,
+                1059.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://leoandbella.com.au/wp-content/uploads/2014/12/kiko-gatcha-gatcha-gumball.jpg"
+    },
+    {
+        "position": [
+            [
+                394.0,
+                889.0
+            ],
+            [
+                564.0,
+                1059.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://leoandbella.com.au/wp-content/uploads/2014/12/Screen-Shot-2014-12-29-at-7.27.28-pm.png"
+    }
+]

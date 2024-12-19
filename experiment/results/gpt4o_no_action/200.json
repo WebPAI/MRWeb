@@ -1,0 +1,184 @@
+[
+    {
+        "position": [
+            [
+                1082.0999755859375,
+                10.0
+            ],
+            [
+                1235.63330078125,
+                30.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Click here for details.",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                57.5
+            ],
+            [
+                264.01666259765625,
+                74.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Galleries",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                280.01666259765625,
+                57.5
+            ],
+            [
+                353.8000030517578,
+                74.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Community",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                369.7999877929687,
+                57.5
+            ],
+            [
+                406.01664733886713,
+                74.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Learn",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                422.01666259765625,
+                57.5
+            ],
+            [
+                460.81666564941406,
+                74.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1560.5,
+                57.5
+            ],
+            [
+                1595.8000030517578,
+                74.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Login",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1611.800048828125,
+                57.5
+            ],
+            [
+                1712.0000457763672,
+                74.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Create Account",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                736.0,
+                160.0
+            ],
+            [
+                1184.0,
+                184.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/image-url.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                388.0
+            ],
+            [
+                584.0,
+                412.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/detail-image1.jpg"
+    },
+    {
+        "position": [
+            [
+                600.0,
+                388.0
+            ],
+            [
+                976.0,
+                412.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gpt4o_no_action/detail-image2.jpg"
+    }
+]

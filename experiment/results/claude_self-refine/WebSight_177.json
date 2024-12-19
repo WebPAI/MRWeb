@@ -1,0 +1,44 @@
+[
+    {
+        "position": [
+            [
+                336.0,
+                308.0
+            ],
+            [
+                730.6666870117188,
+                500.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/expert-doctors.jpg"
+    },
+    {
+        "position": [
+            [
+                762.6666870117188,
+                308.0
+            ],
+            [
+                1157.3333435058594,
+                500.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/quality-care.jpg"
+    },
+    {
+        "position": [
+            [
+                1189.3333740234375,
+                308.0
+            ],
+            [
+                1584.0000610351562,
+                500.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_self-refine/comprehensive-care.jpg"
+    }
+]

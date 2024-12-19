@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                814.0833129882812,
+                105.5
+            ],
+            [
+                856.9833221435547,
+                126.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                880.9833374023438,
+                105.5
+            ],
+            [
+                937.5,
+                126.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                961.5,
+                105.5
+            ],
+            [
+                1027.2333374023438,
+                126.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "About Us",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1051.2333984375,
+                105.5
+            ],
+            [
+                1105.916732788086,
+                126.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                912.0,
+                16.0
+            ],
+            [
+                1008.0,
+                80.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/logo.jpg"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "position": [
+            [
+                1141.949951171875,
+                11.0
+            ],
+            [
+                1711.9999389648438,
+                33.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            34,
+            211,
+            238
+        ],
+        "text": "Barcelona Essentials Pass: unlimited transport with city audio guide",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/products/barcelona-essentials-pass.html"
+    },
+    {
+        "position": [
+            [
+                1500.0999755859375,
+                72.0
+            ],
+            [
+                1619.6499633789062,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Related Pages",
+        "on_click_jump_to": "#relatedpages"
+    },
+    {
+        "position": [
+            [
+                1632.1500244140625,
+                72.0
+            ],
+            [
+                1712.0000305175781,
+                100.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Site Map",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/00-barcelona-tourist-guide.html"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                138.0
+            ],
+            [
+                448.0,
+                170.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/index.html"
+    },
+    {
+        "position": [
+            [
+                224.0,
+                170.0
+            ],
+            [
+                448.0,
+                202.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Brexit (UK)",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/general/travel-to-spain-from-uk-after-brexit.html"
+    },
+    {
+        "position": [
+            [
+                480.0,
+                530.0
+            ],
+            [
+                964.9166870117188,
+                570.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Click here to learn more about the Barcelona Essentials Pass...",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/products/barcelona-essentials-pass.html"
+    },
+    {
+        "position": [
+            [
+                1472.0,
+                314.0
+            ],
+            [
+                1640.6333312988281,
+                354.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Click to learn more",
+        "on_click_jump_to": "https://www.barcelona-tourist-guide.com/en/products/barcelona-essentials-pass.html"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                21.0
+            ],
+            [
+                417.1999969482422,
+                85.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.barcelona-tourist-guide.com/images/sd/header/logo.gif"
+    }
+]

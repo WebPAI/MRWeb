@@ -1,0 +1,110 @@
+[
+    {
+        "position": [
+            [
+                1626.3333740234375,
+                24.0
+            ],
+            [
+                1669.233383178711,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1685.2333984375,
+                24.0
+            ],
+            [
+                1728.800064086914,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1744.800048828125,
+                24.0
+            ],
+            [
+                1801.3167114257812,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Services",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1817.316650390625,
+                24.0
+            ],
+            [
+                1871.999984741211,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            31,
+            41,
+            55
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                48.0,
+                16.0
+            ],
+            [
+                74.80000305175781,
+                56.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1578911595545-a46c90db6413?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxOTczMjJ8&ixlib=rb-4.0.3&w=100&h=100"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                72.0
+            ],
+            [
+                1920.0,
+                328.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://source.unsplash.com/random/1600x900/?creative"
+    }
+]

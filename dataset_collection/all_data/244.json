@@ -1,0 +1,534 @@
+[
+    {
+        "position": [
+            [
+                942.0833129882812,
+                0.0
+            ],
+            [
+                986.5333251953125,
+                92.85000610351562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            241,
+            90,
+            34
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://taylorandfraser.com/"
+    },
+    {
+        "position": [
+            [
+                1016.5333251953124,
+                0.0
+            ],
+            [
+                1117.016647338867,
+                92.85000610351562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            241,
+            90,
+            34
+        ],
+        "text": "Case Studies",
+        "on_click_jump_to": "https://taylorandfraser.com/case-studies/"
+    },
+    {
+        "position": [
+            [
+                1147.0166015625,
+                0.0
+            ],
+            [
+                1212.8666076660156,
+                92.85000610351562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            241,
+            90,
+            34
+        ],
+        "text": "Services",
+        "on_click_jump_to": "https://taylorandfraser.com/our-services/"
+    },
+    {
+        "position": [
+            [
+                1242.86669921875,
+                0.0
+            ],
+            [
+                1289.050033569336,
+                92.85000610351562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            241,
+            90,
+            34
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1319.050048828125,
+                0.0
+            ],
+            [
+                1392.550048828125,
+                92.85000610351562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            241,
+            90,
+            34
+        ],
+        "text": "The Team",
+        "on_click_jump_to": "https://taylorandfraser.com/the-team/"
+    },
+    {
+        "position": [
+            [
+                1422.550048828125,
+                0.0
+            ],
+            [
+                1482.1667175292969,
+                92.85000610351562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            241,
+            90,
+            34
+        ],
+        "text": "Careers",
+        "on_click_jump_to": "https://taylorandfraser.com/careers/"
+    },
+    {
+        "position": [
+            [
+                1512.1666259765625,
+                0.0
+            ],
+            [
+                1605.5499572753906,
+                92.85000610351562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            241,
+            90,
+            34
+        ],
+        "text": "Latest News",
+        "on_click_jump_to": "https://taylorandfraser.com/latest-news/"
+    },
+    {
+        "position": [
+            [
+                1635.550048828125,
+                0.0
+            ],
+            [
+                1720.0000457763672,
+                92.85000610351562
+            ]
+        ],
+        "type": "a",
+        "color": [
+            241,
+            90,
+            34
+        ],
+        "text": "Contact Us",
+        "on_click_jump_to": "https://taylorandfraser.com/contact-us/"
+    },
+    {
+        "position": [
+            [
+                1208.449951171875,
+                764.433349609375
+            ],
+            [
+                1316.9999542236328,
+                781.433349609375
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            102,
+            0
+        ],
+        "text": "ISO 9001:2015",
+        "on_click_jump_to": "http://taylorandfraser.com/wp-content/uploads/2018/06/ISO-9001.jpg"
+    },
+    {
+        "position": [
+            [
+                538.066650390625,
+                1173.9000244140625
+            ],
+            [
+                749.1833190917969,
+                1193.7000274658203
+            ]
+        ],
+        "type": "a",
+        "color": [
+            39,
+            174,
+            96
+        ],
+        "text": "Quality Policy Statement",
+        "on_click_jump_to": "https://taylorandfraser.com/wp-content/uploads/2022/10/Quality-Policy-09.09.22.pdf"
+    },
+    {
+        "position": [
+            [
+                125.0,
+                1448.699951171875
+            ],
+            [
+                208.0,
+                1467.266616821289
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Accreditations",
+        "on_click_jump_to": "https://taylorandfraser.com/accreditations/"
+    },
+    {
+        "position": [
+            [
+                276.45001220703125,
+                1448.699951171875
+            ],
+            [
+                317.45001220703125,
+                1467.266616821289
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Quality",
+        "on_click_jump_to": "https://taylorandfraser.com/wp-content/uploads/2023/11/Quality-Policy-090923.pdf"
+    },
+    {
+        "position": [
+            [
+                125.0,
+                1493.199951171875
+            ],
+            [
+                196.0,
+                1511.766616821289
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Environment",
+        "on_click_jump_to": "https://taylorandfraser.com/wp-content/uploads/2023/11/Environmental-Statement-Policy-20112023.pdf"
+    },
+    {
+        "position": [
+            [
+                276.45001220703125,
+                1493.199951171875
+            ],
+            [
+                338.45001220703125,
+                1511.766616821289
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Resources",
+        "on_click_jump_to": "https://taylorandfraser.com/resources/"
+    },
+    {
+        "position": [
+            [
+                125.0,
+                1537.699951171875
+            ],
+            [
+                216.0,
+                1556.266616821289
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Health & Safety",
+        "on_click_jump_to": "https://taylorandfraser.com/wp-content/uploads/2023/11/OHS-Policy-090923.pdf"
+    },
+    {
+        "position": [
+            [
+                276.45001220703125,
+                1537.699951171875
+            ],
+            [
+                358.45001220703125,
+                1556.266616821289
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Privacy Policy",
+        "on_click_jump_to": "https://taylorandfraser.com/legal-info/"
+    },
+    {
+        "position": [
+            [
+                125.0,
+                1582.199951171875
+            ],
+            [
+                272.0,
+                1619.3332824707031
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "GDPR – Interested Parties Privacy Notice",
+        "on_click_jump_to": "http://taylorandfraser.com/wp-content/uploads/2019/04/Gen-GDPR-2-Privacy-Notice-Job-Applicants-Form-HR004-1.pdf"
+    },
+    {
+        "position": [
+            [
+                276.45001220703125,
+                1582.199951171875
+            ],
+            [
+                423.45001220703125,
+                1619.3332824707031
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Modern Slavery & Human Trafficking Policy",
+        "on_click_jump_to": "https://taylorandfraser.com/wp-content/uploads/2023/11/Modern-Slavery-and-Human-Trafficking-Policy-090923.pdf"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                1448.699951171875
+            ],
+            [
+                512.0,
+                1467.266616821289
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Cookies Policy",
+        "on_click_jump_to": "https://taylorandfraser.com/cookies-policy"
+    },
+    {
+        "position": [
+            [
+                425.0,
+                1487.2666015625
+            ],
+            [
+                512.0,
+                1505.833267211914
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "site by fatBuzz",
+        "on_click_jump_to": "https://fatbuzz.com/"
+    },
+    {
+        "position": [
+            [
+                1292.0,
+                1448.699951171875
+            ],
+            [
+                1475.0,
+                1467.266616821289
+            ]
+        ],
+        "type": "a",
+        "color": [
+            241,
+            90,
+            34
+        ],
+        "text": "contactus@taylorandfraser.com",
+        "on_click_jump_to": "mailto:contactus@taylorandfraser.com"
+    },
+    {
+        "position": [
+            [
+                140.0,
+                25.0
+            ],
+            [
+                356.0,
+                64.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://taylorandfraser.com/wp-content/uploads/2018/01/tf-logo.png"
+    },
+    {
+        "position": [
+            [
+                627.5,
+                274.6000061035156
+            ],
+            [
+                1292.5,
+                717.9333190917969
+            ]
+        ],
+        "type": "img",
+        "src": "https://taylorandfraser.com/wp-content/uploads/2020/03/B03Y4574.jpg"
+    },
+    {
+        "position": [
+            [
+                390.0,
+                817.933349609375
+            ],
+            [
+                516.0,
+                873.9000091552734
+            ]
+        ],
+        "type": "img",
+        "src": "https://taylorandfraser.com/wp-content/uploads/2021/01/Constructionline_logo_HighRes2015.jpg"
+    },
+    {
+        "position": [
+            [
+                860.0,
+                1203.699951171875
+            ],
+            [
+                1060.0,
+                1363.699951171875
+            ]
+        ],
+        "type": "img",
+        "src": "http://taylorandfraser.com/wp-content/uploads/2018/06/ISO-9001.jpg"
+    },
+    {
+        "position": [
+            [
+                1302.0,
+                1537.2666015625
+            ],
+            [
+                1462.0,
+                1659.2666015625
+            ]
+        ],
+        "type": "img",
+        "src": "https://taylorandfraser.com/wp-content/uploads/2020/01/LivingWageScotland-white-letters.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                1758.2666015625
+            ]
+        ],
+        "type": "background-image",
+        "src": "http://taylorandfraser.com/wp-content/uploads/2020/05/bg-image1.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                95.0
+            ],
+            [
+                1920.0,
+                234.60000610351562
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://taylorandfraser.com/wp-content/uploads/2018/02/pattern.png"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                1403.699951171875
+            ],
+            [
+                1920.0,
+                1758.2666015625
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://taylorandfraser.com/wp-content/uploads/2018/02/footer-pattern.png"
+    }
+]

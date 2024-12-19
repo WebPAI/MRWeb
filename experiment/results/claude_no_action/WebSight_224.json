@@ -1,0 +1,96 @@
+[
+    {
+        "position": [
+            [
+                32.0,
+                317.5
+            ],
+            [
+                74.89999389648438,
+                338.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                103.28334045410156,
+                317.5
+            ],
+            [
+                159.11666870117188,
+                338.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Courses",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                187.5,
+                317.5
+            ],
+            [
+                260.78334045410156,
+                338.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Admission",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                289.16668701171875,
+                317.5
+            ],
+            [
+                364.86668395996094,
+                338.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            255,
+            255,
+            255
+        ],
+        "text": "Newsletter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                0.0
+            ],
+            [
+                1920.0,
+                192.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/pencils.jpg"
+    }
+]

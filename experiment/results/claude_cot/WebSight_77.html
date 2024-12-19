@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Image Layout</title>
+</head>
+<body class="min-h-screen">
+    <div class="relative w-full min-h-screen">
+        <!-- Orange background at the top -->
+        <div class="absolute top-0 left-0 right-0 h-[250px] bg-orange-400"></div>
+        
+        <!-- Red background at the bottom -->
+        <div class="absolute top-[250px] left-0 right-0 bottom-0 bg-red-500"></div>
+        
+        <!-- Container for images -->
+        <div class="relative container mx-auto">
+            <!-- Right image -->
+            <div class="absolute right-0 top-[154.7px]">
+                <img 
+                    src="https://images.unsplash.com/photo-1458644267420-66bc8a5f21e4?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NDR8&ixlib=rb-4.0.3&w=800&h=600"
+                    alt="Right image"
+                    class="w-[960px] h-[537.6px] object-cover"
+                >
+            </div>
+            
+            <!-- Left image -->
+            <div class="absolute left-0 top-[251.73px]">
+                <img 
+                    src="https://images.unsplash.com/photo-1716798781278-6efc6c432ce3?ixid=M3w2MzcxMjZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MjQxNjg2NDR8&ixlib=rb-4.0.3&w=100&h=50"
+                    alt="Left image"
+                    class="w-[480px] h-[727.27px] object-cover"
+                >
+            </div>
+        </div>
+    </div>
+</body>
+</html>

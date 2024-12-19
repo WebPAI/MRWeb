@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                224.0,
+                272.0
+            ],
+            [
+                267.1166687011719,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            147,
+            51,
+            234
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                283.1166687011719,
+                272.0
+            ],
+            [
+                326.75,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            147,
+            51,
+            234
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                342.75,
+                272.0
+            ],
+            [
+                400.3500061035156,
+                296.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            147,
+            51,
+            234
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                896.0,
+                64.0
+            ],
+            [
+                1024.0,
+                192.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:////Users/tony/Desktop/multipage_new/experiment/results/gemini_no_action/food_image.jpg"
+    }
+]

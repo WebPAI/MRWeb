@@ -1,0 +1,224 @@
+[
+    {
+        "position": [
+            [
+                938.3333129882812,
+                260.5
+            ],
+            [
+                1103.3333129882812,
+                279.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "aloha@bluehorsekona.com",
+        "on_click_jump_to": "mailto:aloha@bluehorsekona.com"
+    },
+    {
+        "position": [
+            [
+                661.3333129882812,
+                444.0
+            ],
+            [
+                698.3333129882812,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Home",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                714.3333129882812,
+                444.0
+            ],
+            [
+                839.3333129882812,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Healthy Kona Coffee",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                855.3333129882812,
+                444.0
+            ],
+            [
+                919.3333129882812,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Economics",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                935.3333129882812,
+                444.0
+            ],
+            [
+                978.3333129882812,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Photos",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                994.3333129882812,
+                444.0
+            ],
+            [
+                1038.3333129882812,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "History",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1054.3333740234375,
+                444.0
+            ],
+            [
+                1152.3333740234375,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Coffee Handling",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1168.3333740234375,
+                444.0
+            ],
+            [
+                1235.3333740234375,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Comments",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1251.3333740234375,
+                444.0
+            ],
+            [
+                1316.3333740234375,
+                464.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            37,
+            99,
+            235
+        ],
+        "text": "Newsletter",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                464.0,
+                16.0
+            ],
+            [
+                592.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/blue-horse-logo.jpg"
+    },
+    {
+        "position": [
+            [
+                712.0,
+                16.0
+            ],
+            [
+                1456.0,
+                40.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/parade-image.jpg"
+    },
+    {
+        "position": [
+            [
+                681.7666625976562,
+                332.0
+            ],
+            [
+                873.7666625976562,
+                356.0
+            ]
+        ],
+        "type": "img",
+        "src": "file:///C:/Users/Tony/Desktop/multipage_new/experiment/results/claude_no_action/dark-roast.jpg"
+    }
+]

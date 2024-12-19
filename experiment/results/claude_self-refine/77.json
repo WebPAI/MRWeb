@@ -1,0 +1,300 @@
+[
+    {
+        "position": [
+            [
+                1471.7333984375,
+                29.5
+            ],
+            [
+                1514.6333923339844,
+                53.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://ptsail.org/"
+    },
+    {
+        "position": [
+            [
+                1538.63330078125,
+                29.5
+            ],
+            [
+                1586.066635131836,
+                53.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Racing",
+        "on_click_jump_to": "https://ptsail.org/racing-2/"
+    },
+    {
+        "position": [
+            [
+                1610.066650390625,
+                29.5
+            ],
+            [
+                1672.5166473388672,
+                53.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Calendar",
+        "on_click_jump_to": "https://ptsail.org/calendar/"
+    },
+    {
+        "position": [
+            [
+                1696.5166015625,
+                29.5
+            ],
+            [
+                1777.2332763671875,
+                53.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Join/Renew",
+        "on_click_jump_to": "https://ptsail.org/join-renew/"
+    },
+    {
+        "position": [
+            [
+                1801.2333984375,
+                29.5
+            ],
+            [
+                1844.800064086914,
+                53.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "About",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1868.800048828125,
+                29.5
+            ],
+            [
+                1904.0000457763672,
+                53.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            51,
+            51,
+            51
+        ],
+        "text": "Links",
+        "on_click_jump_to": "https://ptsail.org/links/"
+    },
+    {
+        "position": [
+            [
+                1759.4000244140625,
+                176.0
+            ],
+            [
+                1819.0666961669922,
+                200.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            34,
+            0,
+            204
+        ],
+        "text": "Previous",
+        "on_click_jump_to": "https://ptsail.org/2011/09/11/americas-cup-world-series-plymouth-race-2/"
+    },
+    {
+        "position": [
+            [
+                1854.9000244140625,
+                176.0
+            ],
+            [
+                1888.0000305175781,
+                200.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            34,
+            0,
+            204
+        ],
+        "text": "Next",
+        "on_click_jump_to": "https://ptsail.org/2011/09/15/fall-nightcap-series-starts-sunday-september-18th/"
+    },
+    {
+        "position": [
+            [
+                682.6666870117188,
+                516.0
+            ],
+            [
+                810.3500213623047,
+                548.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            102,
+            51
+        ],
+        "text": "race results",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                818.3499755859375,
+                516.0
+            ],
+            [
+                1051.066635131836,
+                548.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            153,
+            102,
+            51
+        ],
+        "text": "around our neighborhood",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                16.0,
+                8.0
+            ],
+            [
+                157.0,
+                83.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/uploads/2019/02/LogoCutout3-75px.png"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                280.0
+            ],
+            [
+                1888.0,
+                304.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/gallery/r-boats-2011-wbf/ace-downwind-port-townsend-2011.jpg"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                320.0
+            ],
+            [
+                1888.0,
+                344.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/gallery/r-boats-2011-wbf/ace-port-townsend-2011.jpg"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                360.0
+            ],
+            [
+                1888.0,
+                384.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/gallery/r-boats-2011-wbf/aloha-port-townsend-2011.jpg"
+    },
+    {
+        "position": [
+            [
+                32.0,
+                400.0
+            ],
+            [
+                1888.0,
+                424.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://ptsail.org/wp-content/gallery/r-boats-2011-wbf/r-boats-in-a-row-aloha-ace-and-lady-van-port-townsend-2011.jpg"
+    },
+    {
+        "position": [
+            [
+                682.6666870117188,
+                516.0
+            ],
+            [
+                810.3500213623047,
+                548.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://ptsail.org/wp-content/plugins/cool-tag-cloud/inc/images/default-left.png"
+    },
+    {
+        "position": [
+            [
+                818.3499755859375,
+                516.0
+            ],
+            [
+                1051.066635131836,
+                548.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://ptsail.org/wp-content/plugins/cool-tag-cloud/inc/images/default-left.png"
+    }
+]

@@ -1,0 +1,424 @@
+[
+    {
+        "position": [
+            [
+                1462.9166259765625,
+                30.0
+            ],
+            [
+                1565.9166259765625,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Partners sign-in",
+        "on_click_jump_to": "https://www.cambridgetrust.org/secure"
+    },
+    {
+        "position": [
+            [
+                1581.9166259765625,
+                30.0
+            ],
+            [
+                1711.9999542236328,
+                50.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "For current scholars",
+        "on_click_jump_to": "https://www.cambridgetrust.org/scholar-information"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                96.0
+            ],
+            [
+                333.3333282470703,
+                124.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About the Trust",
+        "on_click_jump_to": "https://www.cambridgetrust.org/about-the-trust"
+    },
+    {
+        "position": [
+            [
+                365.3333129882813,
+                96.0
+            ],
+            [
+                501.1999816894532,
+                124.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Our scholarships",
+        "on_click_jump_to": "https://www.cambridgetrust.org/our-scholarships"
+    },
+    {
+        "position": [
+            [
+                533.2000122070312,
+                96.0
+            ],
+            [
+                647.5333557128906,
+                124.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Impact stories",
+        "on_click_jump_to": "https://www.cambridgetrust.org/impact-stories"
+    },
+    {
+        "position": [
+            [
+                679.5333251953125,
+                96.0
+            ],
+            [
+                815.4333190917969,
+                124.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Our partnerships",
+        "on_click_jump_to": "https://www.cambridgetrust.org/our-partnerships"
+    },
+    {
+        "position": [
+            [
+                847.433349609375,
+                96.0
+            ],
+            [
+                936.2000122070312,
+                124.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Support us",
+        "on_click_jump_to": "https://www.cambridgetrust.org/support-us"
+    },
+    {
+        "position": [
+            [
+                968.2000122070312,
+                96.0
+            ],
+            [
+                1032.1333465576172,
+                124.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Contact",
+        "on_click_jump_to": "https://www.cambridgetrust.org/contact"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                148.0
+            ],
+            [
+                251.11666870117188,
+                172.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Home",
+        "on_click_jump_to": "https://www.cambridgetrust.org/"
+    },
+    {
+        "position": [
+            [
+                267.1166687011719,
+                148.0
+            ],
+            [
+                359.4499969482422,
+                172.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            55,
+            65,
+            81
+        ],
+        "text": "Our Partners",
+        "on_click_jump_to": "https://www.cambridgetrust.org/partners"
+    },
+    {
+        "position": [
+            [
+                391.7000122070313,
+                346.0
+            ],
+            [
+                670.5833435058594,
+                366.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "Departments, Colleges and associates",
+        "on_click_jump_to": "https://www.cam.ac.uk/colleges-and-departments?ucam-ref=home-menu"
+    },
+    {
+        "position": [
+            [
+                1028.050048828125,
+                394.0
+            ],
+            [
+                1104.733383178711,
+                414.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "contact us",
+        "on_click_jump_to": "mailto:development@cambridgetrust.admin.cam.ac.uk"
+    },
+    {
+        "position": [
+            [
+                1577.2833251953125,
+                560.0
+            ],
+            [
+                1687.999984741211,
+                608.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "View Scholarship",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1558.9666748046875,
+                624.0
+            ],
+            [
+                1688.000015258789,
+                648.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "View Partner details",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1577.2833251953125,
+                776.0
+            ],
+            [
+                1687.999984741211,
+                824.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "View Scholarship",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                1577.2833251953125,
+                952.0
+            ],
+            [
+                1687.999984741211,
+                1000.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            29,
+            78,
+            216
+        ],
+        "text": "View Scholarship",
+        "on_click_jump_to": "#"
+    },
+    {
+        "position": [
+            [
+                293.0333251953125,
+                1160.5
+            ],
+            [
+                338.3999786376953,
+                1175.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Cookies",
+        "on_click_jump_to": "https://www.cambridgetrust.org/cookies"
+    },
+    {
+        "position": [
+            [
+                349.7833251953125,
+                1160.5
+            ],
+            [
+                452.83331298828125,
+                1175.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Privacy Statement",
+        "on_click_jump_to": "https://www.cambridgetrust.org/privacy-statement"
+    },
+    {
+        "position": [
+            [
+                464.2166748046875,
+                1160.5
+            ],
+            [
+                584.8500213623047,
+                1175.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            75,
+            85,
+            99
+        ],
+        "text": "Website by Studio 24",
+        "on_click_jump_to": "https://www.studio24.net/"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                8.0
+            ],
+            [
+                316.03334045410156,
+                72.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.cambridgetrust.org/dist/images/ct_logo.jpg"
+    },
+    {
+        "position": [
+            [
+                208.0,
+                1104.0
+            ],
+            [
+                263.4499969482422,
+                1152.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.cambridgetrust.org/dist/images/logo@2x.png"
+    },
+    {
+        "position": [
+            [
+                1495.683349609375,
+                1116.0
+            ],
+            [
+                1712.000015258789,
+                1164.0
+            ]
+        ],
+        "type": "img",
+        "src": "https://www.cambridgetrust.org/dist/images/uoc_logo.svg"
+    }
+]

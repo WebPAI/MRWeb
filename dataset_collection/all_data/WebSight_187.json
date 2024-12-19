@@ -1,0 +1,76 @@
+[
+    {
+        "position": [
+            [
+                310.58331298828125,
+                28.0
+            ],
+            [
+                357.58331298828125,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Mission",
+        "on_click_jump_to": "http://www.knom.org/static/476/index.html"
+    },
+    {
+        "position": [
+            [
+                377.5833129882813,
+                28.0
+            ],
+            [
+                425.5833129882813,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Services",
+        "on_click_jump_to": "http://www.gondolagreg.com/2008/02/postcard-history-lesson-nantasket-beach.html"
+    },
+    {
+        "position": [
+            [
+                445.5833129882813,
+                28.0
+            ],
+            [
+                483.5833129882813,
+                48.0
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "About",
+        "on_click_jump_to": "https://www.sportspundit.com/baseball/players/"
+    },
+    {
+        "position": [
+            [
+                0.0,
+                76.0
+            ],
+            [
+                1920.0,
+                1071.0
+            ]
+        ],
+        "type": "background-image",
+        "src": "https://source.unsplash.com/random/1600x900/?nature"
+    }
+]

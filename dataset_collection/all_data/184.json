@@ -1,0 +1,442 @@
+[
+    {
+        "position": [
+            [
+                915.5999755859376,
+                192.5
+            ],
+            [
+                998.6499633789064,
+                216.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Ben Welsh",
+        "on_click_jump_to": "http://palewi.re/who-is-ben-welsh/"
+    },
+    {
+        "position": [
+            [
+                698.5,
+                319.5
+            ],
+            [
+                931.5833282470703,
+                343.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "The News Homepage Archive",
+        "on_click_jump_to": "https://archive.org/details/pastpages?sort=-publicdate"
+    },
+    {
+        "position": [
+            [
+                908.25,
+                377.5
+            ],
+            [
+                1036.0,
+                401.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Internet Archive",
+        "on_click_jump_to": "https://archive.org/details/pastpages?sort=-publicdate"
+    },
+    {
+        "position": [
+            [
+                698.5,
+                426.5
+            ],
+            [
+                813.1333312988281,
+                450.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Save My News",
+        "on_click_jump_to": "http://savemy.news/"
+    },
+    {
+        "position": [
+            [
+                698.5,
+                533.5
+            ],
+            [
+                814.6000061035156,
+                557.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "@OldLAPhotos",
+        "on_click_jump_to": "https://www.twitter.com/OldLAPhotos"
+    },
+    {
+        "position": [
+            [
+                684.683349609375,
+                669.5
+            ],
+            [
+                780.6666870117188,
+                693.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Storytracker",
+        "on_click_jump_to": "https://github.com/palewire/storytracker"
+    },
+    {
+        "position": [
+            [
+                791.75,
+                669.5
+            ],
+            [
+                982.1499938964844,
+                693.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Memento for Wordpress",
+        "on_click_jump_to": "http://pastpages.github.io/wordpress-memento-plugin/"
+    },
+    {
+        "position": [
+            [
+                993.2333374023438,
+                669.5
+            ],
+            [
+                1156.5166625976562,
+                693.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Memento for Django",
+        "on_click_jump_to": "http://django-memento-framework.readthedocs.io/en/latest/"
+    },
+    {
+        "position": [
+            [
+                684.683349609375,
+                698.5
+            ],
+            [
+                856.0666809082031,
+                722.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "django-urlarchivefield",
+        "on_click_jump_to": "https://github.com/pastpages/django-urlarchivefield"
+    },
+    {
+        "position": [
+            [
+                715.8333129882812,
+                776.5
+            ],
+            [
+                843.5833129882812,
+                800.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Internet Archive",
+        "on_click_jump_to": "https://github.com/pastpages/savepagenow"
+    },
+    {
+        "position": [
+            [
+                854.6666870117188,
+                776.5
+            ],
+            [
+                923.433349609375,
+                800.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "archiveis",
+        "on_click_jump_to": "https://github.com/pastpages/archive.is"
+    },
+    {
+        "position": [
+            [
+                964.13330078125,
+                776.5
+            ],
+            [
+                1029.566635131836,
+                800.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "WebCite",
+        "on_click_jump_to": "https://github.com/pastpages/webcitation"
+    },
+    {
+        "position": [
+            [
+                1019.2333374023438,
+                825.5
+            ],
+            [
+                1103.1499938964844,
+                849.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Kickstarter",
+        "on_click_jump_to": "https://web.archive.org/web/20180325233631/https://www.kickstarter.com/projects/651552740/keep-pastpages-alive?ref=live"
+    },
+    {
+        "position": [
+            [
+                924.9833374023438,
+                854.5
+            ],
+            [
+                1078.3666687011719,
+                878.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Library of Congress",
+        "on_click_jump_to": "https://web.archive.org/web/20180325233541/https://blogs.loc.gov/thesignal/2015/10/announcing-the-2015-innovation-award-winners/"
+    },
+    {
+        "position": [
+            [
+                727.25,
+                883.5
+            ],
+            [
+                787.4499969482422,
+                907.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Nieman",
+        "on_click_jump_to": "https://web.archive.org/web/20180325233030/http://www.niemanlab.org/2017/11/here-are-three-tools-that-help-digital-journalists-save-their-work-in-case-a-site-shuts-down/"
+    },
+    {
+        "position": [
+            [
+                793.0833129882812,
+                883.5
+            ],
+            [
+                911.5833129882812,
+                907.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Journalism Lab",
+        "on_click_jump_to": "https://web.archive.org/web/20180326000801/http://www.niemanlab.org/2014/11/storytracker-is-a-new-tool-to-track-how-news-homepages-change/"
+    },
+    {
+        "position": [
+            [
+                922.5333251953124,
+                883.5
+            ],
+            [
+                1107.5333251953125,
+                907.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "The Wall Street Journal",
+        "on_click_jump_to": "https://web.archive.org/web/20180326000737/https://blogs.wsj.com/digits/2012/05/08/la-times-developer-begins-archiving-newspaper-websites/"
+    },
+    {
+        "position": [
+            [
+                684.683349609375,
+                912.5
+            ],
+            [
+                817.1500091552734,
+                936.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "Journalism.co.uk",
+        "on_click_jump_to": "https://web.archive.org/web/20180326001100/https://www.journalism.co.uk/news/kickstarter-news-site-front-page-archive-ben-walsh/s2/a549412/"
+    },
+    {
+        "position": [
+            [
+                828.2333374023438,
+                912.5
+            ],
+            [
+                996.0666656494141,
+                936.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "The Poynter Institute",
+        "on_click_jump_to": "https://web.archive.org/web/20180325233203/https://www.poynter.org/news/after-watching-gothamist-and-dnainfo-disappear-journalist-built-tool-help-others-save-their"
+    },
+    {
+        "position": [
+            [
+                1007.1500244140624,
+                912.5
+            ],
+            [
+                1049.6000366210938,
+                936.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "L'Obs",
+        "on_click_jump_to": "https://web.archive.org/web/20211003164212/https://www.nouvelobs.com/les-internets/20120510.OBS5318/votre-portrait-en-carbonite-des-archives-de-pages-d-accueil-une-deepstaria-enigmatica.html"
+    },
+    {
+        "position": [
+            [
+                1090.300048828125,
+                912.5
+            ],
+            [
+                1139.7833862304688,
+                936.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "GOOD",
+        "on_click_jump_to": "https://web.archive.org/web/20211003164347/https://www.good.is/articles/5-kickstarter-projects-that-get-creative-with-high-tech"
+    },
+    {
+        "position": [
+            [
+                1065.4666748046875,
+                990.5
+            ],
+            [
+                1119.7833557128906,
+                1014.5
+            ]
+        ],
+        "type": "a",
+        "color": [
+            0,
+            0,
+            0
+        ],
+        "text": "GitHub",
+        "on_click_jump_to": "https://github.com/palewire"
+    }
+]
