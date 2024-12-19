@@ -4,7 +4,7 @@ This is the artifact for the paper "MRWeb: An Exploration of Generating Multi-Pa
 This repository contains:
 
 1. **Code implementation of MRWeb generation pipeline**, i.e., the Python script and instructions to run MRWeb to preprocess websites, and generate UI code from screenshots with resource lists. 
-2.  **MRWeb Dataset**. Our experiment data (both original and generated) is available in `/data`. 
+2.  **MRWeb Dataset**. Our experiment data (both original and generated) is available in `/dataset_collection/all_data`. 
 3. **Image Quality Assessment dataset**. The human annotated image pairs for image quality assessment is available upon request (yxwan9@cse.cuhk.edu.hk). 
 4. **A user-friendly tool based on MRWeb**.
 
