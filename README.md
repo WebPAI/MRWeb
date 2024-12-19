@@ -28,11 +28,11 @@ This video demonstrates how the MRWeb tool enables code-free development from UI
 
 Comparison of self-contained website and multi-page resource-aware web (MRWeb). MRWeb supports multi-page navigation, real-image loading and backend routing.
 
-![image-20241219171847068](C:\Users\Tony\Desktop\multipage_new\assets\comparison1.png)
+![image-20241219171847068](assets\comparison1.png)
 
 Adding resource lists can improve the visual similarity of a generated webpage across different MLLMs and metrics since resource lists enable MLLMs to include the exact images displayed on the webpage, thus enhancing the overall similarity. Without resource lists, MLLMs can only use placeholder images in the generated web code.
 
-![image-20241219171953522](C:\Users\Tony\Desktop\multipage_new\assets\comparison2.png)
+![image-20241219171953522](assets\comparison2.png)
 
 
 # Code usage
@@ -83,4 +83,4 @@ python app.py
    1. Upload an design image.
    2. draw bounding box on the image to indicate the element, specify corresponding resources on the right.
 
-   ![image-20241219181219420](C:\Users\Tony\Desktop\multipage_new\assets\tool.png)
+   ![image-20241219181219420](assets\tool.png)
