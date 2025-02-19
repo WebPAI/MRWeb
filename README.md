@@ -1,3 +1,5 @@
+# MRWeb: An Exploration of Generating Multi-Page Resource-Aware Web Code from UI Designs
+
 This is the artifact for the paper ["MRWeb: An Exploration of Generating Multi-Page Resource-Aware Web Code from UI Designs."](https://arxiv.org/abs/2412.15310) This artifact supplies the MRWeb toolkit and supplementary materials for the paper. 
 
 
