@@ -9,7 +9,7 @@ This repository contains:
 4. **A user-friendly tool based on MRWeb**.
 
 
-Quick links: [Demo video](#Demo-video) | [MRWeb Examples](#Examples) | [Code usage](#Code-usage) | [Tool usage](#MRWeb-tool) 
+Quick links: :tv:[Demo video](#Demo-video) | :pencil:[MRWeb Examples](#Examples) | :computer:[Code usage](#Code-usage) | :hammer:[Tool usage](#MRWeb-tool) 
 
 
 # Abstract
