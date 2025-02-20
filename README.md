@@ -10,7 +10,6 @@ This repository contains:
 3. **Image Quality Assessment dataset**. The human annotated image pairs for image quality assessment is available upon request. [Email](mailto:yxwan9@cse.cuhk.edu.hk). 
 4. **A user-friendly tool based on MRWeb**.
 
-
 Quick links: :tv:[Demo video](#Demo-video) | :pencil:[MRWeb Examples](#Examples) | :computer:[Code usage](#Code-usage) | :hammer:[Tool usage](#MRWeb-tool) 
 
 
